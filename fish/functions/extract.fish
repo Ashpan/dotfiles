@@ -20,6 +20,8 @@ function extract -d 'unarchive any file type to its own directory'
         gunzip $f
       case '*.tar'
         tar xvf $f
+      case '*.tar.xz'
+	tar xf $f
       case '*.tbz2'
         tar xvjf $f
       case '*.tgz'
