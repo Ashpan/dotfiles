@@ -1,0 +1,2 @@
+Asus: ddccontrol -r 0x60 -w 17 dev:/dev/i2c-9 (1 for Laptop, 17 for PC)
+Acer: ddccontrol -r 0x60 -w 15 dev:/dev/i2c-8 (17 for Laptop, 15 for PC)

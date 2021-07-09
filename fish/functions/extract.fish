@@ -21,7 +21,7 @@ function extract -d 'unarchive any file type to its own directory'
       case '*.tar'
         tar xvf $f
       case '*.tar.xz'
-	tar xf $f
+	      tar xf $f
       case '*.tbz2'
         tar xvjf $f
       case '*.tgz'
