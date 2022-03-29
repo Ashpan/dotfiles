@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>jdt.ls-java-project</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>src/org/wildfly/security/mechanism/ScramServerErrorCode.java</name>
+			<type>1</type>
+			<location>/home/ashpan/workspace/elytron/mechanism/base/src/main/java/org/wildfly/security/mechanism/ScramServerErrorCode.java</location>
+		</link>
+		<link>
+			<name>src/org/wildfly/security/ssl/ElytronMessages.java</name>
+			<type>1</type>
+			<location>//home/ashpan/workspace/elytron/ssl/src/main/java/org/wildfly/security/ssl/ElytronMessages.java</location>
+		</link>
+	</linkedResources>
+</projectDescription>

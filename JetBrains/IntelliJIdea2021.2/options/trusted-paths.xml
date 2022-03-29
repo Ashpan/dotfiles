@@ -1,0 +1,13 @@
+<application>
+  <component name="Trusted.Paths.Settings">
+    <option name="TRUSTED_PATHS">
+      <list>
+        <option value="$USER_HOME$/HDD/Documents/Drive/Current/Programming/workspace" />
+        <option value="$USER_HOME$/Documents/Drive/Current/Programming/workspace" />
+        <option value="$USER_HOME$/workspace" />
+        <option value="$USER_HOME$/wildfly-elytron" />
+        <option value="$USER_HOME$/tmp/wildfly/testsuite/integration" />
+      </list>
+    </option>
+  </component>
+</application>

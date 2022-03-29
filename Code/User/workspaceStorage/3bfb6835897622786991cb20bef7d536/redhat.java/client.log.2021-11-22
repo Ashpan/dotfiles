@@ -1,0 +1,392 @@
+{
+  message: 'Starting Java server with: /usr/lib/jvm/jre-11-openjdk-11.0.13.0.8-2.fc34.x86_64/bin/java --add-modules=ALL-SYSTEM --add-opens java.base/java.util=ALL-UNNAMED --add-opens java.base/java.lang=ALL-UNNAMED -Declipse.application=org.eclipse.jdt.ls.core.id1 -Dosgi.bundles.defaultStartLevel=4 -Declipse.product=org.eclipse.jdt.ls.core.product -Dfile.encoding=utf8 -XX:+UseParallelGC -XX:GCTimeRatio=4 -XX:AdaptiveSizePolicyWeight=90 -Dsun.zip.disableMemoryMapping=true -Xmx1G -Xms100m -noverify -jar /home/ashpan/.vscode/extensions/redhat.java-1.0.0/server/plugins/org.eclipse.equinox.launcher_1.6.400.v20210924-0641.jar -configuration /home/ashpan/.config/Code/User/globalStorage/redhat.java/1.0.0/config_ss_linux -data /home/ashpan/.config/Code/User/workspaceStorage/3bfb6835897622786991cb20bef7d536/redhat.java/ss_ws',
+  level: 'info',
+  timestamp: '2021-11-22 16:44:58.149'
+}
+{
+  message: 'Starting Java server with: /usr/lib/jvm/jre-11-openjdk-11.0.13.0.8-2.fc34.x86_64/bin/java --add-modules=ALL-SYSTEM --add-opens java.base/java.util=ALL-UNNAMED --add-opens java.base/java.lang=ALL-UNNAMED -Declipse.application=org.eclipse.jdt.ls.core.id1 -Dosgi.bundles.defaultStartLevel=4 -Declipse.product=org.eclipse.jdt.ls.core.product -Dfile.encoding=utf8 -XX:+UseParallelGC -XX:GCTimeRatio=4 -XX:AdaptiveSizePolicyWeight=90 -Dsun.zip.disableMemoryMapping=true -Xmx1G -Xms100m -noverify -jar /home/ashpan/.vscode/extensions/redhat.java-1.0.0/server/plugins/org.eclipse.equinox.launcher_1.6.400.v20210924-0641.jar -configuration /home/ashpan/.config/Code/User/globalStorage/redhat.java/1.0.0/config_linux -data /home/ashpan/.config/Code/User/workspaceStorage/3bfb6835897622786991cb20bef7d536/redhat.java/jdt_ws',
+  level: 'info',
+  timestamp: '2021-11-22 16:44:58.234'
+}
+{
+  message: '[Error - 4:57:48 p.m.] Nov. 22, 2021, 4:57:48 p.m. An internal error occurred during: "Initialize workspace".\n' +
+    'Java heap space\n' +
+    'java.lang.OutOfMemoryError: Java heap space\n',
+  level: 'info',
+  timestamp: '2021-11-22 16:57:48.835'
+}
+{
+  message: '[Error - 4:58:03 p.m.] Nov. 22, 2021, 4:58:03 p.m. Background Indexer Crash Recovery\n' +
+    'Java heap space\n' +
+    'java.lang.OutOfMemoryError: Java heap space\n',
+  level: 'info',
+  timestamp: '2021-11-22 16:58:03.294'
+}
+{
+  message: '[Error - 4:59:47 p.m.] Nov. 22, 2021, 4:59:47 p.m. LockManager.handleException\n' +
+    'null\n' +
+    'java.lang.Exception\n' +
+    '\tat org.eclipse.core.internal.jobs.LockManager.createDebugException(LockManager.java:175)\n' +
+    '\tat org.eclipse.core.internal.jobs.LockManager.removeLockWaitThread(LockManager.java:295)\n' +
+    '\tat org.eclipse.core.internal.jobs.ThreadJob.waitForRun(ThreadJob.java:338)\n' +
+    '\tat org.eclipse.core.internal.jobs.ThreadJob.joinRun(ThreadJob.java:207)\n' +
+    '\tat org.eclipse.core.internal.jobs.ImplicitJobs.begin(ImplicitJobs.java:95)\n' +
+    '\tat org.eclipse.core.internal.jobs.JobManager.beginRule(JobManager.java:311)\n' +
+    '\tat org.eclipse.core.internal.resources.WorkManager.checkIn(WorkManager.java:124)\n' +
+    '\tat org.eclipse.core.internal.resources.Workspace.prepareOperation(Workspace.java:2263)\n' +
+    '\tat org.eclipse.core.internal.resources.Container.setDefaultCharset(Container.java:342)\n' +
+    '\tat org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.updateProjectConfiguration(ProjectConfigurationManager.java:504)\n' +
+    '\tat org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.updateProjectConfiguration0(ProjectConfigurationManager.java:447)\n' +
+    '\tat org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.lambda$1(ProjectConfigurationManager.java:362)\n' +
+    '\tat org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:182)\n' +
+    '\tat org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:156)\n' +
+    '\tat org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:103)\n' +
+    '\tat org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1411)\n' +
+    '\tat org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.updateProjectConfiguration(ProjectConfigurationManager.java:361)\n' +
+    '\tat org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.updateProjectConfiguration(ProjectConfigurationManager.java:347)\n' +
+    '\tat org.eclipse.jdt.ls.core.internal.managers.MavenBuildSupport.update(MavenBuildSupport.java:87)\n' +
+    '\tat org.eclipse.jdt.ls.core.internal.managers.ProjectsManager$3.runInWorkspace(ProjectsManager.java:377)\n' +
+    '\tat org.eclipse.core.internal.resources.InternalWorkspaceJob.run(InternalWorkspaceJob.java:42)\n' +
+    '\tat org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)\n' +
+    'Caused by: java.lang.ArrayIndexOutOfBoundsException: Index 66 out of bounds for length 66\n' +
+    '\tat org.eclipse.core.internal.jobs.DeadlockDetector.reduceGraph(DeadlockDetector.java:591)\n' +
+    '\tat org.eclipse.core.internal.jobs.DeadlockDetector.lockWaitStop(DeadlockDetector.java:445)\n' +
+    '\tat org.eclipse.core.internal.jobs.LockManager.removeLockWaitThread(LockManager.java:293)\n' +
+    '\t... 20 more\n',
+  level: 'info',
+  timestamp: '2021-11-22 16:59:47.801'
+}
+{
+  message: '[Error - 4:59:47 p.m.] Nov. 22, 2021, 4:59:47 p.m. LockManager.handleException\n' +
+    'null\n' +
+    'java.lang.Exception\n' +
+    '\tat org.eclipse.core.internal.jobs.LockManager.createDebugException(LockManager.java:175)\n' +
+    '\tat org.eclipse.core.internal.jobs.LockManager.removeLockWaitThread(LockManager.java:295)\n' +
+    '\tat org.eclipse.core.internal.jobs.ThreadJob.waitForRun(ThreadJob.java:338)\n' +
+    '\tat org.eclipse.core.internal.jobs.ThreadJob.joinRun(ThreadJob.java:207)\n' +
+    '\tat org.eclipse.core.internal.jobs.ImplicitJobs.begin(ImplicitJobs.java:95)\n' +
+    '\tat org.eclipse.core.internal.jobs.JobManager.beginRule(JobManager.java:311)\n' +
+    '\tat org.eclipse.core.internal.resources.WorkManager.checkIn(WorkManager.java:124)\n' +
+    '\tat org.eclipse.core.internal.resources.Workspace.prepareOperation(Workspace.java:2263)\n' +
+    '\tat org.eclipse.core.internal.resources.Resource.refreshLocal(Resource.java:1554)\n' +
+    '\tat org.eclipse.jdt.ls.core.internal.managers.ProjectsManager$3.runInWorkspace(ProjectsManager.java:374)\n' +
+    '\tat org.eclipse.core.internal.resources.InternalWorkspaceJob.run(InternalWorkspaceJob.java:42)\n' +
+    '\tat org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)\n' +
+    'Caused by: java.lang.ArrayIndexOutOfBoundsException: Index 65 out of bounds for length 65\n' +
+    '\tat org.eclipse.core.internal.jobs.DeadlockDetector.reduceGraph(DeadlockDetector.java:591)\n' +
+    '\tat org.eclipse.core.internal.jobs.DeadlockDetector.lockWaitStop(DeadlockDetector.java:445)\n' +
+    '\tat org.eclipse.core.internal.jobs.LockManager.removeLockWaitThread(LockManager.java:293)\n' +
+    '\t... 10 more\n',
+  level: 'info',
+  timestamp: '2021-11-22 16:59:47.802'
+}
+{
+  message: '[Error - 4:59:47 p.m.] Nov. 22, 2021, 4:59:47 p.m. LockManager.handleException\n' +
+    'null\n' +
+    'java.lang.Exception\n' +
+    '\tat org.eclipse.core.internal.jobs.LockManager.createDebugException(LockManager.java:175)\n' +
+    '\tat org.eclipse.core.internal.jobs.LockManager.removeLockWaitThread(LockManager.java:295)\n' +
+    '\tat org.eclipse.core.internal.jobs.ThreadJob.waitForRun(ThreadJob.java:338)\n' +
+    '\tat org.eclipse.core.internal.jobs.ThreadJob.joinRun(ThreadJob.java:207)\n' +
+    '\tat org.eclipse.core.internal.jobs.ImplicitJobs.begin(ImplicitJobs.java:95)\n' +
+    '\tat org.eclipse.core.internal.jobs.JobManager.beginRule(JobManager.java:311)\n' +
+    '\tat org.eclipse.core.internal.resources.WorkManager.checkIn(WorkManager.java:124)\n' +
+    '\tat org.eclipse.core.internal.resources.Workspace.prepareOperation(Workspace.java:2263)\n' +
+    '\tat org.eclipse.core.internal.resources.Resource.refreshLocal(Resource.java:1554)\n' +
+    '\tat org.eclipse.jdt.ls.core.internal.managers.ProjectsManager$3.runInWorkspace(ProjectsManager.java:374)\n' +
+    '\tat org.eclipse.core.internal.resources.InternalWorkspaceJob.run(InternalWorkspaceJob.java:42)\n' +
+    '\tat org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)\n' +
+    'Caused by: java.lang.ArrayIndexOutOfBoundsException: Index 64 out of bounds for length 64\n' +
+    '\tat org.eclipse.core.internal.jobs.DeadlockDetector.reduceGraph(DeadlockDetector.java:591)\n' +
+    '\tat org.eclipse.core.internal.jobs.DeadlockDetector.lockWaitStop(DeadlockDetector.java:445)\n' +
+    '\tat org.eclipse.core.internal.jobs.LockManager.removeLockWaitThread(LockManager.java:293)\n' +
+    '\t... 10 more\n',
+  level: 'info',
+  timestamp: '2021-11-22 16:59:47.802'
+}
+{
+  message: '[Error - 4:59:47 p.m.] Nov. 22, 2021, 4:59:47 p.m. LockManager.handleException\n' +
+    'null\n' +
+    'java.lang.Exception\n' +
+    '\tat org.eclipse.core.internal.jobs.LockManager.createDebugException(LockManager.java:175)\n' +
+    '\tat org.eclipse.core.internal.jobs.LockManager.addLockWaitThread(LockManager.java:149)\n' +
+    '\tat org.eclipse.core.internal.jobs.ThreadJob.waitForRun(ThreadJob.java:312)\n' +
+    '\tat org.eclipse.core.internal.jobs.ThreadJob.joinRun(ThreadJob.java:207)\n' +
+    '\tat org.eclipse.core.internal.jobs.ImplicitJobs.begin(ImplicitJobs.java:95)\n' +
+    '\tat org.eclipse.core.internal.jobs.JobManager.beginRule(JobManager.java:311)\n' +
+    '\tat org.eclipse.core.internal.resources.WorkManager.checkIn(WorkManager.java:124)\n' +
+    '\tat org.eclipse.core.internal.resources.Workspace.prepareOperation(Workspace.java:2263)\n' +
+    '\tat org.eclipse.core.internal.resources.Project.touch(Project.java:1321)\n' +
+    '\tat org.eclipse.jdt.internal.core.SetContainerOperation.executeOperation(SetContainerOperation.java:122)\n' +
+    '\tat org.eclipse.jdt.internal.core.JavaModelOperation.run(JavaModelOperation.java:740)\n' +
+    '\tat org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2313)\n' +
+    '\tat org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2338)\n' +
+    '\tat org.eclipse.jdt.internal.core.JavaModelOperation.runOperation(JavaModelOperation.java:811)\n' +
+    '\tat org.eclipse.jdt.core.JavaCore.setClasspathContainer(JavaCore.java:5993)\n' +
+    '\tat org.eclipse.jdt.internal.launching.JREContainerInitializer.initialize(JREContainerInitializer.java:114)\n' +
+    '\tat org.eclipse.jdt.internal.launching.LaunchingPlugin$VMChanges.rebind(LaunchingPlugin.java:381)\n' +
+    '\tat org.eclipse.jdt.internal.launching.LaunchingPlugin$VMChanges$1.run(LaunchingPlugin.java:301)\n' +
+    '\tat org.eclipse.jdt.internal.core.BatchOperation.executeOperation(BatchOperation.java:41)\n' +
+    '\tat org.eclipse.jdt.internal.core.JavaModelOperation.run(JavaModelOperation.java:740)\n' +
+    '\tat org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2313)\n' +
+    '\tat org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2338)\n' +
+    '\tat org.eclipse.jdt.core.JavaCore.run(JavaCore.java:5923)\n' +
+    '\tat org.eclipse.jdt.internal.launching.LaunchingPlugin$VMChanges.doit(LaunchingPlugin.java:305)\n' +
+    '\tat org.eclipse.jdt.internal.launching.LaunchingPlugin$JREUpdateJob.run(LaunchingPlugin.java:402)\n' +
+    '\tat org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)\n' +
+    'Caused by: java.lang.ArrayIndexOutOfBoundsException: Index 65 out of bounds for length 65\n' +
+    '\tat org.eclipse.core.internal.jobs.DeadlockDetector.resizeGraph(DeadlockDetector.java:641)\n' +
+    '\tat org.eclipse.core.internal.jobs.DeadlockDetector.setToWait(DeadlockDetector.java:681)\n' +
+    '\tat org.eclipse.core.internal.jobs.DeadlockDetector.lockWaitStart(DeadlockDetector.java:396)\n' +
+    '\tat org.eclipse.core.internal.jobs.LockManager.addLockWaitThread(LockManager.java:147)\n' +
+    '\t... 24 more\n',
+  level: 'info',
+  timestamp: '2021-11-22 16:59:47.803'
+}
+{
+  message: '[Error - 4:59:47 p.m.] Nov. 22, 2021, 4:59:47 p.m. LockManager.handleException\n' +
+    'null\n' +
+    'java.lang.Exception\n' +
+    '\tat org.eclipse.core.internal.jobs.LockManager.createDebugException(LockManager.java:175)\n' +
+    '\tat org.eclipse.core.internal.jobs.LockManager.removeLockWaitThread(LockManager.java:295)\n' +
+    '\tat org.eclipse.core.internal.jobs.ThreadJob.waitForRun(ThreadJob.java:338)\n' +
+    '\tat org.eclipse.core.internal.jobs.ThreadJob.joinRun(ThreadJob.java:207)\n' +
+    '\tat org.eclipse.core.internal.jobs.ImplicitJobs.begin(ImplicitJobs.java:95)\n' +
+    '\tat org.eclipse.core.internal.jobs.JobManager.beginRule(JobManager.java:311)\n' +
+    '\tat org.eclipse.core.internal.resources.WorkManager.checkIn(WorkManager.java:124)\n' +
+    '\tat org.eclipse.core.internal.resources.Workspace.prepareOperation(Workspace.java:2263)\n' +
+    '\tat org.eclipse.core.internal.resources.Container.setDefaultCharset(Container.java:342)\n' +
+    '\tat org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.updateProjectConfiguration(ProjectConfigurationManager.java:504)\n' +
+    '\tat org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.updateProjectConfiguration0(ProjectConfigurationManager.java:447)\n' +
+    '\tat org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.lambda$1(ProjectConfigurationManager.java:362)\n' +
+    '\tat org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:182)\n' +
+    '\tat org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:156)\n' +
+    '\tat org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:103)\n' +
+    '\tat org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1411)\n' +
+    '\tat org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.updateProjectConfiguration(ProjectConfigurationManager.java:361)\n' +
+    '\tat org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.updateProjectConfiguration(ProjectConfigurationManager.java:347)\n' +
+    '\tat org.eclipse.jdt.ls.core.internal.managers.MavenBuildSupport.update(MavenBuildSupport.java:87)\n' +
+    '\tat org.eclipse.jdt.ls.core.internal.managers.ProjectsManager$3.runInWorkspace(ProjectsManager.java:377)\n' +
+    '\tat org.eclipse.core.internal.resources.InternalWorkspaceJob.run(InternalWorkspaceJob.java:42)\n' +
+    '\tat org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)\n' +
+    'Caused by: java.lang.ArrayIndexOutOfBoundsException: Index 64 out of bounds for length 64\n' +
+    '\tat org.eclipse.core.internal.jobs.DeadlockDetector.reduceGraph(DeadlockDetector.java:591)\n' +
+    '\tat org.eclipse.core.internal.jobs.DeadlockDetector.lockWaitStop(DeadlockDetector.java:445)\n' +
+    '\tat org.eclipse.core.internal.jobs.LockManager.removeLockWaitThread(LockManager.java:293)\n' +
+    '\t... 20 more\n',
+  level: 'info',
+  timestamp: '2021-11-22 16:59:47.803'
+}
+{
+  message: '[Error - 4:59:47 p.m.] Nov. 22, 2021, 4:59:47 p.m. LockManager.handleException\n' +
+    'null\n' +
+    'java.lang.Exception\n' +
+    '\tat org.eclipse.core.internal.jobs.LockManager.createDebugException(LockManager.java:175)\n' +
+    '\tat org.eclipse.core.internal.jobs.LockManager.addLockWaitThread(LockManager.java:149)\n' +
+    '\tat org.eclipse.core.internal.jobs.ThreadJob.waitForRun(ThreadJob.java:312)\n' +
+    '\tat org.eclipse.core.internal.jobs.ThreadJob.joinRun(ThreadJob.java:207)\n' +
+    '\tat org.eclipse.core.internal.jobs.ImplicitJobs.begin(ImplicitJobs.java:95)\n' +
+    '\tat org.eclipse.core.internal.jobs.JobManager.beginRule(JobManager.java:311)\n' +
+    '\tat org.eclipse.core.internal.resources.WorkManager.checkIn(WorkManager.java:124)\n' +
+    '\tat org.eclipse.core.internal.resources.Workspace.prepareOperation(Workspace.java:2263)\n' +
+    '\tat org.eclipse.core.internal.resources.Resource.refreshLocal(Resource.java:1554)\n' +
+    '\tat org.eclipse.m2e.jdt.internal.AbstractJavaProjectConfigurator.addSourceDirs(AbstractJavaProjectConfigurator.java:421)\n' +
+    '\tat org.eclipse.m2e.jdt.internal.AbstractJavaProjectConfigurator.addProjectSourceFolders(AbstractJavaProjectConfigurator.java:355)\n' +
+    '\tat org.eclipse.m2e.jdt.internal.AbstractJavaProjectConfigurator.configure(AbstractJavaProjectConfigurator.java:157)\n' +
+    '\tat org.eclipse.m2e.core.project.configurator.AbstractLifecycleMapping.configure(AbstractLifecycleMapping.java:124)\n' +
+    '\tat org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.lambda$2(ProjectConfigurationManager.java:515)\n' +
+    '\tat org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:182)\n' +
+    '\tat org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:156)\n' +
+    '\tat org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.updateProjectConfiguration(ProjectConfigurationManager.java:509)\n' +
+    '\tat org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.updateProjectConfiguration0(ProjectConfigurationManager.java:447)\n' +
+    '\tat org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.lambda$1(ProjectConfigurationManager.java:362)\n' +
+    '\tat org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:182)\n' +
+    '\tat org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:156)\n' +
+    '\tat org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:103)\n' +
+    '\tat org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1411)\n' +
+    '\tat org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.updateProjectConfiguration(ProjectConfigurationManager.java:361)\n' +
+    '\tat org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.updateProjectConfiguration(ProjectConfigurationManager.java:347)\n' +
+    '\tat org.eclipse.jdt.ls.core.internal.managers.MavenBuildSupport.update(MavenBuildSupport.java:87)\n' +
+    '\tat org.eclipse.jdt.ls.core.internal.managers.ProjectsManager$3.runInWorkspace(ProjectsManager.java:377)\n' +
+    '\tat org.eclipse.core.internal.resources.InternalWorkspaceJob.run(InternalWorkspaceJob.java:42)\n' +
+    '\tat org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)\n' +
+    'Caused by: java.lang.ArrayIndexOutOfBoundsException: Index 65 out of bounds for length 65\n' +
+    '\tat org.eclipse.core.internal.jobs.DeadlockDetector.resizeGraph(DeadlockDetector.java:641)\n' +
+    '\tat org.eclipse.core.internal.jobs.DeadlockDetector.setToWait(DeadlockDetector.java:681)\n' +
+    '\tat org.eclipse.core.internal.jobs.DeadlockDetector.lockWaitStart(DeadlockDetector.java:396)\n' +
+    '\tat org.eclipse.core.internal.jobs.LockManager.addLockWaitThread(LockManager.java:147)\n' +
+    '\t... 27 more\n',
+  level: 'info',
+  timestamp: '2021-11-22 16:59:47.973'
+}
+{
+  message: '[Error - 4:59:47 p.m.] Nov. 22, 2021, 4:59:47 p.m. LockManager.handleException\n' +
+    'null\n' +
+    'java.lang.Exception\n' +
+    '\tat org.eclipse.core.internal.jobs.LockManager.createDebugException(LockManager.java:175)\n' +
+    '\tat org.eclipse.core.internal.jobs.LockManager.addLockWaitThread(LockManager.java:149)\n' +
+    '\tat org.eclipse.core.internal.jobs.ThreadJob.waitForRun(ThreadJob.java:312)\n' +
+    '\tat org.eclipse.core.internal.jobs.ThreadJob.joinRun(ThreadJob.java:207)\n' +
+    '\tat org.eclipse.core.internal.jobs.ImplicitJobs.begin(ImplicitJobs.java:95)\n' +
+    '\tat org.eclipse.core.internal.jobs.JobManager.beginRule(JobManager.java:311)\n' +
+    '\tat org.eclipse.core.internal.resources.WorkManager.checkIn(WorkManager.java:124)\n' +
+    '\tat org.eclipse.core.internal.resources.Workspace.prepareOperation(Workspace.java:2263)\n' +
+    '\tat org.eclipse.core.internal.resources.Project.touch(Project.java:1321)\n' +
+    '\tat org.eclipse.jdt.internal.core.SetContainerOperation.executeOperation(SetContainerOperation.java:122)\n' +
+    '\tat org.eclipse.jdt.internal.core.JavaModelOperation.run(JavaModelOperation.java:740)\n' +
+    '\tat org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2313)\n' +
+    '\tat org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2338)\n' +
+    '\tat org.eclipse.jdt.internal.core.JavaModelOperation.runOperation(JavaModelOperation.java:811)\n' +
+    '\tat org.eclipse.jdt.core.JavaCore.setClasspathContainer(JavaCore.java:5993)\n' +
+    '\tat org.eclipse.jdt.internal.launching.JREContainerInitializer.initialize(JREContainerInitializer.java:114)\n' +
+    '\tat org.eclipse.jdt.internal.launching.LaunchingPlugin$VMChanges.rebind(LaunchingPlugin.java:381)\n' +
+    '\tat org.eclipse.jdt.internal.launching.LaunchingPlugin$VMChanges$1.run(LaunchingPlugin.java:301)\n' +
+    '\tat org.eclipse.jdt.internal.core.BatchOperation.executeOperation(BatchOperation.java:41)\n' +
+    '\tat org.eclipse.jdt.internal.core.JavaModelOperation.run(JavaModelOperation.java:740)\n' +
+    '\tat org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2313)\n' +
+    '\tat org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2338)\n' +
+    '\tat org.eclipse.jdt.core.JavaCore.run(JavaCore.java:5923)\n' +
+    '\tat org.eclipse.jdt.internal.launching.LaunchingPlugin$VMChanges.doit(LaunchingPlugin.java:305)\n' +
+    '\tat org.eclipse.jdt.internal.launching.LaunchingPlugin$JREUpdateJob.run(LaunchingPlugin.java:402)\n' +
+    '\tat org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)\n' +
+    'Caused by: java.lang.ArrayIndexOutOfBoundsException: Index 66 out of bounds for length 66\n' +
+    '\tat org.eclipse.core.internal.jobs.DeadlockDetector.resizeGraph(DeadlockDetector.java:641)\n' +
+    '\tat org.eclipse.core.internal.jobs.DeadlockDetector.setToWait(DeadlockDetector.java:681)\n' +
+    '\tat org.eclipse.core.internal.jobs.DeadlockDetector.lockWaitStart(DeadlockDetector.java:396)\n' +
+    '\tat org.eclipse.core.internal.jobs.LockManager.addLockWaitThread(LockManager.java:147)\n' +
+    '\t... 24 more\n',
+  level: 'info',
+  timestamp: '2021-11-22 16:59:47.974'
+}
+{
+  message: '[Error - 4:59:47 p.m.] Nov. 22, 2021, 4:59:47 p.m. An internal error occurred during: "Update project wildfly-discovery".\n' +
+    'Java heap space\n' +
+    'java.lang.OutOfMemoryError: Java heap space\n',
+  level: 'info',
+  timestamp: '2021-11-22 16:59:47.975'
+}
+{
+  message: '[Error - 4:59:47 p.m.] Nov. 22, 2021, 4:59:47 p.m. An internal error occurred during: "Update project wildfly-subsystem-test-parent".\n' +
+    'Java heap space\n' +
+    'java.lang.OutOfMemoryError: Java heap space\n',
+  level: 'info',
+  timestamp: '2021-11-22 16:59:47.975'
+}
+{
+  message: '[Error - 4:59:47 p.m.] Nov. 22, 2021, 4:59:47 p.m. An internal error occurred during: "Update project wildfly-deployment-repository".\n' +
+    'Java heap space\n' +
+    'java.lang.OutOfMemoryError: Java heap space\n',
+  level: 'info',
+  timestamp: '2021-11-22 16:59:47.975'
+}
+{
+  message: '[Error - 4:59:47 p.m.] Nov. 22, 2021, 4:59:47 p.m. An internal error occurred during: "Update project wildfly-remoting".\n' +
+    'Java heap space\n' +
+    'java.lang.OutOfMemoryError: Java heap space\n',
+  level: 'info',
+  timestamp: '2021-11-22 16:59:47.975'
+}
+{
+  message: '[Error - 4:59:48 p.m.] Nov. 22, 2021, 4:59:48 p.m. An internal error occurred during: "Update project wildfly-remoting-parent".\n' +
+    'Java heap space\n' +
+    'java.lang.OutOfMemoryError: Java heap space\n',
+  level: 'info',
+  timestamp: '2021-11-22 16:59:48.308'
+}
+{
+  message: '[Error - 4:59:48 p.m.] Nov. 22, 2021, 4:59:48 p.m. An internal error occurred during: "Update project wildfly-core-ts-patching".\n' +
+    'Java heap space\n' +
+    'java.lang.OutOfMemoryError: Java heap space\n',
+  level: 'info',
+  timestamp: '2021-11-22 16:59:48.309'
+}
+{
+  message: '[Error - 4:59:48 p.m.] Nov. 22, 2021, 4:59:48 p.m. An internal error occurred during: "Update project wildfly-core-testsuite-rbac".\n' +
+    'Java heap space\n' +
+    'java.lang.OutOfMemoryError: Java heap space\n',
+  level: 'info',
+  timestamp: '2021-11-22 16:59:48.309'
+}
+{
+  message: '[Error - 4:59:48 p.m.] Nov. 22, 2021, 4:59:48 p.m. An internal error occurred during: "Update project wildfly-core-model-test".\n' +
+    'Java heap space\n' +
+    'java.lang.OutOfMemoryError: Java heap space\n',
+  level: 'info',
+  timestamp: '2021-11-22 16:59:48.309'
+}
+{
+  message: '[Error - 4:59:48 p.m.] Nov. 22, 2021, 4:59:48 p.m. An internal error occurred during: "Update project wildfly-domain-http-interface".\n' +
+    'Java heap space\n' +
+    'java.lang.OutOfMemoryError: Java heap space\n',
+  level: 'info',
+  timestamp: '2021-11-22 16:59:48.310'
+}
+{
+  message: '[Error - 4:59:48 p.m.] Nov. 22, 2021, 4:59:48 p.m. LockManager.handleException\n' +
+    'null\n' +
+    'java.lang.Exception\n' +
+    '\tat org.eclipse.core.internal.jobs.LockManager.createDebugException(LockManager.java:175)\n' +
+    '\tat org.eclipse.core.internal.jobs.LockManager.addLockWaitThread(LockManager.java:149)\n' +
+    '\tat org.eclipse.core.internal.jobs.ThreadJob.waitForRun(ThreadJob.java:312)\n' +
+    '\tat org.eclipse.core.internal.jobs.ThreadJob.joinRun(ThreadJob.java:207)\n' +
+    '\tat org.eclipse.core.internal.jobs.ImplicitJobs.begin(ImplicitJobs.java:95)\n' +
+    '\tat org.eclipse.core.internal.jobs.JobManager.beginRule(JobManager.java:311)\n' +
+    '\tat org.eclipse.core.internal.resources.WorkManager.checkIn(WorkManager.java:124)\n' +
+    '\tat org.eclipse.core.internal.resources.Workspace.prepareOperation(Workspace.java:2263)\n' +
+    '\tat org.eclipse.core.internal.resources.Folder.create(Folder.java:90)\n' +
+    '\tat org.eclipse.core.internal.resources.Folder.create(Folder.java:121)\n' +
+    '\tat org.eclipse.m2e.core.internal.M2EUtils.createFolder(M2EUtils.java:75)\n' +
+    '\tat org.eclipse.m2e.jdt.internal.AbstractJavaProjectConfigurator.addProjectSourceFolders(AbstractJavaProjectConfigurator.java:287)\n' +
+    '\tat org.eclipse.m2e.jdt.internal.AbstractJavaProjectConfigurator.configure(AbstractJavaProjectConfigurator.java:157)\n' +
+    '\tat org.eclipse.m2e.core.project.configurator.AbstractLifecycleMapping.configure(AbstractLifecycleMapping.java:124)\n' +
+    '\tat org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.lambda$2(ProjectConfigurationManager.java:515)\n' +
+    '\tat org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:182)\n' +
+    '\tat org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:156)\n' +
+    '\tat org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.updateProjectConfiguration(ProjectConfigurationManager.java:509)\n' +
+    '\tat org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.updateProjectConfiguration0(ProjectConfigurationManager.java:447)\n' +
+    '\tat org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.lambda$1(ProjectConfigurationManager.java:362)\n' +
+    '\tat org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:182)\n' +
+    '\tat org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:156)\n' +
+    '\tat org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:103)\n' +
+    '\tat org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1411)\n' +
+    '\tat org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.updateProjectConfiguration(ProjectConfigurationManager.java:361)\n' +
+    '\tat org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.updateProjectConfiguration(ProjectConfigurationManager.java:347)\n' +
+    '\tat org.eclipse.jdt.ls.core.internal.managers.MavenBuildSupport.update(MavenBuildSupport.java:87)\n' +
+    '\tat org.eclipse.jdt.ls.core.internal.managers.ProjectsManager$3.runInWorkspace(ProjectsManager.java:377)\n' +
+    '\tat org.eclipse.core.internal.resources.InternalWorkspaceJob.run(InternalWorkspaceJob.java:42)\n' +
+    '\tat org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)\n' +
+    'Caused by: java.lang.ArrayIndexOutOfBoundsException: Index 67 out of bounds for length 67\n' +
+    '\tat org.eclipse.core.internal.jobs.DeadlockDetector.resizeGraph(DeadlockDetector.java:641)\n' +
+    '\tat org.eclipse.core.internal.jobs.DeadlockDetector.setToWait(DeadlockDetector.java:681)\n' +
+    '\tat org.eclipse.core.internal.jobs.DeadlockDetector.lockWaitStart(DeadlockDetector.java:396)\n' +
+    '\tat org.eclipse.core.internal.jobs.LockManager.addLockWaitThread(LockManager.java:147)\n' +
+    '\t... 28 more\n',
+  level: 'info',
+  timestamp: '2021-11-22 16:59:48.310'
+}
+{
+  message: '[Error - 4:59:48 p.m.] Nov. 22, 2021, 4:59:48 p.m. An internal error occurred during: "Update project wildfly-subsystem-test-framework".\n' +
+    'Java heap space\n' +
+    'java.lang.OutOfMemoryError: Java heap space\n',
+  level: 'info',
+  timestamp: '2021-11-22 16:59:48.310'
+}
+{
+  message: '[Error - 4:59:48 p.m.] Nov. 22, 2021, 4:59:48 p.m. An internal error occurred during: "Update project wildfly-jmx".\n' +
+    'Java heap space\n' +
+    'java.lang.OutOfMemoryError: Java heap space\n',
+  level: 'info',
+  timestamp: '2021-11-22 16:59:48.311'
+}
+{
+  message: '[Error - 4:59:48 p.m.] Nov. 22, 2021, 4:59:48 p.m. An internal error occurred during: "Update project wildfly-core-ts-layers".\n' +
+    'Java heap space\n' +
+    'java.lang.OutOfMemoryError: Java heap space\n',
+  level: 'info',
+  timestamp: '2021-11-22 16:59:48.311'
+}
+{
+  message: '[Error - 4:59:52 p.m.] Connection to server got closed. Server will not be restarted.',
+  level: 'info',
+  timestamp: '2021-11-22 16:59:52.153'
+}

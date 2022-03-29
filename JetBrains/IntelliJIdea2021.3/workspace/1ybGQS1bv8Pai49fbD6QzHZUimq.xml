@@ -1,0 +1,792 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="elytron" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="DatabaseView">
+    <expand />
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="-1" />
+  </component>
+  <component name="FileTypeUsageLocalSummary">
+    <fileType name="CLASS">
+      <summary usageCount="25" lastUsed="1647890085110" />
+    </fileType>
+    <fileType name="JAVA">
+      <summary usageCount="152" lastUsed="1647890085223" />
+    </fileType>
+    <fileType name="PLAIN_TEXT">
+      <summary usageCount="5" lastUsed="1647612540667" />
+    </fileType>
+    <fileType name="XML">
+      <summary usageCount="5" lastUsed="1642780804560" />
+    </fileType>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>fsRealmEncryptedbad\</find>
+      <find>fsRealmEncryptedbad</find>
+      <find>evaluateRequest</find>
+      <find>evaluate</find>
+      <find>eval</find>
+      <find>BasicAuth</find>
+      <find>basicAuth</find>
+      <find>xml</find>
+      <find>Registered HTTP</find>
+      <find>setUpBadSecretKeyDomain</find>
+      <find>credential_store_name</find>
+      <find>maven-comp</find>
+      <find>TODO</find>
+      <find>xmlsec</find>
+      <find>javax.</find>
+      <find>XMLValidate</find>
+      <find>sendLine</find>
+      <find>isBatchMode</find>
+      <find>fileSystemRealmEnc</find>
+      <find>version.org.wildfly.plugin</find>
+      <find>bootable-jar</find>
+      <find>profile</find>
+      <find>setUpBadCredentialStore</find>
+      <find>write-</find>
+      <find>simple-role-decoder</find>
+      <find>Roles</find>
+      <find>from-roles-attribute</find>
+      <find>resetCredentialStore</find>
+      <find>new</find>
+      <find>PREDEFINED_HTTP_SERVER_MECHANISM_FACTORY</find>
+    </findStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$</dir>
+      <dir>$PROJECT_DIR$/src/test/java/org/wildfly/test/integration/elytron/certs/ocsp</dir>
+      <dir>$PROJECT_DIR$/target/wildfly/standalone/configuration</dir>
+      <dir>$MAVEN_REPOSITORY$/io/undertow/undertow-core/2.2.12.Final/undertow-core-2.2.12.Final-sources.jar!/io/undertow/security/impl</dir>
+      <dir>$PROJECT_DIR$/src/test/java/org/wildfly/test/integration/elytron/realm</dir>
+    </dirStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/src/test/java/org/wildfly/test/integration/elytron/certs/ocsp/OcspTestBase.java" />
+      <option value="$PROJECT_DIR$/src/test/java/org/wildfly/test/integration/elytron/certs/CommonBase.java" />
+      <option value="$PROJECT_DIR$/src/test/java/org/wildfly/test/integration/elytron/certs/ocsp/TestingOcspServer.java" />
+      <option value="$PROJECT_DIR$/pom.xml" />
+      <option value="$PROJECT_DIR$/src/test/java/org/wildfly/test/integration/elytron/realm/FilesystemRealmIntegrityTestCase.java" />
+      <option value="$PROJECT_DIR$/src/test/java/org/wildfly/test/integration/elytron/realm/LdapRealmTestCase.java" />
+      <option value="$PROJECT_DIR$/src/test/java/org/wildfly/test/integration/elytron/realm/FilesystemRealmEncryptedTestCase.java" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="elytron" type="b2602c69:ProjectViewProjectNode" />
+              <item name="elytron" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="elytron" type="b2602c69:ProjectViewProjectNode" />
+              <item name="elytron" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="elytron" type="b2602c69:ProjectViewProjectNode" />
+              <item name="elytron" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="elytron" type="b2602c69:ProjectViewProjectNode" />
+              <item name="elytron" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="elytron" type="b2602c69:ProjectViewProjectNode" />
+              <item name="elytron" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="integration" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="elytron" type="b2602c69:ProjectViewProjectNode" />
+              <item name="elytron" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="integration" type="462c0819:PsiDirectoryNode" />
+              <item name="elytron" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="elytron" type="b2602c69:ProjectViewProjectNode" />
+              <item name="elytron" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="integration" type="462c0819:PsiDirectoryNode" />
+              <item name="elytron" type="462c0819:PsiDirectoryNode" />
+              <item name="realm" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="elytron" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="TerminalArrangementManager">
+    <option name="myTabStates">
+      <TerminalTabState tabName="Local" currentWorkingDirectory="$PROJECT_DIR$" commandHistoryFileName="elytron-history1" />
+    </option>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="145955000" />
+  </component>
+  <component name="ToolWindowManager">
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2330729" />
+      <window_info id="Structure" order="1" side_tool="true" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info id="Commit" order="3" />
+      <window_info id="Learn" order="4" />
+      <window_info id="Pull Requests" order="5" />
+      <window_info id="Space Code Reviews" order="6" />
+      <window_info id="Web" order="7" show_stripe_button="false" side_tool="true" />
+      <window_info id="Bookmarks" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Terminal" order="1" sideWeight="0.4997332" side_tool="true" weight="0.3295678" />
+      <window_info anchor="bottom" id="Event Log" order="2" sideWeight="0.33110994" side_tool="true" weight="0.3246562" />
+      <window_info anchor="bottom" id="Find" order="3" />
+      <window_info anchor="bottom" id="Run" order="4" />
+      <window_info anchor="bottom" id="Debug" order="5" sideWeight="0.6688901" visible="true" weight="0.26768172" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Problems View" order="7" sideWeight="0.5002668" weight="0.32979798" />
+      <window_info anchor="bottom" id="Dependency Viewer" order="8" sideWeight="0.5002668" visible="true" weight="0.32979798" />
+      <window_info anchor="bottom" id="Profiler" order="9" />
+      <window_info anchor="bottom" id="Inspection" order="10" weight="0.4" />
+      <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Internal Method Tracing" order="12" />
+      <window_info anchor="bottom" id="File Transfer" order="13" />
+      <window_info anchor="bottom" id="Endpoints" order="14" />
+      <window_info anchor="bottom" id="Build" order="15" visible="true" weight="0.32979798" />
+      <window_info anchor="bottom" id="Dependencies" order="16" />
+      <window_info anchor="bottom" id="Java Enterprise" order="17" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Services" order="18" show_stripe_button="false" />
+      <window_info anchor="right" id="Database" order="0" />
+      <window_info anchor="right" id="Space Automation" order="1" />
+      <window_info anchor="right" id="Maven" order="2" />
+      <window_info anchor="right" id="CDI" order="3" show_stripe_button="false" />
+      <window_info anchor="right" id="Layout Validation" order="4" />
+      <window_info anchor="right" id="documentation.v2" order="5" side_tool="true" />
+    </layout>
+    <recentWindows>
+      <value>Project</value>
+      <value>Debug</value>
+      <value>Build</value>
+      <value>Event Log</value>
+      <value>Dependency Viewer</value>
+      <value>Problems View</value>
+      <value>Terminal</value>
+    </recentWindows>
+  </component>
+  <component name="Trusted.Project.Settings" hasCheckedIfOldProject="true" trusted="YES" />
+  <component name="WindowStateProjectService">
+    <state x="225" y="1512" width="1196" height="648" key="#xdebugger.evaluate" timestamp="1642696967095">
+      <screen x="0" y="1080" width="1920" height="1080" />
+    </state>
+    <state x="225" y="1512" key="#xdebugger.evaluate/0.1080.1920.1080/0.0.1920.1080@0.1080.1920.1080" timestamp="1642696967095" />
+    <state width="579" height="350" key="DebuggerActiveHint" timestamp="1644332398077">
+      <screen x="0" y="1080" width="1920" height="1080" />
+    </state>
+    <state width="579" height="350" key="DebuggerActiveHint/0.1080.1920.1080/0.0.1920.1080@0.1080.1920.1080" timestamp="1644332398077" />
+    <state x="715" y="1379" width="918" height="532" key="FileChooserDialogImpl" timestamp="1644332832157">
+      <screen x="0" y="1080" width="1920" height="1080" />
+    </state>
+    <state x="715" y="1379" key="FileChooserDialogImpl/0.1080.1920.1080/0.0.1920.1080@0.1080.1920.1080" timestamp="1644332832157" />
+    <state width="1874" height="244" key="GridCell.Tab.0.bottom" timestamp="1647621420261">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="244" key="GridCell.Tab.0.bottom/0.1080.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1647621420261" />
+    <state width="1874" height="244" key="GridCell.Tab.0.bottom/0.1080.1920.1080/0.0.1920.1080@0.1080.1920.1080" timestamp="1647619431654" />
+    <state width="1874" height="244" key="GridCell.Tab.0.center" timestamp="1647621420261">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="244" key="GridCell.Tab.0.center/0.1080.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1647621420261" />
+    <state width="1874" height="244" key="GridCell.Tab.0.center/0.1080.1920.1080/0.0.1920.1080@0.1080.1920.1080" timestamp="1647619431654" />
+    <state width="1874" height="244" key="GridCell.Tab.0.left" timestamp="1647621420261">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="244" key="GridCell.Tab.0.left/0.1080.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1647621420261" />
+    <state width="1874" height="244" key="GridCell.Tab.0.left/0.1080.1920.1080/0.0.1920.1080@0.1080.1920.1080" timestamp="1647619431654" />
+    <state width="1874" height="244" key="GridCell.Tab.0.right" timestamp="1647621420261">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="244" key="GridCell.Tab.0.right/0.1080.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1647621420261" />
+    <state width="1874" height="244" key="GridCell.Tab.0.right/0.1080.1920.1080/0.0.1920.1080@0.1080.1920.1080" timestamp="1647619431654" />
+    <state width="1874" height="244" key="GridCell.Tab.1.bottom" timestamp="1647621424789">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="244" key="GridCell.Tab.1.bottom/0.1080.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1647621424789" />
+    <state width="1874" height="244" key="GridCell.Tab.1.bottom/0.1080.1920.1080/0.0.1920.1080@0.1080.1920.1080" timestamp="1647619436225" />
+    <state width="1874" height="244" key="GridCell.Tab.1.center" timestamp="1647621424789">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="244" key="GridCell.Tab.1.center/0.1080.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1647621424789" />
+    <state width="1874" height="244" key="GridCell.Tab.1.center/0.1080.1920.1080/0.0.1920.1080@0.1080.1920.1080" timestamp="1647619436225" />
+    <state width="1874" height="244" key="GridCell.Tab.1.left" timestamp="1647621424789">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="244" key="GridCell.Tab.1.left/0.1080.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1647621424789" />
+    <state width="1874" height="244" key="GridCell.Tab.1.left/0.1080.1920.1080/0.0.1920.1080@0.1080.1920.1080" timestamp="1647619436225" />
+    <state width="1874" height="244" key="GridCell.Tab.1.right" timestamp="1647621424789">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="244" key="GridCell.Tab.1.right/0.1080.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1647621424789" />
+    <state width="1874" height="244" key="GridCell.Tab.1.right/0.1080.1920.1080/0.0.1920.1080@0.1080.1920.1080" timestamp="1647619436225" />
+    <state width="1874" height="301" key="GridCell.Tab.2.bottom" timestamp="1647618042686">
+      <screen x="0" y="1080" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="301" key="GridCell.Tab.2.bottom/0.1080.1920.1080/0.0.1920.1080@0.1080.1920.1080" timestamp="1647618042686" />
+    <state width="1874" height="301" key="GridCell.Tab.2.center" timestamp="1647618042686">
+      <screen x="0" y="1080" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="301" key="GridCell.Tab.2.center/0.1080.1920.1080/0.0.1920.1080@0.1080.1920.1080" timestamp="1647618042686" />
+    <state width="1874" height="301" key="GridCell.Tab.2.left" timestamp="1647618042686">
+      <screen x="0" y="1080" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="301" key="GridCell.Tab.2.left/0.1080.1920.1080/0.0.1920.1080@0.1080.1920.1080" timestamp="1647618042686" />
+    <state width="1874" height="301" key="GridCell.Tab.2.right" timestamp="1647618042686">
+      <screen x="0" y="1080" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="301" key="GridCell.Tab.2.right/0.1080.1920.1080/0.0.1920.1080@0.1080.1920.1080" timestamp="1647618042686" />
+    <state x="344" y="1161" width="1024" height="851" key="SettingsEditor" timestamp="1642689772665">
+      <screen x="0" y="1080" width="1920" height="1080" />
+    </state>
+    <state x="344" y="1161" key="SettingsEditor/0.1080.1920.1080/0.0.1920.1080@0.1080.1920.1080" timestamp="1642689772665" />
+    <state width="960" height="513" key="XDebugger.FullValuePopup" timestamp="1644332495907">
+      <screen x="0" y="1080" width="1920" height="1080" />
+    </state>
+    <state width="960" height="513" key="XDebugger.FullValuePopup/0.1080.1920.1080/0.0.1920.1080@0.1080.1920.1080" timestamp="1644332495907" />
+    <state x="624" y="786" key="run.anything.popup" timestamp="1642697120877">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="624" y="786" key="run.anything.popup/0.1080.1920.1080/0.0.1920.1080@0.1080.1920.1080" timestamp="1642697120877" />
+    <state x="623" y="1333" width="1215" height="687" key="search.everywhere.popup" timestamp="1644334822409">
+      <screen x="0" y="1080" width="1920" height="1080" />
+    </state>
+    <state x="623" y="1333" width="1215" height="687" key="search.everywhere.popup/0.1080.1920.1080/0.0.1920.1080@0.1080.1920.1080" timestamp="1644334822409" />
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="breakpointCondition">
+      <expression>
+        <expression-string>this.cmdLine == &quot;/subsystem=elytron/filesystem-realm=fsRealmEncrypted:remove-identity(identity=plainUser)&quot;</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>if(this.cmdLine == &quot;/subsystem=elytron/filesystem-realm=fsRealmEncrypted:remove-identity(identity=plainUser)&quot;);</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>if(this.cmdLine == &quot;/subsystem=elytron/filesystem-realm=fsRealmEncrypted:remove-identity(identity=plainUser)&quot;)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>String.format(&quot;/subsystem=elytron/filesystem-realm=%s:remove-identity(identity=%s)&quot;, realmName, username</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>String.format(&quot;/subsystem=elytron/filesystem-realm=%s:write-attribute(name=credential-store, value=%s)&quot;,                         realmName, credentialStore)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>String.format(&quot;/subsystem=elytron/secret-key-credential-store=%1$s:add(path=%1$s.cs, relative-to=jboss.server.config.dir, create=true, populate=true)\n/subsystem=elytron/filesystem-realm=%s:add(path=%s,relative-to=jboss.server.config.dir, credential-store=%s, secret-key=%s)\n/subsystem=elytron/filesystem-realm=%s:add-identity(identity=%s)\n/subsystem=elytron/filesystem-realm=%1$s:set-password(identity=%2$s, digest={algorithm=digest-md5, realm=%1$s, password=%3$s})\n/subsystem=elytron/filesystem-realm=%s:add-identity-attribute(identity=%s, name=RolesAttr, value=[JBossAdmin])\n/subsystem=elytron/security-domain=%1$s:add(realms=[{realm=%2$s}],default-realm=%2$s,permission-mapper=default-permission-mapper)\n/subsystem=undertow/application-security-domain=%s:add(security-domain=%s)\n/subsystem=elytron/secret-key-credential-store=%1$s:add(path=%1$s.cs, relative-to=jboss.server.config.dir, create=true, populate=true)&quot;, credentialStore, realmName, path, credentialStore, secretKey, realmName, username, realmName, username, password, realmName, username, domainName, realmName, deployment, domainName, credentialStore+&quot;New&quot;)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>String.format(&quot;/subsystem=elytron/secret-key-credential-store=%1$s:add(path=%1$s.cs, relative-to=jboss.server.config.dir, create=true, populate=true)\n/subsystem=elytron/filesystem-realm=%s:add(path=%s,relative-to=jboss.server.config.dir, credential-store=%s, secret-key=%s)\n/subsystem=elytron/filesystem-realm=%s:add-identity(identity=%s)\n/subsystem=elytron/filesystem-realm=%1$s:set-password(identity=%2$s, digest={algorithm=digest-md5, realm=%1$s, password=%3$s})\n/subsystem=elytron/filesystem-realm=%s:add-identity-attribute(identity=%s, name=RolesAttr, value=[JBossAdmin])\n/subsystem=elytron/security-domain=%1$s:add(realms=[{realm=%2$s}],default-realm=%2$s,permission-mapper=default-permission-mapper)\n/subsystem=undertow/application-security-domain=%s:add(security-domain=%s)\n/subsystem=elytron/secret-key-credential-store=%1$s:add(path=%1$s.cs, relative-to=jboss.server.config.dir, create=true, populate=true)&quot;, credentialStore, realmName, path, credentialStore, secretKey, realmName, username, realmName, username, password, realmName, username, domainName, realmName, deployment, domainName, credentialStore+&quot;New&quot;))</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>String.format(&quot;/subsystem=elytron/secret-key-credential-store=%1$s:add(path=%1$s.cs, relative-to=jboss.server.config.dir, create=true, populate=true)&quot;, credentialStore) String.format(&quot;/subsystem=elytron/filesystem-realm=%s:add(path=%s,relative-to=jboss.server.config.dir, credential-store=%s, secret-key=%s)&quot;, realmName, path, credentialStore, secretKey) String.format(&quot;/subsystem=elytron/filesystem-realm=%s:add-identity(identity=%s)&quot;, realmName, username) String.format(&quot;/subsystem=elytron/filesystem-realm=%1$s:set-password(identity=%2$s, digest={algorithm=digest-md5, realm=%1$s, password=%3$s})&quot;, realmName, username, password) String.format(&quot;/subsystem=elytron/filesystem-realm=%s:add-identity-attribute(identity=%s, name=RolesAttr, value=[JBossAdmin])&quot;, realmName, username) String.format(&quot;/subsystem=elytron/security-domain=%1$s:add(realms=[{realm=%2$s}],default-realm=%2$s,permission-mapper=default-permission-mapper)&quot;, domainName, realmName) String.format(&quot;/subsystem=undertow/application-security-domain=%s:add(security-domain=%s)&quot;, deployment, domainName) String.format(&quot;/subsystem=elytron/secret-key-credential-store=%1$s:add(path=%1$s.cs, relative-to=jboss.server.config.dir, create=true, populate=true)&quot;, credentialStore+&quot;New&quot;)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>(String.format(&quot;/subsystem=elytron/filesystem-realm=%s:add(path=%s,relative-to=jboss.server.config.dir, credential-store=%s, secret-key=%s)&quot;, realmName, path, credentialStore, secretKey))</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>(String.format(&quot;/subsystem=elytron/filesystem-realm=%s:add(path=%s,relative-to=jboss.server.config.dir, credential-store=%s, secret-key=%s)&quot;, realmName, path, credentialStore, secretKey));</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>log.trace(String.format(&quot;/subsystem=elytron/filesystem-realm=%s:add(path=%s,relative-to=jboss.server.config.dir, credential-store=%s, secret-key=%s)&quot;, realmName, path, credentialStore, secretKey));</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>String.format(&quot;/subsystem=elytron/filesystem-realm=%s:write-attribute(name=key-store-alias, value=%s)&quot;,                         realmName, keyStoreAlias)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>String.format(&quot;/subsystem=elytron/key-store=%1$s:generate-key-pair(alias=%2$s,algorithm=RSA,key-size=1024,validity=365,distinguished-name=\&quot;CN=%2$s\&quot;)&quot;,                         keyStoreName, keyStoreAlias)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>tring.format(&quot;/subsystem=elytron/key-store=%1$s:generate-key-pair(alias=%2$s,algorithm=RSA,key-size=1024,validity=365,distinguished-name=\&quot;CN=%2$s\&quot;)&quot;,                         keyStoreName, keyStoreAlias)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>String.format(                         &quot;/subsystem=undertow/application-security-domain=%s:add(http-authentication-factory=%s)&quot;,                         deployment, domainName)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>String.format(                         &quot;/subsystem=elytron/http-authentication-factory=%1$s:add(http-server-mechanism-factory=%2$s,security-domain=%1$s,&quot;                                 + &quot;mechanism-configurations=[{mechanism-name=BASIC,mechanism-realm-configurations=[{realm-name=\&quot;%1$s\&quot;}]}])&quot;,                         domainName, PREDEFINED_HTTP_SERVER_MECHANISM_FACTORY)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>String.format(&quot;/subsystem=elytron/security-domain=%1$s:add(realms=[{realm=%2$s,role-decoder=from-roles-attribute}],default-realm=%2$s,permission-mapper=default-permission-mapper)&quot;,                         domainName, realmName)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>String.format(&quot;/subsystem=elytron/filesystem-realm=%s:add-identity-attribute(identity=%s, name=Roles, value=[JBossAdmin])&quot;,                         realmName, username)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>String.format(&quot;/subsystem=elytron/filesystem-realm=%1$s:set-password(identity=%2$s, digest={algorithm=digest-md5, realm=%1$s, password=%3$s})&quot;,                         realmName, username, password)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>String.format(&quot;/subsystem=elytron/filesystem-realm=%s:add-identity(identity=%s)&quot;, realmName, username)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>String.format(&quot;/subsystem=elytron/filesystem-realm=%s:add(path=%s,relative-to=jboss.server.config.dir)&quot;,                         realmName, fsPath, keyStoreName, keyStoreAlias)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>String.format(&quot;/subsystem=elytron/key-store=%s:store()&quot;, keyStoreName)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>String.format(&quot;/subsystem=elytron/key-store=%1$s:add(path=%1$s, relative-to=jboss.server.config.dir, type=JKS, credential-reference={clear-text=%2$s})&quot;,                         keyStoreName, password)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>String.format(                         &quot;/subsystem=elytron/http-authentication-factory=%1$s:add(http-server-mechanism-factory=%2$s,security-domain=%1$s,&quot;                                 + &quot;mechanism-configurations=[{mechanism-name=BASIC,mechanism-realm-configurations=[{realm-name=\&quot;%1$s\&quot;}]}])&quot;,                         &quot;fsDomainIntegrity&quot;, &quot;global&quot;)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>e</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>OP_ADDR</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>OP</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>String.format(&quot;/subsystem=elytron/filesystem-realm=%s:add(path=%s,relative-to=jboss.server.config.dir, credential-store=%s, secret-key=%s)&quot;,                         realmName, path, credentialStore, secretKey)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>String.format(&quot;/subsystem=elytron/secret-key-credential-store=%1$s:add(path=%1$s.credstore, relative-to=jboss.server.config.dir, create=true, populate=true)&quot;,                         credentialStore)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>String.format(&quot;/subsystem=elytron/secret-key-credential-store=%s:remove()&quot;,                         oldCredentialStore)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/jboss/arquillian/test/arquillian-test-impl-base/1.6.0.Final/arquillian-test-impl-base-1.6.0.Final-sources.jar!/org/jboss/arquillian/test/impl/TestContextHandler.java" />
+    <entry file="jar://$MAVEN_REPOSITORY$/org/jboss/arquillian/junit/arquillian-junit-core/1.6.0.Final/arquillian-junit-core-1.6.0.Final-sources.jar!/org/jboss/arquillian/junit/MethodInvoker.java" />
+    <entry file="jar://$MAVEN_REPOSITORY$/org/wildfly/core/wildfly-core-testsuite-shared/18.0.0.Beta3-SNAPSHOT/wildfly-core-testsuite-shared-18.0.0.Beta3-SNAPSHOT-sources.jar!/org/jboss/as/test/integration/management/util/CLIWrapper.java" />
+    <entry file="jar://$MAVEN_REPOSITORY$/org/wildfly/core/wildfly-cli/18.0.0.Beta3-SNAPSHOT/wildfly-cli-18.0.0.Beta3-SNAPSHOT-sources.jar!/org/jboss/as/cli/impl/CommandContextImpl.java" />
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.5.13/httpclient-4.5.13-sources.jar!/org/apache/http/impl/execchain/RetryExec.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="798">
+          <caret line="88" selection-start-line="88" selection-end-line="88" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.5.13/httpclient-4.5.13-sources.jar!/org/apache/http/impl/execchain/ProtocolExec.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2778">
+          <caret line="191" selection-start-line="191" selection-end-line="191" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/wildfly/security/wildfly-elytron/1.18.3.CR1-SNAPSHOT/wildfly-elytron-1.18.3.CR1-SNAPSHOT-sources.jar!/org/apache/http/protocol/ImmutableHttpProcessor.java" />
+    <entry file="jar://$MAVEN_REPOSITORY$/org/wildfly/core/wildfly-cli/18.0.0.Beta3-SNAPSHOT/wildfly-cli-18.0.0.Beta3-SNAPSHOT-sources.jar!/org/jboss/as/cli/handlers/OperationRequestHandler.java" />
+    <entry file="file://$PROJECT_DIR$/../../../pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="9601" column="65" selection-start-line="9601" selection-start-column="65" selection-end-line="9601" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="635" column="33" selection-start-line="635" selection-start-column="33" selection-end-line="635" selection-end-column="33" />
+          <folding>
+            <element signature="n#build#0;n#project#0;n#!!top" />
+            <element signature="n#profile#0;n#profiles#0;n#project#0;n#!!top" />
+            <element signature="n#profile#1;n#profiles#0;n#project#0;n#!!top" />
+            <element signature="n#profile#2;n#profiles#0;n#project#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.5.13/httpclient-4.5.13-sources.jar!/org/apache/http/impl/auth/BasicSchemeFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="54" column="11" selection-start-line="54" selection-start-column="11" selection-end-line="54" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/org/wildfly/test/integration/elytron/realm/filesystem-realm-web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="528">
+          <caret line="24" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/wildfly/core/wildfly-elytron-integration/18.0.0.Beta3-SNAPSHOT/wildfly-elytron-integration-18.0.0.Beta3-SNAPSHOT-sources.jar!/org/wildfly/extension/elytron/FileSystemRealmDefinition.java" />
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.5.13/httpclient-4.5.13-sources.jar!/org/apache/http/client/methods/HttpRequestBase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="94" selection-start-line="94" selection-end-line="94" />
+          <folding>
+            <element signature="e#3049#3050#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/wildfly/security/wildfly-elytron/1.18.3.CR1-SNAPSHOT/wildfly-elytron-1.18.3.CR1-SNAPSHOT-sources.jar!/org/apache/http/message/AbstractHttpMessage.java" />
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.5.13/httpclient-4.5.13-sources.jar!/org/apache/http/client/protocol/HttpClientContext.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="283">
+          <caret line="237" selection-start-line="237" selection-end-line="237" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.5.13/httpclient-4.5.13-sources.jar!/org/apache/http/impl/execchain/RedirectExec.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="165" selection-start-line="165" selection-end-line="165" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.5.13/httpclient-4.5.13-sources.jar!/org/apache/http/impl/client/CloseableHttpClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="107" selection-start-line="107" selection-end-line="107" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.5.13/httpclient-4.5.13-sources.jar!/org/apache/http/impl/client/HttpClientBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="1244" selection-start-line="1244" selection-end-line="1244" />
+          <folding>
+            <element signature="e#47322#47491#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.5.13/httpclient-4.5.13-sources.jar!/org/apache/http/impl/client/InternalHttpClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="314">
+          <caret line="206" selection-start-line="206" selection-end-line="206" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/org/wildfly/test/integration/elytron/realm/FailoverRealmTestCase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="88" column="13" selection-start-line="88" selection-start-column="13" selection-end-line="88" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/wildfly/core/wildfly-core-testsuite-shared/19.0.0.Beta3-SNAPSHOT/wildfly-core-testsuite-shared-19.0.0.Beta3-SNAPSHOT-sources.jar!/org/jboss/as/test/integration/management/util/CLIWrapper.java" />
+    <entry file="jar://$MAVEN_REPOSITORY$/org/jboss/arquillian/container/arquillian-container-test-impl-base/1.6.0.Final/arquillian-container-test-impl-base-1.6.0.Final-sources.jar!/org/jboss/arquillian/container/test/impl/execution/LocalTestExecuter.java" />
+    <entry file="jar://$MAVEN_REPOSITORY$/org/wildfly/wildfly-testsuite-shared/27.0.0.Beta1-SNAPSHOT/wildfly-testsuite-shared-27.0.0.Beta1-SNAPSHOT-sources.jar!/org/jboss/as/test/integration/security/common/Utils.java" />
+    <entry file="jar://$MAVEN_REPOSITORY$/org/jboss/arquillian/core/arquillian-core-impl-base/1.6.0.Final/arquillian-core-impl-base-1.6.0.Final-sources.jar!/org/jboss/arquillian/core/impl/ObserverImpl.java" />
+    <entry file="jar://$MAVEN_REPOSITORY$/org/jboss/arquillian/core/arquillian-core-impl-base/1.6.0.Final/arquillian-core-impl-base-1.6.0.Final-sources.jar!/org/jboss/arquillian/core/impl/EventContextImpl.java" />
+    <entry file="jar://$MAVEN_REPOSITORY$/org/jboss/arquillian/core/arquillian-core-impl-base/1.6.0.Final/arquillian-core-impl-base-1.6.0.Final-sources.jar!/org/jboss/arquillian/core/impl/ManagerImpl.java" />
+    <entry file="jar://$MAVEN_REPOSITORY$/org/jboss/arquillian/core/arquillian-core-impl-base/1.6.0.Final/arquillian-core-impl-base-1.6.0.Final-sources.jar!/org/jboss/arquillian/core/impl/EventImpl.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/org/wildfly/test/integration/elytron/realm/FilesystemRealmIntegrityTestCase.java" />
+    <entry file="file://$USER_HOME$/integrity-commands">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="13" column="45" selection-start-line="13" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/org/wildfly/test/integration/elytron/realm/LdapRealmTestCase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="301">
+          <caret line="363" selection-start-line="363" selection-end-line="363" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/org/wildfly/test/integration/elytron/realm/FilesystemRealmTestCase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="309">
+          <caret line="17" column="50" selection-start-line="17" selection-start-column="50" selection-end-line="17" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/javax/servlet/javax.servlet-api/3.1.0/javax.servlet-api-3.1.0.jar!/javax/servlet/http/HttpServletResponse.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="279">
+          <caret line="30" column="29" selection-start-line="30" selection-start-column="26" selection-end-line="30" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/wildfly/wildfly-testsuite-shared/27.0.0.Beta1-SNAPSHOT/wildfly-testsuite-shared-27.0.0.Beta1-SNAPSHOT-sources.jar!/org/jboss/as/test/shared/ServerReload.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="179">
+          <caret line="54" column="41" lean-forward="true" selection-start-line="54" selection-end-line="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/wildfly/arquillian/wildfly-arquillian-common/3.0.1.Final/wildfly-arquillian-common-3.0.1.Final.jar!/org/jboss/as/arquillian/container/ServerSetupObserver.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="179">
+          <caret line="107" column="13" selection-start-line="107" selection-start-column="13" selection-end-line="107" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/wildfly/arquillian/wildfly-arquillian-common/3.0.1.Final/wildfly-arquillian-common-3.0.1.Final-sources.jar!/org/jboss/as/arquillian/container/ServerSetupObserver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="179">
+          <caret line="108" selection-start-line="108" selection-end-line="108" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/jboss/arquillian/core/arquillian-core-impl-base/1.6.0.Final/arquillian-core-impl-base-1.6.0.Final.jar!/org/jboss/arquillian/core/impl/ManagerImpl.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="169">
+          <caret line="64" selection-start-line="64" selection-end-line="64" />
+          <folding>
+            <element signature="e#2790#2791#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/jboss/arquillian/core/arquillian-core-impl-base/1.6.0.Final/arquillian-core-impl-base-1.6.0.Final.jar!/org/jboss/arquillian/core/impl/EventImpl.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="29" selection-start-line="29" selection-end-line="29" />
+          <folding>
+            <element signature="e#675#676#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/jboss/arquillian/container/arquillian-container-impl-base/1.6.0.Final/arquillian-container-impl-base-1.6.0.Final.jar!/org/jboss/arquillian/container/impl/client/container/ContainerDeployController.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="222">
+          <caret line="184" selection-start-line="184" selection-end-line="184" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/jboss/arquillian/container/arquillian-container-impl-base/1.6.0.Final/arquillian-container-impl-base-1.6.0.Final-sources.jar!/org/jboss/arquillian/container/impl/client/container/ContainerDeployController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="179">
+          <caret line="166" selection-start-line="166" selection-end-line="166" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/jboss/arquillian/container/arquillian-container-impl-base/1.6.0.Final/arquillian-container-impl-base-1.6.0.Final-sources.jar!/org/jboss/arquillian/container/impl/client/container/DeploymentExceptionHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="397">
+          <caret line="47" selection-start-line="47" selection-end-line="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/jboss/arquillian/container/arquillian-container-impl-base/1.6.0.Final/arquillian-container-impl-base-1.6.0.Final-sources.jar!/org/jboss/arquillian/container/impl/client/ContainerDeploymentContextHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="179">
+          <caret line="55" selection-start-line="55" selection-end-line="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/jboss/arquillian/core/arquillian-core-impl-base/1.6.0.Final/arquillian-core-impl-base-1.6.0.Final.jar!/org/jboss/arquillian/core/impl/ObserverImpl.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="179">
+          <caret line="49" selection-start-line="49" selection-end-line="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/jboss/arquillian/core/arquillian-core-impl-base/1.6.0.Final/arquillian-core-impl-base-1.6.0.Final.jar!/org/jboss/arquillian/core/impl/EventContextImpl.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="257">
+          <caret line="48" selection-start-line="48" selection-end-line="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/jboss/arquillian/junit/arquillian-junit-core/1.6.0.Final/arquillian-junit-core-1.6.0.Final.jar!/org/jboss/arquillian/junit/Arquillian.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#12324#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/wildfly/core/wildfly-cli/19.0.0.Beta5/wildfly-cli-19.0.0.Beta5.jar!/org/jboss/as/cli/impl/CommandContextImpl.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="784" selection-start-line="784" selection-end-line="784" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/org/wildfly/test/integration/elytron/realm/FilesystemRealmEncryptedTestCase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="164" column="86" selection-start-line="164" selection-start-column="86" selection-end-line="164" selection-end-column="86" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/wildfly/core/wildfly-cli/19.0.0.Beta5/wildfly-cli-19.0.0.Beta5-sources.jar!/org/jboss/as/cli/impl/CommandContextImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="35852">
+          <caret line="1914" selection-start-line="1914" selection-end-line="1914" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/wildfly/core/wildfly-core-testsuite-shared/19.0.0.Beta5/wildfly-core-testsuite-shared-19.0.0.Beta5.jar!/org/jboss/as/test/integration/management/util/CLIWrapper.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="110" selection-start-line="110" selection-end-line="110" />
+          <folding>
+            <element signature="e#4481#4482#0" expanded="true" />
+            <element signature="e#4523#4524#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/wildfly/core/wildfly-cli/19.0.0.Beta5/wildfly-cli-19.0.0.Beta5-sources.jar!/org/jboss/as/cli/operation/impl/DefaultCallbackHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="295">
+          <caret line="712" selection-start-line="712" selection-end-line="712" />
+          <folding>
+            <element signature="e#21180#21181#0" expanded="true" />
+            <element signature="e#21214#21215#0" expanded="true" />
+            <element signature="e#21754#21755#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/jboss/arquillian/junit/arquillian-junit-core/1.6.0.Final/arquillian-junit-core-1.6.0.Final-sources.jar!/org/jboss/arquillian/junit/Arquillian.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="324" selection-start-line="324" selection-end-line="324" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Web</last-edited>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI" />
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>wildfly-ts-integ-elytron</last-edited>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: org.wildfly.core:wildfly-elytron-integration:18.0.0.Beta3-SNAPSHOT</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.6310345" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

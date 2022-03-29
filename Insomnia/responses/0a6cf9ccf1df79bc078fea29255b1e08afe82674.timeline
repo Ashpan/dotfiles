@@ -1,0 +1,382 @@
+[
+	{
+		"name": "TEXT",
+		"value": "Preparing request to https://d22n8yer1yb325.cloudfront.net/Team1325/Humber/event",
+		"timestamp": 1646951905335
+	},
+	{
+		"name": "TEXT",
+		"value": "Current time is 2022-03-10T22:38:25.335Z",
+		"timestamp": 1646951905335
+	},
+	{
+		"name": "TEXT",
+		"value": "Using libcurl/7.73.0 OpenSSL/1.1.1l zlib/1.2.11 brotli/1.0.9 zstd/1.5.2 libidn2/2.3.2 libssh2/1.9.0 nghttp2/1.42.0",
+		"timestamp": 1646951905335
+	},
+	{
+		"name": "TEXT",
+		"value": "Using default HTTP version",
+		"timestamp": 1646951905335
+	},
+	{
+		"name": "TEXT",
+		"value": "Disable timeout",
+		"timestamp": 1646951905335
+	},
+	{
+		"name": "TEXT",
+		"value": "Enable automatic URL encoding",
+		"timestamp": 1646951905335
+	},
+	{
+		"name": "TEXT",
+		"value": "Enable SSL validation",
+		"timestamp": 1646951905335
+	},
+	{
+		"name": "TEXT",
+		"value": "Enable cookie sending with jar of 0 cookies",
+		"timestamp": 1646951905340
+	},
+	{
+		"name": "TEXT",
+		"value": "  Trying 13.226.140.23:443...\n",
+		"timestamp": 1646951905374
+	},
+	{
+		"name": "TEXT",
+		"value": "Connected to d22n8yer1yb325.cloudfront.net (13.226.140.23) port 443 (#0)\n",
+		"timestamp": 1646951905390
+	},
+	{
+		"name": "TEXT",
+		"value": "ALPN, offering h2\n",
+		"timestamp": 1646951905391
+	},
+	{
+		"name": "TEXT",
+		"value": "ALPN, offering http/1.1\n",
+		"timestamp": 1646951905391
+	},
+	{
+		"name": "TEXT",
+		"value": "successfully set certificate verify locations:\n",
+		"timestamp": 1646951905395
+	},
+	{
+		"name": "TEXT",
+		"value": " CAfile: /tmp/insomnia_2021.7.2/ca-certs.pem\n",
+		"timestamp": 1646951905395
+	},
+	{
+		"name": "TEXT",
+		"value": " CApath: none\n",
+		"timestamp": 1646951905395
+	},
+	{
+		"name": "TEXT",
+		"value": "TLSv1.3 (OUT), TLS handshake, Client hello (1):\n",
+		"timestamp": 1646951905395
+	},
+	{
+		"name": "TEXT",
+		"value": "TLSv1.3 (IN), TLS handshake, Server hello (2):\n",
+		"timestamp": 1646951905411
+	},
+	{
+		"name": "TEXT",
+		"value": "TLSv1.3 (IN), TLS handshake, Encrypted Extensions (8):\n",
+		"timestamp": 1646951905411
+	},
+	{
+		"name": "TEXT",
+		"value": "TLSv1.3 (IN), TLS handshake, Certificate (11):\n",
+		"timestamp": 1646951905415
+	},
+	{
+		"name": "TEXT",
+		"value": "TLSv1.3 (IN), TLS handshake, CERT verify (15):\n",
+		"timestamp": 1646951905415
+	},
+	{
+		"name": "TEXT",
+		"value": "TLSv1.3 (IN), TLS handshake, Finished (20):\n",
+		"timestamp": 1646951905415
+	},
+	{
+		"name": "TEXT",
+		"value": "TLSv1.3 (OUT), TLS change cipher, Change cipher spec (1):\n",
+		"timestamp": 1646951905415
+	},
+	{
+		"name": "TEXT",
+		"value": "TLSv1.3 (OUT), TLS handshake, Finished (20):\n",
+		"timestamp": 1646951905415
+	},
+	{
+		"name": "TEXT",
+		"value": "SSL connection using TLSv1.3 / TLS_AES_128_GCM_SHA256\n",
+		"timestamp": 1646951905415
+	},
+	{
+		"name": "TEXT",
+		"value": "ALPN, server accepted to use h2\n",
+		"timestamp": 1646951905415
+	},
+	{
+		"name": "TEXT",
+		"value": "Server certificate:\n",
+		"timestamp": 1646951905415
+	},
+	{
+		"name": "TEXT",
+		"value": " subject: CN=*.cloudfront.net\n",
+		"timestamp": 1646951905415
+	},
+	{
+		"name": "TEXT",
+		"value": " start date: Feb  1 00:00:00 2022 GMT\n",
+		"timestamp": 1646951905415
+	},
+	{
+		"name": "TEXT",
+		"value": " expire date: Jan 31 23:59:59 2023 GMT\n",
+		"timestamp": 1646951905415
+	},
+	{
+		"name": "TEXT",
+		"value": " subjectAltName: host \"d22n8yer1yb325.cloudfront.net\" matched cert's \"*.cloudfront.net\"\n",
+		"timestamp": 1646951905415
+	},
+	{
+		"name": "TEXT",
+		"value": " issuer: C=US; O=Amazon; OU=Server CA 1B; CN=Amazon\n",
+		"timestamp": 1646951905415
+	},
+	{
+		"name": "TEXT",
+		"value": " SSL certificate verify ok.\n",
+		"timestamp": 1646951905415
+	},
+	{
+		"name": "TEXT",
+		"value": "Using HTTP2, server supports multi-use\n",
+		"timestamp": 1646951905415
+	},
+	{
+		"name": "TEXT",
+		"value": "Connection state changed (HTTP/2 confirmed)\n",
+		"timestamp": 1646951905415
+	},
+	{
+		"name": "TEXT",
+		"value": "Copying HTTP/2 data in stream buffer to connection buffer after upgrade: len=0\n",
+		"timestamp": 1646951905415
+	},
+	{
+		"name": "TEXT",
+		"value": "Using Stream ID: 1 (easy handle 0x3156df360400)\n",
+		"timestamp": 1646951905416
+	},
+	{
+		"name": "HEADER_OUT",
+		"value": "POST /Team1325/Humber/event HTTP/2\r\nHost: d22n8yer1yb325.cloudfront.net\r\nuser-agent: insomnia/2021.7.2\r\ncontent-type: application/json\r\nauthorization: Bearer a1e38e5e-4346-47bc-8de2-c9cf1482532b\r\naccept: */*\r\ncontent-length: 5077\r\n\r\n",
+		"timestamp": 1646951905416
+	},
+	{
+		"name": "DATA_OUT",
+		"value": "{\n    \"team_list\": [\n        \"216\",\n        \"244\",\n        \"288\",\n        \"781\",\n        \"1305\",\n        \"1325\",\n        \"2706\",\n        \"4015\",\n        \"4252\",\n        \"4343\",\n        \"6162\",\n        \"7520\",\n        \"8789\"\n    ],\n    \"labels\": {\n        \"Auto\": 1,\n        \"Scoring\": 2,\n        \"Climbing\": 3,\n        \"Gameplay\": 4\n    },\n\t\t\"derived_fields\": [\n        {\n            \"name\": \"Auto Low Goal Accuracy\",\n            \"label\": \"Scoring\",\n            \"expression\": \"{Auto Balls Scored Low} / {Auto Balls Shot Low}\"\n        },\n\t\t\t\t{\n            \"name\": \"Auto High Goal Accuracy\",\n            \"label\": \"Scoring\",\n            \"expression\": \"{Auto Balls Scored High} / {Auto Balls Shot High}\"\n        },\n\t\t\t\t{\n            \"name\": \"Teleop Low Goal Accuracy\",\n            \"label\": \"Scoring\",\n            \"expression\": \"{Balls Scored Low} / {Balls Shot Low}\"\n        },\n\t\t\t\t{\n            \"name\": \"Teleop High Goal Accuracy\",\n            \"label\": \"Scoring\",\n            \"expression\": \"{Balls Scored High} / {Balls Shot High}\"\n        }\n    ],\n    \"fields\": [\n\t\t\t\t{\n            \"data_type\": \"bool\",\n            \"name\": \"Moved in Auto?\",\n            \"label\": \"Auto\",\n            \"input_type\": \"toggle\",\n            \"options\": [\n                true,\n                false\n            ]\n        },\n        {\n            \"data_type\": \"int\",\n            \"name\": \"Auto Balls Shot High\",\n            \"label\": \"Auto\",\n            \"input_type\": \"typed\"\n        },\n        {\n            \"data_type\": \"int\",\n            \"name\": \"Auto Balls Scored High\",\n            \"label\": \"Auto\",\n            \"input_type\": \"typed\"\n        },\n        {\n            \"data_type\": \"int\",\n            \"name\": \"Auto Balls Shot Low\",\n            \"label\": \"Auto\",\n            \"input_type\": \"typed\"\n        },\n        {\n            \"data_type\": \"int\",\n            \"name\": \"Auto Balls Scored Low\",\n            \"label\": \"Auto\",\n            \"input_type\": \"typed\"\n        },\n        {\n            \"data_type\": \"int\",\n            \"name\": \"Balls Shot High\",\n            \"label\": \"Scoring\",\n            \"input_type\": \"typed\"\n        },\n        {\n            \"data_type\": \"int\",\n            \"name\": \"Balls Scored High\",\n            \"label\": \"Scoring\",\n            \"input_type\": \"typed\"\n        },\n        {\n            \"data_type\": \"int\",\n            \"name\": \"Balls Shot Low\",\n            \"label\": \"Scoring\",\n            \"input_type\": \"typed\"\n        },\n        {\n            \"data_type\": \"int\",\n            \"name\": \"Balls Scored Low\",\n            \"label\": \"Scoring\",\n            \"input_type\": \"typed\"\n        },\n        {\n            \"data_type\": \"list\",\n            \"name\": \"Locations Shot From\",\n            \"label\": \"Scoring\",\n            \"input_type\": \"selection\",\n            \"options\": [\n                \"Climbing Structure & Beyond\",\n                \"Mid Range\",\n                \"Up Against Hub\"\n            ]\n        },\n        {\n            \"data_type\": \"str\",\n            \"name\": \"Additional Comments about scoring\",\n            \"label\": \"Scoring\",\n            \"input_type\": \"typed\"\n        },\n        {\n            \"data_type\": \"int\",\n            \"name\": \"Seconds Left When Starting Climb\",\n            \"label\": \"Climbing\",\n            \"input_type\": \"typed\"\n        },\n        {\n            \"data_type\": \"bool\",\n            \"name\": \"Climb Success?\",\n            \"label\": \"Climbing\",\n            \"input_type\": \"toggle\",\n            \"options\": [\n                true,\n                false\n            ]\n        },\n        {\n            \"data_type\": \"str\",\n            \"name\": \"Climb Height\",\n            \"label\": \"Climbing\",\n            \"input_type\": \"radio\",\n            \"options\": [\n                \"Low\",\n                \"Medium\",\n                \"High\",\n                \"Traversal\"\n            ]\n        },\n        {\n            \"data_type\": \"str\",\n            \"name\": \"Additional comments about climbing\",\n            \"label\": \"Climbing\",\n            \"input_type\": \"typed\"\n        },\n        {\n            \"data_type\": \"bool\",\n            \"name\": \"Was the robot playing defense?\",\n            \"label\": \"Gameplay\",\n            \"input_type\": \"toggle\",\n            \"options\": [\n                true,\n                false\n            ]\n        },\n\t\t\t\t{\n\t\t\t\t\t\t\t\"data_type\": \"bool\",\n\t\t\t\t\t\t\t\"name\": \"Was the robot being defended?\",\n\t\t\t\t\t\t\t\"label\": \"Gameplay\",\n\t\t\t\t\t\t\t\"input_type\": \"toggle\",\n\t\t\t\t\t\t\t\"options\": [\n\t\t\t\t\t\t\t\t\ttrue,\n\t\t\t\t\t\t\t\t\tfalse\n\t\t\t\t\t\t\t]\n\t\t\t\t},\n        {\n            \"data_type\": \"int\",\n            \"name\": \"If applicable, rate the robot’s defense from 1 to 10\",\n            \"label\": \"Gameplay\",\n            \"input_type\": \"typed\"\n        },\n        {\n            \"data_type\": \"str\",\n            \"name\": \"If applicable, how did the robot deal with the wrong colored balls, eg: Avoided it, Grabbed it, etc\",\n            \"label\": \"Gameplay\",\n            \"input_type\": \"typed\"\n        },\n        {\n            \"data_type\": \"str\",\n            \"name\": \"Any additional comments about the robot or it’s strategy\",\n            \"label\": \"Gameplay\",\n            \"input_type\": \"typed\"\n        }\n    ]\n}",
+		"timestamp": 1646951905416
+	},
+	{
+		"name": "TEXT",
+		"value": "We are completely uploaded and fine\n",
+		"timestamp": 1646951905416
+	},
+	{
+		"name": "TEXT",
+		"value": "Connection state changed (MAX_CONCURRENT_STREAMS == 128)!\n",
+		"timestamp": 1646951905434
+	},
+	{
+		"name": "HEADER_IN",
+		"value": "HTTP/2 308 \r\n",
+		"timestamp": 1646951905453
+	},
+	{
+		"name": "HEADER_IN",
+		"value": "content-type: text/html; charset=utf-8\r\n",
+		"timestamp": 1646951905453
+	},
+	{
+		"name": "HEADER_IN",
+		"value": "content-length: 324\r\n",
+		"timestamp": 1646951905453
+	},
+	{
+		"name": "HEADER_IN",
+		"value": "location: http://d22n8yer1yb325.cloudfront.net/Team1325/Humber/event/\r\n",
+		"timestamp": 1646951905453
+	},
+	{
+		"name": "HEADER_IN",
+		"value": "date: Thu, 10 Mar 2022 22:38:25 GMT\r\n",
+		"timestamp": 1646951905453
+	},
+	{
+		"name": "HEADER_IN",
+		"value": "server: nginx/1.18.0\r\n",
+		"timestamp": 1646951905453
+	},
+	{
+		"name": "HEADER_IN",
+		"value": "access-control-allow-origin: *\r\n",
+		"timestamp": 1646951905454
+	},
+	{
+		"name": "HEADER_IN",
+		"value": "x-cache: Miss from cloudfront\r\n",
+		"timestamp": 1646951905454
+	},
+	{
+		"name": "HEADER_IN",
+		"value": "via: 1.1 1fe7bb95d844b878ec715df0cbc00f96.cloudfront.net (CloudFront)\r\n",
+		"timestamp": 1646951905454
+	},
+	{
+		"name": "HEADER_IN",
+		"value": "x-amz-cf-pop: YTO50-C2\r\n",
+		"timestamp": 1646951905454
+	},
+	{
+		"name": "HEADER_IN",
+		"value": "x-amz-cf-id: xK58Iaal2Aj-on8tW-ymKf4QjKy-_U0S6bNAfeDwTnAZlxQWj41X4w==\r\n",
+		"timestamp": 1646951905454
+	},
+	{
+		"name": "HEADER_IN",
+		"value": "\r\n",
+		"timestamp": 1646951905454
+	},
+	{
+		"name": "TEXT",
+		"value": "Ignoring the response-body\n",
+		"timestamp": 1646951905454
+	},
+	{
+		"name": "TEXT",
+		"value": "Received 324 B chunk",
+		"timestamp": 1646951905454
+	},
+	{
+		"name": "TEXT",
+		"value": "Connection #0 to host d22n8yer1yb325.cloudfront.net left intact\n",
+		"timestamp": 1646951905454
+	},
+	{
+		"name": "TEXT",
+		"value": "Issue another request to this URL: 'http://d22n8yer1yb325.cloudfront.net/Team1325/Humber/event/'\n",
+		"timestamp": 1646951905454
+	},
+	{
+		"name": "TEXT",
+		"value": "  Trying 13.226.140.23:80...\n",
+		"timestamp": 1646951905456
+	},
+	{
+		"name": "TEXT",
+		"value": "Connected to d22n8yer1yb325.cloudfront.net (13.226.140.23) port 80 (#1)\n",
+		"timestamp": 1646951905483
+	},
+	{
+		"name": "HEADER_OUT",
+		"value": "POST /Team1325/Humber/event/ HTTP/1.1\r\nHost: d22n8yer1yb325.cloudfront.net\r\nUser-Agent: insomnia/2021.7.2\r\nContent-Type: application/json\r\nAuthorization: Bearer a1e38e5e-4346-47bc-8de2-c9cf1482532b\r\nAccept: */*\r\nContent-Length: 5077\r\n\r\n",
+		"timestamp": 1646951905483
+	},
+	{
+		"name": "DATA_OUT",
+		"value": "{\n    \"team_list\": [\n        \"216\",\n        \"244\",\n        \"288\",\n        \"781\",\n        \"1305\",\n        \"1325\",\n        \"2706\",\n        \"4015\",\n        \"4252\",\n        \"4343\",\n        \"6162\",\n        \"7520\",\n        \"8789\"\n    ],\n    \"labels\": {\n        \"Auto\": 1,\n        \"Scoring\": 2,\n        \"Climbing\": 3,\n        \"Gameplay\": 4\n    },\n\t\t\"derived_fields\": [\n        {\n            \"name\": \"Auto Low Goal Accuracy\",\n            \"label\": \"Scoring\",\n            \"expression\": \"{Auto Balls Scored Low} / {Auto Balls Shot Low}\"\n        },\n\t\t\t\t{\n            \"name\": \"Auto High Goal Accuracy\",\n            \"label\": \"Scoring\",\n            \"expression\": \"{Auto Balls Scored High} / {Auto Balls Shot High}\"\n        },\n\t\t\t\t{\n            \"name\": \"Teleop Low Goal Accuracy\",\n            \"label\": \"Scoring\",\n            \"expression\": \"{Balls Scored Low} / {Balls Shot Low}\"\n        },\n\t\t\t\t{\n            \"name\": \"Teleop High Goal Accuracy\",\n            \"label\": \"Scoring\",\n            \"expression\": \"{Balls Scored High} / {Balls Shot High}\"\n        }\n    ],\n    \"fields\": [\n\t\t\t\t{\n            \"data_type\": \"bool\",\n            \"name\": \"Moved in Auto?\",\n            \"label\": \"Auto\",\n            \"input_type\": \"toggle\",\n            \"options\": [\n                true,\n                false\n            ]\n        },\n        {\n            \"data_type\": \"int\",\n            \"name\": \"Auto Balls Shot High\",\n            \"label\": \"Auto\",\n            \"input_type\": \"typed\"\n        },\n        {\n            \"data_type\": \"int\",\n            \"name\": \"Auto Balls Scored High\",\n            \"label\": \"Auto\",\n            \"input_type\": \"typed\"\n        },\n        {\n            \"data_type\": \"int\",\n            \"name\": \"Auto Balls Shot Low\",\n            \"label\": \"Auto\",\n            \"input_type\": \"typed\"\n        },\n        {\n            \"data_type\": \"int\",\n            \"name\": \"Auto Balls Scored Low\",\n            \"label\": \"Auto\",\n            \"input_type\": \"typed\"\n        },\n        {\n            \"data_type\": \"int\",\n            \"name\": \"Balls Shot High\",\n            \"label\": \"Scoring\",\n            \"input_type\": \"typed\"\n        },\n        {\n            \"data_type\": \"int\",\n            \"name\": \"Balls Scored High\",\n            \"label\": \"Scoring\",\n            \"input_type\": \"typed\"\n        },\n        {\n            \"data_type\": \"int\",\n            \"name\": \"Balls Shot Low\",\n            \"label\": \"Scoring\",\n            \"input_type\": \"typed\"\n        },\n        {\n            \"data_type\": \"int\",\n            \"name\": \"Balls Scored Low\",\n            \"label\": \"Scoring\",\n            \"input_type\": \"typed\"\n        },\n        {\n            \"data_type\": \"list\",\n            \"name\": \"Locations Shot From\",\n            \"label\": \"Scoring\",\n            \"input_type\": \"selection\",\n            \"options\": [\n                \"Climbing Structure & Beyond\",\n                \"Mid Range\",\n                \"Up Against Hub\"\n            ]\n        },\n        {\n            \"data_type\": \"str\",\n            \"name\": \"Additional Comments about scoring\",\n            \"label\": \"Scoring\",\n            \"input_type\": \"typed\"\n        },\n        {\n            \"data_type\": \"int\",\n            \"name\": \"Seconds Left When Starting Climb\",\n            \"label\": \"Climbing\",\n            \"input_type\": \"typed\"\n        },\n        {\n            \"data_type\": \"bool\",\n            \"name\": \"Climb Success?\",\n            \"label\": \"Climbing\",\n            \"input_type\": \"toggle\",\n            \"options\": [\n                true,\n                false\n            ]\n        },\n        {\n            \"data_type\": \"str\",\n            \"name\": \"Climb Height\",\n            \"label\": \"Climbing\",\n            \"input_type\": \"radio\",\n            \"options\": [\n                \"Low\",\n                \"Medium\",\n                \"High\",\n                \"Traversal\"\n            ]\n        },\n        {\n            \"data_type\": \"str\",\n            \"name\": \"Additional comments about climbing\",\n            \"label\": \"Climbing\",\n            \"input_type\": \"typed\"\n        },\n        {\n            \"data_type\": \"bool\",\n            \"name\": \"Was the robot playing defense?\",\n            \"label\": \"Gameplay\",\n            \"input_type\": \"toggle\",\n            \"options\": [\n                true,\n                false\n            ]\n        },\n\t\t\t\t{\n\t\t\t\t\t\t\t\"data_type\": \"bool\",\n\t\t\t\t\t\t\t\"name\": \"Was the robot being defended?\",\n\t\t\t\t\t\t\t\"label\": \"Gameplay\",\n\t\t\t\t\t\t\t\"input_type\": \"toggle\",\n\t\t\t\t\t\t\t\"options\": [\n\t\t\t\t\t\t\t\t\ttrue,\n\t\t\t\t\t\t\t\t\tfalse\n\t\t\t\t\t\t\t]\n\t\t\t\t},\n        {\n            \"data_type\": \"int\",\n            \"name\": \"If applicable, rate the robot’s defense from 1 to 10\",\n            \"label\": \"Gameplay\",\n            \"input_type\": \"typed\"\n        },\n        {\n            \"data_type\": \"str\",\n            \"name\": \"If applicable, how did the robot deal with the wrong colored balls, eg: Avoided it, Grabbed it, etc\",\n            \"label\": \"Gameplay\",\n            \"input_type\": \"typed\"\n        },\n        {\n            \"data_type\": \"str\",\n            \"name\": \"Any additional comments about the robot or it’s strategy\",\n            \"label\": \"Gameplay\",\n            \"input_type\": \"typed\"\n        }\n    ]\n}",
+		"timestamp": 1646951905483
+	},
+	{
+		"name": "TEXT",
+		"value": "upload completely sent off: 5077 out of 5077 bytes\n",
+		"timestamp": 1646951905483
+	},
+	{
+		"name": "TEXT",
+		"value": "Mark bundle as not supporting multiuse\n",
+		"timestamp": 1646951905581
+	},
+	{
+		"name": "HEADER_IN",
+		"value": "HTTP/1.1 401 UNAUTHORIZED\r\n",
+		"timestamp": 1646951905581
+	},
+	{
+		"name": "HEADER_IN",
+		"value": "Content-Type: application/json\r\n",
+		"timestamp": 1646951905581
+	},
+	{
+		"name": "HEADER_IN",
+		"value": "Content-Length: 52\r\n",
+		"timestamp": 1646951905581
+	},
+	{
+		"name": "HEADER_IN",
+		"value": "Connection: keep-alive\r\n",
+		"timestamp": 1646951905581
+	},
+	{
+		"name": "HEADER_IN",
+		"value": "Date: Thu, 10 Mar 2022 22:38:25 GMT\r\n",
+		"timestamp": 1646951905581
+	},
+	{
+		"name": "HEADER_IN",
+		"value": "Server: nginx/1.18.0\r\n",
+		"timestamp": 1646951905581
+	},
+	{
+		"name": "HEADER_IN",
+		"value": "Access-Control-Allow-Origin: *\r\n",
+		"timestamp": 1646951905581
+	},
+	{
+		"name": "HEADER_IN",
+		"value": "X-Cache: Error from cloudfront\r\n",
+		"timestamp": 1646951905581
+	},
+	{
+		"name": "HEADER_IN",
+		"value": "Via: 1.1 bf13ed7c57d4b1b35300a3c885cd7afc.cloudfront.net (CloudFront)\r\n",
+		"timestamp": 1646951905581
+	},
+	{
+		"name": "HEADER_IN",
+		"value": "X-Amz-Cf-Pop: YTO50-C2\r\n",
+		"timestamp": 1646951905581
+	},
+	{
+		"name": "HEADER_IN",
+		"value": "X-Amz-Cf-Id: gaVhptlfYNI4NmnAJiLSQQi4UqBMxl67N2GbMlWGUFUC8X_SpsjxDg==\r\n",
+		"timestamp": 1646951905581
+	},
+	{
+		"name": "HEADER_IN",
+		"value": "\r\n",
+		"timestamp": 1646951905581
+	},
+	{
+		"name": "TEXT",
+		"value": "Received 52 B chunk",
+		"timestamp": 1646951905581
+	},
+	{
+		"name": "TEXT",
+		"value": "Connection #1 to host d22n8yer1yb325.cloudfront.net left intact\n",
+		"timestamp": 1646951905582
+	}
+]

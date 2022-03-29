@@ -1,0 +1,62 @@
+[
+	{
+		"name": "TEXT",
+		"value": "Preparing request to http://10.22.33.88:5003/Team1325/1241/humber/1/raw_data/",
+		"timestamp": 1647632321486
+	},
+	{
+		"name": "TEXT",
+		"value": "Current time is 2022-03-18T19:38:41.486Z",
+		"timestamp": 1647632321486
+	},
+	{
+		"name": "TEXT",
+		"value": "Using libcurl/7.73.0 OpenSSL/1.1.1l zlib/1.2.11 brotli/1.0.9 zstd/1.5.2 libidn2/2.3.2 libssh2/1.9.0 nghttp2/1.42.0",
+		"timestamp": 1647632321486
+	},
+	{
+		"name": "TEXT",
+		"value": "Using default HTTP version",
+		"timestamp": 1647632321486
+	},
+	{
+		"name": "TEXT",
+		"value": "Disable timeout",
+		"timestamp": 1647632321486
+	},
+	{
+		"name": "TEXT",
+		"value": "Enable automatic URL encoding",
+		"timestamp": 1647632321486
+	},
+	{
+		"name": "TEXT",
+		"value": "Enable SSL validation",
+		"timestamp": 1647632321486
+	},
+	{
+		"name": "TEXT",
+		"value": "Enable cookie sending with jar of 0 cookies",
+		"timestamp": 1647632321487
+	},
+	{
+		"name": "TEXT",
+		"value": "  Trying 10.22.33.88:5003...\n",
+		"timestamp": 1647632321489
+	},
+	{
+		"name": "TEXT",
+		"value": "connect to 10.22.33.88 port 5003 failed: Connection refused\n",
+		"timestamp": 1647632321557
+	},
+	{
+		"name": "TEXT",
+		"value": "Failed to connect to 10.22.33.88 port 5003: Connection refused\n",
+		"timestamp": 1647632321558
+	},
+	{
+		"name": "TEXT",
+		"value": "Closing connection 2\n",
+		"timestamp": 1647632321558
+	}
+]

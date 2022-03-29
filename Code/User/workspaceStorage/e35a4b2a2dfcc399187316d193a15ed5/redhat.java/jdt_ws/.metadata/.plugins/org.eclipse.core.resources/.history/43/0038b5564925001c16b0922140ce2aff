@@ -1,0 +1,469 @@
+package org.wildfly.security.http.oidc;
+
+import java.util.Locale;
+import java.io.Serializable;
+import javax.annotation.Generated;
+import org.jboss.logging.DelegatingBasicLogger;
+import java.lang.String;
+import org.jboss.logging.Logger;
+import java.lang.Exception;
+import java.lang.RuntimeException;
+import org.jboss.logging.BasicLogger;
+import java.lang.Throwable;
+import java.lang.Object;
+import org.wildfly.security.http.oidc.OidcException;
+import java.util.Arrays;
+import java.lang.IllegalArgumentException;
+
+
+import static org.jboss.logging.Logger.Level.ERROR;
+import static org.jboss.logging.Logger.Level.INFO;
+import static org.jboss.logging.Logger.Level.WARN;
+
+/**
+ * Warning this class consists of generated code.
+ */
+@Generated(value = "org.jboss.logging.processor.generator.model.MessageLoggerImplementor", date = "2021-10-04T11:38:40-0400")
+public class ElytronMessages_$logger extends DelegatingBasicLogger implements ElytronMessages, BasicLogger, Serializable {
+    private static final long serialVersionUID = 1L;
+    private static final String FQCN = ElytronMessages_$logger.class.getName();
+    public ElytronMessages_$logger(final Logger log) {
+        super(log);
+    }
+    private static final Locale LOCALE = Locale.ROOT;
+    protected Locale getLoggingLocale() {
+        return LOCALE;
+    }
+    protected String unexpectedResponseCodeFromOidcProvider$str() {
+        return "ELY23000: Unexpected HTTP status code in response from OIDC provider \"%d\"";
+    }
+    @Override
+    public final org.wildfly.security.http.oidc.OidcException unexpectedResponseCodeFromOidcProvider(final int responseCode) {
+        final org.wildfly.security.http.oidc.OidcException result = new org.wildfly.security.http.oidc.OidcException(String.format(getLoggingLocale(), unexpectedResponseCodeFromOidcProvider$str(), responseCode));
+        _copyStackTraceMinusOne(result);
+        return result;
+    }
+    private static void _copyStackTraceMinusOne(final Throwable e) {
+        final StackTraceElement[] st = e.getStackTrace();
+        e.setStackTrace(Arrays.copyOfRange(st, 1, st.length));
+    }
+    protected String noEntityInResponse$str() {
+        return "ELY23001: No entity in response from OIDC provider";
+    }
+    @Override
+    public final org.wildfly.security.http.oidc.OidcException noEntityInResponse() {
+        final org.wildfly.security.http.oidc.OidcException result = new org.wildfly.security.http.oidc.OidcException(String.format(getLoggingLocale(), noEntityInResponse$str()));
+        _copyStackTraceMinusOne(result);
+        return result;
+    }
+    protected String unexpectedErrorSendingRequestToOidcProvider$str() {
+        return "ELY23002: Unexpected error sending request to OIDC provider";
+    }
+    @Override
+    public final org.wildfly.security.http.oidc.OidcException unexpectedErrorSendingRequestToOidcProvider(final Exception cause) {
+        final org.wildfly.security.http.oidc.OidcException result = new org.wildfly.security.http.oidc.OidcException(String.format(getLoggingLocale(), unexpectedErrorSendingRequestToOidcProvider$str()), cause);
+        _copyStackTraceMinusOne(result);
+        return result;
+    }
+    protected String providerUrlOrAuthServerUrlNeedsToBeConfigured$str() {
+        return "ELY23003: Either provider-url or auth-server-url needs to be configured";
+    }
+    @Override
+    public final IllegalArgumentException providerUrlOrAuthServerUrlNeedsToBeConfigured() {
+        final IllegalArgumentException result = new IllegalArgumentException(String.format(getLoggingLocale(), providerUrlOrAuthServerUrlNeedsToBeConfigured$str()));
+        _copyStackTraceMinusOne(result);
+        return result;
+    }
+    @Override
+    public final void loadedOpenIdProviderMetadata(final String discoveryUrl) {
+        super.log.logf(FQCN, INFO, null, loadedOpenIdProviderMetadata$str(), discoveryUrl);
+    }
+    protected String loadedOpenIdProviderMetadata$str() {
+        return "ELY23004: Loaded OpenID provider metadata from '%s'";
+    }
+    @Override
+    public final void unableToLoadOpenIdProviderMetadata(final String discoveryUrl) {
+        super.log.logf(FQCN, WARN, null, unableToLoadOpenIdProviderMetadata$str(), discoveryUrl);
+    }
+    protected String unableToLoadOpenIdProviderMetadata$str() {
+        return "ELY23005: Unable to load OpenID provider metadata from %s";
+    }
+    protected String failedToDecodeRequestUri$str() {
+        return "ELY23006: Failed to decode request URI";
+    }
+    @Override
+    public final RuntimeException failedToDecodeRequestUri(final Exception cause) {
+        final RuntimeException result = new RuntimeException(String.format(getLoggingLocale(), failedToDecodeRequestUri$str()), cause);
+        _copyStackTraceMinusOne(result);
+        return result;
+    }
+    protected String failedToWriteToResponseOutputStream$str() {
+        return "ELY23007: Failed to write to response output stream";
+    }
+    @Override
+    public final RuntimeException failedToWriteToResponseOutputStream(final Exception cause) {
+        final RuntimeException result = new RuntimeException(String.format(getLoggingLocale(), failedToWriteToResponseOutputStream$str()), cause);
+        _copyStackTraceMinusOne(result);
+        return result;
+    }
+    protected String unableToParseToken$str() {
+        return "ELY23008: Unable to parse token";
+    }
+    @Override
+    public final IllegalArgumentException unableToParseToken() {
+        final IllegalArgumentException result = new IllegalArgumentException(String.format(getLoggingLocale(), unableToParseToken$str()));
+        _copyStackTraceMinusOne(result);
+        return result;
+    }
+    protected String oidcConfigFileNotFound$str() {
+        return "ELY23009: OIDC client configuration file not found";
+    }
+    @Override
+    public final RuntimeException oidcConfigFileNotFound(final Exception cause) {
+        final RuntimeException result = new RuntimeException(String.format(getLoggingLocale(), oidcConfigFileNotFound$str()), cause);
+        _copyStackTraceMinusOne(result);
+        return result;
+    }
+    @Override
+    public final void failedToInvokeRemoteLogout(final Throwable cause) {
+        super.log.logf(FQCN, ERROR, cause, failedToInvokeRemoteLogout$str());
+    }
+    protected String failedToInvokeRemoteLogout$str() {
+        return "ELY23010: Failed to invoke remote logout";
+    }
+    @Override
+    public final void refreshTokenFailure(final Throwable cause) {
+        super.log.logf(FQCN, ERROR, cause, refreshTokenFailure$str());
+    }
+    protected String refreshTokenFailure$str() {
+        return "ELY23011: Refresh token failure";
+    }
+    @Override
+    public final void refreshTokenFailureStatus(final int status, final String error) {
+        super.log.logf(FQCN, ERROR, null, refreshTokenFailureStatus$str(), status, error);
+    }
+    protected String refreshTokenFailureStatus$str() {
+        return "ELY23012: Refresh token failure status: %d %s";
+    }
+    @Override
+    public final void failedVerificationOfToken(final String error) {
+        super.log.logf(FQCN, ERROR, null, failedVerificationOfToken$str(), error);
+    }
+    protected String failedVerificationOfToken$str() {
+        return "ELY23013: Failed verification of token: %s";
+    }
+    @Override
+    public final void failedToRefreshTokenWithALongerTTLThanMin() {
+        super.log.logf(FQCN, ERROR, null, failedToRefreshTokenWithALongerTTLThanMin$str());
+    }
+    protected String failedToRefreshTokenWithALongerTTLThanMin$str() {
+        return "ELY23014: Failed to refresh the token with a longer time-to-live than the minimum";
+    }
+    protected String noExpectedIssuerGiven$str() {
+        return "ELY23015: No expected issuer given";
+    }
+    @Override
+    public final IllegalArgumentException noExpectedIssuerGiven() {
+        final IllegalArgumentException result = new IllegalArgumentException(String.format(getLoggingLocale(), noExpectedIssuerGiven$str()));
+        _copyStackTraceMinusOne(result);
+        return result;
+    }
+    protected String noClientIDGiven$str() {
+        return "ELY23016: No client ID given";
+    }
+    @Override
+    public final IllegalArgumentException noClientIDGiven() {
+        final IllegalArgumentException result = new IllegalArgumentException(String.format(getLoggingLocale(), noClientIDGiven$str()));
+        _copyStackTraceMinusOne(result);
+        return result;
+    }
+    protected String noExpectedJwsAlgorithmGiven$str() {
+        return "ELY23017: No expected JWS algorithm given";
+    }
+    @Override
+    public final IllegalArgumentException noExpectedJwsAlgorithmGiven() {
+        final IllegalArgumentException result = new IllegalArgumentException(String.format(getLoggingLocale(), noExpectedJwsAlgorithmGiven$str()));
+        _copyStackTraceMinusOne(result);
+        return result;
+    }
+    protected String noJwksPublicKeyOrClientSecretKeyGiven$str() {
+        return "ELY23018: No JWKS public key or client secret key given";
+    }
+    @Override
+    public final IllegalArgumentException noJwksPublicKeyOrClientSecretKeyGiven() {
+        final IllegalArgumentException result = new IllegalArgumentException(String.format(getLoggingLocale(), noJwksPublicKeyOrClientSecretKeyGiven$str()));
+        _copyStackTraceMinusOne(result);
+        return result;
+    }
+    protected String invalidIDToken$str() {
+        return "ELY23019: Invalid ID token";
+    }
+    @Override
+    public final org.wildfly.security.http.oidc.OidcException invalidIDToken(final Throwable cause) {
+        final org.wildfly.security.http.oidc.OidcException result = new org.wildfly.security.http.oidc.OidcException(String.format(getLoggingLocale(), invalidIDToken$str()), cause);
+        _copyStackTraceMinusOne(result);
+        return result;
+    }
+    protected String unexpectedValueForIssuedForClaim$str() {
+        return "Unexpected value for azp (issued for) claim";
+    }
+    @Override
+    public final String unexpectedValueForIssuedForClaim() {
+        return String.format(getLoggingLocale(), unexpectedValueForIssuedForClaim$str());
+    }
+    protected String invalidTokenClaimValue$str() {
+        return "ELY23020: Invalid token claim value";
+    }
+    @Override
+    public final IllegalArgumentException invalidTokenClaimValue() {
+        final IllegalArgumentException result = new IllegalArgumentException(String.format(getLoggingLocale(), invalidTokenClaimValue$str()));
+        _copyStackTraceMinusOne(result);
+        return result;
+    }
+    protected String invalidIDTokenClaims$str() {
+        return "ELY23021: Invalid ID token claims";
+    }
+    @Override
+    public final org.wildfly.security.http.oidc.OidcException invalidIDTokenClaims() {
+        final org.wildfly.security.http.oidc.OidcException result = new org.wildfly.security.http.oidc.OidcException(String.format(getLoggingLocale(), invalidIDTokenClaims$str()));
+        _copyStackTraceMinusOne(result);
+        return result;
+    }
+    protected String keycloakRealmMissing$str() {
+        return "ELY23022: Must set 'realm' in config";
+    }
+    @Override
+    public final RuntimeException keycloakRealmMissing() {
+        final RuntimeException result = new RuntimeException(String.format(getLoggingLocale(), keycloakRealmMissing$str()));
+        _copyStackTraceMinusOne(result);
+        return result;
+    }
+    protected String resourceOrClientIdMustBeSet$str() {
+        return "ELY23023: Must set 'resource' or 'client-id'";
+    }
+    @Override
+    public final RuntimeException resourceOrClientIdMustBeSet() {
+        final RuntimeException result = new RuntimeException(String.format(getLoggingLocale(), resourceOrClientIdMustBeSet$str()));
+        _copyStackTraceMinusOne(result);
+        return result;
+    }
+    protected String invalidConfigurationForBearerAuth$str() {
+        return "ELY23024: For bearer auth, you must set the 'realm-public-key' or one of 'auth-server-url' and 'provider-url'";
+    }
+    @Override
+    public final IllegalArgumentException invalidConfigurationForBearerAuth() {
+        final IllegalArgumentException result = new IllegalArgumentException(String.format(getLoggingLocale(), invalidConfigurationForBearerAuth$str()));
+        _copyStackTraceMinusOne(result);
+        return result;
+    }
+    protected String authServerUrlOrProviderUrlMustBeSet$str() {
+        return "ELY23025: Must set 'auth-server-url' or 'provider-url'";
+    }
+    @Override
+    public final RuntimeException authServerUrlOrProviderUrlMustBeSet() {
+        final RuntimeException result = new RuntimeException(String.format(getLoggingLocale(), authServerUrlOrProviderUrlMustBeSet$str()));
+        _copyStackTraceMinusOne(result);
+        return result;
+    }
+    @Override
+    public final void noClientSecretConfigured(final String clientId) {
+        super.log.logf(FQCN, WARN, null, noClientSecretConfigured$str(), clientId);
+    }
+    protected String noClientSecretConfigured$str() {
+        return "ELY23026: Client '%s' does not have a secret configured";
+    }
+    protected String unsupportedPublicKey$str() {
+        return "ELY23027: Unsupported public key";
+    }
+    @Override
+    public final IllegalArgumentException unsupportedPublicKey() {
+        final IllegalArgumentException result = new IllegalArgumentException(String.format(getLoggingLocale(), unsupportedPublicKey$str()));
+        _copyStackTraceMinusOne(result);
+        return result;
+    }
+    protected String unableToCreateSignedToken$str() {
+        return "ELY23028: Unable to create signed token";
+    }
+    @Override
+    public final IllegalArgumentException unableToCreateSignedToken() {
+        final IllegalArgumentException result = new IllegalArgumentException(String.format(getLoggingLocale(), unableToCreateSignedToken$str()));
+        _copyStackTraceMinusOne(result);
+        return result;
+    }
+    protected String invalidJwtClientCredentialsConfig$str() {
+        return "ELY23029: Configuration of jwt credentials is missing or incorrect for client '%s'";
+    }
+    @Override
+    public final RuntimeException invalidJwtClientCredentialsConfig(final String clientId) {
+        final RuntimeException result = new RuntimeException(String.format(getLoggingLocale(), invalidJwtClientCredentialsConfig$str(), clientId));
+        _copyStackTraceMinusOne(result);
+        return result;
+    }
+    protected String missingParameterInJwtClientCredentialsConfig$str() {
+        return "ELY23030: Missing parameter '%s' in jwt credentials for client %s";
+    }
+    @Override
+    public final RuntimeException missingParameterInJwtClientCredentialsConfig(final String parameter, final String clientId) {
+        final RuntimeException result = new RuntimeException(String.format(getLoggingLocale(), missingParameterInJwtClientCredentialsConfig$str(), parameter, clientId));
+        _copyStackTraceMinusOne(result);
+        return result;
+    }
+    protected String unableToParseKeyWithValue$str() {
+        return "ELY23031: Unable to parse key '%s' with value '%s'";
+    }
+    @Override
+    public final IllegalArgumentException unableToParseKeyWithValue(final String key, final Object value) {
+        final IllegalArgumentException result = new IllegalArgumentException(String.format(getLoggingLocale(), unableToParseKeyWithValue$str(), key, value));
+        _copyStackTraceMinusOne(result);
+        return result;
+    }
+    protected String unableToLoadKeyWithAlias$str() {
+        return "ELY23032: Unable to load key with alias '%s' from keystore";
+    }
+    @Override
+    public final RuntimeException unableToLoadKeyWithAlias(final String alias) {
+        final RuntimeException result = new RuntimeException(String.format(getLoggingLocale(), unableToLoadKeyWithAlias$str(), alias));
+        _copyStackTraceMinusOne(result);
+        return result;
+    }
+    protected String unableToLoadPrivateKey$str() {
+        return "ELY23033: Unable to load private key from keystore";
+    }
+    @Override
+    public final RuntimeException unableToLoadPrivateKey(final Throwable cause) {
+        final RuntimeException result = new RuntimeException(String.format(getLoggingLocale(), unableToLoadPrivateKey$str()), cause);
+        _copyStackTraceMinusOne(result);
+        return result;
+    }
+    protected String unableToFindKeystoreFile$str() {
+        return "ELY23034: Unable to find keystore file '%s'";
+    }
+    @Override
+    public final RuntimeException unableToFindKeystoreFile(final String keystoreFile) {
+        final RuntimeException result = new RuntimeException(String.format(getLoggingLocale(), unableToFindKeystoreFile$str(), keystoreFile));
+        _copyStackTraceMinusOne(result);
+        return result;
+    }
+    protected String invalidJwtClientCredentialsUsingSecretConfig$str() {
+        return "ELY23035: Configuration of secret jwt client credentials is missing or incorrect for client '%s'";
+    }
+    @Override
+    public final RuntimeException invalidJwtClientCredentialsUsingSecretConfig(final String clientId) {
+        final RuntimeException result = new RuntimeException(String.format(getLoggingLocale(), invalidJwtClientCredentialsUsingSecretConfig$str(), clientId));
+        _copyStackTraceMinusOne(result);
+        return result;
+    }
+    protected String invalidAlgorithmInJwtClientCredentialsConfig$str() {
+        return "ELY23036: Invalid value for 'algorithm' in secret jwt client credentials configuration for client '%s'";
+    }
+    @Override
+    public final RuntimeException invalidAlgorithmInJwtClientCredentialsConfig(final String clientId) {
+        final RuntimeException result = new RuntimeException(String.format(getLoggingLocale(), invalidAlgorithmInJwtClientCredentialsConfig$str(), clientId));
+        _copyStackTraceMinusOne(result);
+        return result;
+    }
+    protected String unableToDetermineClientCredentialsProviderType$str() {
+        return "ELY23037: Unable to determine client credentials provider type for client '%s'";
+    }
+    @Override
+    public final RuntimeException unableToDetermineClientCredentialsProviderType(final String clientId) {
+        final RuntimeException result = new RuntimeException(String.format(getLoggingLocale(), unableToDetermineClientCredentialsProviderType$str(), clientId));
+        _copyStackTraceMinusOne(result);
+        return result;
+    }
+    protected String unableToFindClientCredentialsProvider$str() {
+        return "ELY23038: Unable to find client credentials provider '%s'";
+    }
+    @Override
+    public final RuntimeException unableToFindClientCredentialsProvider(final String provider) {
+        final RuntimeException result = new RuntimeException(String.format(getLoggingLocale(), unableToFindClientCredentialsProvider$str(), provider));
+        _copyStackTraceMinusOne(result);
+        return result;
+    }
+    protected String unableToLoadKeyStore$str() {
+        return "ELY23039: Unable to load keystore";
+    }
+    @Override
+    public final RuntimeException unableToLoadKeyStore(final Throwable cause) {
+        final RuntimeException result = new RuntimeException(String.format(getLoggingLocale(), unableToLoadKeyStore$str()), cause);
+        _copyStackTraceMinusOne(result);
+        return result;
+    }
+    protected String unableToLoadTrustStore$str() {
+        return "ELY23040: Unable to load truststore";
+    }
+    @Override
+    public final RuntimeException unableToLoadTrustStore(final Throwable cause) {
+        final RuntimeException result = new RuntimeException(String.format(getLoggingLocale(), unableToLoadTrustStore$str()), cause);
+        _copyStackTraceMinusOne(result);
+        return result;
+    }
+    protected String unableToFindTrustStoreFile$str() {
+        return "ELY23041: Unable to find truststore file '%s'";
+    }
+    @Override
+    public final RuntimeException unableToFindTrustStoreFile(final String trustStoreFile) {
+        final RuntimeException result = new RuntimeException(String.format(getLoggingLocale(), unableToFindTrustStoreFile$str(), trustStoreFile));
+        _copyStackTraceMinusOne(result);
+        return result;
+    }
+    protected String unexpectedValueForAtHashClaim$str() {
+        return "ELY23042: Unexpected value for at_hash claim";
+    }
+    @Override
+    public final String unexpectedValueForAtHashClaim() {
+        return String.format(getLoggingLocale(), unexpectedValueForAtHashClaim$str());
+    }
+    protected String unknownAlgorithm$str() {
+        return "ELY23043: Uknown algorithm: '%s'";
+    }
+    @Override
+    public final IllegalArgumentException unknownAlgorithm(final String algorithm) {
+        final IllegalArgumentException result = new IllegalArgumentException(String.format(getLoggingLocale(), unknownAlgorithm$str(), algorithm));
+        _copyStackTraceMinusOne(result);
+        return result;
+    }
+    @Override
+    public final void failedToParseTokenFromCookie(final Throwable cause) {
+        super.log.logf(FQCN, WARN, cause, failedToParseTokenFromCookie$str());
+    }
+    protected String failedToParseTokenFromCookie$str() {
+        return "ELY23044: Failed to parse token from cookie";
+    }
+    protected String unableToCreateRedirectResponse$str() {
+        return "ELY23045: Unable to create redirect response";
+    }
+    @Override
+    public final IllegalArgumentException unableToCreateRedirectResponse(final Throwable cause) {
+        final IllegalArgumentException result = new IllegalArgumentException(String.format(getLoggingLocale(), unableToCreateRedirectResponse$str()), cause);
+        _copyStackTraceMinusOne(result);
+        return result;
+    }
+    protected String unableToSetAuthServerUrl$str() {
+        return "ELY23046: Unable to set auth server URL";
+    }
+    @Override
+    public final RuntimeException unableToSetAuthServerUrl(final Throwable cause) {
+        final RuntimeException result = new RuntimeException(String.format(getLoggingLocale(), unableToSetAuthServerUrl$str()), cause);
+        _copyStackTraceMinusOne(result);
+        return result;
+    }
+    protected String unableToResolveARelativeUrl$str() {
+        return "ELY23047: Unable resolve a relative URL";
+    }
+    @Override
+    public final RuntimeException unableToResolveARelativeUrl() {
+        final RuntimeException result = new RuntimeException(String.format(getLoggingLocale(), unableToResolveARelativeUrl$str()));
+        _copyStackTraceMinusOne(result);
+        return result;
+    }
+    protected String invalidUri$str() {
+        return "ELY23048: Invalid URI: '%s'";
+    }
+    @Override
+    public final RuntimeException invalidUri(final String uri) {
+        final RuntimeException result = new RuntimeException(String.format(getLoggingLocale(), invalidUri$str(), uri));
+        _copyStackTraceMinusOne(result);
+        return result;
+    }
+}

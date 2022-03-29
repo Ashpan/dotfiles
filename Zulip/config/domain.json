@@ -1,0 +1,9 @@
+{
+    "domains": [
+        {
+            "icon": "/home/ashpan/.config/Zulip/server-icons/1750217624.png",
+            "url": "https://wildfly.zulipchat.com",
+            "alias": "WildFly"
+        }
+    ]
+}

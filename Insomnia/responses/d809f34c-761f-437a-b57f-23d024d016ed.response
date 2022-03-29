@@ -1,0 +1,1 @@
+{"message":"Successfully updated metrics","metrics":[{"expression":"$AVG{Moved in Auto?}","label":"Auto","name":"Auto Move %"}],"status_code":200}

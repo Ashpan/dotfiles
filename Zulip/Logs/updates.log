@@ -1,0 +1,600 @@
+[2021-07-09 09:22:35.904] [info]  Checking for update
+[2021-07-09 09:22:35.944] [info]  Generated new staging user ID: e6370fb9-e45b-566f-8a5f-a726e1c13a5a
+[2021-07-09 09:22:36.479] [info]  Update for version 5.7.0 is not available (latest version: 5.7.0, downgrade is disallowed).
+[2021-07-12 10:00:27.325] [info]  Checking for update
+[2021-07-12 10:00:28.098] [info]  Update for version 5.7.0 is not available (latest version: 5.7.0, downgrade is disallowed).
+[2021-07-12 17:11:43.646] [info]  Checking for update
+[2021-07-12 17:11:44.336] [info]  Update for version 5.7.0 is not available (latest version: 5.7.0, downgrade is disallowed).
+[2021-07-13 09:11:21.803] [info]  Checking for update
+[2021-07-13 09:11:22.679] [info]  Update for version 5.7.0 is not available (latest version: 5.7.0, downgrade is disallowed).
+[2021-07-13 09:48:38.714] [info]  Checking for update
+[2021-07-13 09:48:39.478] [info]  Update for version 5.7.0 is not available (latest version: 5.7.0, downgrade is disallowed).
+[2021-07-14 09:07:12.262] [info]  Checking for update
+[2021-07-14 09:07:13.090] [info]  Update for version 5.7.0 is not available (latest version: 5.7.0, downgrade is disallowed).
+[2021-07-14 09:19:26.354] [info]  Checking for update
+[2021-07-14 09:19:27.139] [info]  Update for version 5.7.0 is not available (latest version: 5.7.0, downgrade is disallowed).
+[2021-07-14 14:41:23.612] [info]  Checking for update
+[2021-07-14 14:41:24.182] [info]  Update for version 5.7.0 is not available (latest version: 5.7.0, downgrade is disallowed).
+[2021-07-15 11:29:31.879] [info]  Checking for update
+[2021-07-15 11:29:32.976] [info]  Update for version 5.7.0 is not available (latest version: 5.7.0, downgrade is disallowed).
+[2021-07-16 09:05:57.058] [info]  Checking for update
+[2021-07-16 09:05:57.793] [info]  Update for version 5.7.0 is not available (latest version: 5.7.0, downgrade is disallowed).
+[2021-07-16 09:37:41.191] [info]  Checking for update
+[2021-07-16 09:37:42.044] [info]  Update for version 5.7.0 is not available (latest version: 5.7.0, downgrade is disallowed).
+[2021-07-16 09:49:21.580] [info]  Checking for update
+[2021-07-16 09:49:22.368] [info]  Update for version 5.7.0 is not available (latest version: 5.7.0, downgrade is disallowed).
+[2021-07-19 09:05:06.790] [info]  Checking for update
+[2021-07-19 09:05:07.409] [info]  Update for version 5.7.0 is not available (latest version: 5.7.0, downgrade is disallowed).
+[2021-07-20 09:04:28.398] [info]  Checking for update
+[2021-07-20 09:04:29.192] [info]  Update for version 5.7.0 is not available (latest version: 5.7.0, downgrade is disallowed).
+[2021-07-21 08:36:33.618] [info]  Checking for update
+[2021-07-21 08:36:34.401] [info]  Update for version 5.7.0 is not available (latest version: 5.7.0, downgrade is disallowed).
+[2021-07-22 08:59:31.669] [info]  Checking for update
+[2021-07-22 08:59:32.533] [info]  Found version 5.8.0 (url: Zulip-5.8.0-x86_64.AppImage)
+[2021-07-22 08:59:32.534] [info]  Downloading update from Zulip-5.8.0-x86_64.AppImage
+[2021-07-22 08:59:33.741] [info]  File has 3689 changed blocks
+[2021-07-22 08:59:33.755] [info]  Full: 79,679.89 KB, To download: 75,777.74 KB (95%)
+[2021-07-22 08:59:33.758] [info]  Differential download: https://github.com/zulip/zulip-desktop/releases/download/v5.8.0/Zulip-5.8.0-x86_64.AppImage
+[2021-07-22 08:59:33.791] [info]  Redirect to https://github-releases.githubusercontent.com/60656871/0b749c11-601a-4ee7-9879-41f3c38c05eb
+[2021-07-22 08:59:36.861] [info]  New version 5.8.0 has been downloaded to /home/ashpan/.cache/zulip-updater/pending/Zulip-5.8.0-x86_64.AppImage
+[2021-07-22 08:59:43.861] [info]  Install on explicit quitAndInstall
+[2021-07-22 08:59:43.862] [info]  Install: isSilent: false, isForceRunAfter: true
+[2021-07-22 08:59:43.875] [info]  Update installer has already been triggered. Quitting application.
+[2021-07-22 08:59:50.711] [info]  Checking for update
+[2021-07-22 08:59:51.141] [info]  Update for version 5.8.0 is not available (latest version: 5.8.0, downgrade is disallowed).
+[2021-07-22 09:34:55.390] [info]  Checking for update
+[2021-07-22 09:34:56.060] [info]  Update for version 5.8.0 is not available (latest version: 5.8.0, downgrade is disallowed).
+[2021-07-22 10:08:40.677] [info]  Checking for update
+[2021-07-22 10:08:41.148] [info]  Update for version 5.8.0 is not available (latest version: 5.8.0, downgrade is disallowed).
+[2021-07-22 10:09:06.856] [info]  Checking for update
+[2021-07-22 10:09:07.249] [info]  Update for version 5.8.0 is not available (latest version: 5.8.0, downgrade is disallowed).
+[2021-07-22 10:09:35.470] [info]  Checking for update
+[2021-07-22 10:09:36.179] [info]  Update for version 5.8.0 is not available (latest version: 5.8.0, downgrade is disallowed).
+[2021-07-23 09:30:21.809] [info]  Checking for update
+[2021-07-23 09:30:22.527] [info]  Update for version 5.8.0 is not available (latest version: 5.8.0, downgrade is disallowed).
+[2021-07-23 15:57:36.039] [info]  Checking for update
+[2021-07-23 15:57:36.543] [info]  Update for version 5.8.0 is not available (latest version: 5.8.0, downgrade is disallowed).
+[2021-07-26 08:51:39.821] [info]  Checking for update
+[2021-07-26 08:51:40.351] [info]  Update for version 5.8.0 is not available (latest version: 5.8.0, downgrade is disallowed).
+[2021-07-27 08:58:34.723] [info]  Checking for update
+[2021-07-27 08:58:35.230] [info]  Update for version 5.8.0 is not available (latest version: 5.8.0, downgrade is disallowed).
+[2021-07-28 09:08:12.432] [info]  Checking for update
+[2021-07-28 09:08:13.203] [info]  Update for version 5.8.0 is not available (latest version: 5.8.0, downgrade is disallowed).
+[2021-07-29 09:16:44.930] [info]  Checking for update
+[2021-07-29 09:16:45.484] [info]  Update for version 5.8.0 is not available (latest version: 5.8.0, downgrade is disallowed).
+[2021-07-30 08:57:51.617] [info]  Checking for update
+[2021-07-30 08:57:52.164] [info]  Found version 5.8.1 (url: Zulip-5.8.1-x86_64.AppImage)
+[2021-07-30 08:57:52.164] [info]  Downloading update from Zulip-5.8.1-x86_64.AppImage
+[2021-07-30 08:57:52.168] [info]  Cached update sha512 checksum doesn't match the latest available update. New update must be downloaded. Cached: eGEvPsrwoSb/MmAl4/nlDX6+HWhedjPq94AR29lVLfX7iq/wTkDbwGi6qqKOfgl9tUbKpq+JNp2k55dQNopnCQ==, expected: t3DnOWIf1i2aAcigyMNrbZVzKPm/ugA2vD/eXNnbAhJUoOmhNVbG3TXJZvFSq3aIFnLSKmMb0ePqr+CcqsIVhw==. Directory for cached update will be cleaned
+[2021-07-30 08:57:53.150] [info]  File has 151 changed blocks
+[2021-07-30 08:57:53.162] [info]  Full: 79,692.15 KB, To download: 2,981.32 KB (4%)
+[2021-07-30 08:57:53.164] [info]  Differential download: https://github.com/zulip/zulip-desktop/releases/download/v5.8.1/Zulip-5.8.1-x86_64.AppImage
+[2021-07-30 08:57:53.216] [info]  Redirect to https://github-releases.githubusercontent.com/60656871/5a08ff4e-12e8-4ff3-a64d-039465f0ddb0
+[2021-07-30 08:57:53.591] [info]  New version 5.8.1 has been downloaded to /home/ashpan/.cache/zulip-updater/pending/Zulip-5.8.1-x86_64.AppImage
+[2021-07-30 18:09:04.632] [info]  Auto install update on quit
+[2021-07-30 18:09:04.643] [info]  Install: isSilent: true, isForceRunAfter: false
+[2021-08-03 09:05:40.640] [info]  Checking for update
+[2021-08-03 09:05:41.320] [info]  Update for version 5.8.1 is not available (latest version: 5.8.1, downgrade is disallowed).
+[2021-08-04 09:16:20.722] [info]  Checking for update
+[2021-08-04 09:16:21.535] [info]  Update for version 5.8.1 is not available (latest version: 5.8.1, downgrade is disallowed).
+[2021-08-04 22:04:44.333] [info]  Checking for update
+[2021-08-04 22:04:45.097] [info]  Update for version 5.8.1 is not available (latest version: 5.8.1, downgrade is disallowed).
+[2021-08-05 09:18:21.275] [info]  Checking for update
+[2021-08-05 09:18:22.060] [info]  Update for version 5.8.1 is not available (latest version: 5.8.1, downgrade is disallowed).
+[2021-08-06 08:51:44.562] [info]  Checking for update
+[2021-08-06 08:51:45.358] [info]  Update for version 5.8.1 is not available (latest version: 5.8.1, downgrade is disallowed).
+[2021-08-07 11:52:43.552] [info]  Checking for update
+[2021-08-07 11:52:44.283] [info]  Update for version 5.8.1 is not available (latest version: 5.8.1, downgrade is disallowed).
+[2021-08-09 09:01:10.181] [info]  Checking for update
+[2021-08-09 09:01:10.814] [info]  Update for version 5.8.1 is not available (latest version: 5.8.1, downgrade is disallowed).
+[2021-08-10 09:15:10.659] [info]  Checking for update
+[2021-08-10 09:15:11.522] [info]  Update for version 5.8.1 is not available (latest version: 5.8.1, downgrade is disallowed).
+[2021-08-11 09:03:37.642] [info]  Checking for update
+[2021-08-11 09:03:38.244] [info]  Update for version 5.8.1 is not available (latest version: 5.8.1, downgrade is disallowed).
+[2021-08-11 14:36:30.321] [info]  Checking for update
+[2021-08-11 14:36:31.134] [info]  Update for version 5.8.1 is not available (latest version: 5.8.1, downgrade is disallowed).
+[2021-08-12 09:16:16.036] [info]  Checking for update
+[2021-08-12 09:16:16.849] [info]  Update for version 5.8.1 is not available (latest version: 5.8.1, downgrade is disallowed).
+[2021-08-13 22:50:02.613] [info]  Checking for update
+[2021-08-13 22:50:03.501] [info]  Update for version 5.8.1 is not available (latest version: 5.8.1, downgrade is disallowed).
+[2021-08-16 10:03:43.830] [info]  Checking for update
+[2021-08-16 10:03:44.497] [info]  Update for version 5.8.1 is not available (latest version: 5.8.1, downgrade is disallowed).
+[2021-08-17 09:31:58.239] [info]  Checking for update
+[2021-08-17 09:31:58.960] [info]  Update for version 5.8.1 is not available (latest version: 5.8.1, downgrade is disallowed).
+[2021-08-18 09:19:52.003] [info]  Checking for update
+[2021-08-18 09:19:52.633] [info]  Update for version 5.8.1 is not available (latest version: 5.8.1, downgrade is disallowed).
+[2021-08-18 18:28:19.267] [info]  Checking for update
+[2021-08-18 18:28:20.069] [info]  Update for version 5.8.1 is not available (latest version: 5.8.1, downgrade is disallowed).
+[2021-08-19 09:07:06.749] [info]  Checking for update
+[2021-08-19 09:07:07.314] [info]  Update for version 5.8.1 is not available (latest version: 5.8.1, downgrade is disallowed).
+[2021-08-23 08:31:38.338] [info]  Checking for update
+[2021-08-23 08:31:39.260] [info]  Update for version 5.8.1 is not available (latest version: 5.8.1, downgrade is disallowed).
+[2021-08-24 09:12:09.254] [info]  Checking for update
+[2021-08-24 09:12:09.846] [info]  Update for version 5.8.1 is not available (latest version: 5.8.1, downgrade is disallowed).
+[2021-08-25 09:01:28.376] [info]  Checking for update
+[2021-08-25 09:01:28.930] [info]  Update for version 5.8.1 is not available (latest version: 5.8.1, downgrade is disallowed).
+[2021-08-26 09:16:06.110] [info]  Checking for update
+[2021-08-26 09:16:06.853] [info]  Update for version 5.8.1 is not available (latest version: 5.8.1, downgrade is disallowed).
+[2021-08-27 09:10:31.112] [info]  Checking for update
+[2021-08-27 09:10:31.697] [info]  Update for version 5.8.1 is not available (latest version: 5.8.1, downgrade is disallowed).
+[2021-08-30 09:04:54.835] [info]  Checking for update
+[2021-08-30 09:04:55.434] [info]  Update for version 5.8.1 is not available (latest version: 5.8.1, downgrade is disallowed).
+[2021-08-31 09:38:50.240] [info]  Checking for update
+[2021-08-31 09:38:51.011] [info]  Update for version 5.8.1 is not available (latest version: 5.8.1, downgrade is disallowed).
+[2021-08-31 23:58:57.595] [info]  Checking for update
+[2021-08-31 23:58:58.487] [info]  Update for version 5.8.1 is not available (latest version: 5.8.1, downgrade is disallowed).
+[2021-09-01 09:23:17.975] [info]  Checking for update
+[2021-09-01 09:23:18.814] [info]  Update for version 5.8.1 is not available (latest version: 5.8.1, downgrade is disallowed).
+[2021-09-06 17:36:59.713] [info]  Checking for update
+[2021-09-06 17:37:00.365] [info]  Update for version 5.8.1 is not available (latest version: 5.8.1, downgrade is disallowed).
+[2021-09-06 22:44:28.532] [info]  Checking for update
+[2021-09-06 22:44:29.357] [info]  Update for version 5.8.1 is not available (latest version: 5.8.1, downgrade is disallowed).
+[2021-09-07 13:53:16.809] [info]  Checking for update
+[2021-09-07 13:53:17.435] [info]  Update for version 5.8.1 is not available (latest version: 5.8.1, downgrade is disallowed).
+[2021-09-07 20:59:25.896] [info]  Checking for update
+[2021-09-07 20:59:26.698] [info]  Update for version 5.8.1 is not available (latest version: 5.8.1, downgrade is disallowed).
+[2021-09-08 09:17:31.862] [info]  Checking for update
+[2021-09-08 09:17:32.936] [info]  Update for version 5.8.1 is not available (latest version: 5.8.1, downgrade is disallowed).
+[2021-09-08 17:20:56.645] [info]  Checking for update
+[2021-09-08 17:20:57.571] [info]  Update for version 5.8.1 is not available (latest version: 5.8.1, downgrade is disallowed).
+[2021-09-08 17:30:57.599] [info]  Checking for update
+[2021-09-08 17:30:59.019] [info]  Update for version 5.8.1 is not available (latest version: 5.8.1, downgrade is disallowed).
+[2021-09-09 09:26:45.240] [info]  Checking for update
+[2021-09-09 09:26:45.805] [info]  Update for version 5.8.1 is not available (latest version: 5.8.1, downgrade is disallowed).
+[2021-09-09 09:28:12.076] [info]  Checking for update
+[2021-09-09 09:28:13.073] [info]  Update for version 5.8.1 is not available (latest version: 5.8.1, downgrade is disallowed).
+[2021-09-10 08:51:47.433] [info]  Checking for update
+[2021-09-10 08:51:48.398] [info]  Update for version 5.8.1 is not available (latest version: 5.8.1, downgrade is disallowed).
+[2021-09-12 12:33:29.446] [info]  Checking for update
+[2021-09-12 12:33:30.695] [info]  Update for version 5.8.1 is not available (latest version: 5.8.1, downgrade is disallowed).
+[2021-09-13 09:00:33.135] [info]  Checking for update
+[2021-09-13 09:00:33.877] [info]  Update for version 5.8.1 is not available (latest version: 5.8.1, downgrade is disallowed).
+[2021-09-14 09:34:10.678] [info]  Checking for update
+[2021-09-14 09:34:11.724] [info]  Update for version 5.8.1 is not available (latest version: 5.8.1, downgrade is disallowed).
+[2021-09-14 23:03:35.935] [info]  Checking for update
+[2021-09-14 23:03:36.779] [info]  Update for version 5.8.1 is not available (latest version: 5.8.1, downgrade is disallowed).
+[2021-09-14 23:05:19.882] [info]  Checking for update
+[2021-09-14 23:05:20.704] [info]  Update for version 5.8.1 is not available (latest version: 5.8.1, downgrade is disallowed).
+[2021-09-15 08:58:22.639] [info]  Checking for update
+[2021-09-15 08:58:23.289] [info]  Update for version 5.8.1 is not available (latest version: 5.8.1, downgrade is disallowed).
+[2021-09-16 09:29:25.439] [info]  Checking for update
+[2021-09-16 09:29:26.358] [info]  Update for version 5.8.1 is not available (latest version: 5.8.1, downgrade is disallowed).
+[2021-09-17 09:21:59.216] [info]  Checking for update
+[2021-09-17 09:22:00.033] [info]  Update for version 5.8.1 is not available (latest version: 5.8.1, downgrade is disallowed).
+[2021-09-18 10:43:16.802] [info]  Checking for update
+[2021-09-18 10:43:17.615] [info]  Update for version 5.8.1 is not available (latest version: 5.8.1, downgrade is disallowed).
+[2021-09-20 09:19:56.378] [info]  Checking for update
+[2021-09-20 09:19:57.335] [info]  Update for version 5.8.1 is not available (latest version: 5.8.1, downgrade is disallowed).
+[2021-09-21 09:06:17.933] [info]  Checking for update
+[2021-09-21 09:06:18.790] [info]  Update for version 5.8.1 is not available (latest version: 5.8.1, downgrade is disallowed).
+[2021-09-21 12:48:09.444] [info]  Checking for update
+[2021-09-21 12:48:10.376] [info]  Update for version 5.8.1 is not available (latest version: 5.8.1, downgrade is disallowed).
+[2021-09-21 13:16:58.945] [info]  Checking for update
+[2021-09-21 13:16:59.784] [info]  Update for version 5.8.1 is not available (latest version: 5.8.1, downgrade is disallowed).
+[2021-09-21 13:34:05.318] [info]  Checking for update
+[2021-09-21 13:34:06.090] [info]  Update for version 5.8.1 is not available (latest version: 5.8.1, downgrade is disallowed).
+[2021-09-22 09:34:51.641] [info]  Checking for update
+[2021-09-22 09:34:52.651] [info]  Update for version 5.8.1 is not available (latest version: 5.8.1, downgrade is disallowed).
+[2021-09-23 02:15:30.193] [info]  Checking for update
+[2021-09-23 02:15:31.197] [info]  Update for version 5.8.1 is not available (latest version: 5.8.1, downgrade is disallowed).
+[2021-09-23 09:00:19.565] [info]  Checking for update
+[2021-09-23 09:00:20.363] [info]  Update for version 5.8.1 is not available (latest version: 5.8.1, downgrade is disallowed).
+[2021-09-24 09:01:02.322] [info]  Checking for update
+[2021-09-24 09:01:03.347] [info]  Update for version 5.8.1 is not available (latest version: 5.8.1, downgrade is disallowed).
+[2021-09-25 13:00:45.717] [info]  Checking for update
+[2021-09-25 13:00:46.556] [info]  Update for version 5.8.1 is not available (latest version: 5.8.1, downgrade is disallowed).
+[2021-09-26 13:21:51.789] [info]  Checking for update
+[2021-09-26 13:21:52.867] [info]  Update for version 5.8.1 is not available (latest version: 5.8.1, downgrade is disallowed).
+[2021-09-27 09:28:44.449] [info]  Checking for update
+[2021-09-27 09:28:45.150] [info]  Update for version 5.8.1 is not available (latest version: 5.8.1, downgrade is disallowed).
+[2021-09-28 09:57:14.934] [info]  Checking for update
+[2021-09-28 09:57:15.824] [info]  Update for version 5.8.1 is not available (latest version: 5.8.1, downgrade is disallowed).
+[2021-09-28 12:44:40.753] [info]  Checking for update
+[2021-09-28 12:44:41.505] [info]  Update for version 5.8.1 is not available (latest version: 5.8.1, downgrade is disallowed).
+[2021-09-29 09:02:31.552] [info]  Checking for update
+[2021-09-29 09:02:32.339] [info]  Update for version 5.8.1 is not available (latest version: 5.8.1, downgrade is disallowed).
+[2021-09-30 00:03:22.064] [info]  Checking for update
+[2021-09-30 00:03:22.811] [info]  Update for version 5.8.1 is not available (latest version: 5.8.1, downgrade is disallowed).
+[2021-09-30 09:05:41.594] [info]  Checking for update
+[2021-09-30 09:05:42.419] [info]  Update for version 5.8.1 is not available (latest version: 5.8.1, downgrade is disallowed).
+[2021-10-01 01:54:34.620] [info]  Checking for update
+[2021-10-01 01:54:35.568] [info]  Update for version 5.8.1 is not available (latest version: 5.8.1, downgrade is disallowed).
+[2021-10-01 10:50:08.596] [info]  Checking for update
+[2021-10-01 10:50:09.341] [info]  Update for version 5.8.1 is not available (latest version: 5.8.1, downgrade is disallowed).
+[2021-10-03 18:41:31.494] [info]  Checking for update
+[2021-10-03 18:41:32.390] [info]  Update for version 5.8.1 is not available (latest version: 5.8.1, downgrade is disallowed).
+[2021-10-04 09:43:02.457] [info]  Checking for update
+[2021-10-04 09:43:03.476] [info]  Update for version 5.8.1 is not available (latest version: 5.8.1, downgrade is disallowed).
+[2021-10-05 09:09:36.594] [info]  Checking for update
+[2021-10-05 09:09:37.351] [info]  Update for version 5.8.1 is not available (latest version: 5.8.1, downgrade is disallowed).
+[2021-10-06 08:58:19.935] [info]  Checking for update
+[2021-10-06 08:58:20.787] [info]  Update for version 5.8.1 is not available (latest version: 5.8.1, downgrade is disallowed).
+[2021-10-07 09:11:50.690] [info]  Checking for update
+[2021-10-07 09:11:51.603] [info]  Update for version 5.8.1 is not available (latest version: 5.8.1, downgrade is disallowed).
+[2021-10-08 09:14:15.855] [info]  Checking for update
+[2021-10-08 09:14:16.720] [info]  Update for version 5.8.1 is not available (latest version: 5.8.1, downgrade is disallowed).
+[2021-10-09 14:58:40.598] [info]  Checking for update
+[2021-10-09 14:58:41.510] [info]  Update for version 5.8.1 is not available (latest version: 5.8.1, downgrade is disallowed).
+[2021-10-10 13:09:54.183] [info]  Checking for update
+[2021-10-10 13:09:55.096] [info]  Update for version 5.8.1 is not available (latest version: 5.8.1, downgrade is disallowed).
+[2021-10-11 12:56:44.103] [info]  Checking for update
+[2021-10-11 12:56:44.853] [info]  Update for version 5.8.1 is not available (latest version: 5.8.1, downgrade is disallowed).
+[2021-10-11 13:41:31.768] [info]  Checking for update
+[2021-10-11 13:41:32.638] [info]  Update for version 5.8.1 is not available (latest version: 5.8.1, downgrade is disallowed).
+[2021-10-12 00:13:15.864] [info]  Checking for update
+[2021-10-12 00:13:16.780] [info]  Update for version 5.8.1 is not available (latest version: 5.8.1, downgrade is disallowed).
+[2021-10-12 09:00:09.490] [info]  Checking for update
+[2021-10-12 09:00:15.685] [info]  Update for version 5.8.1 is not available (latest version: 5.8.1, downgrade is disallowed).
+[2021-10-13 09:18:10.938] [info]  Checking for update
+[2021-10-13 09:18:11.909] [info]  Update for version 5.8.1 is not available (latest version: 5.8.1, downgrade is disallowed).
+[2021-10-14 09:02:55.718] [info]  Checking for update
+[2021-10-14 09:02:56.390] [info]  Update for version 5.8.1 is not available (latest version: 5.8.1, downgrade is disallowed).
+[2021-10-15 03:05:02.140] [info]  Checking for update
+[2021-10-15 03:05:02.945] [info]  Update for version 5.8.1 is not available (latest version: 5.8.1, downgrade is disallowed).
+[2021-10-15 09:43:06.292] [info]  Checking for update
+[2021-10-15 09:43:07.149] [info]  Update for version 5.8.1 is not available (latest version: 5.8.1, downgrade is disallowed).
+[2021-10-16 02:39:12.267] [info]  Checking for update
+[2021-10-16 02:39:13.210] [info]  Update for version 5.8.1 is not available (latest version: 5.8.1, downgrade is disallowed).
+[2021-10-17 00:16:18.852] [info]  Checking for update
+[2021-10-17 00:16:19.776] [info]  Update for version 5.8.1 is not available (latest version: 5.8.1, downgrade is disallowed).
+[2021-10-17 11:45:53.067] [info]  Checking for update
+[2021-10-17 11:45:53.848] [info]  Update for version 5.8.1 is not available (latest version: 5.8.1, downgrade is disallowed).
+[2021-10-18 00:42:12.628] [info]  Checking for update
+[2021-10-18 00:42:13.560] [info]  Update for version 5.8.1 is not available (latest version: 5.8.1, downgrade is disallowed).
+[2021-10-18 09:40:05.795] [info]  Checking for update
+[2021-10-18 09:40:06.565] [info]  Update for version 5.8.1 is not available (latest version: 5.8.1, downgrade is disallowed).
+[2021-10-19 09:05:03.835] [info]  Checking for update
+[2021-10-19 09:05:04.610] [info]  Update for version 5.8.1 is not available (latest version: 5.8.1, downgrade is disallowed).
+[2021-10-20 09:06:06.145] [info]  Checking for update
+[2021-10-20 09:06:07.120] [info]  Update for version 5.8.1 is not available (latest version: 5.8.1, downgrade is disallowed).
+[2021-10-21 09:08:29.785] [info]  Checking for update
+[2021-10-21 09:08:30.463] [info]  Update for version 5.8.1 is not available (latest version: 5.8.1, downgrade is disallowed).
+[2021-10-21 21:33:50.147] [info]  Checking for update
+[2021-10-21 21:33:51.111] [info]  Update for version 5.8.1 is not available (latest version: 5.8.1, downgrade is disallowed).
+[2021-10-22 12:35:37.683] [info]  Checking for update
+[2021-10-22 12:35:38.514] [info]  Update for version 5.8.1 is not available (latest version: 5.8.1, downgrade is disallowed).
+[2021-10-23 18:40:17.875] [info]  Checking for update
+[2021-10-23 18:40:18.775] [info]  Update for version 5.8.1 is not available (latest version: 5.8.1, downgrade is disallowed).
+[2021-10-24 14:20:37.978] [info]  Checking for update
+[2021-10-24 14:20:38.878] [info]  Update for version 5.8.1 is not available (latest version: 5.8.1, downgrade is disallowed).
+[2021-10-25 09:04:25.707] [info]  Checking for update
+[2021-10-25 09:04:26.512] [info]  Update for version 5.8.1 is not available (latest version: 5.8.1, downgrade is disallowed).
+[2021-10-26 09:45:46.770] [info]  Checking for update
+[2021-10-26 09:45:47.879] [info]  Update for version 5.8.1 is not available (latest version: 5.8.1, downgrade is disallowed).
+[2021-10-27 09:47:31.344] [info]  Checking for update
+[2021-10-27 09:47:32.090] [info]  Update for version 5.8.1 is not available (latest version: 5.8.1, downgrade is disallowed).
+[2021-10-28 09:20:57.828] [info]  Checking for update
+[2021-10-28 09:20:58.750] [info]  Update for version 5.8.1 is not available (latest version: 5.8.1, downgrade is disallowed).
+[2021-10-29 09:29:53.207] [info]  Checking for update
+[2021-10-29 09:29:54.071] [info]  Update for version 5.8.1 is not available (latest version: 5.8.1, downgrade is disallowed).
+[2021-10-30 03:43:38.365] [info]  Checking for update
+[2021-10-30 03:43:39.234] [info]  Update for version 5.8.1 is not available (latest version: 5.8.1, downgrade is disallowed).
+[2021-10-30 13:35:03.439] [info]  Checking for update
+[2021-10-30 13:35:04.296] [info]  Update for version 5.8.1 is not available (latest version: 5.8.1, downgrade is disallowed).
+[2021-11-01 09:35:46.272] [info]  Checking for update
+[2021-11-01 09:35:47.203] [info]  Update for version 5.8.1 is not available (latest version: 5.8.1, downgrade is disallowed).
+[2021-11-01 15:38:11.054] [info]  Checking for update
+[2021-11-01 15:38:11.912] [info]  Update for version 5.8.1 is not available (latest version: 5.8.1, downgrade is disallowed).
+[2021-11-02 09:08:22.685] [info]  Checking for update
+[2021-11-02 09:08:23.367] [info]  Update for version 5.8.1 is not available (latest version: 5.8.1, downgrade is disallowed).
+[2021-11-02 14:58:09.372] [info]  Checking for update
+[2021-11-02 14:58:10.068] [info]  Update for version 5.8.1 is not available (latest version: 5.8.1, downgrade is disallowed).
+[2021-11-02 18:18:50.011] [info]  Checking for update
+[2021-11-02 18:18:50.771] [info]  Update for version 5.8.1 is not available (latest version: 5.8.1, downgrade is disallowed).
+[2021-11-03 09:18:03.203] [info]  Checking for update
+[2021-11-03 09:18:04.053] [info]  Update for version 5.8.1 is not available (latest version: 5.8.1, downgrade is disallowed).
+[2021-11-04 09:12:13.480] [info]  Checking for update
+[2021-11-04 09:12:14.334] [info]  Update for version 5.8.1 is not available (latest version: 5.8.1, downgrade is disallowed).
+[2021-11-05 09:37:24.442] [info]  Checking for update
+[2021-11-05 09:37:26.452] [info]  Update for version 5.8.1 is not available (latest version: 5.8.1, downgrade is disallowed).
+[2021-11-08 08:58:09.884] [info]  Checking for update
+[2021-11-08 08:58:10.624] [info]  Update for version 5.8.1 is not available (latest version: 5.8.1, downgrade is disallowed).
+[2021-11-09 09:44:22.082] [info]  Checking for update
+[2021-11-09 09:44:22.981] [info]  Update for version 5.8.1 is not available (latest version: 5.8.1, downgrade is disallowed).
+[2021-11-10 08:58:53.539] [info]  Checking for update
+[2021-11-10 08:58:54.253] [info]  Update for version 5.8.1 is not available (latest version: 5.8.1, downgrade is disallowed).
+[2021-11-12 09:06:37.011] [info]  Checking for update
+[2021-11-12 09:06:37.908] [info]  Update for version 5.8.1 is not available (latest version: 5.8.1, downgrade is disallowed).
+[2021-11-14 12:22:42.420] [info]  Checking for update
+[2021-11-14 12:22:43.313] [info]  Update for version 5.8.1 is not available (latest version: 5.8.1, downgrade is disallowed).
+[2021-11-15 09:14:58.119] [info]  Checking for update
+[2021-11-15 09:14:58.856] [info]  Update for version 5.8.1 is not available (latest version: 5.8.1, downgrade is disallowed).
+[2021-11-16 09:39:14.972] [info]  Checking for update
+[2021-11-16 09:39:16.044] [info]  Update for version 5.8.1 is not available (latest version: 5.8.1, downgrade is disallowed).
+[2021-11-17 08:59:18.807] [info]  Checking for update
+[2021-11-17 08:59:19.736] [info]  Update for version 5.8.1 is not available (latest version: 5.8.1, downgrade is disallowed).
+[2021-11-18 09:07:10.228] [info]  Checking for update
+[2021-11-18 09:07:11.204] [info]  Update for version 5.8.1 is not available (latest version: 5.8.1, downgrade is disallowed).
+[2021-11-19 08:55:57.489] [info]  Checking for update
+[2021-11-19 08:55:58.110] [info]  Update for version 5.8.1 is not available (latest version: 5.8.1, downgrade is disallowed).
+[2021-11-19 15:52:53.166] [info]  Checking for update
+[2021-11-19 15:52:54.068] [info]  Update for version 5.8.1 is not available (latest version: 5.8.1, downgrade is disallowed).
+[2021-11-22 09:01:38.442] [info]  Checking for update
+[2021-11-22 09:01:39.376] [info]  Update for version 5.8.1 is not available (latest version: 5.8.1, downgrade is disallowed).
+[2021-11-23 09:26:26.991] [info]  Checking for update
+[2021-11-23 09:26:27.835] [info]  Update for version 5.8.1 is not available (latest version: 5.8.1, downgrade is disallowed).
+[2021-11-23 12:02:46.275] [info]  Checking for update
+[2021-11-23 12:02:47.023] [info]  Update for version 5.8.1 is not available (latest version: 5.8.1, downgrade is disallowed).
+[2021-11-23 12:06:19.825] [info]  Checking for update
+[2021-11-23 12:06:20.892] [info]  Update for version 5.8.1 is not available (latest version: 5.8.1, downgrade is disallowed).
+[2021-11-24 01:10:55.675] [info]  Checking for update
+[2021-11-24 01:10:56.519] [info]  Update for version 5.8.1 is not available (latest version: 5.8.1, downgrade is disallowed).
+[2021-11-24 01:16:23.239] [info]  Checking for update
+[2021-11-24 01:16:24.113] [info]  Update for version 5.8.1 is not available (latest version: 5.8.1, downgrade is disallowed).
+[2021-11-24 18:01:41.816] [info]  Checking for update
+[2021-11-24 18:01:42.815] [info]  Update for version 5.8.1 is not available (latest version: 5.8.1, downgrade is disallowed).
+[2021-11-25 08:56:52.413] [info]  Checking for update
+[2021-11-25 08:56:53.563] [info]  Update for version 5.8.1 is not available (latest version: 5.8.1, downgrade is disallowed).
+[2021-11-25 16:17:43.415] [info]  Checking for update
+[2021-11-25 16:17:44.501] [info]  Update for version 5.8.1 is not available (latest version: 5.8.1, downgrade is disallowed).
+[2021-11-26 08:57:37.497] [info]  Checking for update
+[2021-11-26 08:57:38.218] [info]  Update for version 5.8.1 is not available (latest version: 5.8.1, downgrade is disallowed).
+[2021-11-29 09:02:37.958] [info]  Checking for update
+[2021-11-29 09:02:39.456] [info]  Update for version 5.8.1 is not available (latest version: 5.8.1, downgrade is disallowed).
+[2021-11-30 09:36:12.413] [info]  Checking for update
+[2021-11-30 09:36:13.476] [info]  Update for version 5.8.1 is not available (latest version: 5.8.1, downgrade is disallowed).
+[2021-11-30 11:41:07.547] [info]  Checking for update
+[2021-11-30 11:41:08.566] [info]  Update for version 5.8.1 is not available (latest version: 5.8.1, downgrade is disallowed).
+[2021-12-01 09:05:14.278] [info]  Checking for update
+[2021-12-01 09:05:15.450] [info]  Update for version 5.8.1 is not available (latest version: 5.8.1, downgrade is disallowed).
+[2021-12-02 09:01:37.174] [info]  Checking for update
+[2021-12-02 09:01:37.863] [info]  Update for version 5.8.1 is not available (latest version: 5.8.1, downgrade is disallowed).
+[2021-12-03 09:23:35.435] [info]  Checking for update
+[2021-12-03 09:23:36.371] [info]  Update for version 5.8.1 is not available (latest version: 5.8.1, downgrade is disallowed).
+[2021-12-05 17:14:33.972] [info]  Checking for update
+[2021-12-05 17:14:35.341] [info]  Update for version 5.8.1 is not available (latest version: 5.8.1, downgrade is disallowed).
+[2021-12-06 09:07:27.806] [info]  Checking for update
+[2021-12-06 09:07:28.657] [info]  Update for version 5.8.1 is not available (latest version: 5.8.1, downgrade is disallowed).
+[2021-12-07 09:24:18.116] [info]  Checking for update
+[2021-12-07 09:24:18.824] [info]  Update for version 5.8.1 is not available (latest version: 5.8.1, downgrade is disallowed).
+[2021-12-08 09:11:51.974] [info]  Checking for update
+[2021-12-08 09:11:53.055] [info]  Update for version 5.8.1 is not available (latest version: 5.8.1, downgrade is disallowed).
+[2021-12-09 09:24:10.473] [info]  Checking for update
+[2021-12-09 09:24:11.911] [info]  Update for version 5.8.1 is not available (latest version: 5.8.1, downgrade is disallowed).
+[2021-12-10 09:07:41.414] [info]  Checking for update
+[2021-12-10 09:07:42.480] [info]  Update for version 5.8.1 is not available (latest version: 5.8.1, downgrade is disallowed).
+[2021-12-10 18:13:46.485] [info]  Checking for update
+[2021-12-10 18:13:47.566] [info]  Update for version 5.8.1 is not available (latest version: 5.8.1, downgrade is disallowed).
+[2021-12-11 15:30:49.695] [info]  Checking for update
+[2021-12-11 15:30:50.654] [info]  Update for version 5.8.1 is not available (latest version: 5.8.1, downgrade is disallowed).
+[2021-12-13 09:00:19.603] [info]  Checking for update
+[2021-12-13 09:00:20.602] [info]  Update for version 5.8.1 is not available (latest version: 5.8.1, downgrade is disallowed).
+[2021-12-14 08:54:14.663] [info]  Checking for update
+[2021-12-14 08:54:15.697] [info]  Update for version 5.8.1 is not available (latest version: 5.8.1, downgrade is disallowed).
+[2021-12-15 09:01:30.126] [info]  Checking for update
+[2021-12-15 09:01:31.166] [info]  Update for version 5.8.1 is not available (latest version: 5.8.1, downgrade is disallowed).
+[2021-12-16 09:12:28.436] [info]  Checking for update
+[2021-12-16 09:12:29.391] [info]  Update for version 5.8.1 is not available (latest version: 5.8.1, downgrade is disallowed).
+[2021-12-16 21:47:36.017] [info]  Checking for update
+[2021-12-16 21:47:37.055] [info]  Update for version 5.8.1 is not available (latest version: 5.8.1, downgrade is disallowed).
+[2021-12-17 09:00:41.080] [info]  Checking for update
+[2021-12-17 09:00:42.085] [info]  Update for version 5.8.1 is not available (latest version: 5.8.1, downgrade is disallowed).
+[2021-12-18 11:50:33.745] [info]  Checking for update
+[2021-12-18 11:50:34.550] [info]  Update for version 5.8.1 is not available (latest version: 5.8.1, downgrade is disallowed).
+[2021-12-19 11:37:06.131] [info]  Checking for update
+[2021-12-19 11:37:07.033] [info]  Update for version 5.8.1 is not available (latest version: 5.8.1, downgrade is disallowed).
+[2021-12-20 09:05:41.814] [info]  Checking for update
+[2021-12-20 09:05:42.857] [info]  Update for version 5.8.1 is not available (latest version: 5.8.1, downgrade is disallowed).
+[2021-12-21 01:26:05.257] [info]  Checking for update
+[2021-12-21 01:26:06.391] [info]  Update for version 5.8.1 is not available (latest version: 5.8.1, downgrade is disallowed).
+[2021-12-23 11:45:24.128] [info]  Checking for update
+[2021-12-23 11:45:25.243] [info]  Update for version 5.8.1 is not available (latest version: 5.8.1, downgrade is disallowed).
+[2021-12-24 10:00:49.451] [info]  Checking for update
+[2021-12-24 10:00:50.193] [info]  Update for version 5.8.1 is not available (latest version: 5.8.1, downgrade is disallowed).
+[2022-01-01 21:19:52.353] [info]  Checking for update
+[2022-01-01 21:19:53.360] [info]  Update for version 5.8.1 is not available (latest version: 5.8.1, downgrade is disallowed).
+[2022-01-02 17:40:25.200] [info]  Checking for update
+[2022-01-02 17:40:26.328] [info]  Update for version 5.8.1 is not available (latest version: 5.8.1, downgrade is disallowed).
+[2022-01-03 12:15:09.995] [info]  Checking for update
+[2022-01-03 12:15:10.899] [info]  Update for version 5.8.1 is not available (latest version: 5.8.1, downgrade is disallowed).
+[2022-01-04 09:04:05.830] [info]  Checking for update
+[2022-01-04 09:04:06.766] [info]  Update for version 5.8.1 is not available (latest version: 5.8.1, downgrade is disallowed).
+[2022-01-05 08:57:23.565] [info]  Checking for update
+[2022-01-05 08:57:24.473] [info]  Update for version 5.8.1 is not available (latest version: 5.8.1, downgrade is disallowed).
+[2022-01-06 09:16:34.251] [info]  Checking for update
+[2022-01-06 09:16:35.073] [info]  Update for version 5.8.1 is not available (latest version: 5.8.1, downgrade is disallowed).
+[2022-01-06 14:35:27.670] [info]  Checking for update
+[2022-01-06 14:35:28.530] [info]  Update for version 5.8.1 is not available (latest version: 5.8.1, downgrade is disallowed).
+[2022-01-07 09:37:27.320] [info]  Checking for update
+[2022-01-07 09:37:28.025] [info]  Update for version 5.8.1 is not available (latest version: 5.8.1, downgrade is disallowed).
+[2022-01-10 02:09:57.437] [info]  Checking for update
+[2022-01-10 02:09:58.579] [info]  Update for version 5.8.1 is not available (latest version: 5.8.1, downgrade is disallowed).
+[2022-01-10 08:53:04.634] [info]  Checking for update
+[2022-01-10 08:53:05.644] [info]  Update for version 5.8.1 is not available (latest version: 5.8.1, downgrade is disallowed).
+[2022-01-11 09:15:43.249] [info]  Checking for update
+[2022-01-11 09:15:44.142] [info]  Update for version 5.8.1 is not available (latest version: 5.8.1, downgrade is disallowed).
+[2022-01-11 10:12:42.125] [info]  Checking for update
+[2022-01-11 10:12:43.091] [info]  Update for version 5.8.1 is not available (latest version: 5.8.1, downgrade is disallowed).
+[2022-01-12 09:22:51.665] [info]  Checking for update
+[2022-01-12 09:22:52.875] [info]  Update for version 5.8.1 is not available (latest version: 5.8.1, downgrade is disallowed).
+[2022-01-13 09:33:54.552] [info]  Checking for update
+[2022-01-13 09:33:55.620] [info]  Update for version 5.8.1 is not available (latest version: 5.8.1, downgrade is disallowed).
+[2022-01-13 09:40:07.840] [info]  Checking for update
+[2022-01-13 09:40:08.799] [info]  Update for version 5.8.1 is not available (latest version: 5.8.1, downgrade is disallowed).
+[2022-01-13 19:08:53.127] [info]  Checking for update
+[2022-01-13 19:08:54.071] [info]  Update for version 5.8.1 is not available (latest version: 5.8.1, downgrade is disallowed).
+[2022-01-14 09:31:23.513] [info]  Checking for update
+[2022-01-14 09:31:24.377] [info]  Update for version 5.8.1 is not available (latest version: 5.8.1, downgrade is disallowed).
+[2022-01-14 21:39:32.168] [info]  Checking for update
+[2022-01-14 21:39:33.339] [info]  Update for version 5.8.1 is not available (latest version: 5.8.1, downgrade is disallowed).
+[2022-01-16 10:00:47.710] [info]  Checking for update
+[2022-01-16 10:00:48.643] [info]  Update for version 5.8.1 is not available (latest version: 5.8.1, downgrade is disallowed).
+[2022-01-17 09:35:04.117] [info]  Checking for update
+[2022-01-17 09:35:05.299] [info]  Update for version 5.8.1 is not available (latest version: 5.8.1, downgrade is disallowed).
+[2022-01-18 09:03:55.214] [info]  Checking for update
+[2022-01-18 09:03:56.195] [info]  Update for version 5.8.1 is not available (latest version: 5.8.1, downgrade is disallowed).
+[2022-01-19 09:20:45.161] [info]  Checking for update
+[2022-01-19 09:20:45.862] [info]  Update for version 5.8.1 is not available (latest version: 5.8.1, downgrade is disallowed).
+[2022-01-20 08:59:56.903] [info]  Checking for update
+[2022-01-20 08:59:57.770] [info]  Update for version 5.8.1 is not available (latest version: 5.8.1, downgrade is disallowed).
+[2022-01-21 09:04:12.565] [info]  Checking for update
+[2022-01-21 09:04:13.451] [info]  Update for version 5.8.1 is not available (latest version: 5.8.1, downgrade is disallowed).
+[2022-01-21 09:13:30.369] [info]  Checking for update
+[2022-01-21 09:13:31.185] [info]  Update for version 5.8.1 is not available (latest version: 5.8.1, downgrade is disallowed).
+[2022-01-21 10:54:18.748] [info]  Checking for update
+[2022-01-21 10:54:19.511] [info]  Update for version 5.8.1 is not available (latest version: 5.8.1, downgrade is disallowed).
+[2022-01-22 14:58:30.178] [info]  Checking for update
+[2022-01-22 14:58:31.197] [info]  Update for version 5.8.1 is not available (latest version: 5.8.1, downgrade is disallowed).
+[2022-01-23 12:16:05.943] [info]  Checking for update
+[2022-01-23 12:16:06.821] [info]  Update for version 5.8.1 is not available (latest version: 5.8.1, downgrade is disallowed).
+[2022-01-23 15:38:34.195] [info]  Checking for update
+[2022-01-23 15:38:35.312] [info]  Update for version 5.8.1 is not available (latest version: 5.8.1, downgrade is disallowed).
+[2022-01-24 09:22:26.605] [info]  Checking for update
+[2022-01-24 09:22:27.670] [info]  Update for version 5.8.1 is not available (latest version: 5.8.1, downgrade is disallowed).
+[2022-01-25 09:20:27.795] [info]  Checking for update
+[2022-01-25 09:20:28.786] [info]  Update for version 5.8.1 is not available (latest version: 5.8.1, downgrade is disallowed).
+[2022-01-25 09:22:31.221] [info]  Checking for update
+[2022-01-25 09:22:32.412] [info]  Update for version 5.8.1 is not available (latest version: 5.8.1, downgrade is disallowed).
+[2022-01-26 09:04:53.027] [info]  Checking for update
+[2022-01-26 09:04:53.964] [info]  Update for version 5.8.1 is not available (latest version: 5.8.1, downgrade is disallowed).
+[2022-01-27 09:01:03.614] [info]  Checking for update
+[2022-01-27 09:01:04.450] [info]  Update for version 5.8.1 is not available (latest version: 5.8.1, downgrade is disallowed).
+[2022-01-27 10:18:08.785] [info]  Checking for update
+[2022-01-27 10:18:10.029] [info]  Update for version 5.8.1 is not available (latest version: 5.8.1, downgrade is disallowed).
+[2022-01-28 09:28:42.138] [info]  Checking for update
+[2022-01-28 09:28:43.390] [info]  Update for version 5.8.1 is not available (latest version: 5.8.1, downgrade is disallowed).
+[2022-01-30 14:36:59.536] [info]  Checking for update
+[2022-01-30 14:37:00.734] [info]  Update for version 5.8.1 is not available (latest version: 5.8.1, downgrade is disallowed).
+[2022-01-31 11:11:06.394] [info]  Checking for update
+[2022-01-31 11:11:07.449] [info]  Update for version 5.8.1 is not available (latest version: 5.8.1, downgrade is disallowed).
+[2022-01-31 20:37:41.070] [info]  Checking for update
+[2022-01-31 20:37:41.925] [info]  Update for version 5.8.1 is not available (latest version: 5.8.1, downgrade is disallowed).
+[2022-02-01 10:03:50.561] [info]  Checking for update
+[2022-02-01 10:03:51.501] [info]  Update for version 5.8.1 is not available (latest version: 5.8.1, downgrade is disallowed).
+[2022-02-01 17:45:13.417] [info]  Checking for update
+[2022-02-01 17:45:14.551] [info]  Update for version 5.8.1 is not available (latest version: 5.8.1, downgrade is disallowed).
+[2022-02-02 01:48:11.740] [info]  Checking for update
+[2022-02-02 01:48:12.710] [info]  Update for version 5.8.1 is not available (latest version: 5.8.1, downgrade is disallowed).
+[2022-02-02 01:51:32.340] [info]  Checking for update
+[2022-02-02 01:51:33.750] [info]  Update for version 5.8.1 is not available (latest version: 5.8.1, downgrade is disallowed).
+[2022-02-02 01:56:46.156] [info]  Checking for update
+[2022-02-02 01:56:47.681] [info]  Update for version 5.8.1 is not available (latest version: 5.8.1, downgrade is disallowed).
+[2022-02-02 09:08:43.122] [info]  Checking for update
+[2022-02-02 09:08:44.113] [info]  Update for version 5.8.1 is not available (latest version: 5.8.1, downgrade is disallowed).
+[2022-02-03 09:15:54.921] [info]  Checking for update
+[2022-02-03 09:15:56.057] [info]  Update for version 5.8.1 is not available (latest version: 5.8.1, downgrade is disallowed).
+[2022-02-04 09:39:07.497] [info]  Checking for update
+[2022-02-04 09:39:08.233] [info]  Update for version 5.8.1 is not available (latest version: 5.8.1, downgrade is disallowed).
+[2022-02-06 12:52:53.766] [info]  Checking for update
+[2022-02-06 12:52:54.714] [info]  Update for version 5.8.1 is not available (latest version: 5.8.1, downgrade is disallowed).
+[2022-02-06 22:19:49.207] [info]  Checking for update
+[2022-02-06 22:19:50.226] [info]  Update for version 5.8.1 is not available (latest version: 5.8.1, downgrade is disallowed).
+[2022-02-07 10:39:14.999] [info]  Checking for update
+[2022-02-07 10:39:15.858] [info]  Update for version 5.8.1 is not available (latest version: 5.8.1, downgrade is disallowed).
+[2022-02-07 11:53:34.753] [info]  Checking for update
+[2022-02-07 11:53:35.419] [info]  Update for version 5.8.1 is not available (latest version: 5.8.1, downgrade is disallowed).
+[2022-02-08 09:13:04.668] [info]  Checking for update
+[2022-02-08 09:13:05.715] [info]  Update for version 5.8.1 is not available (latest version: 5.8.1, downgrade is disallowed).
+[2022-02-08 19:18:54.782] [info]  Checking for update
+[2022-02-08 19:18:55.717] [info]  Update for version 5.8.1 is not available (latest version: 5.8.1, downgrade is disallowed).
+[2022-02-09 08:59:34.015] [info]  Checking for update
+[2022-02-09 08:59:34.796] [info]  Update for version 5.8.1 is not available (latest version: 5.8.1, downgrade is disallowed).
+[2022-02-10 09:30:14.973] [info]  Checking for update
+[2022-02-10 09:30:16.119] [info]  Update for version 5.8.1 is not available (latest version: 5.8.1, downgrade is disallowed).
+[2022-02-11 08:34:29.203] [info]  Checking for update
+[2022-02-11 08:34:30.109] [info]  Update for version 5.8.1 is not available (latest version: 5.8.1, downgrade is disallowed).
+[2022-02-14 09:25:54.457] [info]  Checking for update
+[2022-02-14 09:25:55.530] [info]  Update for version 5.8.1 is not available (latest version: 5.8.1, downgrade is disallowed).
+[2022-02-15 09:01:45.077] [info]  Checking for update
+[2022-02-15 09:01:46.114] [info]  Update for version 5.8.1 is not available (latest version: 5.8.1, downgrade is disallowed).
+[2022-02-16 08:05:29.757] [info]  Checking for update
+[2022-02-16 08:05:30.500] [info]  Update for version 5.8.1 is not available (latest version: 5.8.1, downgrade is disallowed).
+[2022-02-17 07:54:42.840] [info]  Checking for update
+[2022-02-17 07:54:43.705] [info]  Update for version 5.8.1 is not available (latest version: 5.8.1, downgrade is disallowed).
+[2022-02-18 10:56:25.723] [info]  Checking for update
+[2022-02-18 10:56:26.502] [info]  Update for version 5.8.1 is not available (latest version: 5.8.1, downgrade is disallowed).
+[2022-02-19 11:37:16.660] [info]  Checking for update
+[2022-02-19 11:37:17.675] [info]  Update for version 5.8.1 is not available (latest version: 5.8.1, downgrade is disallowed).
+[2022-02-19 15:48:22.894] [info]  Checking for update
+[2022-02-19 15:48:24.037] [info]  Update for version 5.8.1 is not available (latest version: 5.8.1, downgrade is disallowed).
+[2022-02-20 11:25:29.221] [info]  Checking for update
+[2022-02-20 11:25:30.416] [info]  Update for version 5.8.1 is not available (latest version: 5.8.1, downgrade is disallowed).
+[2022-02-20 14:44:17.976] [info]  Checking for update
+[2022-02-20 14:44:20.424] [info]  Update for version 5.8.1 is not available (latest version: 5.8.1, downgrade is disallowed).
+[2022-02-20 15:33:15.063] [info]  Checking for update
+[2022-02-20 15:33:16.096] [info]  Update for version 5.8.1 is not available (latest version: 5.8.1, downgrade is disallowed).
+[2022-02-21 11:20:46.182] [info]  Checking for update
+[2022-02-21 11:20:47.051] [info]  Update for version 5.8.1 is not available (latest version: 5.8.1, downgrade is disallowed).
+[2022-02-22 07:59:24.578] [info]  Checking for update
+[2022-02-22 07:59:25.439] [info]  Update for version 5.8.1 is not available (latest version: 5.8.1, downgrade is disallowed).
+[2022-02-23 07:52:03.852] [info]  Checking for update
+[2022-02-23 07:52:04.943] [info]  Update for version 5.8.1 is not available (latest version: 5.8.1, downgrade is disallowed).
+[2022-02-24 09:03:54.104] [info]  Checking for update
+[2022-02-24 09:04:50.725] [error] Error: Error: net::ERR_NAME_NOT_RESOLVED
+    at SimpleURLLoaderWrapper.<anonymous> (electron/js2c/browser_init.js:105:7068)
+    at SimpleURLLoaderWrapper.emit (events.js:315:20)
+    at SimpleURLLoaderWrapper.EventEmitter.emit (domain.js:467:12)
+[2022-02-24 18:32:45.256] [info]  Checking for update
+[2022-02-24 18:32:46.596] [info]  Update for version 5.8.1 is not available (latest version: 5.8.1, downgrade is disallowed).
+[2022-02-24 22:32:00.500] [info]  Checking for update
+[2022-02-24 22:32:01.213] [info]  Update for version 5.8.1 is not available (latest version: 5.8.1, downgrade is disallowed).
+[2022-02-25 09:10:11.563] [info]  Checking for update
+[2022-02-25 09:10:13.162] [info]  Update for version 5.8.1 is not available (latest version: 5.8.1, downgrade is disallowed).
+[2022-02-26 20:31:02.945] [info]  Checking for update
+[2022-02-26 20:31:04.074] [info]  Update for version 5.8.1 is not available (latest version: 5.8.1, downgrade is disallowed).
+[2022-02-27 14:26:35.268] [info]  Checking for update
+[2022-02-27 14:26:36.173] [info]  Update for version 5.8.1 is not available (latest version: 5.8.1, downgrade is disallowed).
+[2022-02-28 09:30:48.949] [info]  Checking for update
+[2022-02-28 09:30:50.220] [info]  Update for version 5.8.1 is not available (latest version: 5.8.1, downgrade is disallowed).
+[2022-03-01 08:59:10.197] [info]  Checking for update
+[2022-03-01 08:59:11.253] [info]  Update for version 5.8.1 is not available (latest version: 5.8.1, downgrade is disallowed).
+[2022-03-02 09:09:33.485] [info]  Checking for update
+[2022-03-02 09:09:34.742] [info]  Update for version 5.8.1 is not available (latest version: 5.8.1, downgrade is disallowed).
+[2022-03-03 08:56:41.555] [info]  Checking for update
+[2022-03-03 08:56:42.666] [info]  Update for version 5.8.1 is not available (latest version: 5.8.1, downgrade is disallowed).
+[2022-03-04 09:00:19.516] [info]  Checking for update
+[2022-03-04 09:00:20.685] [info]  Update for version 5.8.1 is not available (latest version: 5.8.1, downgrade is disallowed).
+[2022-03-05 19:52:27.834] [info]  Checking for update
+[2022-03-05 19:52:28.975] [info]  Update for version 5.8.1 is not available (latest version: 5.8.1, downgrade is disallowed).
+[2022-03-06 11:30:58.875] [info]  Checking for update
+[2022-03-06 11:30:59.676] [info]  Update for version 5.8.1 is not available (latest version: 5.8.1, downgrade is disallowed).
+[2022-03-07 09:50:38.514] [info]  Checking for update
+[2022-03-07 09:50:40.043] [info]  Update for version 5.8.1 is not available (latest version: 5.8.1, downgrade is disallowed).
+[2022-03-07 13:51:30.268] [info]  Checking for update
+[2022-03-07 13:51:31.883] [info]  Update for version 5.8.1 is not available (latest version: 5.8.1, downgrade is disallowed).
+[2022-03-08 09:21:59.207] [info]  Checking for update
+[2022-03-08 09:22:00.097] [info]  Update for version 5.8.1 is not available (latest version: 5.8.1, downgrade is disallowed).
+[2022-03-09 09:07:03.462] [info]  Checking for update
+[2022-03-09 09:07:04.406] [info]  Update for version 5.8.1 is not available (latest version: 5.8.1, downgrade is disallowed).
+[2022-03-10 09:21:28.563] [info]  Checking for update
+[2022-03-10 09:21:29.486] [info]  Update for version 5.8.1 is not available (latest version: 5.8.1, downgrade is disallowed).
+[2022-03-10 22:56:00.359] [info]  Checking for update
+[2022-03-10 22:56:01.429] [info]  Update for version 5.8.1 is not available (latest version: 5.8.1, downgrade is disallowed).
+[2022-03-11 08:57:06.929] [info]  Checking for update
+[2022-03-11 08:57:07.995] [info]  Update for version 5.8.1 is not available (latest version: 5.8.1, downgrade is disallowed).
+[2022-03-12 13:51:04.484] [info]  Checking for update
+[2022-03-12 13:51:05.621] [info]  Update for version 5.8.1 is not available (latest version: 5.8.1, downgrade is disallowed).
+[2022-03-14 09:35:02.872] [info]  Checking for update
+[2022-03-14 09:35:03.969] [info]  Update for version 5.8.1 is not available (latest version: 5.8.1, downgrade is disallowed).
+[2022-03-15 11:41:29.150] [info]  Checking for update
+[2022-03-15 11:41:30.135] [info]  Update for version 5.8.1 is not available (latest version: 5.8.1, downgrade is disallowed).
+[2022-03-16 08:56:39.421] [info]  Checking for update
+[2022-03-16 08:56:40.693] [info]  Update for version 5.8.1 is not available (latest version: 5.8.1, downgrade is disallowed).
+[2022-03-17 09:34:16.642] [info]  Checking for update
+[2022-03-17 09:34:17.815] [info]  Update for version 5.8.1 is not available (latest version: 5.8.1, downgrade is disallowed).
+[2022-03-18 09:26:40.306] [info]  Checking for update
+[2022-03-18 09:26:41.052] [info]  Update for version 5.8.1 is not available (latest version: 5.8.1, downgrade is disallowed).
+[2022-03-19 10:11:41.833] [info]  Checking for update
+[2022-03-19 10:11:42.710] [info]  Update for version 5.8.1 is not available (latest version: 5.8.1, downgrade is disallowed).
+[2022-03-21 09:31:09.166] [info]  Checking for update
+[2022-03-21 09:31:10.159] [info]  Update for version 5.8.1 is not available (latest version: 5.8.1, downgrade is disallowed).
+[2022-03-22 09:22:54.970] [info]  Checking for update
+[2022-03-22 09:22:55.838] [info]  Update for version 5.8.1 is not available (latest version: 5.8.1, downgrade is disallowed).
+[2022-03-23 09:29:44.667] [info]  Checking for update
+[2022-03-23 09:29:45.523] [info]  Update for version 5.8.1 is not available (latest version: 5.8.1, downgrade is disallowed).
+[2022-03-24 09:28:47.810] [info]  Checking for update
+[2022-03-24 09:28:48.832] [info]  Update for version 5.8.1 is not available (latest version: 5.8.1, downgrade is disallowed).
+[2022-03-24 18:55:49.687] [info]  Checking for update
+[2022-03-24 18:55:50.680] [info]  Update for version 5.8.1 is not available (latest version: 5.8.1, downgrade is disallowed).
+[2022-03-25 09:17:55.972] [info]  Checking for update
+[2022-03-25 09:17:56.959] [info]  Update for version 5.8.1 is not available (latest version: 5.8.1, downgrade is disallowed).
+[2022-03-26 11:35:31.432] [info]  Checking for update
+[2022-03-26 11:35:32.442] [info]  Update for version 5.8.1 is not available (latest version: 5.8.1, downgrade is disallowed).
+[2022-03-26 12:10:55.567] [info]  Checking for update
+[2022-03-26 12:10:56.397] [info]  Update for version 5.8.1 is not available (latest version: 5.8.1, downgrade is disallowed).
+[2022-03-27 12:48:12.909] [info]  Checking for update
+[2022-03-27 12:48:13.984] [info]  Update for version 5.8.1 is not available (latest version: 5.8.1, downgrade is disallowed).
+[2022-03-28 09:30:16.675] [info]  Checking for update
+[2022-03-28 09:30:17.750] [info]  Update for version 5.8.1 is not available (latest version: 5.8.1, downgrade is disallowed).
+[2022-03-29 09:32:47.233] [info]  Checking for update
+[2022-03-29 09:32:48.317] [info]  Update for version 5.8.1 is not available (latest version: 5.8.1, downgrade is disallowed).

@@ -1,0 +1,862 @@
+<project version="4">
+  <component name="DatabaseView">
+    <expand />
+    <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="core" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="-1">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/testsuite/scripts/src/test/java/org/wildfly/scripts/test/ScriptTestCase.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1936">
+              <caret line="143" column="35" selection-start-line="143" selection-start-column="35" selection-end-line="143" selection-end-column="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/testsuite/scripts/src/test/java/org/wildfly/scripts/test/Shell.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="399">
+              <caret line="59" column="5" selection-start-line="59" selection-start-column="5" selection-end-line="59" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/core-feature-pack/common/src/main/resources/content/bin/elytron-tool.ps1">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/testsuite/scripts/src/test/java/org/wildfly/scripts/test/AddUserTestCase.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="660">
+              <caret line="59" column="5" selection-start-line="59" selection-start-column="5" selection-end-line="59" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/testsuite/scripts/src/test/java/org/wildfly/scripts/test/ElytronToolScriptTestCase.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="572">
+              <caret line="46" column="52" lean-forward="true" selection-start-line="46" selection-start-column="52" selection-end-line="46" selection-end-column="52" />
+              <folding>
+                <element signature="e#1028#1029#0" expanded="true" />
+                <element signature="e#1065#1066#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>KeyStore</find>
+      <find>getKey</find>
+      <find>CREDENTIAL_STORE_CAPABILITY</find>
+      <find>getKey(</find>
+      <find>key store</find>
+      <find>credential-store</find>
+      <find>secret</find>
+      <find>retrieve</find>
+      <find>setCapabil</find>
+      <find>getPassword</find>
+      <find>&quot;&quot;.</find>
+      <find>KEY_STORE</find>
+      <find>CREDENTIAL_STORE</find>
+      <find>from14</find>
+      <find>uilder.addChildResource(PathElement.pathElement(K</find>
+      <find>builder.addChildResource(PathElement.pathElement(KEY_STORE))</find>
+      <find>keyStore</find>
+      <find>InjectedValue</find>
+      <find>CREDENTIAL_STORE_API_CAPABILITY</find>
+      <find>keyStoreInjector</find>
+      <find>token</find>
+      <find>JWT_VALIDATOR</find>
+      <find>getKeyStoreInjector</find>
+      <find>requires</find>
+      <find>keystore</find>
+      <find>marshale</find>
+      <find>keyPassword</find>
+      <find>credentialStoreService.stop(null)</find>
+      <find>testPowerShellScript</find>
+      <find>testScript</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>&lt;version&gt;17.0.0.Beta7&lt;/version&gt;</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>$MAVEN_REPOSITORY$/org/jboss/msc/jboss-msc/1.4.13.Final/jboss-msc-1.4.13.Final.jar!/org/jboss/msc/value</dir>
+      <dir>$PROJECT_DIR$/controller/src/main/java/org/jboss/as/controller/security</dir>
+      <dir>$PROJECT_DIR$/elytron/target/generated-sources/annotations/org/wildfly/extension/elytron/_private</dir>
+      <dir>$PROJECT_DIR$/cli/src/test/java/org/jboss/as/cli/parsing/ifelse/test</dir>
+      <dir>$MAVEN_REPOSITORY$/org/jboss/jboss-dmr/1.5.1.Final/jboss-dmr-1.5.1.Final.jar!/org/jboss/dmr</dir>
+      <dir>$MAVEN_REPOSITORY$/org/jboss/staxmapper/1.3.0.Final/staxmapper-1.3.0.Final-sources.jar!/org/jboss/staxmapper</dir>
+      <dir>$PROJECT_DIR$/testsuite/shared/src/main/java/org/jboss/as/test/integration/security/common/config/realm</dir>
+      <dir>$PROJECT_DIR$/cli/src/main/java/org/jboss/as/cli/impl</dir>
+      <dir>$PROJECT_DIR$/domain-management/src/main/java/org/jboss/as/domain/management/security</dir>
+      <dir>$MAVEN_REPOSITORY$/org/wildfly/security/wildfly-elytron-ssl/1.17.0.Final/wildfly-elytron-ssl-1.17.0.Final-sources.jar!/org/wildfly/security/ssl</dir>
+      <dir>$PROJECT_DIR$/elytron/src/test/java/org/wildfly/extension/elytron</dir>
+      <dir>$MAVEN_REPOSITORY$/org/wildfly/security/wildfly-elytron-realm-ldap/1.17.1.Final/wildfly-elytron-realm-ldap-1.17.1.Final-sources.jar!/org/wildfly/security/auth/realm/ldap</dir>
+      <dir>$MAVEN_REPOSITORY$/org/jmockit/jmockit/1.39/jmockit-1.39.jar!/mockit/integration/junit4/internal</dir>
+      <dir>$PROJECT_DIR$/bootable-jar</dir>
+      <dir>$PROJECT_DIR$/testsuite/layers</dir>
+      <dir>$PROJECT_DIR$/testsuite/manualmode</dir>
+      <dir>$PROJECT_DIR$/network</dir>
+      <dir>$PROJECT_DIR$/io/subsystem</dir>
+      <dir>$PROJECT_DIR$/elytron/src/test/resources/org/wildfly/extension/elytron</dir>
+      <dir>$PROJECT_DIR$/testsuite/manualmode/src/test/java/org/jboss/as/test/manualmode/mgmt/elytron</dir>
+      <dir>$PROJECT_DIR$/testsuite/manualmode/target/wildfly-core/standalone/configuration</dir>
+      <dir>$PROJECT_DIR$/subsystem-test/framework/src/main/java/org/jboss/as/subsystem/test</dir>
+      <dir>$PROJECT_DIR$/core-feature-pack/common/src/main/resources/modules/system/layers/base/org/wildfly/security/elytron-tool/main</dir>
+      <dir>$PROJECT_DIR$/core-feature-pack/legacy-feature-pack/target/resources/content/bin</dir>
+      <dir>$PROJECT_DIR$/core-feature-pack/common/src/main/resources/content/bin</dir>
+      <dir>$PROJECT_DIR$/core-feature-pack/legacy-feature-pack/target/wildfly-core-feature-pack-16.0.0.Beta4-SNAPSHOT</dir>
+      <dir>$PROJECT_DIR$</dir>
+      <dir>$PROJECT_DIR$/elytron/src/main/java/org/wildfly/extension/elytron</dir>
+      <dir>$USER_HOME$/.jdks/openjdk-17/lib/src.zip!/java.base/java/security</dir>
+      <dir>$PROJECT_DIR$/testsuite/scripts/src/test/java/org/wildfly/scripts/test</dir>
+    </dirStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/subsystem-test/framework/src/main/java/org/jboss/as/subsystem/test/AbstractSubsystemTest.java" />
+      <option value="$PROJECT_DIR$/elytron/src/main/java/org/wildfly/extension/elytron/SecretKeyCredentialStoreDefinition.java" />
+      <option value="$PROJECT_DIR$/elytron/src/test/resources/org/wildfly/extension/elytron/filesystem-realm-5/O/OBWGC2LOKVZWK4RS.xml" />
+      <option value="$PROJECT_DIR$/elytron/src/test/resources/org/wildfly/extension/elytron/filesystem-realm-5/M/MF2HI4TJMJ2XIZKVONSXE.xml" />
+      <option value="$PROJECT_DIR$/elytron/src/test/resources/org/wildfly/extension/elytron/filesystem-realm-5/O/OBWGC2LOKVZWK4Q.xml" />
+      <option value="$PROJECT_DIR$/elytron/src/test/resources/org/wildfly/extension/elytron/filesystem-realm-5/O/OBWGC2LOKVZWK4RR.xml" />
+      <option value="$PROJECT_DIR$/elytron/src/test/resources/org/wildfly/extension/elytron/mycredstore.cs" />
+      <option value="$PROJECT_DIR$/elytron/src/test/resources/org/wildfly/extension/elytron/realms-test-encrypt.xml" />
+      <option value="$PROJECT_DIR$/subsystem-test/framework/src/main/java/org/jboss/as/subsystem/test/AbstractSubsystemBaseTest.java" />
+      <option value="$PROJECT_DIR$/elytron/src/main/java/org/wildfly/extension/elytron/ElytronSubsystemParser15_0.java" />
+      <option value="$PROJECT_DIR$/model-test/src/main/java/org/jboss/as/model/test/ModelTestControllerVersion.java" />
+      <option value="$PROJECT_DIR$/elytron/src/test/resources/org/wildfly/extension/elytron/elytron-transformers-13.0-reject.xml" />
+      <option value="$PROJECT_DIR$/subsystem-test/framework/src/main/java/org/jboss/as/subsystem/test/SubsystemTestDelegate.java" />
+      <option value="$PROJECT_DIR$/elytron/src/main/java/org/wildfly/extension/elytron/RealmParser.java" />
+      <option value="$PROJECT_DIR$/elytron/src/test/java/org/wildfly/extension/elytron/SubsystemTransformerTestCase.java" />
+      <option value="$PROJECT_DIR$/elytron/src/test/java/org/wildfly/extension/elytron/RealmsTestCase.java" />
+      <option value="$PROJECT_DIR$/elytron/src/main/java/org/wildfly/extension/elytron/SSLDefinitions.java" />
+      <option value="$PROJECT_DIR$/elytron/src/test/java/org/wildfly/extension/elytron/LdapTestCase.java" />
+      <option value="$PROJECT_DIR$/bootable-jar/pom.xml" />
+      <option value="$PROJECT_DIR$/testsuite/layers/pom.xml" />
+      <option value="$PROJECT_DIR$/testsuite/manualmode/pom.xml" />
+      <option value="$PROJECT_DIR$/network/pom.xml" />
+      <option value="$PROJECT_DIR$/server/src/main/java/org/jboss/as/server/deployment/DeploymentAddHandler.java" />
+      <option value="$PROJECT_DIR$/server/src/main/java/org/jboss/as/server/deployment/DeploymentFullReplaceHandler.java" />
+      <option value="$PROJECT_DIR$/server/src/main/java/org/jboss/as/server/deployment/DeploymentTransformation.java" />
+      <option value="$PROJECT_DIR$/io/subsystem/pom.xml" />
+      <option value="$PROJECT_DIR$/testsuite/elytron/pom.xml" />
+      <option value="$PROJECT_DIR$/testsuite/test-runner/pom.xml" />
+      <option value="$PROJECT_DIR$/core-security/implementation/pom.xml" />
+      <option value="$PROJECT_DIR$/testsuite/shared/pom.xml" />
+      <option value="$PROJECT_DIR$/core-management/core-management-subsystem/pom.xml" />
+      <option value="$PROJECT_DIR$/io/pom.xml" />
+      <option value="$PROJECT_DIR$/elytron/src/test/resources/org/wildfly/extension/elytron/ldap.xml" />
+      <option value="$PROJECT_DIR$/testsuite/manualmode/target/wildfly-core/standalone/configuration/test-standalone-elytron.xml" />
+      <option value="$PROJECT_DIR$/testsuite/manualmode/target/wildfly-core/standalone/configuration/standalone.xml" />
+      <option value="$PROJECT_DIR$/testsuite/manualmode/src/test/java/org/jboss/as/test/manualmode/mgmt/elytron/ElytronModelControllerClientTestCase.java" />
+      <option value="$PROJECT_DIR$/subsystem-test/framework/src/main/java/org/jboss/as/subsystem/test/AbstractKernelServicesImpl.java" />
+      <option value="$PROJECT_DIR$/elytron/src/test/resources/org/wildfly/extension/elytron/realms-test.xml" />
+      <option value="$PROJECT_DIR$/core-feature-pack/common/src/main/resources/modules/system/layers/base/org/wildfly/security/elytron-tool.main/module.xml" />
+      <option value="$PROJECT_DIR$/core-feature-pack/common/src/main/resources/modules/system/layers/base/org/wildfly/security/elytron-tool/main/module.xml" />
+      <option value="$PROJECT_DIR$/core-feature-pack/common/src/main/resources/content/bin/elytron-tool.sh" />
+      <option value="$PROJECT_DIR$/pom.xml" />
+      <option value="$PROJECT_DIR$/elytron/src/main/java/org/wildfly/extension/elytron/ElytronDescriptionConstants.java" />
+      <option value="$PROJECT_DIR$/elytron/src/main/resources/org/wildfly/extension/elytron/LocalDescriptions.properties" />
+      <option value="$PROJECT_DIR$/elytron/src/main/resources/schema/wildfly-elytron_15_0.xsd" />
+      <option value="$PROJECT_DIR$/elytron/src/main/java/org/wildfly/extension/elytron/ElytronSubsystemTransformers.java" />
+      <option value="$PROJECT_DIR$/elytron/src/main/java/org/wildfly/extension/elytron/TrivialService.java" />
+      <option value="$PROJECT_DIR$/elytron/src/main/java/org/wildfly/extension/elytron/FileSystemRealmDefinition.java" />
+      <option value="$PROJECT_DIR$/elytron-tool-wrapper/src/main/java/org/wildfly/core/elytron/tool/wrapper/ElytronToolScriptWrapper.java" />
+      <option value="$PROJECT_DIR$/elytron-tool-wrapper/src/main/java/org/wildfly/core/elytron/tool/wrapper/_private/ElytronToolWrapperMessages.java" />
+      <option value="$PROJECT_DIR$/elytron/src/main/java/org/wildfly/extension/elytron/AcmeAccountService.java" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="core" type="b2602c69:ProjectViewProjectNode" />
+              <item name="core" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="core" type="b2602c69:ProjectViewProjectNode" />
+              <item name="core" type="462c0819:PsiDirectoryNode" />
+              <item name="testsuite" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="core" type="b2602c69:ProjectViewProjectNode" />
+              <item name="core" type="462c0819:PsiDirectoryNode" />
+              <item name="testsuite" type="462c0819:PsiDirectoryNode" />
+              <item name="scripts" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="core" type="b2602c69:ProjectViewProjectNode" />
+              <item name="core" type="462c0819:PsiDirectoryNode" />
+              <item name="testsuite" type="462c0819:PsiDirectoryNode" />
+              <item name="scripts" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="core" type="b2602c69:ProjectViewProjectNode" />
+              <item name="core" type="462c0819:PsiDirectoryNode" />
+              <item name="testsuite" type="462c0819:PsiDirectoryNode" />
+              <item name="scripts" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="core" type="b2602c69:ProjectViewProjectNode" />
+              <item name="core" type="462c0819:PsiDirectoryNode" />
+              <item name="testsuite" type="462c0819:PsiDirectoryNode" />
+              <item name="scripts" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="core" type="b2602c69:ProjectViewProjectNode" />
+              <item name="core" type="462c0819:PsiDirectoryNode" />
+              <item name="testsuite" type="462c0819:PsiDirectoryNode" />
+              <item name="scripts" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="wildfly" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="core" type="b2602c69:ProjectViewProjectNode" />
+              <item name="core" type="462c0819:PsiDirectoryNode" />
+              <item name="testsuite" type="462c0819:PsiDirectoryNode" />
+              <item name="scripts" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="wildfly" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="core" type="b2602c69:ProjectViewProjectNode" />
+              <item name="core" type="462c0819:PsiDirectoryNode" />
+              <item name="testsuite" type="462c0819:PsiDirectoryNode" />
+              <item name="scripts" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="wildfly" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="TerminalArrangementManager">
+    <option name="myTabStates">
+      <TerminalTabState tabName="Local" currentWorkingDirectory="$PROJECT_DIR$/elytron" commandHistoryFileName="core-history" />
+    </option>
+  </component>
+  <component name="TestHistory">
+    <history-entry file="RealmsTestCase_testSubsystem - 2021.08.19 at 09h 59m 38s.xml">
+      <configuration name="RealmsTestCase.testSubsystem" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RealmsTestCase_testSubsystem - 2021.08.19 at 10h 25m 00s.xml">
+      <configuration name="RealmsTestCase.testSubsystem" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RealmsTestCase_testSubsystem - 2021.08.19 at 10h 30m 58s.xml">
+      <configuration name="RealmsTestCase.testSubsystem" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RealmsTestCase_testSubsystem - 2021.08.19 at 11h 41m 25s.xml">
+      <configuration name="RealmsTestCase.testSubsystem" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RealmsTestCase_testSubsystem - 2021.08.19 at 11h 42m 08s.xml">
+      <configuration name="RealmsTestCase.testSubsystem" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RealmsTestCase_testSubsystem - 2021.08.19 at 11h 42m 47s.xml">
+      <configuration name="RealmsTestCase.testSubsystem" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RealmsTestCase - 2021.08.19 at 11h 43m 03s.xml">
+      <configuration name="RealmsTestCase" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SubsystemTransformerTestCase_testRejectingTransformersEAP740 - 2021.08.19 at 13h 12m 25s.xml">
+      <configuration name="SubsystemTransformerTestCase.testRejectingTransformersEAP740" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SubsystemTransformerTestCase_testRejectingTransformersEAP740 - 2021.08.19 at 13h 14m 22s.xml">
+      <configuration name="SubsystemTransformerTestCase.testRejectingTransformersEAP740" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SubsystemTransformerTestCase_testRejectingTransformersEAP740 - 2021.08.19 at 14h 40m 01s.xml">
+      <configuration name="SubsystemTransformerTestCase.testRejectingTransformersEAP740" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="321466000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.5008197" visible="true" weight="0.23463541" />
+      <window_info id="Structure" order="1" sideWeight="0.49918032" side_tool="true" weight="0.24661458" />
+      <window_info id="Favorites" order="2" sideWeight="0.49918032" side_tool="true" weight="0.24661458" />
+      <window_info id="Commit" order="3" />
+      <window_info id="Learn" order="4" />
+      <window_info id="Pull Requests" order="5" />
+      <window_info id="Space Code Reviews" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="0" sideWeight="0.5002668" weight="0.32979798" />
+      <window_info anchor="bottom" id="Event Log" order="1" sideWeight="0.4997332" side_tool="true" weight="0.370202" />
+      <window_info anchor="bottom" id="Find" order="2" weight="0.32979798" />
+      <window_info anchor="bottom" x="-90" y="552" width="1874" height="340" id="Run" order="3" weight="0.30959594" />
+      <window_info anchor="bottom" x="1942" y="658" width="1874" height="280" id="Debug" order="4" sideWeight="0.27294558" visible="true" weight="0.38333333" />
+      <window_info anchor="bottom" id="TODO" order="5" sideWeight="0.5002668" weight="0.32979798" />
+      <window_info anchor="bottom" id="Problems View" order="6" sideWeight="0.5002668" weight="0.30050504" />
+      <window_info anchor="bottom" id="Duplicates" order="7" weight="0.32979798" />
+      <window_info anchor="bottom" id="Profiler" order="8" sideWeight="0.5002668" weight="0.32979798" />
+      <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
+      <window_info anchor="bottom" id="File Transfer" order="10" />
+      <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Internal Method Tracing" order="12" />
+      <window_info anchor="bottom" id="Endpoints" order="13" sideWeight="0.5002668" weight="0.32979798" />
+      <window_info anchor="bottom" id="Build" order="14" sideWeight="0.5210779" visible="true" weight="0.28333333" />
+      <window_info anchor="bottom" id="Dependencies" order="15" />
+      <window_info anchor="bottom" id="Services" order="16" show_stripe_button="false" />
+      <window_info anchor="bottom" x="46" y="606" width="1874" height="448" id="Terminal" order="17" sideWeight="0.7270545" weight="0.31060606" />
+      <window_info anchor="right" id="Database" order="0" />
+      <window_info anchor="right" id="Space Automation" order="1" />
+      <window_info anchor="right" id="Maven" order="2" />
+      <window_info anchor="right" id="Layout Validation" order="3" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.5008197" visible="true" weight="0.19713542" />
+      <window_info id="Structure" order="1" sideWeight="0.49918032" side_tool="true" weight="0.24661458" />
+      <window_info id="Favorites" order="2" sideWeight="0.49918032" side_tool="true" weight="0.24661458" />
+      <window_info id="Commit" order="3" />
+      <window_info id="Learn" order="4" />
+      <window_info id="Pull Requests" order="5" />
+      <window_info id="Space Code Reviews" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="0" sideWeight="0.5002668" weight="0.32979798" />
+      <window_info anchor="bottom" id="Event Log" order="1" sideWeight="0.4997332" side_tool="true" weight="0.370202" />
+      <window_info anchor="bottom" id="Find" order="2" weight="0.32979798" />
+      <window_info active="true" anchor="bottom" x="-90" y="552" width="1874" height="340" id="Run" order="3" visible="true" weight="0.3246562" />
+      <window_info anchor="bottom" x="1942" y="658" width="1874" height="280" id="Debug" order="4" sideWeight="0.27294558" weight="0.26473477" />
+      <window_info anchor="bottom" id="TODO" order="5" sideWeight="0.5002668" weight="0.32979798" />
+      <window_info anchor="bottom" id="Problems View" order="6" sideWeight="0.5002668" weight="0.30009824" />
+      <window_info anchor="bottom" id="Profiler" order="7" sideWeight="0.5002668" weight="0.32979798" />
+      <window_info anchor="bottom" id="Inspection" order="8" weight="0.4" />
+      <window_info anchor="bottom" id="File Transfer" order="9" />
+      <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Internal Method Tracing" order="11" />
+      <window_info anchor="bottom" id="Endpoints" order="12" sideWeight="0.5002668" weight="0.32979798" />
+      <window_info anchor="bottom" id="Build" order="13" sideWeight="0.5210779" weight="0.28333333" />
+      <window_info anchor="bottom" id="Dependencies" order="14" />
+      <window_info anchor="bottom" id="Services" order="15" show_stripe_button="false" />
+      <window_info anchor="bottom" x="46" y="606" width="1874" height="448" id="Terminal" order="16" sideWeight="0.7270545" weight="0.31090373" />
+      <window_info anchor="right" id="Database" order="0" />
+      <window_info anchor="right" id="Space Automation" order="1" />
+      <window_info anchor="right" id="Maven" order="2" />
+      <window_info anchor="right" id="Layout Validation" order="3" />
+    </layout-to-restore>
+    <recentWindows>
+      <value>Project</value>
+      <value>Debug</value>
+      <value>Problems View</value>
+      <value>TODO</value>
+      <value>Find</value>
+      <value>Build</value>
+      <value>Run</value>
+      <value>Terminal</value>
+      <value>Version Control</value>
+      <value>Dependencies</value>
+      <value>Endpoints</value>
+      <value>Profiler</value>
+      <value>Event Log</value>
+      <value>Structure</value>
+      <value>Favorites</value>
+    </recentWindows>
+  </component>
+  <component name="Trusted.Project.Settings" hasCheckedIfOldProject="true" trusted="YES" />
+  <component name="WindowStateProjectService">
+    <state x="2353" y="202" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1637355310947">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2353" y="202" key="#com.intellij.execution.impl.EditConfigurationsDialog/1920.0.1920.1080/0.28.1920.1026@1920.0.1920.1080" timestamp="1637355310947" />
+    <state x="2238" y="341" width="1154" height="630" key="#xdebugger.evaluate" timestamp="1634671793211">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2238" y="341" width="1154" height="630" key="#xdebugger.evaluate/1920.0.1920.1080/0.28.1920.1026@1920.0.1920.1080" timestamp="1634671793211" />
+    <state x="2619" y="340" width="512" height="407" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1637591234874">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2619" y="340" width="512" height="407" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/1920.0.1920.1080/0.28.1920.1026@1920.0.1920.1080" timestamp="1637591234874" />
+    <state width="958" height="194" key="DebuggerActiveHint" timestamp="1634673512302">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="958" height="194" key="DebuggerActiveHint/1920.0.1920.1080/0.28.1920.1026@1920.0.1920.1080" timestamp="1634673512302" />
+    <state x="2663" y="299" width="987" height="667" key="FileChooserDialogImpl" timestamp="1637938244868">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2663" y="299" width="987" height="667" key="FileChooserDialogImpl/1920.0.1920.1080/0.28.1920.1026@1920.0.1920.1080" timestamp="1637938244868" />
+    <state width="1874" height="351" key="GridCell.Tab.0.bottom" timestamp="1637593110893">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="351" key="GridCell.Tab.0.bottom/1920.0.1920.1080/0.28.1920.1026@1920.0.1920.1080" timestamp="1637593110893" />
+    <state width="1874" height="351" key="GridCell.Tab.0.center" timestamp="1637593110892">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="351" key="GridCell.Tab.0.center/1920.0.1920.1080/0.28.1920.1026@1920.0.1920.1080" timestamp="1637593110892" />
+    <state width="1874" height="351" key="GridCell.Tab.0.left" timestamp="1637593110892">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="351" key="GridCell.Tab.0.left/1920.0.1920.1080/0.28.1920.1026@1920.0.1920.1080" timestamp="1637593110892" />
+    <state width="1874" height="351" key="GridCell.Tab.0.right" timestamp="1637593110893">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="351" key="GridCell.Tab.0.right/1920.0.1920.1080/0.28.1920.1026@1920.0.1920.1080" timestamp="1637593110893" />
+    <state width="1874" height="351" key="GridCell.Tab.1.bottom" timestamp="1637593110166">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="351" key="GridCell.Tab.1.bottom/1920.0.1920.1080/0.28.1920.1026@1920.0.1920.1080" timestamp="1637593110166" />
+    <state width="1874" height="351" key="GridCell.Tab.1.center" timestamp="1637593110166">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="351" key="GridCell.Tab.1.center/1920.0.1920.1080/0.28.1920.1026@1920.0.1920.1080" timestamp="1637593110166" />
+    <state width="1874" height="351" key="GridCell.Tab.1.left" timestamp="1637593110165">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="351" key="GridCell.Tab.1.left/1920.0.1920.1080/0.28.1920.1026@1920.0.1920.1080" timestamp="1637593110165" />
+    <state width="1874" height="351" key="GridCell.Tab.1.right" timestamp="1637593110166">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="351" key="GridCell.Tab.1.right/1920.0.1920.1080/0.28.1920.1026@1920.0.1920.1080" timestamp="1637593110166" />
+    <state x="2369" y="176" width="1022" height="736" key="SettingsEditor" timestamp="1637355297720">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2369" y="176" width="1022" height="736" key="SettingsEditor/1920.0.1920.1080/0.28.1920.1026@1920.0.1920.1080" timestamp="1637355297720" />
+    <state width="960" height="513" key="XDebugger.FullValuePopup" timestamp="1634744296406">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="960" height="513" key="XDebugger.FullValuePopup/1920.0.1920.1080/0.28.1920.1026@1920.0.1920.1080" timestamp="1634744296406" />
+    <state x="2638" y="243" width="962" height="664" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1637593060794">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2638" y="243" width="962" height="664" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/1920.0.1920.1080/0.28.1920.1026@1920.0.1920.1080" timestamp="1637593060794" />
+    <state x="2627" y="300" width="1044" height="740" key="find.popup" timestamp="1638218790659">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="691" y="228" width="970" height="621" key="find.popup/1920.0.1920.1080/0.28.1920.1026@0.28.1920.1026" timestamp="1636569439206" />
+    <state x="2627" y="300" width="1044" height="740" key="find.popup/1920.0.1920.1080/0.28.1920.1026@1920.0.1920.1080" timestamp="1638218790659" />
+    <state x="2544" y="246" key="run.anything.popup" timestamp="1634745406062">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2544" y="246" key="run.anything.popup/1920.0.1920.1080/0.28.1920.1026@1920.0.1920.1080" timestamp="1634745406062" />
+    <state x="2165" y="253" width="1575" height="687" key="search.everywhere.popup" timestamp="1638199700771">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="623" y="268" width="672" height="653" key="search.everywhere.popup/1920.0.1920.1080/0.28.1920.1026@0.28.1920.1026" timestamp="1636569374252" />
+    <state x="2165" y="253" width="1575" height="687" key="search.everywhere.popup/1920.0.1920.1080/0.28.1920.1026@1920.0.1920.1080" timestamp="1638199700771" />
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>copiedConfig.getFileName().toString()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>t</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/core-feature-pack/common/src/main/resources/content/bin/common.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-431" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core-feature-pack/common/src/main/resources/content/bin/domain.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-7155" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core-feature-pack/common/src/main/resources/modules/system/layers/base/org/wildfly/security/elytron-base/main/module.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2151" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core-feature-pack/common/src/main/resources/modules/system/layers/base/org/wildfly/security/elytron/main/module.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-237" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core-feature-pack/common/src/main/resources/modules/system/layers/base/org/wildfly/security/elytron-tool.main/module.xml" />
+    <entry file="file://$PROJECT_DIR$/core-feature-pack/common/src/main/resources/modules/system/layers/base/org/wildfly/security/jakarta/authentication/main/module.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-303" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core-feature-pack/common/src/main/resources/modules/system/layers/base/org/wildfly/security/elytron-web/undertow-server/main/module.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="748">
+          <caret line="34" column="8" selection-start-line="34" selection-start-column="8" selection-end-line="34" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core-feature-pack/common/src/main/resources/modules/system/layers/base/org/wildfly/extension/core-management/main/module.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="990">
+          <caret line="45" column="8" selection-start-line="45" selection-start-column="8" selection-end-line="45" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core-feature-pack/common/src/main/resources/modules/system/layers/base/org/wildfly/security/elytron-private/main/module.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core-feature-pack/common/src/main/resources/modules/system/layers/base/org/wildfly/security/elytron-tool/main/module.xml" />
+    <entry file="file://$PROJECT_DIR$/core-feature-pack/common/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18392">
+          <caret line="836" column="14" selection-start-line="836" selection-start-column="14" selection-end-line="836" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core-feature-pack/common/src/main/resources/content/bin/elytron-tool.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1065">
+          <caret line="84" selection-start-line="84" selection-end-line="84" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core-feature-pack/legacy-feature-pack/target/resources/content/bin/elytron-tool.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="823">
+          <caret line="81" column="26" selection-start-line="81" selection-start-column="26" selection-end-line="81" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core-feature-pack/common/src/main/resources/content/bin/elytron-tool.bat">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="823">
+          <caret line="64" column="4" selection-start-line="64" selection-start-column="4" selection-end-line="64" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core-feature-pack/common/src/main/resources/content/bin/standalone.sh">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core-feature-pack/common/src/main/resources/content/bin/add-user.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="823">
+          <caret line="78" column="15" selection-start-line="78" selection-start-column="15" selection-end-line="78" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core-feature-pack/common/src/main/resources/content/bin/jboss-cli.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="823">
+          <caret line="92" selection-start-line="92" selection-end-line="92" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/elytron/src/main/java/org/wildfly/extension/elytron/FilteringKeyStoreDefinition.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="638">
+          <caret line="76" column="95" selection-start-line="76" selection-start-column="95" selection-end-line="76" selection-end-column="95" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42174">
+          <caret line="1917" column="28" selection-start-line="1917" selection-start-column="28" selection-end-line="1917" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core-feature-pack/legacy-feature-pack/target/wildfly-core-feature-pack-16.0.0.Beta4-SNAPSHOT/wildfly-feature-pack.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="484">
+          <caret line="22" column="26" selection-start-line="22" selection-start-column="26" selection-end-line="22" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/jboss/msc/jboss-msc/1.4.13.Final/jboss-msc-1.4.13.Final.jar!/org/jboss/msc/value/InjectedValue.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="186">
+          <caret line="12" column="19" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testsuite/shared/src/main/java/org/jboss/as/test/integration/security/common/SSLTruststoreUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="748">
+          <caret line="72" column="12" selection-start-line="72" selection-start-column="12" selection-end-line="72" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.jdks/openjdk-17/lib/src.zip!/java.base/java/security/KeyStoreSpi.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="78" column="24" selection-start-line="78" selection-start-column="24" selection-end-line="78" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/elytron/src/main/java/org/wildfly/extension/elytron/_private/ElytronSubsystemMessages.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="301">
+          <caret line="290" column="52" selection-start-line="290" selection-start-column="21" selection-end-line="290" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/elytron/src/main/java/org/wildfly/extension/elytron/ElytronDescriptionConstants.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="279">
+          <caret line="286" column="20" selection-start-line="286" selection-start-column="11" selection-end-line="286" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/elytron/src/main/resources/org/wildfly/extension/elytron/LocalDescriptions.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="891" column="107" lean-forward="true" selection-start-line="891" selection-start-column="45" selection-end-line="891" selection-end-column="107" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/elytron/src/main/resources/schema/wildfly-elytron_15_0.xsd" />
+    <entry file="file://$PROJECT_DIR$/testsuite/elytron/src/test/java/org/wildfly/test/security/common/elytron/KeyStoreRealm.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="528">
+          <caret line="41" lean-forward="true" selection-start-line="41" selection-end-line="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/jboss/msc/jboss-msc/1.4.13.Final/jboss-msc-1.4.13.Final-sources.jar!/org/jboss/msc/service/ServiceRegistry.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="49" column="25" selection-start-line="49" selection-start-column="25" selection-end-line="49" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/elytron/src/main/java/org/wildfly/extension/elytron/TrivialService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="75" column="5" selection-start-line="75" selection-start-column="5" selection-end-line="75" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/elytron/src/test/java/org/wildfly/extension/elytron/RealmsTestCase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2640">
+          <caret line="194" column="41" selection-start-line="194" selection-start-column="39" selection-end-line="194" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/elytron/src/main/java/org/wildfly/extension/elytron/ElytronSubsystemTransformers.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="34" column="72" selection-start-line="34" selection-start-column="72" selection-end-line="34" selection-end-column="72" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/elytron/src/main/java/org/wildfly/extension/elytron/FileSystemRealmDefinition.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2288">
+          <caret line="179" selection-start-line="179" selection-end-line="179" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/elytron/src/test/java/org/wildfly/extension/elytron/KeyStoresTestCase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="8580">
+          <caret line="471" column="69" selection-start-line="471" selection-start-column="69" selection-end-line="471" selection-end-column="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/wildfly/security/wildfly-elytron-credential-store/1.17.3.CR1-SNAPSHOT/wildfly-elytron-credential-store-1.17.3.CR1-SNAPSHOT-sources.jar!/org/wildfly/security/credential/store/CredentialStore.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="178">
+          <caret line="42" column="19" selection-start-line="42" selection-start-column="19" selection-end-line="42" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/wildfly/security/wildfly-elytron-realm/1.17.3.CR1-SNAPSHOT/wildfly-elytron-realm-1.17.3.CR1-SNAPSHOT-sources.jar!/org/wildfly/security/auth/realm/FileSystemSecurityRealm.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="823">
+          <caret line="1276" selection-start-line="1276" selection-end-line="1276" />
+          <folding>
+            <element signature="e#6943#6944#0" expanded="true" />
+            <element signature="e#7002#7003#0" expanded="true" />
+            <element signature="e#12007#12008#0" expanded="true" />
+            <element signature="e#12074#12075#0" expanded="true" />
+            <element signature="e#13811#13812#0" expanded="true" />
+            <element signature="e#13850#13851#0" expanded="true" />
+            <element signature="e#22603#22604#0" expanded="true" />
+            <element signature="e#22657#22658#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/elytron/src/main/java/org/wildfly/extension/elytron/ModifiableRealmDecorator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="624">
+          <caret line="143" selection-start-line="143" selection-end-line="143" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/controller/src/main/java/org/jboss/as/controller/AbstractRuntimeOnlyHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="823">
+          <caret line="63" selection-start-line="63" selection-end-line="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/elytron/src/main/java/org/wildfly/extension/elytron/TokenRealmDefinition.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="433">
+          <caret line="361" selection-start-line="361" selection-end-line="367" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/jboss/msc/jboss-msc/1.4.13.Final/jboss-msc-1.4.13.Final-sources.jar!/org/jboss/msc/value/InjectedValue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="37" column="19" selection-start-line="37" selection-start-column="19" selection-end-line="37" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.jdks/openjdk-17/lib/src.zip!/java.base/java/security/KeyStore.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="424">
+          <caret line="193" column="13" selection-start-line="193" selection-start-column="13" selection-end-line="193" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/elytron/src/main/java/org/wildfly/extension/elytron/Capabilities.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="823">
+          <caret line="101" column="36" selection-start-line="101" selection-start-column="36" selection-end-line="101" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/elytron-tool-wrapper/src/main/java/org/wildfly/core/elytron/tool/wrapper/ElytronToolScriptWrapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="506">
+          <caret line="47" column="95" selection-start-line="47" selection-start-column="95" selection-end-line="47" selection-end-column="95" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/elytron-tool-wrapper/src/main/java/org/wildfly/core/elytron/tool/wrapper/_private/ElytronToolWrapperMessages.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="40" column="32" selection-start-line="40" selection-start-column="32" selection-end-line="40" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/elytron/src/main/java/org/wildfly/extension/elytron/AcmeAccountService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="763">
+          <caret line="151" column="1" selection-start-line="151" selection-start-column="1" selection-end-line="151" selection-end-column="1" />
+          <folding>
+            <element signature="e#5494#5495#0" expanded="true" />
+            <element signature="e#5533#5534#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/elytron-tool-wrapper/target/classes/org/wildfly/core/elytron/tool/wrapper/ElytronToolScriptWrapper.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="23" column="67" selection-start-line="23" selection-start-column="67" selection-end-line="23" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testsuite/scripts/src/test/java/org/wildfly/scripts/test/ScriptTestCase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1936">
+          <caret line="143" column="35" selection-start-line="143" selection-start-column="35" selection-end-line="143" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core-feature-pack/common/src/main/resources/content/bin/elytron-tool.ps1">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testsuite/scripts/src/test/java/org/wildfly/scripts/test/AddUserTestCase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="660">
+          <caret line="59" column="5" selection-start-line="59" selection-start-column="5" selection-end-line="59" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testsuite/scripts/src/test/java/org/wildfly/scripts/test/Shell.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="59" column="5" selection-start-line="59" selection-start-column="5" selection-end-line="59" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testsuite/scripts/src/test/java/org/wildfly/scripts/test/ElytronToolScriptTestCase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="572">
+          <caret line="46" column="52" lean-forward="true" selection-start-line="46" selection-start-column="52" selection-end-line="46" selection-end-column="52" />
+          <folding>
+            <element signature="e#1028#1029#0" expanded="true" />
+            <element signature="e#1065#1066#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI" />
+      <state key="GlobalLibrariesConfigurable.UI" />
+      <state key="JdkListConfigurable.UI" />
+      <state key="ModuleStructureConfigurable.UI" />
+      <state key="ProjectLibrariesConfigurable.UI" />
+    </states>
+  </component>
+</project>

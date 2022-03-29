@@ -1,0 +1,300 @@
+<project version="4">
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="-1">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/org/wildfly/security/tool/FileSystemRealmCommandTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="12826">
+              <caret line="630" column="1" selection-start-line="630" selection-start-column="1" selection-end-line="630" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/org/wildfly/security/tool/FileSystemRealmCommand.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="400">
+              <caret line="104" selection-start-line="104" selection-end-line="104" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/org/wildfly/security/tool/ElytronToolMessages.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="9218">
+              <caret line="448" column="38" selection-start-line="448" selection-start-column="26" selection-end-line="448" selection-end-column="38" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/org/wildfly/security/tool/ElytronTool.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2244">
+              <caret line="124" column="29" selection-start-line="124" selection-start-column="25" selection-end-line="124" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>wild</find>
+      <find>Printing</find>
+      <find>generalHelpTitle$str</find>
+      <find>generalHelpTitle</find>
+      <find>Printing general help message</find>
+      <find>ElytronToolMessages.msg</find>
+      <find>printing help</find>
+    </findStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$/tool/target/generated-sources/annotations/org/wildfly/security/tool</dir>
+      <dir>$PROJECT_DIR$/src/main/java/org/wildfly/security/tool</dir>
+    </dirStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/src/main/java/org/wildfly/security/tool/FileSystemEncryptCommand.java" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="tool" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tool" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tool" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tool" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tool" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tool" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tool" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tool" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tool" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tool" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="tool" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tool" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tool" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tool" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tool" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tool" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tool" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="tool" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="TerminalArrangementManager">
+    <option name="myTabStates">
+      <TerminalTabState tabName="Local" currentWorkingDirectory="$PROJECT_DIR$" commandHistoryFileName="tool-history1" />
+    </option>
+  </component>
+  <component name="TestHistory">
+    <history-entry file="FileSystemRealmCommandTest_testMultipleUsersSingleRole - 2021.08.31 at 10h 34m 23s.xml">
+      <configuration name="FileSystemRealmCommandTest.testMultipleUsersSingleRole" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="FileSystemRealmCommandTest_testMultipleUsersSingleRole - 2021.08.31 at 10h 34m 30s.xml">
+      <configuration name="FileSystemRealmCommandTest.testMultipleUsersSingleRole" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="FileSystemRealmCommandTest_testBulkFileAbsolutePath - 2021.08.31 at 10h 35m 09s.xml">
+      <configuration name="FileSystemRealmCommandTest.testBulkFileAbsolutePath" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="6319000" />
+  </component>
+  <component name="ToolWindowManager">
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2502604" />
+      <window_info id="Structure" order="1" side_tool="true" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info id="Commit" order="3" />
+      <window_info id="Learn" order="4" />
+      <window_info id="Pull Requests" order="5" />
+      <window_info id="Space Code Reviews" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="2" />
+      <window_info anchor="bottom" id="Run" order="3" />
+      <window_info anchor="bottom" id="Debug" order="4" weight="0.32373738" />
+      <window_info anchor="bottom" id="TODO" order="5" />
+      <window_info anchor="bottom" id="Problems View" order="6" />
+      <window_info anchor="bottom" id="Profiler" order="7" />
+      <window_info anchor="bottom" id="Inspection" order="8" weight="0.4" />
+      <window_info anchor="bottom" id="File Transfer" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.32979798" />
+      <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Internal Method Tracing" order="12" />
+      <window_info anchor="bottom" id="Endpoints" order="13" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Build" order="14" />
+      <window_info anchor="bottom" id="Dependencies" order="15" />
+      <window_info anchor="bottom" id="Services" order="16" show_stripe_button="false" />
+      <window_info anchor="right" id="Database" order="0" />
+      <window_info anchor="right" id="Space Automation" order="1" />
+      <window_info anchor="right" id="Maven" order="2" />
+      <window_info anchor="right" id="Layout Validation" order="3" />
+    </layout>
+    <recentWindows>
+      <value>Project</value>
+      <value>Debug</value>
+      <value>Terminal</value>
+    </recentWindows>
+  </component>
+  <component name="Trusted.Project.Settings" hasCheckedIfOldProject="true" trusted="YES" />
+  <component name="WindowStateProjectService">
+    <state x="2458" y="291" width="895" height="621" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1630420553127">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2458" y="291" width="895" height="621" key="#com.intellij.execution.impl.EditConfigurationsDialog/1920.0.1920.1080/0.28.1920.1026@1920.0.1920.1080" timestamp="1630420553127" />
+    <state x="2663" y="299" width="424" height="490" key="FileChooserDialogImpl" timestamp="1630420768113">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2663" y="299" width="424" height="490" key="FileChooserDialogImpl/1920.0.1920.1080/0.28.1920.1026@1920.0.1920.1080" timestamp="1630420768113" />
+    <state width="1874" height="292" key="GridCell.Tab.0.bottom" timestamp="1630420770991">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="292" key="GridCell.Tab.0.bottom/1920.0.1920.1080/0.28.1920.1026@1920.0.1920.1080" timestamp="1630420770991" />
+    <state width="1874" height="292" key="GridCell.Tab.0.center" timestamp="1630420770990">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="292" key="GridCell.Tab.0.center/1920.0.1920.1080/0.28.1920.1026@1920.0.1920.1080" timestamp="1630420770990" />
+    <state width="1874" height="292" key="GridCell.Tab.0.left" timestamp="1630420770990">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="292" key="GridCell.Tab.0.left/1920.0.1920.1080/0.28.1920.1026@1920.0.1920.1080" timestamp="1630420770990" />
+    <state width="1874" height="292" key="GridCell.Tab.0.right" timestamp="1630420770991">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="292" key="GridCell.Tab.0.right/1920.0.1920.1080/0.28.1920.1026@1920.0.1920.1080" timestamp="1630420770991" />
+    <state width="1874" height="292" key="GridCell.Tab.1.bottom" timestamp="1630420770992">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="292" key="GridCell.Tab.1.bottom/1920.0.1920.1080/0.28.1920.1026@1920.0.1920.1080" timestamp="1630420770992" />
+    <state width="1874" height="292" key="GridCell.Tab.1.center" timestamp="1630420770992">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="292" key="GridCell.Tab.1.center/1920.0.1920.1080/0.28.1920.1026@1920.0.1920.1080" timestamp="1630420770992" />
+    <state width="1874" height="292" key="GridCell.Tab.1.left" timestamp="1630420770991">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="292" key="GridCell.Tab.1.left/1920.0.1920.1080/0.28.1920.1026@1920.0.1920.1080" timestamp="1630420770991" />
+    <state width="1874" height="292" key="GridCell.Tab.1.right" timestamp="1630420770992">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="292" key="GridCell.Tab.1.right/1920.0.1920.1080/0.28.1920.1026@1920.0.1920.1080" timestamp="1630420770992" />
+    <state x="2369" y="176" width="1022" height="736" key="SettingsEditor" timestamp="1630338830564">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2369" y="176" width="1022" height="736" key="SettingsEditor/1920.0.1920.1080/0.28.1920.1026@1920.0.1920.1080" timestamp="1630338830564" />
+    <state x="2406" y="112" width="715" height="534" key="find.popup" timestamp="1630420075445">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2406" y="112" width="715" height="534" key="find.popup/1920.0.1920.1080/0.28.1920.1026@1920.0.1920.1080" timestamp="1630420075445" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/tool/target/generated-sources/annotations/org/wildfly/security/tool/ElytronToolMessages_$logger.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="65" column="45" selection-start-line="65" selection-start-column="16" selection-end-line="65" selection-end-column="45" />
+          <folding>
+            <element signature="e#2521#2522#0" expanded="true" />
+            <element signature="e#2576#2577#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/wildfly/security/tool/FileSystemEncryptCommand.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/org/wildfly/security/tool/FileSystemRealmCommandTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="12826">
+          <caret line="630" column="1" selection-start-line="630" selection-start-column="1" selection-end-line="630" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/wildfly/security/tool/ElytronToolMessages.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="9218">
+          <caret line="448" column="38" selection-start-line="448" selection-start-column="26" selection-end-line="448" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/wildfly/security/tool/ElytronTool.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2244">
+          <caret line="124" column="29" selection-start-line="124" selection-start-column="25" selection-end-line="124" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/wildfly/security/tool/FileSystemRealmCommand.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="104" selection-start-line="104" selection-end-line="104" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

@@ -1,0 +1,57 @@
+<application>
+  <component name="DimensionService">
+    <location key="find.popup.1920.0.1920.1080" x="2627" y="300" />
+    <location key="find.popup.0.0.1920.1080" x="691" y="228" />
+    <size key="GridCell.Tab.0.left.1920.0.1920.1080" width="1874" height="371" />
+    <size key="GridCell.Tab.0.center.1920.0.1920.1080" width="1874" height="371" />
+    <size key="GridCell.Tab.0.right.1920.0.1920.1080" width="1874" height="371" />
+    <size key="GridCell.Tab.0.bottom.1920.0.1920.1080" width="1874" height="371" />
+    <size key="GridCell.Tab.1.left.1920.0.1920.1080" width="1874" height="315" />
+    <size key="GridCell.Tab.1.center.1920.0.1920.1080" width="1874" height="315" />
+    <size key="GridCell.Tab.1.right.1920.0.1920.1080" width="1874" height="315" />
+    <size key="GridCell.Tab.1.bottom.1920.0.1920.1080" width="1874" height="315" />
+    <size key="GridCell.Tab.0.left.0.0.1920.1080" width="1114" height="344" />
+    <size key="GridCell.Tab.0.center.0.0.1920.1080" width="1114" height="344" />
+    <size key="GridCell.Tab.0.right.0.0.1920.1080" width="1114" height="344" />
+    <size key="GridCell.Tab.0.bottom.0.0.1920.1080" width="1114" height="344" />
+    <size key="GridCell.Tab.1.left.0.0.1920.1080" width="1874" height="239" />
+    <size key="GridCell.Tab.1.center.0.0.1920.1080" width="1874" height="239" />
+    <size key="GridCell.Tab.1.right.0.0.1920.1080" width="1874" height="239" />
+    <size key="GridCell.Tab.1.bottom.0.0.1920.1080" width="1874" height="239" />
+    <size key="find.popup.1920.0.1920.1080" width="1044" height="740" />
+    <size key="find.popup.0.0.1920.1080" width="970" height="621" />
+    <size key="GridCell.Tab.-1.left.1920.0.1920.1080" width="1874" height="344" />
+    <size key="GridCell.Tab.-1.center.1920.0.1920.1080" width="1874" height="344" />
+    <size key="GridCell.Tab.-1.right.1920.0.1920.1080" width="1874" height="344" />
+    <size key="GridCell.Tab.-1.bottom.1920.0.1920.1080" width="1874" height="344" />
+  </component>
+  <component name="WindowManager">
+    <frame x="1920" y="28" width="1920" height="1026" extendedState="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
+    </layout>
+  </component>
+  <component name="WindowStateApplicationService">
+    <state x="2179" y="181" width="424" height="490" key="FileChooserDialogImpl" timestamp="1629400872830">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2179" y="181" width="424" height="490" key="FileChooserDialogImpl/1920.0.1920.1080/0.28.1920.1026" timestamp="1629400872830" />
+    <state width="674" height="105" key="ShowUsagesActions.dimensionServiceKey" timestamp="1637348541570">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="674" height="105" key="ShowUsagesActions.dimensionServiceKey/1920.0.1920.1080/0.28.1920.1026" timestamp="1637348541570" />
+    <state x="2880" y="462" width="800" height="616" key="WELCOME_SCREEN" timestamp="1635345289259">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2880" y="462" width="800" height="616" key="WELCOME_SCREEN/1920.0.1920.1080/0.28.1920.1026" timestamp="1635345289259" />
+    <state width="300" height="484" key="manage.recent.projects.popup" timestamp="1630337412102">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="300" height="484" key="manage.recent.projects.popup/1920.0.1920.1080/0.28.1920.1026" timestamp="1630337412102" />
+  </component>
+</application>

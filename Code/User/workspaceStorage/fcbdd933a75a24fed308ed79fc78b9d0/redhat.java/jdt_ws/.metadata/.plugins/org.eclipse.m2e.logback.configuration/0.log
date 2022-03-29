@@ -1,0 +1,51 @@
+2021-10-08 15:58:16,500 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2021-10-08 15:58:17,792 [Worker-2: Initialize Workspace] WARN  o.e.m.c.i.markers.MarkerUtils - Could not find OSGI service for org.eclipse.m2e.core.internal.markers.IEditorMarkerService
+2021-10-08 15:58:18,317 [Worker-2: Initialize Workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.wildfly:docs:26.0.0.Beta1-SNAPSHOT @ /home/ashpan/workspace/wildfly/docs/pom.xml.
+2021-10-08 15:58:18,447 [Worker-2: Initialize Workspace] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /docs/src/main/java
+2021-10-08 15:58:18,447 [Worker-2: Initialize Workspace] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /docs/src/test/java
+2021-10-08 15:58:18,489 [Worker-2: Initialize Workspace] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 0 sec
+2021-10-08 15:58:18,793 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-08 15:58:18,793 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/ashpan/workspace/wildfly/docs/src/main/resources
+2021-10-08 15:58:18,795 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-08 15:58:18,795 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/ashpan/workspace/wildfly/docs/src/test/resources
+2021-10-08 16:01:16,955 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-08 16:01:16,956 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/ashpan/workspace/wildfly/docs/src/main/resources
+2021-10-08 16:01:16,959 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-08 16:01:16,959 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/ashpan/workspace/wildfly/docs/src/test/resources
+2021-10-08 16:01:43,489 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-08 16:01:43,489 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/ashpan/workspace/wildfly/docs/src/main/resources
+2021-10-08 16:01:43,491 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-08 16:01:43,491 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/ashpan/workspace/wildfly/docs/src/test/resources
+2021-10-08 16:02:44,400 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-08 16:02:44,400 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/ashpan/workspace/wildfly/docs/src/main/resources
+2021-10-08 16:02:44,402 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-08 16:02:44,402 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/ashpan/workspace/wildfly/docs/src/test/resources
+2021-10-08 16:03:02,761 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-08 16:03:02,761 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/ashpan/workspace/wildfly/docs/src/main/resources
+2021-10-08 16:03:02,763 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-08 16:03:02,763 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/ashpan/workspace/wildfly/docs/src/test/resources
+2021-10-08 16:16:05,645 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-08 16:16:05,645 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/ashpan/workspace/wildfly/docs/src/main/resources
+2021-10-08 16:16:05,647 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-08 16:16:05,648 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/ashpan/workspace/wildfly/docs/src/test/resources
+2021-10-08 16:16:19,190 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-08 16:16:19,191 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/ashpan/workspace/wildfly/docs/src/main/resources
+2021-10-08 16:16:19,192 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-08 16:16:19,193 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/ashpan/workspace/wildfly/docs/src/test/resources
+2021-10-08 16:16:40,541 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-08 16:16:40,541 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/ashpan/workspace/wildfly/docs/src/main/resources
+2021-10-08 16:16:40,543 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-08 16:16:40,543 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/ashpan/workspace/wildfly/docs/src/test/resources
+2021-10-08 16:17:38,698 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-08 16:17:38,698 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/ashpan/workspace/wildfly/docs/src/main/resources
+2021-10-08 16:17:38,701 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-08 16:17:38,701 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/ashpan/workspace/wildfly/docs/src/test/resources
+2021-10-08 16:18:53,575 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-08 16:18:53,575 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/ashpan/workspace/wildfly/docs/src/main/resources
+2021-10-08 16:18:53,580 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-08 16:18:53,580 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/ashpan/workspace/wildfly/docs/src/test/resources
+2021-10-12 10:58:42,372 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2021-10-12 10:58:44,507 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-12 10:58:44,508 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/ashpan/workspace/wildfly/docs/src/main/resources
+2021-10-12 10:58:44,511 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-12 10:58:44,512 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/ashpan/workspace/wildfly/docs/src/test/resources

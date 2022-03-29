@@ -1,0 +1,272 @@
+[
+	{
+		"name": "TEXT",
+		"value": "Preparing request to https://d22n8yer1yb325.cloudfront.net/Team1325/Waterloo/metrics",
+		"timestamp": 1648162667287
+	},
+	{
+		"name": "TEXT",
+		"value": "Current time is 2022-03-24T22:57:47.287Z",
+		"timestamp": 1648162667287
+	},
+	{
+		"name": "TEXT",
+		"value": "Using libcurl/7.73.0 OpenSSL/1.1.1l zlib/1.2.11 brotli/1.0.9 zstd/1.5.2 libidn2/2.3.2 libssh2/1.9.0 nghttp2/1.42.0",
+		"timestamp": 1648162667287
+	},
+	{
+		"name": "TEXT",
+		"value": "Using default HTTP version",
+		"timestamp": 1648162667287
+	},
+	{
+		"name": "TEXT",
+		"value": "Disable timeout",
+		"timestamp": 1648162667287
+	},
+	{
+		"name": "TEXT",
+		"value": "Enable automatic URL encoding",
+		"timestamp": 1648162667287
+	},
+	{
+		"name": "TEXT",
+		"value": "Enable SSL validation",
+		"timestamp": 1648162667287
+	},
+	{
+		"name": "TEXT",
+		"value": "Enable cookie sending with jar of 0 cookies",
+		"timestamp": 1648162667288
+	},
+	{
+		"name": "TEXT",
+		"value": "Found bundle for host d22n8yer1yb325.cloudfront.net: 0x2d72ba1330f0 [can multiplex]\n",
+		"timestamp": 1648162667289
+	},
+	{
+		"name": "TEXT",
+		"value": "Re-using existing connection! (#0) with host d22n8yer1yb325.cloudfront.net\n",
+		"timestamp": 1648162667289
+	},
+	{
+		"name": "TEXT",
+		"value": "Connected to d22n8yer1yb325.cloudfront.net (13.226.140.54) port 443 (#0)\n",
+		"timestamp": 1648162667289
+	},
+	{
+		"name": "TEXT",
+		"value": "Using Stream ID: 5 (easy handle 0x2d72bb04d400)\n",
+		"timestamp": 1648162667289
+	},
+	{
+		"name": "HEADER_OUT",
+		"value": "POST /Team1325/Waterloo/metrics HTTP/2\r\nHost: d22n8yer1yb325.cloudfront.net\r\nuser-agent: insomnia/2021.7.2\r\ncontent-type: application/json\r\nauthorization: Bearer a3330827-07ba-4589-b5f8-e0083c99a5f0\r\naccept: */*\r\ncontent-length: 2854\r\n\r\n",
+		"timestamp": 1648162667289
+	},
+	{
+		"name": "DATA_OUT",
+		"value": "{\n\t\"metrics\": [\n\t\t{\n\t\t\t\"expression\": \"$AVG{Moved in Auto?}\",\n\t\t\t\"label\": \"Auto\",\n\t\t\t\"name\": \"Auto Move %\"\n\t\t},\n\t\t{\n\t\t\t\"expression\": \"$AVG{Auto Balls Scored High}\",\n\t\t\t\"label\": \"Auto\",\n\t\t\t\"name\": \"Auto Average Scored High\"\n\t\t},\n\t\t{\n\t\t\t\"expression\": \"$AVG{Auto Balls Scored High}/$AVG{Auto Balls Shot High}\",\n\t\t\t\"label\": \"Auto\",\n\t\t\t\"name\": \"Auto High Accuracy\"\n\t\t},\n\t\t{\n\t\t\t\"expression\": \"$AVG{Auto Balls Scored Low}\",\n\t\t\t\"label\": \"Auto\",\n\t\t\t\"name\": \"Auto Average Scored Low\"\n\t\t},\n\t\t{\n\t\t\t\"expression\": \"$AVG{Auto Balls Scored Low}/$AVG{Auto Balls Shot Low}\",\n\t\t\t\"label\": \"Auto\",\n\t\t\t\"name\": \"Auto Low Accuracy\"\n\t\t},\n\t\t{\n\t\t\t\"expression\": \"$AVG{Balls Scored High}\",\n\t\t\t\"label\": \"Scoring\",\n\t\t\t\"name\": \"Average Scored High\"\n\t\t},\n\t\t{\n\t\t\t\"expression\": \"$AVG{Auto Balls Scored Low}\",\n\t\t\t\"label\": \"Auto\",\n\t\t\t\"name\": \"Auto Average Scored Low\"\n\t\t},\n\t\t{\n\t\t\t\"expression\": \"$AVG{Balls Scored Low}\",\n\t\t\t\"label\": \"Scoring\",\n\t\t\t\"name\": \"Average Scored Low\"\n\t\t},\n\t\t{\n\t\t\t\"expression\": \"$AVG{Balls Scored Low}/$AVG{Balls Shot Low}\",\n\t\t\t\"label\": \"Scoring\",\n\t\t\t\"name\": \"Scored Low %\"\n\t\t},\n\t\t{\n\t\t\t\"expression\": \"$AVG{Balls Scored High}/$AVG{Balls Shot High}\",\n\t\t\t\"label\": \"Scoring\",\n\t\t\t\"name\": \"Scored High %\"\n\t\t},\n\t\t{\n\t\t\t\"expression\": \"$SUM{Seconds Left When Starting Climb}/$SUM{Attempted Climb?}\",\n\t\t\t\"label\": \"Climbing\",\n\t\t\t\"name\": \"Average Climb Time\"\n\t\t},\n\t\t{\n\t\t\t\"expression\": \"$SUM{Climb Success?}/$SUM{Attempted Climb?}\",\n\t\t\t\"label\": \"Climbing\",\n\t\t\t\"name\": \"Climb Success Rate\"\n\t\t},\n\t\t{\n\t\t\t\"expression\": \"$AVG{Was the robot playing defense?}\",\n\t\t\t\"label\": \"Gameplay\",\n\t\t\t\"name\": \"% of defense matches\"\n\t\t},\n\t\t{\n\t\t\t\"expression\": \"$SUM{If applicable, rate the robot’s defense from 1 to 10}/$SUM{Was the robot playing defense?}\",\n\t\t\t\"label\": \"Gameplay\",\n\t\t\t\"name\": \"Defense Rating\"\n\t\t},\n\t\t{\n\t\t\t\"expression\": \"$AVG{Auto Low Goal Accuracy}\",\n\t\t\t\"label\": \"Auto\",\n\t\t\t\"name\": \"Average Auto Low Goal Accuracy\"\n\t\t},\n\t\t{\n\t\t\t\"expression\": \"$AVG{Auto High Goal Accuracy}\",\n\t\t\t\"label\": \"Auto\",\n\t\t\t\"name\": \"Average Auto High Goal Accuracy\"\n\t\t},\n\t\t{\n\t\t\t\"expression\": \"$AVG{Teleop Low Goal Accuracy}\",\n\t\t\t\"label\": \"Scoring\",\n\t\t\t\"name\": \"Average Low Goal Accuracy\"\n\t\t},\n\t\t{\n\t\t\t\"expression\": \"$AVG{Teleop High Goal Accuracy}\",\n\t\t\t\"label\": \"Scoring\",\n\t\t\t\"name\": \"Average High Goal Accuracy\"\n\t\t},\n\t\t\t\t{\n\t\t\t\"expression\": \"$STD{Auto Balls Shot High}\",\n\t\t\t\"label\": \"Auto\",\n\t\t\t\"name\": \"Auto Shot High Deviation\"\n\t\t},\n\t\t{\n\t\t\t\"expression\": \"$STD{Balls Shot High}\",\n\t\t\t\"label\": \"Scoring\",\n\t\t\t\"name\": \"Teleop Shot High Deviation\"\n\t\t},\n\t\t{\n\t\t\t\"expression\": \"$STD{Auto High Goal Accuracy}\",\n\t\t\t\"label\": \"Auto\",\n\t\t\t\"name\": \"Auto High Accuracy Deviation\"\n\t\t},\n\t\t{\n\t\t\t\"expression\": \"$STD{Teleop High Goal Accuracy}\",\n\t\t\t\"label\": \"Scoring\",\n\t\t\t\"name\": \"Teleop High Accuracy Deviation\"\n\t\t},\n\t\t{\n\t\t\t\"expression\": \"$STD{Climb Success?}\",\n\t\t\t\"label\": \"Climbing\",\n\t\t\t\"name\": \"Climb Accuracy Deviation\"\n\t\t}\n\t]\n}",
+		"timestamp": 1648162667289
+	},
+	{
+		"name": "TEXT",
+		"value": "We are completely uploaded and fine\n",
+		"timestamp": 1648162667289
+	},
+	{
+		"name": "HEADER_IN",
+		"value": "HTTP/2 308 \r\n",
+		"timestamp": 1648162667322
+	},
+	{
+		"name": "HEADER_IN",
+		"value": "content-type: text/html; charset=utf-8\r\n",
+		"timestamp": 1648162667322
+	},
+	{
+		"name": "HEADER_IN",
+		"value": "content-length: 332\r\n",
+		"timestamp": 1648162667322
+	},
+	{
+		"name": "HEADER_IN",
+		"value": "location: http://d22n8yer1yb325.cloudfront.net/Team1325/Waterloo/metrics/\r\n",
+		"timestamp": 1648162667323
+	},
+	{
+		"name": "HEADER_IN",
+		"value": "date: Thu, 24 Mar 2022 22:57:47 GMT\r\n",
+		"timestamp": 1648162667323
+	},
+	{
+		"name": "HEADER_IN",
+		"value": "server: nginx/1.18.0\r\n",
+		"timestamp": 1648162667323
+	},
+	{
+		"name": "HEADER_IN",
+		"value": "access-control-allow-origin: *\r\n",
+		"timestamp": 1648162667323
+	},
+	{
+		"name": "HEADER_IN",
+		"value": "x-cache: Miss from cloudfront\r\n",
+		"timestamp": 1648162667323
+	},
+	{
+		"name": "HEADER_IN",
+		"value": "via: 1.1 776d3de5ae72b519f51e0adb2892ffa2.cloudfront.net (CloudFront)\r\n",
+		"timestamp": 1648162667323
+	},
+	{
+		"name": "HEADER_IN",
+		"value": "x-amz-cf-pop: YTO50-C2\r\n",
+		"timestamp": 1648162667323
+	},
+	{
+		"name": "HEADER_IN",
+		"value": "x-amz-cf-id: zbIhU-VOyP1xVe6n8J0TENSisS5mvCf2Hf50LGGRgwMcS30bNGkxtw==\r\n",
+		"timestamp": 1648162667323
+	},
+	{
+		"name": "HEADER_IN",
+		"value": "\r\n",
+		"timestamp": 1648162667323
+	},
+	{
+		"name": "TEXT",
+		"value": "Ignoring the response-body\n",
+		"timestamp": 1648162667323
+	},
+	{
+		"name": "TEXT",
+		"value": "Received 332 B chunk",
+		"timestamp": 1648162667323
+	},
+	{
+		"name": "TEXT",
+		"value": "Connection #0 to host d22n8yer1yb325.cloudfront.net left intact\n",
+		"timestamp": 1648162667323
+	},
+	{
+		"name": "TEXT",
+		"value": "Issue another request to this URL: 'http://d22n8yer1yb325.cloudfront.net/Team1325/Waterloo/metrics/'\n",
+		"timestamp": 1648162667323
+	},
+	{
+		"name": "TEXT",
+		"value": "Found bundle for host d22n8yer1yb325.cloudfront.net: 0x2d72bb1c0750 [serially]\n",
+		"timestamp": 1648162667323
+	},
+	{
+		"name": "TEXT",
+		"value": "Can not multiplex, even if we wanted to!\n",
+		"timestamp": 1648162667323
+	},
+	{
+		"name": "TEXT",
+		"value": "Re-using existing connection! (#1) with host d22n8yer1yb325.cloudfront.net\n",
+		"timestamp": 1648162667323
+	},
+	{
+		"name": "TEXT",
+		"value": "Connected to d22n8yer1yb325.cloudfront.net (13.226.140.47) port 80 (#1)\n",
+		"timestamp": 1648162667323
+	},
+	{
+		"name": "HEADER_OUT",
+		"value": "POST /Team1325/Waterloo/metrics/ HTTP/1.1\r\nHost: d22n8yer1yb325.cloudfront.net\r\nUser-Agent: insomnia/2021.7.2\r\nContent-Type: application/json\r\nAuthorization: Bearer a3330827-07ba-4589-b5f8-e0083c99a5f0\r\nAccept: */*\r\nContent-Length: 2854\r\n\r\n",
+		"timestamp": 1648162667323
+	},
+	{
+		"name": "DATA_OUT",
+		"value": "{\n\t\"metrics\": [\n\t\t{\n\t\t\t\"expression\": \"$AVG{Moved in Auto?}\",\n\t\t\t\"label\": \"Auto\",\n\t\t\t\"name\": \"Auto Move %\"\n\t\t},\n\t\t{\n\t\t\t\"expression\": \"$AVG{Auto Balls Scored High}\",\n\t\t\t\"label\": \"Auto\",\n\t\t\t\"name\": \"Auto Average Scored High\"\n\t\t},\n\t\t{\n\t\t\t\"expression\": \"$AVG{Auto Balls Scored High}/$AVG{Auto Balls Shot High}\",\n\t\t\t\"label\": \"Auto\",\n\t\t\t\"name\": \"Auto High Accuracy\"\n\t\t},\n\t\t{\n\t\t\t\"expression\": \"$AVG{Auto Balls Scored Low}\",\n\t\t\t\"label\": \"Auto\",\n\t\t\t\"name\": \"Auto Average Scored Low\"\n\t\t},\n\t\t{\n\t\t\t\"expression\": \"$AVG{Auto Balls Scored Low}/$AVG{Auto Balls Shot Low}\",\n\t\t\t\"label\": \"Auto\",\n\t\t\t\"name\": \"Auto Low Accuracy\"\n\t\t},\n\t\t{\n\t\t\t\"expression\": \"$AVG{Balls Scored High}\",\n\t\t\t\"label\": \"Scoring\",\n\t\t\t\"name\": \"Average Scored High\"\n\t\t},\n\t\t{\n\t\t\t\"expression\": \"$AVG{Auto Balls Scored Low}\",\n\t\t\t\"label\": \"Auto\",\n\t\t\t\"name\": \"Auto Average Scored Low\"\n\t\t},\n\t\t{\n\t\t\t\"expression\": \"$AVG{Balls Scored Low}\",\n\t\t\t\"label\": \"Scoring\",\n\t\t\t\"name\": \"Average Scored Low\"\n\t\t},\n\t\t{\n\t\t\t\"expression\": \"$AVG{Balls Scored Low}/$AVG{Balls Shot Low}\",\n\t\t\t\"label\": \"Scoring\",\n\t\t\t\"name\": \"Scored Low %\"\n\t\t},\n\t\t{\n\t\t\t\"expression\": \"$AVG{Balls Scored High}/$AVG{Balls Shot High}\",\n\t\t\t\"label\": \"Scoring\",\n\t\t\t\"name\": \"Scored High %\"\n\t\t},\n\t\t{\n\t\t\t\"expression\": \"$SUM{Seconds Left When Starting Climb}/$SUM{Attempted Climb?}\",\n\t\t\t\"label\": \"Climbing\",\n\t\t\t\"name\": \"Average Climb Time\"\n\t\t},\n\t\t{\n\t\t\t\"expression\": \"$SUM{Climb Success?}/$SUM{Attempted Climb?}\",\n\t\t\t\"label\": \"Climbing\",\n\t\t\t\"name\": \"Climb Success Rate\"\n\t\t},\n\t\t{\n\t\t\t\"expression\": \"$AVG{Was the robot playing defense?}\",\n\t\t\t\"label\": \"Gameplay\",\n\t\t\t\"name\": \"% of defense matches\"\n\t\t},\n\t\t{\n\t\t\t\"expression\": \"$SUM{If applicable, rate the robot’s defense from 1 to 10}/$SUM{Was the robot playing defense?}\",\n\t\t\t\"label\": \"Gameplay\",\n\t\t\t\"name\": \"Defense Rating\"\n\t\t},\n\t\t{\n\t\t\t\"expression\": \"$AVG{Auto Low Goal Accuracy}\",\n\t\t\t\"label\": \"Auto\",\n\t\t\t\"name\": \"Average Auto Low Goal Accuracy\"\n\t\t},\n\t\t{\n\t\t\t\"expression\": \"$AVG{Auto High Goal Accuracy}\",\n\t\t\t\"label\": \"Auto\",\n\t\t\t\"name\": \"Average Auto High Goal Accuracy\"\n\t\t},\n\t\t{\n\t\t\t\"expression\": \"$AVG{Teleop Low Goal Accuracy}\",\n\t\t\t\"label\": \"Scoring\",\n\t\t\t\"name\": \"Average Low Goal Accuracy\"\n\t\t},\n\t\t{\n\t\t\t\"expression\": \"$AVG{Teleop High Goal Accuracy}\",\n\t\t\t\"label\": \"Scoring\",\n\t\t\t\"name\": \"Average High Goal Accuracy\"\n\t\t},\n\t\t\t\t{\n\t\t\t\"expression\": \"$STD{Auto Balls Shot High}\",\n\t\t\t\"label\": \"Auto\",\n\t\t\t\"name\": \"Auto Shot High Deviation\"\n\t\t},\n\t\t{\n\t\t\t\"expression\": \"$STD{Balls Shot High}\",\n\t\t\t\"label\": \"Scoring\",\n\t\t\t\"name\": \"Teleop Shot High Deviation\"\n\t\t},\n\t\t{\n\t\t\t\"expression\": \"$STD{Auto High Goal Accuracy}\",\n\t\t\t\"label\": \"Auto\",\n\t\t\t\"name\": \"Auto High Accuracy Deviation\"\n\t\t},\n\t\t{\n\t\t\t\"expression\": \"$STD{Teleop High Goal Accuracy}\",\n\t\t\t\"label\": \"Scoring\",\n\t\t\t\"name\": \"Teleop High Accuracy Deviation\"\n\t\t},\n\t\t{\n\t\t\t\"expression\": \"$STD{Climb Success?}\",\n\t\t\t\"label\": \"Climbing\",\n\t\t\t\"name\": \"Climb Accuracy Deviation\"\n\t\t}\n\t]\n}",
+		"timestamp": 1648162667323
+	},
+	{
+		"name": "TEXT",
+		"value": "upload completely sent off: 2854 out of 2854 bytes\n",
+		"timestamp": 1648162667323
+	},
+	{
+		"name": "TEXT",
+		"value": "Mark bundle as not supporting multiuse\n",
+		"timestamp": 1648162667459
+	},
+	{
+		"name": "HEADER_IN",
+		"value": "HTTP/1.1 200 OK\r\n",
+		"timestamp": 1648162667459
+	},
+	{
+		"name": "HEADER_IN",
+		"value": "Content-Type: application/json\r\n",
+		"timestamp": 1648162667459
+	},
+	{
+		"name": "HEADER_IN",
+		"value": "Content-Length: 2426\r\n",
+		"timestamp": 1648162667459
+	},
+	{
+		"name": "HEADER_IN",
+		"value": "Connection: keep-alive\r\n",
+		"timestamp": 1648162667459
+	},
+	{
+		"name": "HEADER_IN",
+		"value": "Vary: Accept-Encoding\r\n",
+		"timestamp": 1648162667459
+	},
+	{
+		"name": "HEADER_IN",
+		"value": "Date: Thu, 24 Mar 2022 22:57:47 GMT\r\n",
+		"timestamp": 1648162667459
+	},
+	{
+		"name": "HEADER_IN",
+		"value": "Server: nginx/1.18.0\r\n",
+		"timestamp": 1648162667459
+	},
+	{
+		"name": "HEADER_IN",
+		"value": "Access-Control-Allow-Origin: *\r\n",
+		"timestamp": 1648162667459
+	},
+	{
+		"name": "HEADER_IN",
+		"value": "X-Cache: Miss from cloudfront\r\n",
+		"timestamp": 1648162667459
+	},
+	{
+		"name": "HEADER_IN",
+		"value": "Via: 1.1 1880efaf6c8d1c7e061969f80e80d2dc.cloudfront.net (CloudFront)\r\n",
+		"timestamp": 1648162667459
+	},
+	{
+		"name": "HEADER_IN",
+		"value": "X-Amz-Cf-Pop: YTO50-C2\r\n",
+		"timestamp": 1648162667459
+	},
+	{
+		"name": "HEADER_IN",
+		"value": "X-Amz-Cf-Id: GNuc4SIwtKV7jO7L-HX0FZt70dxZ_noSLygDC-_Ed2FdBMe75woHtg==\r\n",
+		"timestamp": 1648162667459
+	},
+	{
+		"name": "HEADER_IN",
+		"value": "\r\n",
+		"timestamp": 1648162667459
+	},
+	{
+		"name": "TEXT",
+		"value": "Received 2.4 KB chunk",
+		"timestamp": 1648162667459
+	},
+	{
+		"name": "TEXT",
+		"value": "Connection #1 to host d22n8yer1yb325.cloudfront.net left intact\n",
+		"timestamp": 1648162667460
+	}
+]

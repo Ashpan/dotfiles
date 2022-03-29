@@ -1,0 +1,117 @@
+[
+	{
+		"name": "TEXT",
+		"value": "Preparing request to http://team1325scoutingmetricsprod-env-1.eba-qtrv2bdt.ca-central-1.elasticbeanstalk.com//Team1325_Sandbox/data?team=1325",
+		"timestamp": 1645652470318
+	},
+	{
+		"name": "TEXT",
+		"value": "Current time is 2022-02-23T21:41:10.318Z",
+		"timestamp": 1645652470318
+	},
+	{
+		"name": "TEXT",
+		"value": "Using libcurl/7.73.0 OpenSSL/1.1.1l zlib/1.2.11 brotli/1.0.9 zstd/1.5.2 libidn2/2.3.2 libssh2/1.9.0 nghttp2/1.42.0",
+		"timestamp": 1645652470318
+	},
+	{
+		"name": "TEXT",
+		"value": "Using default HTTP version",
+		"timestamp": 1645652470318
+	},
+	{
+		"name": "TEXT",
+		"value": "Disable timeout",
+		"timestamp": 1645652470318
+	},
+	{
+		"name": "TEXT",
+		"value": "Enable automatic URL encoding",
+		"timestamp": 1645652470318
+	},
+	{
+		"name": "TEXT",
+		"value": "Enable SSL validation",
+		"timestamp": 1645652470318
+	},
+	{
+		"name": "TEXT",
+		"value": "Enable cookie sending with jar of 0 cookies",
+		"timestamp": 1645652470319
+	},
+	{
+		"name": "TEXT",
+		"value": "9 bytes stray data read before trying h2 connection\n",
+		"timestamp": 1645652470322
+	},
+	{
+		"name": "TEXT",
+		"value": "  Trying 3.99.69.254:80...\n",
+		"timestamp": 1645652470357
+	},
+	{
+		"name": "TEXT",
+		"value": "Connected to team1325scoutingmetricsprod-env-1.eba-qtrv2bdt.ca-central-1.elasticbeanstalk.com (3.99.69.254) port 80 (#100)\n",
+		"timestamp": 1645652470377
+	},
+	{
+		"name": "HEADER_OUT",
+		"value": "GET //Team1325_Sandbox/data?team=1325 HTTP/1.1\r\nHost: team1325scoutingmetricsprod-env-1.eba-qtrv2bdt.ca-central-1.elasticbeanstalk.com\r\nUser-Agent: insomnia/2021.7.2\r\nContent-Type: application/json\r\nAuthorization: Bearer a50f8282-15a3-4eb3-81f9-c73367f58bb3\r\nAccept: */*\r\nContent-Length: 0\r\n\r\n",
+		"timestamp": 1645652470377
+	},
+	{
+		"name": "TEXT",
+		"value": "Mark bundle as not supporting multiuse\n",
+		"timestamp": 1645652470455
+	},
+	{
+		"name": "HEADER_IN",
+		"value": "HTTP/1.1 401 UNAUTHORIZED\r\n",
+		"timestamp": 1645652470455
+	},
+	{
+		"name": "HEADER_IN",
+		"value": "Date: Wed, 23 Feb 2022 21:41:10 GMT\r\n",
+		"timestamp": 1645652470455
+	},
+	{
+		"name": "HEADER_IN",
+		"value": "Content-Type: application/json\r\n",
+		"timestamp": 1645652470455
+	},
+	{
+		"name": "HEADER_IN",
+		"value": "Content-Length: 46\r\n",
+		"timestamp": 1645652470455
+	},
+	{
+		"name": "HEADER_IN",
+		"value": "Connection: keep-alive\r\n",
+		"timestamp": 1645652470455
+	},
+	{
+		"name": "HEADER_IN",
+		"value": "Server: nginx/1.18.0\r\n",
+		"timestamp": 1645652470455
+	},
+	{
+		"name": "HEADER_IN",
+		"value": "Access-Control-Allow-Origin: *\r\n",
+		"timestamp": 1645652470455
+	},
+	{
+		"name": "HEADER_IN",
+		"value": "\r\n",
+		"timestamp": 1645652470455
+	},
+	{
+		"name": "TEXT",
+		"value": "Received 46 B chunk",
+		"timestamp": 1645652470455
+	},
+	{
+		"name": "TEXT",
+		"value": "Connection #100 to host team1325scoutingmetricsprod-env-1.eba-qtrv2bdt.ca-central-1.elasticbeanstalk.com left intact\n",
+		"timestamp": 1645652470455
+	}
+]

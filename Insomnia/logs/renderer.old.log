@@ -1,0 +1,8 @@
+[2022-03-25 09:53:38.616] [info]  [db] Initialized DB client
+[2022-03-25 09:53:39.693] [info]  [FileSystemDriver] Initialized in "/home/ashpan/.config/Insomnia/version-control"
+[2022-03-25 09:53:39.695] [info]  [FileSystemDriver] Initialized in "/home/ashpan/.config/Insomnia/version-control"
+[2022-03-25 09:53:39.695] [info]  [sync] checking for collections which need to be moved into a remote project
+[2022-03-25 09:53:39.758] [info]  [ga] Event Activity, Change, debug
+[2022-03-25 09:53:39.759] [info]  [ga] Page /debug
+[2022-03-25 09:53:49.923] [info]  [toast] Received notification linux-update-2022.2.1
+[2022-03-25 09:53:49.924] [info]  [toast] Not showing notification linux-update-2022.2.1 because has already been seen

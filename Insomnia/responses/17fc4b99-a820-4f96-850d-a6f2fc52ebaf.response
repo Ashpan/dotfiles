@@ -1,0 +1,1 @@
+{"data":[{"event":"barrie","match":"1","raw_data":{"climbed":true,"comments":"fire team, sick defense","match_number":1,"team_number":1325},"team":"1325"},{"event":"barrie","match":"12","raw_data":{"climbed":true,"comments":"ddfadadasdad","match_number":12,"team_number":1325},"team":"1325"}],"message":"Successfully fetched raw data","status_code":200}

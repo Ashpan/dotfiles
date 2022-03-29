@@ -1,0 +1,1 @@
+{"message":"Successfully updated metrics","metrics":[{"expression":"$AVG{Moved in Auto?}","label":"Auto","name":"Auto Move %"},{"expression":"$SUM{Number of Auto Balls Scored Low}/$SUM{Number of Auto Balls Shot Low}","label":"Auto","name":"Auto Low Accuracy"}],"status_code":200}

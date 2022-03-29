@@ -1,0 +1,267 @@
+[
+	{
+		"name": "TEXT",
+		"value": "Preparing request to https://d22n8yer1yb325.cloudfront.net/Team1325_Sandbox/derived/event",
+		"timestamp": 1646857171332
+	},
+	{
+		"name": "TEXT",
+		"value": "Current time is 2022-03-09T20:19:31.332Z",
+		"timestamp": 1646857171332
+	},
+	{
+		"name": "TEXT",
+		"value": "Using libcurl/7.73.0 OpenSSL/1.1.1l zlib/1.2.11 brotli/1.0.9 zstd/1.5.2 libidn2/2.3.2 libssh2/1.9.0 nghttp2/1.42.0",
+		"timestamp": 1646857171332
+	},
+	{
+		"name": "TEXT",
+		"value": "Using default HTTP version",
+		"timestamp": 1646857171332
+	},
+	{
+		"name": "TEXT",
+		"value": "Disable timeout",
+		"timestamp": 1646857171332
+	},
+	{
+		"name": "TEXT",
+		"value": "Enable automatic URL encoding",
+		"timestamp": 1646857171332
+	},
+	{
+		"name": "TEXT",
+		"value": "Enable SSL validation",
+		"timestamp": 1646857171332
+	},
+	{
+		"name": "TEXT",
+		"value": "Enable cookie sending with jar of 0 cookies",
+		"timestamp": 1646857171334
+	},
+	{
+		"name": "TEXT",
+		"value": "Found bundle for host d22n8yer1yb325.cloudfront.net: 0xfc1b3b27b10 [can multiplex]\n",
+		"timestamp": 1646857171336
+	},
+	{
+		"name": "TEXT",
+		"value": "Re-using existing connection! (#10) with host d22n8yer1yb325.cloudfront.net\n",
+		"timestamp": 1646857171336
+	},
+	{
+		"name": "TEXT",
+		"value": "Connected to d22n8yer1yb325.cloudfront.net (13.226.140.47) port 443 (#10)\n",
+		"timestamp": 1646857171336
+	},
+	{
+		"name": "TEXT",
+		"value": "Using Stream ID: 5 (easy handle 0xfc1b5442a00)\n",
+		"timestamp": 1646857171336
+	},
+	{
+		"name": "HEADER_OUT",
+		"value": "POST /Team1325_Sandbox/derived/event HTTP/2\r\nHost: d22n8yer1yb325.cloudfront.net\r\nuser-agent: insomnia/2021.7.2\r\ncontent-type: application/json\r\nauthorization: Bearer a1e38e5e-4346-47bc-8de2-c9cf1482532b\r\naccept: */*\r\ncontent-length: 4569\r\n\r\n",
+		"timestamp": 1646857171336
+	},
+	{
+		"name": "DATA_OUT",
+		"value": "{\n    \"team_list\": [\n        \"216\",\n        \"244\",\n        \"288\",\n        \"781\",\n        \"1305\",\n        \"1325\",\n        \"2706\",\n        \"4015\",\n        \"4252\",\n        \"4343\",\n        \"6162\",\n        \"7520\",\n        \"8789\"\n    ],\n    \"labels\": {\n        \"Auto\": 1,\n        \"Scoring\": 2,\n        \"Climbing\": 3,\n        \"Gameplay\": 4\n    },\n\t\t\"derived_fields\": [\n        {\n            \"name\": \"Teleop High Goal Accuracy\",\n            \"label\": \"Scoring\",\n            \"expression\": \"{Balls Scored High} / {Balls Shot High}\"\n        }\n    ],\n    \"fields\": [\n\t\t\t\t{\n            \"data_type\": \"bool\",\n            \"name\": \"Moved in Auto?\",\n            \"label\": \"Auto\",\n            \"input_type\": \"toggle\",\n            \"options\": [\n                true,\n                false\n            ]\n        },\n        {\n            \"data_type\": \"int\",\n            \"name\": \"Auto Balls Shot High\",\n            \"label\": \"Auto\",\n            \"input_type\": \"typed\"\n        },\n        {\n            \"data_type\": \"int\",\n            \"name\": \"Auto Balls Scored High\",\n            \"label\": \"Auto\",\n            \"input_type\": \"typed\"\n        },\n        {\n            \"data_type\": \"int\",\n            \"name\": \"Auto Balls Shot Low\",\n            \"label\": \"Auto\",\n            \"input_type\": \"typed\"\n        },\n        {\n            \"data_type\": \"int\",\n            \"name\": \"Auto Balls Scored Low\",\n            \"label\": \"Auto\",\n            \"input_type\": \"typed\"\n        },\n        {\n            \"data_type\": \"int\",\n            \"name\": \"Balls Shot High\",\n            \"label\": \"Scoring\",\n            \"input_type\": \"typed\"\n        },\n        {\n            \"data_type\": \"int\",\n            \"name\": \"Balls Scored High\",\n            \"label\": \"Scoring\",\n            \"input_type\": \"typed\"\n        },\n        {\n            \"data_type\": \"int\",\n            \"name\": \"Balls Shot Low\",\n            \"label\": \"Scoring\",\n            \"input_type\": \"typed\"\n        },\n        {\n            \"data_type\": \"int\",\n            \"name\": \"Balls Scored Low\",\n            \"label\": \"Scoring\",\n            \"input_type\": \"typed\"\n        },\n        {\n            \"data_type\": \"list\",\n            \"name\": \"Locations Shot From\",\n            \"label\": \"Scoring\",\n            \"input_type\": \"selection\",\n            \"options\": [\n                \"Climbing Structure & Beyond\",\n                \"Mid Range\",\n                \"Up Against Hub\"\n            ]\n        },\n        {\n            \"data_type\": \"str\",\n            \"name\": \"Additional Comments about scoring\",\n            \"label\": \"Scoring\",\n            \"input_type\": \"typed\"\n        },\n        {\n            \"data_type\": \"int\",\n            \"name\": \"Seconds Left When Starting Climb\",\n            \"label\": \"Climbing\",\n            \"input_type\": \"typed\"\n        },\n        {\n            \"data_type\": \"bool\",\n            \"name\": \"Climb Success?\",\n            \"label\": \"Climbing\",\n            \"input_type\": \"toggle\",\n            \"options\": [\n                true,\n                false\n            ]\n        },\n        {\n            \"data_type\": \"str\",\n            \"name\": \"Climb Height\",\n            \"label\": \"Climbing\",\n            \"input_type\": \"radio\",\n            \"options\": [\n                \"Low\",\n                \"Medium\",\n                \"High\",\n                \"Traversal\"\n            ]\n        },\n        {\n            \"data_type\": \"str\",\n            \"name\": \"Additional comments about climbing\",\n            \"label\": \"Climbing\",\n            \"input_type\": \"typed\"\n        },\n        {\n            \"data_type\": \"bool\",\n            \"name\": \"Was the robot playing defense?\",\n            \"label\": \"Gameplay\",\n            \"input_type\": \"toggle\",\n            \"options\": [\n                true,\n                false\n            ]\n        },\n\t\t\t\t{\n\t\t\t\t\t\t\t\"data_type\": \"bool\",\n\t\t\t\t\t\t\t\"name\": \"Was the robot being defended?\",\n\t\t\t\t\t\t\t\"label\": \"Gameplay\",\n\t\t\t\t\t\t\t\"input_type\": \"toggle\",\n\t\t\t\t\t\t\t\"options\": [\n\t\t\t\t\t\t\t\t\ttrue,\n\t\t\t\t\t\t\t\t\tfalse\n\t\t\t\t\t\t\t]\n\t\t\t\t},\n        {\n            \"data_type\": \"int\",\n            \"name\": \"If applicable, rate the robot’s defense from 1 to 10\",\n            \"label\": \"Gameplay\",\n            \"input_type\": \"typed\"\n        },\n        {\n            \"data_type\": \"str\",\n            \"name\": \"If applicable, how did the robot deal with the wrong colored balls, eg: Avoided it, Grabbed it, etc\",\n            \"label\": \"Gameplay\",\n            \"input_type\": \"typed\"\n        },\n        {\n            \"data_type\": \"str\",\n            \"name\": \"Any additional comments about the robot or it’s strategy\",\n            \"label\": \"Gameplay\",\n            \"input_type\": \"typed\"\n        }\n    ]\n}",
+		"timestamp": 1646857171336
+	},
+	{
+		"name": "TEXT",
+		"value": "We are completely uploaded and fine\n",
+		"timestamp": 1646857171336
+	},
+	{
+		"name": "HEADER_IN",
+		"value": "HTTP/2 308 \r\n",
+		"timestamp": 1646857171370
+	},
+	{
+		"name": "HEADER_IN",
+		"value": "content-type: text/html; charset=utf-8\r\n",
+		"timestamp": 1646857171370
+	},
+	{
+		"name": "HEADER_IN",
+		"value": "content-length: 342\r\n",
+		"timestamp": 1646857171370
+	},
+	{
+		"name": "HEADER_IN",
+		"value": "location: http://d22n8yer1yb325.cloudfront.net/Team1325_Sandbox/derived/event/\r\n",
+		"timestamp": 1646857171370
+	},
+	{
+		"name": "HEADER_IN",
+		"value": "date: Wed, 09 Mar 2022 20:19:31 GMT\r\n",
+		"timestamp": 1646857171370
+	},
+	{
+		"name": "HEADER_IN",
+		"value": "server: nginx/1.18.0\r\n",
+		"timestamp": 1646857171370
+	},
+	{
+		"name": "HEADER_IN",
+		"value": "access-control-allow-origin: *\r\n",
+		"timestamp": 1646857171370
+	},
+	{
+		"name": "HEADER_IN",
+		"value": "x-cache: Miss from cloudfront\r\n",
+		"timestamp": 1646857171370
+	},
+	{
+		"name": "HEADER_IN",
+		"value": "via: 1.1 415bce851abed41a15ccdf56a782926a.cloudfront.net (CloudFront)\r\n",
+		"timestamp": 1646857171370
+	},
+	{
+		"name": "HEADER_IN",
+		"value": "x-amz-cf-pop: YTO50-C2\r\n",
+		"timestamp": 1646857171370
+	},
+	{
+		"name": "HEADER_IN",
+		"value": "x-amz-cf-id: OdU0BG2u6XVe_VyODnciiPo7MqHmeDhV5b048jYRL2WqON8Lahap6w==\r\n",
+		"timestamp": 1646857171370
+	},
+	{
+		"name": "HEADER_IN",
+		"value": "\r\n",
+		"timestamp": 1646857171370
+	},
+	{
+		"name": "TEXT",
+		"value": "Ignoring the response-body\n",
+		"timestamp": 1646857171370
+	},
+	{
+		"name": "TEXT",
+		"value": "Received 342 B chunk",
+		"timestamp": 1646857171370
+	},
+	{
+		"name": "TEXT",
+		"value": "Connection #10 to host d22n8yer1yb325.cloudfront.net left intact\n",
+		"timestamp": 1646857171370
+	},
+	{
+		"name": "TEXT",
+		"value": "Issue another request to this URL: 'http://d22n8yer1yb325.cloudfront.net/Team1325_Sandbox/derived/event/'\n",
+		"timestamp": 1646857171370
+	},
+	{
+		"name": "TEXT",
+		"value": "Found bundle for host d22n8yer1yb325.cloudfront.net: 0xfc1b4751450 [serially]\n",
+		"timestamp": 1646857171370
+	},
+	{
+		"name": "TEXT",
+		"value": "Can not multiplex, even if we wanted to!\n",
+		"timestamp": 1646857171370
+	},
+	{
+		"name": "TEXT",
+		"value": "Re-using existing connection! (#11) with host d22n8yer1yb325.cloudfront.net\n",
+		"timestamp": 1646857171370
+	},
+	{
+		"name": "TEXT",
+		"value": "Connected to d22n8yer1yb325.cloudfront.net (13.226.140.47) port 80 (#11)\n",
+		"timestamp": 1646857171370
+	},
+	{
+		"name": "HEADER_OUT",
+		"value": "POST /Team1325_Sandbox/derived/event/ HTTP/1.1\r\nHost: d22n8yer1yb325.cloudfront.net\r\nUser-Agent: insomnia/2021.7.2\r\nContent-Type: application/json\r\nAuthorization: Bearer a1e38e5e-4346-47bc-8de2-c9cf1482532b\r\nAccept: */*\r\nContent-Length: 4569\r\n\r\n",
+		"timestamp": 1646857171370
+	},
+	{
+		"name": "DATA_OUT",
+		"value": "{\n    \"team_list\": [\n        \"216\",\n        \"244\",\n        \"288\",\n        \"781\",\n        \"1305\",\n        \"1325\",\n        \"2706\",\n        \"4015\",\n        \"4252\",\n        \"4343\",\n        \"6162\",\n        \"7520\",\n        \"8789\"\n    ],\n    \"labels\": {\n        \"Auto\": 1,\n        \"Scoring\": 2,\n        \"Climbing\": 3,\n        \"Gameplay\": 4\n    },\n\t\t\"derived_fields\": [\n        {\n            \"name\": \"Teleop High Goal Accuracy\",\n            \"label\": \"Scoring\",\n            \"expression\": \"{Balls Scored High} / {Balls Shot High}\"\n        }\n    ],\n    \"fields\": [\n\t\t\t\t{\n            \"data_type\": \"bool\",\n            \"name\": \"Moved in Auto?\",\n            \"label\": \"Auto\",\n            \"input_type\": \"toggle\",\n            \"options\": [\n                true,\n                false\n            ]\n        },\n        {\n            \"data_type\": \"int\",\n            \"name\": \"Auto Balls Shot High\",\n            \"label\": \"Auto\",\n            \"input_type\": \"typed\"\n        },\n        {\n            \"data_type\": \"int\",\n            \"name\": \"Auto Balls Scored High\",\n            \"label\": \"Auto\",\n            \"input_type\": \"typed\"\n        },\n        {\n            \"data_type\": \"int\",\n            \"name\": \"Auto Balls Shot Low\",\n            \"label\": \"Auto\",\n            \"input_type\": \"typed\"\n        },\n        {\n            \"data_type\": \"int\",\n            \"name\": \"Auto Balls Scored Low\",\n            \"label\": \"Auto\",\n            \"input_type\": \"typed\"\n        },\n        {\n            \"data_type\": \"int\",\n            \"name\": \"Balls Shot High\",\n            \"label\": \"Scoring\",\n            \"input_type\": \"typed\"\n        },\n        {\n            \"data_type\": \"int\",\n            \"name\": \"Balls Scored High\",\n            \"label\": \"Scoring\",\n            \"input_type\": \"typed\"\n        },\n        {\n            \"data_type\": \"int\",\n            \"name\": \"Balls Shot Low\",\n            \"label\": \"Scoring\",\n            \"input_type\": \"typed\"\n        },\n        {\n            \"data_type\": \"int\",\n            \"name\": \"Balls Scored Low\",\n            \"label\": \"Scoring\",\n            \"input_type\": \"typed\"\n        },\n        {\n            \"data_type\": \"list\",\n            \"name\": \"Locations Shot From\",\n            \"label\": \"Scoring\",\n            \"input_type\": \"selection\",\n            \"options\": [\n                \"Climbing Structure & Beyond\",\n                \"Mid Range\",\n                \"Up Against Hub\"\n            ]\n        },\n        {\n            \"data_type\": \"str\",\n            \"name\": \"Additional Comments about scoring\",\n            \"label\": \"Scoring\",\n            \"input_type\": \"typed\"\n        },\n        {\n            \"data_type\": \"int\",\n            \"name\": \"Seconds Left When Starting Climb\",\n            \"label\": \"Climbing\",\n            \"input_type\": \"typed\"\n        },\n        {\n            \"data_type\": \"bool\",\n            \"name\": \"Climb Success?\",\n            \"label\": \"Climbing\",\n            \"input_type\": \"toggle\",\n            \"options\": [\n                true,\n                false\n            ]\n        },\n        {\n            \"data_type\": \"str\",\n            \"name\": \"Climb Height\",\n            \"label\": \"Climbing\",\n            \"input_type\": \"radio\",\n            \"options\": [\n                \"Low\",\n                \"Medium\",\n                \"High\",\n                \"Traversal\"\n            ]\n        },\n        {\n            \"data_type\": \"str\",\n            \"name\": \"Additional comments about climbing\",\n            \"label\": \"Climbing\",\n            \"input_type\": \"typed\"\n        },\n        {\n            \"data_type\": \"bool\",\n            \"name\": \"Was the robot playing defense?\",\n            \"label\": \"Gameplay\",\n            \"input_type\": \"toggle\",\n            \"options\": [\n                true,\n                false\n            ]\n        },\n\t\t\t\t{\n\t\t\t\t\t\t\t\"data_type\": \"bool\",\n\t\t\t\t\t\t\t\"name\": \"Was the robot being defended?\",\n\t\t\t\t\t\t\t\"label\": \"Gameplay\",\n\t\t\t\t\t\t\t\"input_type\": \"toggle\",\n\t\t\t\t\t\t\t\"options\": [\n\t\t\t\t\t\t\t\t\ttrue,\n\t\t\t\t\t\t\t\t\tfalse\n\t\t\t\t\t\t\t]\n\t\t\t\t},\n        {\n            \"data_type\": \"int\",\n            \"name\": \"If applicable, rate the robot’s defense from 1 to 10\",\n            \"label\": \"Gameplay\",\n            \"input_type\": \"typed\"\n        },\n        {\n            \"data_type\": \"str\",\n            \"name\": \"If applicable, how did the robot deal with the wrong colored balls, eg: Avoided it, Grabbed it, etc\",\n            \"label\": \"Gameplay\",\n            \"input_type\": \"typed\"\n        },\n        {\n            \"data_type\": \"str\",\n            \"name\": \"Any additional comments about the robot or it’s strategy\",\n            \"label\": \"Gameplay\",\n            \"input_type\": \"typed\"\n        }\n    ]\n}",
+		"timestamp": 1646857171370
+	},
+	{
+		"name": "TEXT",
+		"value": "upload completely sent off: 4569 out of 4569 bytes\n",
+		"timestamp": 1646857171370
+	},
+	{
+		"name": "TEXT",
+		"value": "Mark bundle as not supporting multiuse\n",
+		"timestamp": 1646857171480
+	},
+	{
+		"name": "HEADER_IN",
+		"value": "HTTP/1.1 200 OK\r\n",
+		"timestamp": 1646857171480
+	},
+	{
+		"name": "HEADER_IN",
+		"value": "Content-Type: application/json\r\n",
+		"timestamp": 1646857171480
+	},
+	{
+		"name": "HEADER_IN",
+		"value": "Content-Length: 59\r\n",
+		"timestamp": 1646857171480
+	},
+	{
+		"name": "HEADER_IN",
+		"value": "Connection: keep-alive\r\n",
+		"timestamp": 1646857171480
+	},
+	{
+		"name": "HEADER_IN",
+		"value": "Date: Wed, 09 Mar 2022 20:19:31 GMT\r\n",
+		"timestamp": 1646857171480
+	},
+	{
+		"name": "HEADER_IN",
+		"value": "Server: nginx/1.18.0\r\n",
+		"timestamp": 1646857171480
+	},
+	{
+		"name": "HEADER_IN",
+		"value": "Access-Control-Allow-Origin: *\r\n",
+		"timestamp": 1646857171480
+	},
+	{
+		"name": "HEADER_IN",
+		"value": "X-Cache: Miss from cloudfront\r\n",
+		"timestamp": 1646857171480
+	},
+	{
+		"name": "HEADER_IN",
+		"value": "Via: 1.1 f8d2e956e186aef5f6c9bb38469c0bc4.cloudfront.net (CloudFront)\r\n",
+		"timestamp": 1646857171480
+	},
+	{
+		"name": "HEADER_IN",
+		"value": "X-Amz-Cf-Pop: YTO50-C2\r\n",
+		"timestamp": 1646857171480
+	},
+	{
+		"name": "HEADER_IN",
+		"value": "X-Amz-Cf-Id: E_DXAXxTEmkm7UVotqxGbpUyPTZq2NsGJB3CnjP1S-ZobcLhQkpYzw==\r\n",
+		"timestamp": 1646857171480
+	},
+	{
+		"name": "HEADER_IN",
+		"value": "\r\n",
+		"timestamp": 1646857171480
+	},
+	{
+		"name": "TEXT",
+		"value": "Received 59 B chunk",
+		"timestamp": 1646857171480
+	},
+	{
+		"name": "TEXT",
+		"value": "Connection #11 to host d22n8yer1yb325.cloudfront.net left intact\n",
+		"timestamp": 1646857171480
+	}
+]

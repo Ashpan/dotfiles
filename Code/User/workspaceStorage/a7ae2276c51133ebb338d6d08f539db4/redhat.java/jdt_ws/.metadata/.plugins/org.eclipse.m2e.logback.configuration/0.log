@@ -1,0 +1,388 @@
+2021-09-22 10:43:35,920 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2021-09-22 10:43:37,329 [Worker-2: Initialize Workspace] WARN  o.e.m.c.i.markers.MarkerUtils - Could not find OSGI service for org.eclipse.m2e.core.internal.markers.IEditorMarkerService
+2021-09-22 10:43:37,922 [Worker-2: Initialize Workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.wildfly:wildfly-ts-integ-elytron:25.0.0.Final-SNAPSHOT @ /home/ashpan/workspace/wildfly/testsuite/integration/elytron/pom.xml.
+2021-09-22 10:43:37,924 [Worker-2: Initialize Workspace] WARN  o.e.m.c.i.markers.MarkerUtils - Could not find OSGI service for org.eclipse.m2e.core.internal.markers.IMarkerLocationService
+2021-09-22 10:43:37,924 [Worker-2: Initialize Workspace] WARN  o.e.m.c.i.markers.MarkerUtils - Could not find OSGI service for org.eclipse.m2e.core.internal.markers.IMarkerLocationService
+2021-09-22 10:43:39,539 [Worker-2: Initialize Workspace] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /wildfly-ts-integ-elytron/src/main/java
+2021-09-22 10:43:39,547 [Worker-2: Initialize Workspace] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /wildfly-ts-integ-elytron/src/test/java
+2021-09-22 10:43:39,547 [Worker-2: Initialize Workspace] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /wildfly-ts-integ-elytron/src/test/resources
+2021-09-22 10:43:39,549 [Worker-2: Initialize Workspace] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Resources folder /wildfly-ts-integ-elytron/src/test/java overlaps with sources folder /wildfly-ts-integ-elytron/src/test/java
+2021-09-22 10:43:39,723 [Worker-2: Initialize Workspace] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 2 sec
+2021-09-22 10:43:44,895 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-22 10:43:44,895 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/ashpan/workspace/wildfly/testsuite/integration/elytron/src/main/resources
+2021-09-22 10:43:44,898 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-22 10:43:44,907 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 13 resources
+2021-09-22 10:43:44,929 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 183 resources
+2021-09-22 10:51:24,700 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2021-09-22 10:51:29,407 [Worker-2: Building] WARN  o.e.m.c.i.markers.MarkerUtils - Could not find OSGI service for org.eclipse.m2e.core.internal.markers.IMarkerLocationService
+2021-09-22 10:51:29,408 [Worker-2: Building] WARN  o.e.m.c.i.markers.MarkerUtils - Could not find OSGI service for org.eclipse.m2e.core.internal.markers.IMarkerLocationService
+2021-09-22 10:51:29,499 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-22 10:51:29,499 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/ashpan/workspace/wildfly/testsuite/integration/elytron/src/main/resources
+2021-09-22 10:51:29,501 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-22 10:51:29,504 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 13 resources
+2021-09-22 10:51:29,513 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 183 resources
+2021-09-22 10:58:30,057 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-22 10:58:30,057 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/ashpan/workspace/wildfly/testsuite/integration/elytron/src/main/resources
+2021-09-22 10:58:30,059 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-22 10:58:30,061 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 13 resources
+2021-09-22 10:58:30,068 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 183 resources
+2021-09-22 10:58:33,230 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-22 10:58:33,230 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/ashpan/workspace/wildfly/testsuite/integration/elytron/src/main/resources
+2021-09-22 10:58:33,232 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-22 10:58:33,234 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 13 resources
+2021-09-22 10:58:33,240 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 183 resources
+2021-09-22 10:58:55,081 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-22 10:58:55,081 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/ashpan/workspace/wildfly/testsuite/integration/elytron/src/main/resources
+2021-09-22 10:58:55,083 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-22 10:58:55,083 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 13 resources
+2021-09-22 10:58:55,086 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 183 resources
+2021-09-22 10:59:05,352 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-22 10:59:05,353 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/ashpan/workspace/wildfly/testsuite/integration/elytron/src/main/resources
+2021-09-22 10:59:05,354 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-22 10:59:05,354 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 13 resources
+2021-09-22 10:59:05,357 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 183 resources
+2021-09-22 11:02:00,705 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-22 11:02:00,705 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/ashpan/workspace/wildfly/testsuite/integration/elytron/src/main/resources
+2021-09-22 11:02:00,716 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-22 11:02:00,717 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 13 resources
+2021-09-22 11:02:00,722 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 183 resources
+2021-09-22 11:04:00,523 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-22 11:04:00,523 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/ashpan/workspace/wildfly/testsuite/integration/elytron/src/main/resources
+2021-09-22 11:04:00,525 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-22 11:04:00,526 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 13 resources
+2021-09-22 11:04:00,529 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 183 resources
+2021-09-22 11:05:34,820 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-22 11:05:34,820 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/ashpan/workspace/wildfly/testsuite/integration/elytron/src/main/resources
+2021-09-22 11:05:34,823 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-22 11:05:34,823 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 13 resources
+2021-09-22 11:05:34,826 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 183 resources
+2021-09-22 11:27:55,084 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-22 11:27:55,085 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/ashpan/workspace/wildfly/testsuite/integration/elytron/src/main/resources
+2021-09-22 11:27:55,087 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-22 11:27:55,087 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 13 resources
+2021-09-22 11:27:55,089 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 183 resources
+2021-09-22 11:27:58,404 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-22 11:27:58,404 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/ashpan/workspace/wildfly/testsuite/integration/elytron/src/main/resources
+2021-09-22 11:27:58,407 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-22 11:27:58,407 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 13 resources
+2021-09-22 11:27:58,410 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 183 resources
+2021-09-22 11:51:46,537 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-22 11:51:46,537 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/ashpan/workspace/wildfly/testsuite/integration/elytron/src/main/resources
+2021-09-22 11:51:46,539 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-22 11:51:46,539 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 13 resources
+2021-09-22 11:51:46,541 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 183 resources
+2021-09-22 11:56:55,055 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-22 11:56:55,055 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/ashpan/workspace/wildfly/testsuite/integration/elytron/src/main/resources
+2021-09-22 11:56:55,057 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-22 11:56:55,057 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 13 resources
+2021-09-22 11:56:55,060 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 183 resources
+2021-09-22 11:58:42,284 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-22 11:58:42,284 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/ashpan/workspace/wildfly/testsuite/integration/elytron/src/main/resources
+2021-09-22 11:58:42,286 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-22 11:58:42,286 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 13 resources
+2021-09-22 11:58:42,289 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 183 resources
+2021-09-22 11:58:44,992 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-22 11:58:44,992 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/ashpan/workspace/wildfly/testsuite/integration/elytron/src/main/resources
+2021-09-22 11:58:44,993 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-22 11:58:44,994 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 13 resources
+2021-09-22 11:58:44,997 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 183 resources
+2021-09-22 13:02:40,285 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-22 13:02:40,285 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/ashpan/workspace/wildfly/testsuite/integration/elytron/src/main/resources
+2021-09-22 13:02:40,287 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-22 13:02:40,287 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 13 resources
+2021-09-22 13:02:40,290 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 183 resources
+2021-09-22 13:13:56,126 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-22 13:13:56,126 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/ashpan/workspace/wildfly/testsuite/integration/elytron/src/main/resources
+2021-09-22 13:13:56,131 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-22 13:13:56,132 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 13 resources
+2021-09-22 13:13:56,134 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 183 resources
+2021-09-22 13:13:59,919 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-22 13:13:59,920 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/ashpan/workspace/wildfly/testsuite/integration/elytron/src/main/resources
+2021-09-22 13:13:59,921 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-22 13:13:59,922 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 13 resources
+2021-09-22 13:13:59,924 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 183 resources
+2021-09-22 13:22:12,979 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-22 13:22:12,979 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/ashpan/workspace/wildfly/testsuite/integration/elytron/src/main/resources
+2021-09-22 13:22:12,980 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-22 13:22:12,981 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 13 resources
+2021-09-22 13:22:12,984 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 183 resources
+2021-09-22 13:24:10,757 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-22 13:24:10,757 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/ashpan/workspace/wildfly/testsuite/integration/elytron/src/main/resources
+2021-09-22 13:24:10,764 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-22 13:24:10,765 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 13 resources
+2021-09-22 13:24:10,767 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 183 resources
+2021-09-22 13:30:54,916 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-22 13:30:54,916 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/ashpan/workspace/wildfly/testsuite/integration/elytron/src/main/resources
+2021-09-22 13:30:54,917 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-22 13:30:54,917 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 13 resources
+2021-09-22 13:30:54,920 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 183 resources
+2021-09-22 13:30:57,377 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-22 13:30:57,377 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/ashpan/workspace/wildfly/testsuite/integration/elytron/src/main/resources
+2021-09-22 13:30:57,378 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-22 13:30:57,378 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 13 resources
+2021-09-22 13:30:57,380 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 183 resources
+2021-09-22 13:33:04,900 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-22 13:33:04,900 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/ashpan/workspace/wildfly/testsuite/integration/elytron/src/main/resources
+2021-09-22 13:33:04,901 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-22 13:33:04,901 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 13 resources
+2021-09-22 13:33:04,904 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 183 resources
+2021-09-22 13:37:07,183 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-22 13:37:07,183 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/ashpan/workspace/wildfly/testsuite/integration/elytron/src/main/resources
+2021-09-22 13:37:07,184 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-22 13:37:07,184 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 13 resources
+2021-09-22 13:37:07,186 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 183 resources
+2021-09-22 13:42:33,702 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-22 13:42:33,702 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/ashpan/workspace/wildfly/testsuite/integration/elytron/src/main/resources
+2021-09-22 13:42:33,704 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-22 13:42:33,705 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 13 resources
+2021-09-22 13:42:33,709 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 183 resources
+2021-09-22 13:42:36,882 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-22 13:42:36,882 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/ashpan/workspace/wildfly/testsuite/integration/elytron/src/main/resources
+2021-09-22 13:42:36,883 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-22 13:42:36,884 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 13 resources
+2021-09-22 13:42:36,885 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 183 resources
+2021-09-22 13:58:24,138 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-22 13:58:24,138 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/ashpan/workspace/wildfly/testsuite/integration/elytron/src/main/resources
+2021-09-22 13:58:24,140 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-22 13:58:24,140 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 13 resources
+2021-09-22 13:58:24,155 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 183 resources
+2021-09-22 13:58:25,236 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-22 13:58:25,236 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/ashpan/workspace/wildfly/testsuite/integration/elytron/src/main/resources
+2021-09-22 13:58:25,238 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-22 13:58:25,238 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 13 resources
+2021-09-22 13:58:25,241 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 183 resources
+2021-09-22 13:58:47,057 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-22 13:58:47,057 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/ashpan/workspace/wildfly/testsuite/integration/elytron/src/main/resources
+2021-09-22 13:58:47,058 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-22 13:58:47,058 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 13 resources
+2021-09-22 13:58:47,060 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 183 resources
+2021-09-22 13:59:28,151 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-22 13:59:28,152 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/ashpan/workspace/wildfly/testsuite/integration/elytron/src/main/resources
+2021-09-22 13:59:28,153 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-22 13:59:28,153 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 13 resources
+2021-09-22 13:59:28,156 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 183 resources
+2021-09-22 13:59:29,434 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-22 13:59:29,434 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/ashpan/workspace/wildfly/testsuite/integration/elytron/src/main/resources
+2021-09-22 13:59:29,436 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-22 13:59:29,436 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 13 resources
+2021-09-22 13:59:29,440 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 183 resources
+2021-09-22 13:59:42,360 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-22 13:59:42,360 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/ashpan/workspace/wildfly/testsuite/integration/elytron/src/main/resources
+2021-09-22 13:59:42,362 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-22 13:59:42,362 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 13 resources
+2021-09-22 13:59:42,365 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 183 resources
+2021-09-22 13:59:44,574 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-22 13:59:44,574 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/ashpan/workspace/wildfly/testsuite/integration/elytron/src/main/resources
+2021-09-22 13:59:44,578 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-22 13:59:44,578 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 13 resources
+2021-09-22 13:59:44,581 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 183 resources
+2021-09-22 14:00:29,235 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-22 14:00:29,236 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/ashpan/workspace/wildfly/testsuite/integration/elytron/src/main/resources
+2021-09-22 14:00:29,237 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-22 14:00:29,237 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 13 resources
+2021-09-22 14:00:29,239 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 183 resources
+2021-09-22 14:00:30,306 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-22 14:00:30,306 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/ashpan/workspace/wildfly/testsuite/integration/elytron/src/main/resources
+2021-09-22 14:00:30,307 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-22 14:00:30,307 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 13 resources
+2021-09-22 14:00:30,309 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 183 resources
+2021-09-22 14:00:38,731 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-22 14:00:38,731 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/ashpan/workspace/wildfly/testsuite/integration/elytron/src/main/resources
+2021-09-22 14:00:38,732 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-22 14:00:38,732 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 13 resources
+2021-09-22 14:00:38,734 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 183 resources
+2021-09-22 14:01:45,707 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-22 14:01:45,707 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/ashpan/workspace/wildfly/testsuite/integration/elytron/src/main/resources
+2021-09-22 14:01:45,708 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-22 14:01:45,708 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 13 resources
+2021-09-22 14:01:45,710 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 183 resources
+2021-09-22 14:01:46,778 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-22 14:01:46,779 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/ashpan/workspace/wildfly/testsuite/integration/elytron/src/main/resources
+2021-09-22 14:01:46,780 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-22 14:01:46,781 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 13 resources
+2021-09-22 14:01:46,784 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 183 resources
+2021-09-22 14:01:57,202 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-22 14:01:57,202 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/ashpan/workspace/wildfly/testsuite/integration/elytron/src/main/resources
+2021-09-22 14:01:57,203 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-22 14:01:57,203 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 13 resources
+2021-09-22 14:01:57,205 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 183 resources
+2021-09-22 14:01:59,709 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-22 14:01:59,709 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/ashpan/workspace/wildfly/testsuite/integration/elytron/src/main/resources
+2021-09-22 14:01:59,711 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-22 14:01:59,712 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 13 resources
+2021-09-22 14:01:59,714 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 183 resources
+2021-09-22 14:02:28,334 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-22 14:02:28,336 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/ashpan/workspace/wildfly/testsuite/integration/elytron/src/main/resources
+2021-09-22 14:02:28,337 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-22 14:02:28,338 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 13 resources
+2021-09-22 14:02:28,340 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 183 resources
+2021-09-22 14:02:29,410 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-22 14:02:29,410 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/ashpan/workspace/wildfly/testsuite/integration/elytron/src/main/resources
+2021-09-22 14:02:29,412 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-22 14:02:29,412 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 13 resources
+2021-09-22 14:02:29,414 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 183 resources
+2021-09-22 14:03:17,893 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-22 14:03:17,893 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/ashpan/workspace/wildfly/testsuite/integration/elytron/src/main/resources
+2021-09-22 14:03:17,894 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-22 14:03:17,894 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 13 resources
+2021-09-22 14:03:17,899 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 183 resources
+2021-09-22 14:04:20,530 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-22 14:04:20,530 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/ashpan/workspace/wildfly/testsuite/integration/elytron/src/main/resources
+2021-09-22 14:04:20,532 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-22 14:04:20,533 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 13 resources
+2021-09-22 14:04:20,535 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 183 resources
+2021-09-22 14:09:32,551 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-22 14:09:32,551 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/ashpan/workspace/wildfly/testsuite/integration/elytron/src/main/resources
+2021-09-22 14:09:32,552 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-22 14:09:32,552 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 13 resources
+2021-09-22 14:09:32,555 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 183 resources
+2021-09-22 14:09:33,620 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-22 14:09:33,620 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/ashpan/workspace/wildfly/testsuite/integration/elytron/src/main/resources
+2021-09-22 14:09:33,621 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-22 14:09:33,622 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 13 resources
+2021-09-22 14:09:33,624 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 183 resources
+2021-09-22 14:20:31,820 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-22 14:20:31,820 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/ashpan/workspace/wildfly/testsuite/integration/elytron/src/main/resources
+2021-09-22 14:20:31,822 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-22 14:20:31,823 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 13 resources
+2021-09-22 14:20:31,826 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 183 resources
+2021-09-22 14:24:21,076 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-22 14:24:21,077 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/ashpan/workspace/wildfly/testsuite/integration/elytron/src/main/resources
+2021-09-22 14:24:21,079 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-22 14:24:21,079 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 13 resources
+2021-09-22 14:24:21,081 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 183 resources
+2021-09-22 14:40:24,706 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-22 14:40:24,706 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/ashpan/workspace/wildfly/testsuite/integration/elytron/src/main/resources
+2021-09-22 14:40:24,708 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-22 14:40:24,708 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 13 resources
+2021-09-22 14:40:24,711 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 183 resources
+2021-09-22 14:43:32,829 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-22 14:43:32,829 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/ashpan/workspace/wildfly/testsuite/integration/elytron/src/main/resources
+2021-09-22 14:43:32,830 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-22 14:43:32,830 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 13 resources
+2021-09-22 14:43:32,832 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 183 resources
+2021-09-22 14:43:35,603 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-22 14:43:35,603 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/ashpan/workspace/wildfly/testsuite/integration/elytron/src/main/resources
+2021-09-22 14:43:35,605 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-22 14:43:35,606 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 13 resources
+2021-09-22 14:43:35,609 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 183 resources
+2021-09-22 14:45:38,009 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-22 14:45:38,009 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/ashpan/workspace/wildfly/testsuite/integration/elytron/src/main/resources
+2021-09-22 14:45:38,011 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-22 14:45:38,012 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 13 resources
+2021-09-22 14:45:38,017 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 183 resources
+2021-09-22 15:24:49,687 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-22 15:24:49,687 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/ashpan/workspace/wildfly/testsuite/integration/elytron/src/main/resources
+2021-09-22 15:24:49,688 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-22 15:24:49,689 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 13 resources
+2021-09-22 15:24:49,691 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 183 resources
+2021-09-22 15:29:41,528 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-22 15:29:41,528 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/ashpan/workspace/wildfly/testsuite/integration/elytron/src/main/resources
+2021-09-22 15:29:41,529 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-22 15:29:41,530 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 13 resources
+2021-09-22 15:29:41,535 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 183 resources
+2021-09-22 15:43:08,795 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-22 15:43:08,796 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/ashpan/workspace/wildfly/testsuite/integration/elytron/src/main/resources
+2021-09-22 15:43:08,797 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-22 15:43:08,798 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 13 resources
+2021-09-22 15:43:08,803 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 183 resources
+2021-09-22 15:47:03,271 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-22 15:47:03,271 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/ashpan/workspace/wildfly/testsuite/integration/elytron/src/main/resources
+2021-09-22 15:47:03,272 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-22 15:47:03,272 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 13 resources
+2021-09-22 15:47:03,275 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 183 resources
+2021-09-22 16:09:48,324 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-22 16:09:48,324 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/ashpan/workspace/wildfly/testsuite/integration/elytron/src/main/resources
+2021-09-22 16:09:48,326 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-22 16:09:48,327 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 13 resources
+2021-09-22 16:09:48,328 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 183 resources
+2021-09-22 16:18:53,759 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-22 16:18:53,760 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/ashpan/workspace/wildfly/testsuite/integration/elytron/src/main/resources
+2021-09-22 16:18:53,761 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-22 16:18:53,762 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 13 resources
+2021-09-22 16:18:53,764 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 183 resources
+2021-09-22 16:18:54,782 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-22 16:18:54,782 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/ashpan/workspace/wildfly/testsuite/integration/elytron/src/main/resources
+2021-09-22 16:18:54,783 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-22 16:18:54,783 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 13 resources
+2021-09-22 16:18:54,785 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 183 resources
+2021-09-22 16:20:02,904 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-22 16:20:02,904 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/ashpan/workspace/wildfly/testsuite/integration/elytron/src/main/resources
+2021-09-22 16:20:02,905 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-22 16:20:02,906 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 13 resources
+2021-09-22 16:20:02,908 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 183 resources
+2021-09-22 16:22:16,962 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-22 16:22:16,963 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/ashpan/workspace/wildfly/testsuite/integration/elytron/src/main/resources
+2021-09-22 16:22:16,966 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-22 16:22:16,966 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 13 resources
+2021-09-22 16:22:16,968 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 183 resources
+2021-09-22 16:30:35,701 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-22 16:30:35,703 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/ashpan/workspace/wildfly/testsuite/integration/elytron/src/main/resources
+2021-09-22 16:30:35,704 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-22 16:30:35,705 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 13 resources
+2021-09-22 16:30:35,707 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 183 resources
+2021-09-22 16:32:22,359 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-22 16:32:22,359 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/ashpan/workspace/wildfly/testsuite/integration/elytron/src/main/resources
+2021-09-22 16:32:22,360 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-22 16:32:22,361 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 13 resources
+2021-09-22 16:32:22,363 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 183 resources
+2021-09-22 16:32:25,301 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-22 16:32:25,301 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/ashpan/workspace/wildfly/testsuite/integration/elytron/src/main/resources
+2021-09-22 16:32:25,302 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-22 16:32:25,303 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 13 resources
+2021-09-22 16:32:25,305 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 183 resources
+2021-09-22 16:34:09,740 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-22 16:34:09,740 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/ashpan/workspace/wildfly/testsuite/integration/elytron/src/main/resources
+2021-09-22 16:34:09,741 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-22 16:34:09,742 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 13 resources
+2021-09-22 16:34:09,744 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 183 resources
+2021-09-22 16:42:55,685 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-22 16:42:55,686 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/ashpan/workspace/wildfly/testsuite/integration/elytron/src/main/resources
+2021-09-22 16:42:55,690 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-22 16:42:55,691 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 13 resources
+2021-09-22 16:42:55,697 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 183 resources
+2021-09-22 16:46:05,508 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-22 16:46:05,508 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/ashpan/workspace/wildfly/testsuite/integration/elytron/src/main/resources
+2021-09-22 16:46:05,509 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-22 16:46:05,510 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 13 resources
+2021-09-22 16:46:05,512 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 183 resources
+2021-09-22 16:53:59,867 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-22 16:53:59,867 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/ashpan/workspace/wildfly/testsuite/integration/elytron/src/main/resources
+2021-09-22 16:53:59,867 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-22 16:53:59,868 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 13 resources
+2021-09-22 16:53:59,870 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 183 resources
+2021-09-22 17:01:06,881 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-22 17:01:06,881 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/ashpan/workspace/wildfly/testsuite/integration/elytron/src/main/resources
+2021-09-22 17:01:06,883 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-22 17:01:06,884 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 13 resources
+2021-09-22 17:01:06,887 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 183 resources
+2021-09-22 17:01:09,899 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-22 17:01:09,900 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/ashpan/workspace/wildfly/testsuite/integration/elytron/src/main/resources
+2021-09-22 17:01:09,900 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-22 17:01:09,901 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 13 resources
+2021-09-22 17:01:09,903 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 183 resources
+2021-09-22 17:06:01,255 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-22 17:06:01,256 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/ashpan/workspace/wildfly/testsuite/integration/elytron/src/main/resources
+2021-09-22 17:06:01,256 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-22 17:06:01,257 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 13 resources
+2021-09-22 17:06:01,259 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 183 resources
+2021-09-22 17:13:29,495 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-22 17:13:29,495 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/ashpan/workspace/wildfly/testsuite/integration/elytron/src/main/resources
+2021-09-22 17:13:29,497 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-22 17:13:29,497 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 13 resources
+2021-09-22 17:13:29,500 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 183 resources
+2021-09-22 17:17:19,216 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-22 17:17:19,216 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/ashpan/workspace/wildfly/testsuite/integration/elytron/src/main/resources
+2021-09-22 17:17:19,217 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-22 17:17:19,218 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 13 resources
+2021-09-22 17:17:19,220 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 183 resources
+2021-09-22 17:17:22,268 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-22 17:17:22,268 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/ashpan/workspace/wildfly/testsuite/integration/elytron/src/main/resources
+2021-09-22 17:17:22,269 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-22 17:17:22,269 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 13 resources
+2021-09-22 17:17:22,272 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 183 resources
+2021-09-22 17:25:36,956 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-22 17:25:36,956 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/ashpan/workspace/wildfly/testsuite/integration/elytron/src/main/resources
+2021-09-22 17:25:36,958 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-22 17:25:36,958 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 13 resources
+2021-09-22 17:25:36,960 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 183 resources

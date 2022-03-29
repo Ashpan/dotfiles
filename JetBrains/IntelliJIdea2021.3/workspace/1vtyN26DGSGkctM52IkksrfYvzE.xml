@@ -1,0 +1,1533 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="elytron" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="DatabaseView">
+    <expand />
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="-1">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/auth/base/src/main/java/org/wildfly/security/auth/principal/NamePrincipal.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="792">
+              <caret line="55" selection-start-line="55" selection-end-line="55" />
+              <folding>
+                <element signature="e#1590#1591#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tests/base/src/test/java/org/wildfly/security/auth/FileSystemSecurityRealmTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="27522">
+              <caret line="1346" column="31" selection-start-line="1346" selection-start-column="31" selection-end-line="1346" selection-end-column="31" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/auth/realm/base/src/main/java/org/wildfly/security/auth/realm/FileSystemSecurityRealm.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="587">
+              <caret line="680" column="77" selection-start-line="680" selection-start-column="77" selection-end-line="680" selection-end-column="77" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#78523#78531#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/auth/server/base/src/main/java/org/wildfly/security/auth/server/ServerAuthenticationContext.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="24112">
+              <caret line="1196" column="117" selection-start-line="1196" selection-start-column="117" selection-end-line="1196" selection-end-column="117" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/auth/realm/base/src/main/java/org/wildfly/security/auth/realm/ElytronMessages.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2640">
+              <caret line="155" column="86" selection-start-line="155" selection-start-column="34" selection-end-line="155" selection-end-column="86" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/auth/realm/base/src/main/java/org/wildfly/security/auth/realm/FileSystemRealmUtil.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="572">
+              <caret line="49" selection-start-line="49" selection-end-line="60" selection-end-column="30" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/jmockit/jmockit/1.34/jmockit-1.34-sources.jar!/mockit/integration/junit4/internal/JUnit4TestRunnerDecorator.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3256">
+              <caret line="161" selection-start-line="161" selection-end-line="161" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tool/src/test/resources/bulk-encryption-conversion-desc">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="550">
+              <caret line="25" column="11" selection-start-line="25" selection-start-column="11" selection-end-line="25" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tool/src/test/resources/bulk-encryption-conversion-desc-INVALID">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="66">
+              <caret line="3" selection-start-line="3" selection-end-line="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTypeUsageLocalSummary">
+    <fileType name="AUTO_DETECTED">
+      <summary usageCount="3" lastUsed="1643852131970" />
+    </fileType>
+    <fileType name="C#">
+      <summary usageCount="8" lastUsed="1647358997294" />
+    </fileType>
+    <fileType name="CLASS">
+      <summary usageCount="53" lastUsed="1648497711512" />
+    </fileType>
+    <fileType name="DIFF">
+      <summary usageCount="1" lastUsed="1643745175904" />
+    </fileType>
+    <fileType name="JAVA">
+      <summary usageCount="646" lastUsed="1648561547165" />
+    </fileType>
+    <fileType name="PLAIN_TEXT">
+      <summary usageCount="76" lastUsed="1648561548171" />
+    </fileType>
+    <fileType name="Properties">
+      <summary usageCount="3" lastUsed="1643854052050" />
+    </fileType>
+    <fileType name="Shell Script">
+      <summary usageCount="1" lastUsed="1647269012885" />
+    </fileType>
+    <fileType name="XML">
+      <summary usageCount="125" lastUsed="1648486758880" />
+    </fileType>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>Creating encrypted realm for:</find>
+      <find>Bulk</find>
+      <find>encrypt</find>
+      <find>file</find>
+      <find>bulk</find>
+      <find>populate</find>
+      <find>Input realm loca</find>
+      <find>inputLocationNotSpecified</find>
+      <find>getFilesystemrealmname</find>
+      <find>runCommandInvalid</find>
+      <find>create</find>
+      <find>|</find>
+      <find>levels</find>
+      <find>getLevels</find>
+      <find>.build()</find>
+      <find>build();</find>
+      <find>hashwith</find>
+      <find>createDigital</find>
+      <find>private</find>
+      <find>s</find>
+      <find>validate</find>
+      <find>validateDigitalSignature</find>
+      <find>@Test</find>
+      <find>dispose</find>
+      <find>xmlsec</find>
+      <find>next(</find>
+      <find>Version</find>
+      <find>verifyIntegrity</find>
+      <find>version version</find>
+      <find>verifyIn</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+      <replace>if ( ! validateDigitalSignature(this.path.toString()) &amp;&amp; this.publicKey != null ) {</replace>
+      <replace>&lt;xsd:any</replace>
+      <replace>this.publicKey != null &amp;&amp; ! validateDigitalSignature(this.path.toString())</replace>
+      <replace>secretKey</replace>
+      <replace>Encrypted Identity/Identities Missing:</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>$MAVEN_REPOSITORY$/junit/junit/4.13.1/junit-4.13.1-sources.jar!/org/junit</dir>
+      <dir>$PROJECT_DIR$/credential/base/src/main/java/org/wildfly/security/password/interfaces</dir>
+      <dir>$PROJECT_DIR$/auth/realm/jdbc/src/test/java/org/wildfly/security/auth/realm/jdbc</dir>
+      <dir>$PROJECT_DIR$/credential/store/src/main/java/org/wildfly/security/credential/store</dir>
+      <dir>$PROJECT_DIR$/credential/store/src/main/java/org/wildfly/security/credential/store/impl</dir>
+      <dir>$PROJECT_DIR$/x500/cert/base/src/main/java/org/wildfly/security/pem</dir>
+      <dir>$PROJECT_DIR$/credential/base/src/main/java/org/wildfly/security/credential</dir>
+      <dir>$PROJECT_DIR$/tool</dir>
+      <dir>$PROJECT_DIR$/auth/client/src/main/resources/schema</dir>
+      <dir>$PROJECT_DIR$/credential/base/src/main/java/org/wildfly/security/password</dir>
+      <dir>$PROJECT_DIR$/tests/base/src/test/java/org/wildfly/security/auth/server</dir>
+      <dir>$PROJECT_DIR$/tests/base/src/test/resources/org/wildfly/security/auth/realm/token</dir>
+      <dir>$PROJECT_DIR$/tests/base/target/test-classes/filesystem-realm/u</dir>
+      <dir>$PROJECT_DIR$/auth/server/base/src/main/java/org/wildfly/security/auth/server</dir>
+      <dir>$PROJECT_DIR$/auth/realm/base/src/main/resources/schema</dir>
+      <dir>$PROJECT_DIR$/tool/src/main/java/org/wildfly/security/tool</dir>
+      <dir>$PROJECT_DIR$/tests/base/src/test/java/org/wildfly/security/auth</dir>
+      <dir>$PROJECT_DIR$/tool/src/test/java/org/wildfly/security/tool</dir>
+      <dir>$PROJECT_DIR$/auth/realm/base/src/main/java/org/wildfly/security/auth/realm</dir>
+      <dir>$PROJECT_DIR$</dir>
+    </dirStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/tool/src/test/resources/filesystem-encrypt/fs-unencrypted-realms/single-role/h/e/hello.xml" />
+      <option value="$PROJECT_DIR$/tool/src/test/resources/filesystem-encrypt/fs-unencrypted-realms/single-user-with-role/p/e/r/person123.xml" />
+      <option value="$PROJECT_DIR$/tool/src/test/resources/filesystem-encrypt/fs-unencrypted-realms/single-user-with-key/s/e/c/secretperson.xml" />
+      <option value="$PROJECT_DIR$/auth/realm/base/src/main/java/org/wildfly/security/auth/realm/FileSystemParseHelper.java" />
+      <option value="$PROJECT_DIR$/tool/src/test/java/org/wildfly/security/tool/FileSystemEncryptCommandTest.java" />
+      <option value="$PROJECT_DIR$/tool/src/main/java/org/wildfly/security/tool/FileSystemEncryptCommand.java" />
+      <option value="$PROJECT_DIR$/auth/realm/ldap/src/main/java/org/wildfly/security/auth/realm/ldap/LdapSecurityRealmBuilder.java" />
+      <option value="$PROJECT_DIR$/tests/base/src/test/java/org/wildfly/security/ldap/LdapTestSuite.java" />
+      <option value="$PROJECT_DIR$/tests/base/target/test-classes/filesystem-realm/p/l/plainuser-OBWGC2LOKVZWK4Q.xml" />
+      <option value="$PROJECT_DIR$/base/src/main/java/org/wildfly/security/WildFlyElytronBaseProvider.java" />
+      <option value="$PROJECT_DIR$/ssl/src/main/java/org/wildfly/security/ssl/ConfiguredSSLEngine.java" />
+      <option value="$PROJECT_DIR$/tests/base/target/test-classes/filesystem-realm/O/OBWGC2LOKVZWK4Q.xml" />
+      <option value="$PROJECT_DIR$/tests/base/target/test-classes/filesystem-realm/O/ORSXG5DJNZTVK43FOI.xml" />
+      <option value="$PROJECT_DIR$/tests/base/target/test-classes/filesystem-realm/u/s/e/user-OVZWK4Q.xml" />
+      <option value="$PROJECT_DIR$/tool/src/main/java/org/wildfly/security/tool/CredentialStoreCommand.java" />
+      <option value="$PROJECT_DIR$/auth/server/base/src/main/java/org/wildfly/security/auth/server/ServerAuthenticationContext.java" />
+      <option value="$PROJECT_DIR$/tests/base/src/test/java/org/wildfly/security/auth/server/AvailableRealmsCallbackTest.java" />
+      <option value="$PROJECT_DIR$/credential/base/src/main/java/org/wildfly/security/password/PasswordFactory.java" />
+      <option value="$PROJECT_DIR$/auth/client/src/main/resources/schema/elytron-1_0.xsd" />
+      <option value="$PROJECT_DIR$/auth/client/src/main/resources/schema/elytron-1_0_1.xsd" />
+      <option value="$PROJECT_DIR$/tests/base/src/test/resources/filesystem-realm/u/s/e/user-OVZWK4Q.xml" />
+      <option value="$PROJECT_DIR$/tool/target/test-classes/filesystem-encrypt/fs-unencrypted-realms/multiple-credential-types/a/anotherUser.xml" />
+      <option value="$PROJECT_DIR$/auth/realm/base/src/main/java/org/wildfly/security/auth/realm/UnencryptedToEncyptedHelper.java" />
+      <option value="$PROJECT_DIR$/tests/base/target/test-classes/filesystem-realm/p/l/a/plainuser2-OBWGC2LOKVZWK4RS.xml" />
+      <option value="$PROJECT_DIR$/tests/base/target/test-classes/filesystem-realm/master_index" />
+      <option value="$PROJECT_DIR$/tool/src/main/java/org/wildfly/security/tool/ElytronTool.java" />
+      <option value="$PROJECT_DIR$/tests/base/target/test-classes/filesystem-realm/main_index" />
+      <option value="$PROJECT_DIR$/tests/base/target/test-classes/filesystem-realm/p/plainuser-OBWGC2LOKVZWK4Q.xml" />
+      <option value="$USER_HOME$/integrity-integration-test.txt" />
+      <option value="$PROJECT_DIR$/tests/base/src/test/java/org/wildfly/security/auth/realm/cache/ModifiableSecurityRealmIdentityCacheTest.java" />
+      <option value="$PROJECT_DIR$/auth/realm/base/src/main/resources/schema/elytron-identity-1_1.xsd" />
+      <option value="$PROJECT_DIR$/encryption/src/main/java/org/wildfly/security/encryption/ElytronMessages.java" />
+      <option value="$PROJECT_DIR$/password/impl/src/main/java/org/wildfly/security/password/impl/ClearPasswordImpl.java" />
+      <option value="$PROJECT_DIR$/tests/base/src/test/resources/filesystem-realm-preexist/O/OBWGC2LOKVZWK4Q.xml" />
+      <option value="$PROJECT_DIR$/tests/base/src/test/resources/filesystem-realm/O/OBWGC2LOKVZWK4Q.xml" />
+      <option value="$PROJECT_DIR$/tests/base/target/test-classes/filesystem-realm/exists/credstore.cs" />
+      <option value="$PROJECT_DIR$/tool/target/test-classes/bulk-encryption-conversion-desc" />
+      <option value="$PROJECT_DIR$/tool/src/test/resources/bulk-encryption-conversion-desc" />
+      <option value="$PROJECT_DIR$/tests/base/src/test/resources/filesystem-realm-exists/O/OBWGC2LOKVZWK4Q.xml" />
+      <option value="$PROJECT_DIR$/auth/realm/base/src/main/java/org/wildfly/security/auth/realm/FileSystemRealmUtil.java" />
+      <option value="$PROJECT_DIR$/tool/src/test/resources/bulk-encryption-conversion-desc-INVALID" />
+      <option value="$PROJECT_DIR$/tool/src/test/java/org/wildfly/security/tool/FileSystemEncryptRealmCommandTest.java" />
+      <option value="$PROJECT_DIR$/tool/src/main/java/org/wildfly/security/tool/ElytronToolMessages.java" />
+      <option value="$PROJECT_DIR$/encryption/src/main/java/org/wildfly/security/encryption/CipherUtil.java" />
+      <option value="$PROJECT_DIR$/tool/src/main/java/org/wildfly/security/tool/FileSystemEncryptRealmCommand.java" />
+      <option value="$PROJECT_DIR$/auth/realm/base/src/main/java/org/wildfly/security/auth/realm/FileSystemSecurityRealmBuilder.java" />
+      <option value="$PROJECT_DIR$/auth/realm/base/src/main/java/org/wildfly/security/auth/realm/ElytronMessages.java" />
+      <option value="$PROJECT_DIR$/pom.xml" />
+      <option value="$PROJECT_DIR$/auth/realm/base/pom.xml" />
+      <option value="$PROJECT_DIR$/tests/base/src/test/java/org/wildfly/security/auth/FileSystemSecurityRealmTest.java" />
+      <option value="$PROJECT_DIR$/auth/realm/base/src/main/java/org/wildfly/security/auth/realm/FileSystemSecurityRealm.java" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="elytron" type="b2602c69:ProjectViewProjectNode" />
+              <item name="elytron" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="elytron" type="b2602c69:ProjectViewProjectNode" />
+              <item name="elytron" type="462c0819:PsiDirectoryNode" />
+              <item name="auth" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="elytron" type="b2602c69:ProjectViewProjectNode" />
+              <item name="elytron" type="462c0819:PsiDirectoryNode" />
+              <item name="auth" type="462c0819:PsiDirectoryNode" />
+              <item name="realm" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="elytron" type="b2602c69:ProjectViewProjectNode" />
+              <item name="elytron" type="462c0819:PsiDirectoryNode" />
+              <item name="auth" type="462c0819:PsiDirectoryNode" />
+              <item name="realm" type="462c0819:PsiDirectoryNode" />
+              <item name="base" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="elytron" type="b2602c69:ProjectViewProjectNode" />
+              <item name="elytron" type="462c0819:PsiDirectoryNode" />
+              <item name="auth" type="462c0819:PsiDirectoryNode" />
+              <item name="realm" type="462c0819:PsiDirectoryNode" />
+              <item name="base" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="elytron" type="b2602c69:ProjectViewProjectNode" />
+              <item name="elytron" type="462c0819:PsiDirectoryNode" />
+              <item name="auth" type="462c0819:PsiDirectoryNode" />
+              <item name="realm" type="462c0819:PsiDirectoryNode" />
+              <item name="base" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="elytron" type="b2602c69:ProjectViewProjectNode" />
+              <item name="elytron" type="462c0819:PsiDirectoryNode" />
+              <item name="auth" type="462c0819:PsiDirectoryNode" />
+              <item name="realm" type="462c0819:PsiDirectoryNode" />
+              <item name="base" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="elytron" type="b2602c69:ProjectViewProjectNode" />
+              <item name="elytron" type="462c0819:PsiDirectoryNode" />
+              <item name="auth" type="462c0819:PsiDirectoryNode" />
+              <item name="realm" type="462c0819:PsiDirectoryNode" />
+              <item name="base" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="realm" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="elytron" type="b2602c69:ProjectViewProjectNode" />
+              <item name="elytron" type="462c0819:PsiDirectoryNode" />
+              <item name="auth" type="462c0819:PsiDirectoryNode" />
+              <item name="server" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="elytron" type="b2602c69:ProjectViewProjectNode" />
+              <item name="elytron" type="462c0819:PsiDirectoryNode" />
+              <item name="auth" type="462c0819:PsiDirectoryNode" />
+              <item name="server" type="462c0819:PsiDirectoryNode" />
+              <item name="base" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="elytron" type="b2602c69:ProjectViewProjectNode" />
+              <item name="elytron" type="462c0819:PsiDirectoryNode" />
+              <item name="auth" type="462c0819:PsiDirectoryNode" />
+              <item name="server" type="462c0819:PsiDirectoryNode" />
+              <item name="base" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="elytron" type="b2602c69:ProjectViewProjectNode" />
+              <item name="elytron" type="462c0819:PsiDirectoryNode" />
+              <item name="auth" type="462c0819:PsiDirectoryNode" />
+              <item name="server" type="462c0819:PsiDirectoryNode" />
+              <item name="base" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="elytron" type="b2602c69:ProjectViewProjectNode" />
+              <item name="elytron" type="462c0819:PsiDirectoryNode" />
+              <item name="auth" type="462c0819:PsiDirectoryNode" />
+              <item name="server" type="462c0819:PsiDirectoryNode" />
+              <item name="base" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="elytron" type="b2602c69:ProjectViewProjectNode" />
+              <item name="elytron" type="462c0819:PsiDirectoryNode" />
+              <item name="auth" type="462c0819:PsiDirectoryNode" />
+              <item name="server" type="462c0819:PsiDirectoryNode" />
+              <item name="base" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="security" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="elytron" type="b2602c69:ProjectViewProjectNode" />
+              <item name="elytron" type="462c0819:PsiDirectoryNode" />
+              <item name="auth" type="462c0819:PsiDirectoryNode" />
+              <item name="server" type="462c0819:PsiDirectoryNode" />
+              <item name="base" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="security" type="462c0819:PsiDirectoryNode" />
+              <item name="auth" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="elytron" type="b2602c69:ProjectViewProjectNode" />
+              <item name="elytron" type="462c0819:PsiDirectoryNode" />
+              <item name="auth" type="462c0819:PsiDirectoryNode" />
+              <item name="server" type="462c0819:PsiDirectoryNode" />
+              <item name="base" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="security" type="462c0819:PsiDirectoryNode" />
+              <item name="auth" type="462c0819:PsiDirectoryNode" />
+              <item name="server" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="elytron" type="b2602c69:ProjectViewProjectNode" />
+              <item name="elytron" type="462c0819:PsiDirectoryNode" />
+              <item name="tests" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="elytron" type="b2602c69:ProjectViewProjectNode" />
+              <item name="elytron" type="462c0819:PsiDirectoryNode" />
+              <item name="tests" type="462c0819:PsiDirectoryNode" />
+              <item name="base" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="elytron" type="b2602c69:ProjectViewProjectNode" />
+              <item name="elytron" type="462c0819:PsiDirectoryNode" />
+              <item name="tests" type="462c0819:PsiDirectoryNode" />
+              <item name="base" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="elytron" type="b2602c69:ProjectViewProjectNode" />
+              <item name="elytron" type="462c0819:PsiDirectoryNode" />
+              <item name="tests" type="462c0819:PsiDirectoryNode" />
+              <item name="base" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="elytron" type="b2602c69:ProjectViewProjectNode" />
+              <item name="elytron" type="462c0819:PsiDirectoryNode" />
+              <item name="tests" type="462c0819:PsiDirectoryNode" />
+              <item name="base" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="elytron" type="b2602c69:ProjectViewProjectNode" />
+              <item name="elytron" type="462c0819:PsiDirectoryNode" />
+              <item name="tests" type="462c0819:PsiDirectoryNode" />
+              <item name="base" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="security" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="elytron" type="b2602c69:ProjectViewProjectNode" />
+              <item name="elytron" type="462c0819:PsiDirectoryNode" />
+              <item name="tests" type="462c0819:PsiDirectoryNode" />
+              <item name="base" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="security" type="462c0819:PsiDirectoryNode" />
+              <item name="auth" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="elytron" type="b2602c69:ProjectViewProjectNode" />
+              <item name="elytron" type="462c0819:PsiDirectoryNode" />
+              <item name="tests" type="462c0819:PsiDirectoryNode" />
+              <item name="base" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="elytron" type="b2602c69:ProjectViewProjectNode" />
+              <item name="elytron" type="462c0819:PsiDirectoryNode" />
+              <item name="tests" type="462c0819:PsiDirectoryNode" />
+              <item name="base" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+              <item name="test-classes" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="elytron" type="b2602c69:ProjectViewProjectNode" />
+              <item name="elytron" type="462c0819:PsiDirectoryNode" />
+              <item name="tests" type="462c0819:PsiDirectoryNode" />
+              <item name="base" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+              <item name="test-classes" type="462c0819:PsiDirectoryNode" />
+              <item name="filesystem-realm" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="elytron" type="b2602c69:ProjectViewProjectNode" />
+              <item name="elytron" type="462c0819:PsiDirectoryNode" />
+              <item name="tests" type="462c0819:PsiDirectoryNode" />
+              <item name="base" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+              <item name="test-classes" type="462c0819:PsiDirectoryNode" />
+              <item name="filesystem-realm" type="462c0819:PsiDirectoryNode" />
+              <item name="u" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="elytron" type="b2602c69:ProjectViewProjectNode" />
+              <item name="elytron" type="462c0819:PsiDirectoryNode" />
+              <item name="tests" type="462c0819:PsiDirectoryNode" />
+              <item name="base" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+              <item name="test-classes" type="462c0819:PsiDirectoryNode" />
+              <item name="filesystem-realm" type="462c0819:PsiDirectoryNode" />
+              <item name="u" type="462c0819:PsiDirectoryNode" />
+              <item name="s" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="elytron" type="b2602c69:ProjectViewProjectNode" />
+              <item name="elytron" type="462c0819:PsiDirectoryNode" />
+              <item name="tests" type="462c0819:PsiDirectoryNode" />
+              <item name="base" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+              <item name="test-classes" type="462c0819:PsiDirectoryNode" />
+              <item name="filesystem-realm" type="462c0819:PsiDirectoryNode" />
+              <item name="u" type="462c0819:PsiDirectoryNode" />
+              <item name="s" type="462c0819:PsiDirectoryNode" />
+              <item name="e" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="elytron" type="b2602c69:ProjectViewProjectNode" />
+              <item name="elytron" type="462c0819:PsiDirectoryNode" />
+              <item name="tool" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="elytron" type="b2602c69:ProjectViewProjectNode" />
+              <item name="elytron" type="462c0819:PsiDirectoryNode" />
+              <item name="tool" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="elytron" type="b2602c69:ProjectViewProjectNode" />
+              <item name="elytron" type="462c0819:PsiDirectoryNode" />
+              <item name="tool" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="elytron" type="b2602c69:ProjectViewProjectNode" />
+              <item name="elytron" type="462c0819:PsiDirectoryNode" />
+              <item name="tool" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="elytron" type="b2602c69:ProjectViewProjectNode" />
+              <item name="elytron" type="462c0819:PsiDirectoryNode" />
+              <item name="tool" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="tool" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="elytron" type="b2602c69:ProjectViewProjectNode" />
+              <item name="elytron" type="462c0819:PsiDirectoryNode" />
+              <item name="tool" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="elytron" type="b2602c69:ProjectViewProjectNode" />
+              <item name="elytron" type="462c0819:PsiDirectoryNode" />
+              <item name="tool" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="elytron" type="b2602c69:ProjectViewProjectNode" />
+              <item name="elytron" type="462c0819:PsiDirectoryNode" />
+              <item name="tool" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="tool" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="elytron" type="b2602c69:ProjectViewProjectNode" />
+              <item name="elytron" type="462c0819:PsiDirectoryNode" />
+              <item name="tool" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="elytron" type="b2602c69:ProjectViewProjectNode" />
+              <item name="elytron" type="462c0819:PsiDirectoryNode" />
+              <item name="tool" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="filesystem-encrypt" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="elytron" type="b2602c69:ProjectViewProjectNode" />
+              <item name="elytron" type="462c0819:PsiDirectoryNode" />
+              <item name="tool" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="filesystem-encrypt" type="462c0819:PsiDirectoryNode" />
+              <item name="fs-unencrypted-realms" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="elytron" type="b2602c69:ProjectViewProjectNode" />
+              <item name="elytron" type="462c0819:PsiDirectoryNode" />
+              <item name="tool" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="filesystem-encrypt" type="462c0819:PsiDirectoryNode" />
+              <item name="fs-unencrypted-realms" type="462c0819:PsiDirectoryNode" />
+              <item name="e" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="elytron" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="TerminalArrangementManager">
+    <option name="myTabStates">
+      <TerminalTabState tabName="Local" currentWorkingDirectory="$PROJECT_DIR$/tests/base" commandHistoryFileName="elytron-history" />
+    </option>
+  </component>
+  <component name="TestHistory">
+    <history-entry file="FileSystemEncryptRealmCommandTest_testSingleUserWithRolesAndKey - 2022.03.14 at 10h 46m 01s.xml">
+      <configuration name="FileSystemEncryptRealmCommandTest.testSingleUserWithRolesAndKey" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="FileSystemEncryptRealmCommandTest_testSingleUserWithRolesAndKey - 2022.03.14 at 10h 54m 43s.xml">
+      <configuration name="FileSystemEncryptRealmCommandTest.testSingleUserWithRolesAndKey" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="FileSystemEncryptRealmCommandTest_testSingleUserWithRolesAndKey - 2022.03.14 at 10h 56m 16s.xml">
+      <configuration name="FileSystemEncryptRealmCommandTest.testSingleUserWithRolesAndKey" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="FileSystemEncryptRealmCommandTest_testSingleUserWithRolesAndKey - 2022.03.14 at 10h 56m 27s.xml">
+      <configuration name="FileSystemEncryptRealmCommandTest.testSingleUserWithRolesAndKey" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="FileSystemEncryptRealmCommandTest_testSingleUserWithRolesAndKey - 2022.03.14 at 10h 58m 47s.xml">
+      <configuration name="FileSystemEncryptRealmCommandTest.testSingleUserWithRolesAndKey" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="FileSystemEncryptRealmCommandTest_testSingleUserAndVerify - 2022.03.14 at 11h 07m 20s.xml">
+      <configuration name="FileSystemEncryptRealmCommandTest.testSingleUserAndVerify" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="FileSystemEncryptRealmCommandTest_testSingleUserAndVerify - 2022.03.14 at 11h 16m 27s.xml">
+      <configuration name="FileSystemEncryptRealmCommandTest.testSingleUserAndVerify" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="FileSystemEncryptRealmCommandTest_testSingleUserAndVerify - 2022.03.14 at 11h 16m 37s.xml">
+      <configuration name="FileSystemEncryptRealmCommandTest.testSingleUserAndVerify" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="FileSystemEncryptRealmCommandTest_testSingleUserAndVerify - 2022.03.14 at 11h 17m 30s.xml">
+      <configuration name="FileSystemEncryptRealmCommandTest.testSingleUserAndVerify" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="FileSystemEncryptRealmCommandTest - 2022.03.15 at 17h 27m 13s.xml">
+      <configuration name="FileSystemEncryptRealmCommandTest" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="621813000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20026042" />
+      <window_info id="Structure" order="1" side_tool="true" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info id="Commit" order="3" />
+      <window_info id="Learn" order="4" />
+      <window_info id="Pull Requests" order="5" />
+      <window_info id="Space Code Reviews" order="6" />
+      <window_info id="Bookmarks" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="0" sideWeight="0.76760936" weight="0.2459596" />
+      <window_info anchor="bottom" id="Terminal" order="1" sideWeight="0.23239061" side_tool="true" weight="0.2580808" />
+      <window_info anchor="bottom" id="Event Log" order="2" sideWeight="0.39354324" side_tool="true" weight="0.3429293" />
+      <window_info anchor="bottom" id="Find" order="3" weight="0.31060606" />
+      <window_info anchor="bottom" x="1920" y="579" width="1874" height="292" id="Run" order="4" sideWeight="0.5002668" weight="0.31666666" />
+      <window_info active="true" anchor="bottom" x="46" y="641" width="1874" height="215" id="Debug" order="5" sideWeight="0.60645676" visible="true" weight="0.27525252" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32979798" />
+      <window_info anchor="bottom" id="Problems View" order="7" sideWeight="0.5002668" weight="0.08131313" />
+      <window_info anchor="bottom" id="Analyze Dataflow to" order="8" weight="0.32979798" />
+      <window_info anchor="bottom" id="Duplicates" order="9" weight="0.32979798" />
+      <window_info anchor="bottom" id="Dependencies" order="10" weight="0.32979798" />
+      <window_info anchor="bottom" id="Inspection" order="11" weight="0.4" />
+      <window_info anchor="bottom" id="File Transfer" order="12" />
+      <window_info anchor="bottom" id="Profiler" order="13" weight="0.3295678" />
+      <window_info anchor="bottom" id="Database Changes" order="14" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Internal Method Tracing" order="15" />
+      <window_info anchor="bottom" id="Endpoints" order="16" weight="0.3295678" />
+      <window_info anchor="bottom" id="Build" order="17" sideWeight="0.7692102" weight="0.27929294" />
+      <window_info anchor="bottom" id="Java Enterprise" order="18" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Services" order="19" show_stripe_button="false" />
+      <window_info anchor="right" id="Database" order="0" weight="0.3296875" />
+      <window_info anchor="right" id="Space Automation" order="1" />
+      <window_info anchor="right" id="Maven" order="2" weight="0.32994792" />
+      <window_info anchor="right" id="CDI" order="3" show_stripe_button="false" />
+      <window_info anchor="right" id="Layout Validation" order="4" />
+      <window_info anchor="right" id="Bean Validation" order="5" show_stripe_button="false" />
+      <window_info anchor="right" id="Hierarchy" order="6" weight="0.46692708" />
+      <window_info anchor="right" id="documentation.v2" order="7" side_tool="true" />
+    </layout>
+    <recentWindows>
+      <value>Project</value>
+      <value>Debug</value>
+      <value>Event Log</value>
+      <value>Problems View</value>
+      <value>Hierarchy</value>
+      <value>Build</value>
+      <value>Run</value>
+      <value>Find</value>
+      <value>Version Control</value>
+      <value>Terminal</value>
+      <value>TODO</value>
+      <value>Maven</value>
+      <value>Analyze Dataflow to</value>
+      <value>Database</value>
+      <value>Endpoints</value>
+      <value>Profiler</value>
+      <value>Dependencies</value>
+    </recentWindows>
+  </component>
+  <component name="Trusted.Project.Settings" hasCheckedIfOldProject="true" trusted="YES" />
+  <component name="WindowStateProjectService">
+    <state x="443" y="1198" width="1024" height="851" key="#Project_Structure" timestamp="1647265821049">
+      <screen x="0" y="1080" width="1920" height="1080" />
+    </state>
+    <state x="443" y="1198" width="1024" height="851" key="#Project_Structure/0.1080.1920.1080/0.0.1920.1080@0.1080.1920.1080" timestamp="1647265821049" />
+    <state x="863" y="1371" width="895" height="621" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1643831034909">
+      <screen x="0" y="1080" width="1920" height="1080" />
+    </state>
+    <state x="863" y="1371" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.1080.1920.1080/0.0.1920.1080@0.1080.1920.1080" timestamp="1643831034909" />
+    <state x="587" y="1395" width="781" height="463" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1647457331087">
+      <screen x="0" y="1080" width="1920" height="1080" />
+    </state>
+    <state x="587" y="1395" width="781" height="463" key="#com.intellij.fileTypes.FileTypeChooser/0.1080.1920.1080/0.0.1920.1080@0.1080.1920.1080" timestamp="1647457331087" />
+    <state x="768" y="1340" width="1064" height="568" key="#com.intellij.ide.util.MemberChooser" timestamp="1646159611991">
+      <screen x="0" y="1080" width="1920" height="1080" />
+    </state>
+    <state x="768" y="1340" width="1064" height="568" key="#com.intellij.ide.util.MemberChooser/0.1080.1920.1080/0.0.1920.1080@0.1080.1920.1080" timestamp="1646159611991" />
+    <state x="762" y="1521" width="644" height="417" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1643840754944">
+      <screen x="0" y="1080" width="1920" height="1080" />
+    </state>
+    <state x="762" y="1521" width="644" height="417" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.1080.1920.1080/0.0.1920.1080@0.1080.1920.1080" timestamp="1643840754944" />
+    <state x="693" y="1369" width="524" height="509" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1643050527803">
+      <screen x="0" y="1080" width="1920" height="1080" />
+    </state>
+    <state x="693" y="1369" width="524" height="509" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.1080.1920.1080/0.0.1920.1080@0.1080.1920.1080" timestamp="1643050527803" />
+    <state x="114" y="1347" width="1634" height="553" key="#xdebugger.XInspectDialog" timestamp="1643745168832">
+      <screen x="0" y="1080" width="1920" height="1080" />
+    </state>
+    <state x="114" y="1347" width="1634" height="553" key="#xdebugger.XInspectDialog/0.1080.1920.1080/0.0.1920.1080@0.1080.1920.1080" timestamp="1643745168832" />
+    <state x="833" y="422" width="847" height="554" key="#xdebugger.evaluate" timestamp="1642789826052">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="229" y="284" key="#xdebugger.evaluate/0.1080.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1642093472308" />
+    <state x="833" y="422" width="847" height="554" key="#xdebugger.evaluate/0.1080.1920.1080/0.0.1920.1080@0.1080.1920.1080" timestamp="1642789826052" />
+    <state width="900" height="120" key="DebuggerActiveHint" timestamp="1648131274443">
+      <screen x="0" y="1080" width="1920" height="1080" />
+    </state>
+    <state width="958" height="213" key="DebuggerActiveHint/0.1080.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1646425163977" />
+    <state width="900" height="120" key="DebuggerActiveHint/0.1080.1920.1080/0.0.1920.1080@0.1080.1920.1080" timestamp="1648131274443" />
+    <state x="1218" y="1379" width="447" height="490" key="FileChooserDialogImpl" timestamp="1644336282913">
+      <screen x="0" y="1080" width="1920" height="1080" />
+    </state>
+    <state x="1218" y="1379" key="FileChooserDialogImpl/0.1080.1920.1080/0.0.1920.1080@0.1080.1920.1080" timestamp="1644336282913" />
+    <state width="1874" height="360" key="GridCell.Tab.0.bottom" timestamp="1648483646625">
+      <screen x="0" y="1080" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="151" key="GridCell.Tab.0.bottom/0.1080.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1647446935013" />
+    <state width="1874" height="360" key="GridCell.Tab.0.bottom/0.1080.1920.1080/0.0.1920.1080@0.1080.1920.1080" timestamp="1648483646625" />
+    <state width="1874" height="360" key="GridCell.Tab.0.center" timestamp="1648483646625">
+      <screen x="0" y="1080" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="151" key="GridCell.Tab.0.center/0.1080.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1647446935013" />
+    <state width="1874" height="360" key="GridCell.Tab.0.center/0.1080.1920.1080/0.0.1920.1080@0.1080.1920.1080" timestamp="1648483646625" />
+    <state width="1874" height="360" key="GridCell.Tab.0.left" timestamp="1648483646625">
+      <screen x="0" y="1080" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="151" key="GridCell.Tab.0.left/0.1080.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1647446935013" />
+    <state width="1874" height="360" key="GridCell.Tab.0.left/0.1080.1920.1080/0.0.1920.1080@0.1080.1920.1080" timestamp="1648483646625" />
+    <state width="1874" height="360" key="GridCell.Tab.0.right" timestamp="1648483646625">
+      <screen x="0" y="1080" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="151" key="GridCell.Tab.0.right/0.1080.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1647446935013" />
+    <state width="1874" height="360" key="GridCell.Tab.0.right/0.1080.1920.1080/0.0.1920.1080@0.1080.1920.1080" timestamp="1648483646625" />
+    <state width="1874" height="360" key="GridCell.Tab.1.bottom" timestamp="1648483647331">
+      <screen x="0" y="1080" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="151" key="GridCell.Tab.1.bottom/0.1080.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1647446935013" />
+    <state width="1874" height="360" key="GridCell.Tab.1.bottom/0.1080.1920.1080/0.0.1920.1080@0.1080.1920.1080" timestamp="1648483647331" />
+    <state width="1874" height="360" key="GridCell.Tab.1.center" timestamp="1648483647331">
+      <screen x="0" y="1080" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="151" key="GridCell.Tab.1.center/0.1080.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1647446935013" />
+    <state width="1874" height="360" key="GridCell.Tab.1.center/0.1080.1920.1080/0.0.1920.1080@0.1080.1920.1080" timestamp="1648483647331" />
+    <state width="1874" height="360" key="GridCell.Tab.1.left" timestamp="1648483647331">
+      <screen x="0" y="1080" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="151" key="GridCell.Tab.1.left/0.1080.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1647446935013" />
+    <state width="1874" height="360" key="GridCell.Tab.1.left/0.1080.1920.1080/0.0.1920.1080@0.1080.1920.1080" timestamp="1648483647331" />
+    <state width="1874" height="360" key="GridCell.Tab.1.right" timestamp="1648483647331">
+      <screen x="0" y="1080" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="151" key="GridCell.Tab.1.right/0.1080.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1647446935013" />
+    <state width="1874" height="360" key="GridCell.Tab.1.right/0.1080.1920.1080/0.0.1920.1080@0.1080.1920.1080" timestamp="1648483647331" />
+    <state x="130" y="1252" width="1022" height="736" key="SettingsEditor" timestamp="1647613269231">
+      <screen x="0" y="1080" width="1920" height="1080" />
+    </state>
+    <state x="130" y="1252" width="1022" height="736" key="SettingsEditor/0.1080.1920.1080/0.0.1920.1080@0.1080.1920.1080" timestamp="1647613269231" />
+    <state width="1760" height="445" key="XDebugger.FullValuePopup" timestamp="1648222515837">
+      <screen x="0" y="1080" width="1920" height="1080" />
+    </state>
+    <state width="1760" height="445" key="XDebugger.FullValuePopup/0.1080.1920.1080/0.0.1920.1080@0.1080.1920.1080" timestamp="1648222515837" />
+    <state x="429" y="1323" width="1080" height="601" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1648131507110">
+      <screen x="0" y="1080" width="1920" height="1080" />
+    </state>
+    <state x="429" y="1323" width="1080" height="601" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.1080.1920.1080/0.0.1920.1080@0.1080.1920.1080" timestamp="1648131507110" />
+    <state x="1325" y="1275" width="534" height="525" key="extract.method.dialog" timestamp="1647460216074">
+      <screen x="0" y="1080" width="1920" height="1080" />
+    </state>
+    <state x="1325" y="1275" width="534" height="525" key="extract.method.dialog/0.1080.1920.1080/0.0.1920.1080@0.1080.1920.1080" timestamp="1647460216074" />
+    <state x="486" y="1192" width="1154" height="823" key="find.popup" timestamp="1648144478293">
+      <screen x="0" y="1080" width="1920" height="1080" />
+    </state>
+    <state x="486" y="1192" width="1154" height="823" key="find.popup/0.1080.1920.1080/0.0.1920.1080@0.1080.1920.1080" timestamp="1648144478293" />
+    <state x="727" y="1372" width="456" height="504" key="refactoring.ChangeSignatureDialog" timestamp="1642798690943">
+      <screen x="0" y="1080" width="1920" height="1080" />
+    </state>
+    <state x="727" y="1372" width="456" height="504" key="refactoring.ChangeSignatureDialog/0.1080.1920.1080/0.0.1920.1080@0.1080.1920.1080" timestamp="1642798690943" />
+    <state x="624" y="786" key="run.anything.popup" timestamp="1646164292467">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="624" y="786" key="run.anything.popup/0.1080.1920.1080/0.0.1920.1080@0.1080.1920.1080" timestamp="1646164292467" />
+    <state x="623" y="1333" width="672" height="685" key="search.everywhere.popup" timestamp="1648309600255">
+      <screen x="0" y="1080" width="1920" height="1080" />
+    </state>
+    <state x="623" y="253" width="824" height="687" key="search.everywhere.popup/0.1080.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1646416010180" />
+    <state x="623" y="1333" width="672" height="685" key="search.everywhere.popup/0.1080.1920.1080/0.0.1920.1080@0.1080.1920.1080" timestamp="1648309600255" />
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="watch">
+      <expression>
+        <expression-string>identity</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>! (version.getNamespace().equals(streamReader.getNamespaceURI()))</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>realmIterator.next()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>Paths.get(String.format(&quot;%s.sh&quot;, fileSystemRealmName)).toFile().exists()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>Paths.get(String.format(&quot;%s.sh&quot;, fileSystemRealmName)).toFile()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>Paths.get(String.format(&quot;%s.sh&quot;, fileSystemRealmName))</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>Files.exists(inputPath)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>Base64.encodeToString(key.getEncoded())</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>key.getEncoded()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>Base64.decode(key.getEncoded())</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>temp=original</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>original == descriptors.get(0)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>original == descriptors[0]</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>original</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>descriptors</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>descriptor.getSecretKeyAlias() == null</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>descriptor</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>getRootPath(false)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>ELYTRON_PASSWORD_PROVIDERS</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>cmdLine.getOptionValue('a')</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>cmdLine</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>Base64.encodeToString(key.getEncoded())</expression-string>
+        <language-id>JAVA</language-id>
+        <custom-info>org.xipki.common.util.Base64</custom-info>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>Base64.encodeToString(key.getEncoded(), Base64)</expression-string>
+        <language-id>JAVA</language-id>
+        <custom-info>org.xipki.common.util.Base64</custom-info>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>Base64.encodeToString(key.getEncoded(), Base64.NO_WRAP)</expression-string>
+        <language-id>JAVA</language-id>
+        <custom-info>org.xipki.common.util.Base64</custom-info>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>key</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>thrownByTest</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>var13</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>(&quot;ELY13005: Filesystem-backed realm unable to decrypt identity.&quot;.equals(e.getCause().getMessage().toString()))</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>Assert.assertTrue(&quot;ELY13005: Filesystem-backed realm unable to decrypt identity.&quot;.equals(e.getCause().getMessage().toString()))</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>Assert.assertSame(&quot;ELY13005: Filesystem-backed realm unable to decrypt identity.&quot;, e.getCause().getMessage().toString())</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>e.getCause().getMessage()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>e.getCause()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>e</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>loadedState.getAccounts().get(&quot;ASHPAN&quot;)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>loadedState.getAccounts()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>searchTerm.length()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>System.getProperty(&quot;user.dir&quot;)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>oldText.indexOf(&quot;\n&quot;, 0)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>oldText.indexOf(&quot;\\n&quot;, 0)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>oldText.indexOf(&quot;plainuser-OBWGC2LOKVZWK4Q.xml&quot;)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>oldText.indexOf(&quot;plainuser2-OBWGC2LOKVZWK4Q.xml&quot;)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>oldText.toString().replaceFirst(&quot;b8$&quot;, &quot;&quot;)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>oldText.toString().replaceFirst(&quot;(b8$)&quot;, &quot;&quot;)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>oldText.toString().replaceFirst(&quot;pla*.(b8$)&quot;, &quot;&quot;)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>oldText.toString().replaceFirst(&quot;pla*.(b8)$&quot;, &quot;&quot;)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>oldText.toString().replaceFirst(&quot;pla*.b8$&quot;, &quot;&quot;)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>oldText.toString().replaceFirst(&quot;pla*.(b8)&quot;, &quot;&quot;)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>oldText.toString().replaceFirst(&quot;pla*.b8&quot;, &quot;&quot;)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>oldText.toString().replaceFirst(&quot;pla*.n&quot;, &quot;&quot;)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>oldText.toString().replaceFirst(&quot;pla*.\\\\n&quot;, &quot;&quot;)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>oldText.toString().replaceFirst(&quot;p*.\\\\n&quot;, &quot;&quot;)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/tool/src/test/resources/filesystem-encrypt/fs-unencrypted-realms/single-user/h/e/hello.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="3" column="68" selection-start-line="3" selection-start-column="52" selection-end-line="3" selection-end-column="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/xipki/tk/common/3.0.0/common-3.0.0.jar!/org/xipki/common/util/Base64.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/base/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="178">
+          <caret line="763" column="40" selection-start-line="763" selection-start-column="35" selection-end-line="763" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/encryption/src/main/java/org/wildfly/security/encryption/SecretKeyUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="989">
+          <caret line="81" column="21" selection-start-line="81" selection-start-column="21" selection-end-line="81" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/base/src/test/java/org/wildfly/security/auth/server/ServerUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="35" column="65" selection-start-line="35" selection-start-column="39" selection-end-line="35" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tool/target/test-classes/filesystem-encrypt/mycredstore.cs">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tool/target/test-classes/filesystem-encrypt/fs-encrypted-realms/single-user-with-key.sh" />
+    <entry file="file://$PROJECT_DIR$/tool/target/test-classes/filesystem-encrypt/fs-encrypted-realms/mycredstore.cs" />
+    <entry file="file://$PROJECT_DIR$/ssl/src/main/java/org/wildfly/security/ssl/ElytronMessages.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="784">
+          <caret line="53" column="10" selection-start-line="53" selection-start-column="10" selection-end-line="53" selection-end-column="10" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/base/target/test-classes/filesystem-realm/exists/credstore.cs" />
+    <entry file="file://$PROJECT_DIR$/credential/store/src/main/java/org/wildfly/security/credential/store/CredentialStore.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="42" column="19" selection-start-line="42" selection-start-column="19" selection-end-line="42" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tool/src/test/resources/filesystem-encrypt/mycredstore.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/credential/store/src/main/java/org/wildfly/security/credential/store/impl/PropertiesCredentialStore.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1166">
+          <caret line="103" column="62" selection-start-line="103" selection-start-column="62" selection-end-line="103" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tool/src/main/java/org/wildfly/security/tool/FileSystemRealmCommand.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="345" column="22" selection-start-line="345" selection-start-column="18" selection-end-line="345" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tool/src/main/java/org/wildfly/security/tool/MaskCommand.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="75" column="28" selection-start-line="75" selection-start-column="12" selection-end-line="75" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tool/target/generated-sources/annotations/org/wildfly/security/tool/ElytronToolMessages_$logger.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="26" column="7" selection-start-line="26" selection-start-column="7" selection-end-line="26" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jrt:///usr/lib/jvm/java-11-openjdk!/java.base/java/util/List.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="148">
+          <caret line="25" column="12" selection-start-line="25" selection-start-column="12" selection-end-line="25" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tool/src/test/resources/bulk-vault-conversion-no-location">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tool/target/test-classes/bulk-encryption-conversion-desc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="290">
+          <caret line="20" column="88" lean-forward="true" selection-start-line="20" selection-start-column="88" selection-end-line="20" selection-end-column="88" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jrt:///usr/lib/jvm/java-11-openjdk!/java.base/java/nio/file/Paths.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+          <folding>
+            <element signature="e#308#309#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ssl/target/generated-sources/annotations/org/wildfly/security/ssl/ElytronMessages_$logger.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" column="12" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/base/src/test/resources/filesystem-realm-exists/O/OBWGC2LOKVZWK4Q.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tool/src/test/resources/filesystem-encrypt/test/input/h/e/hello.xml" />
+    <entry file="file://$PROJECT_DIR$/tool/src/main/java/org/wildfly/security/tool/Command.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="199">
+          <caret line="52" column="29" lean-forward="true" selection-start-line="52" selection-start-column="29" selection-end-line="52" selection-end-column="29" />
+          <folding>
+            <element signature="e#2279#2280#0" expanded="true" />
+            <element signature="e#2308#2309#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jrt:///usr/lib/jvm/java-11-openjdk!/java.base/java/util/stream/ReferencePipeline.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="10714">
+          <caret line="568" selection-start-line="568" selection-end-line="568" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tool/src/test/java/org/wildfly/security/tool/AbstractCommandTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="990">
+          <caret line="90" selection-start-line="90" selection-end-line="90" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tool/src/test/java/org/wildfly/security/tool/FileSystemEncryptRealmCommandTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1958">
+          <caret line="121" selection-start-line="121" selection-end-line="121" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tool/src/main/java/org/wildfly/security/tool/ElytronToolMessages.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4085">
+          <caret line="599" selection-start-line="599" selection-end-line="599" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/base/target/test-classes/filesystem-realm/O/OBWGC2LOKVZWK4Q.xml" />
+    <entry file="file://$PROJECT_DIR$/tool/src/main/java/org/wildfly/security/tool/FileSystemEncryptRealmCommand.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15664">
+          <caret line="794" column="1" selection-start-line="794" selection-start-column="1" selection-end-line="794" selection-end-column="1" />
+          <folding>
+            <element signature="e#8679#8680#0" expanded="true" />
+            <element signature="e#8722#8723#0" expanded="true" />
+            <element signature="e#8784#8785#0" expanded="true" />
+            <element signature="e#8840#8841#0" expanded="true" />
+            <element signature="e#8878#8879#0" expanded="true" />
+            <element signature="e#8915#8916#0" expanded="true" />
+            <element signature="e#8964#8965#0" expanded="true" />
+            <element signature="e#9008#9009#0" expanded="true" />
+            <element signature="e#9057#9058#0" expanded="true" />
+            <element signature="e#9106#9107#0" expanded="true" />
+            <element signature="e#9178#9179#0" expanded="true" />
+            <element signature="e#9246#9247#0" expanded="true" />
+            <element signature="e#9296#9297#0" expanded="true" />
+            <element signature="e#9346#9347#0" expanded="true" />
+            <element signature="e#9540#9541#0" expanded="true" />
+            <element signature="e#9590#9591#0" expanded="true" />
+            <element signature="e#9773#9774#0" expanded="true" />
+            <element signature="e#9811#9812#0" expanded="true" />
+            <element signature="e#9862#9863#0" expanded="true" />
+            <element signature="e#9908#9909#0" expanded="true" />
+            <element signature="e#9947#9948#0" expanded="true" />
+            <element signature="e#9998#9999#0" expanded="true" />
+            <element signature="e#10057#10058#0" expanded="true" />
+            <element signature="e#10119#10120#0" expanded="true" />
+            <element signature="e#10165#10166#0" expanded="true" />
+            <element signature="e#10222#10223#0" expanded="true" />
+            <element signature="e#10406#10407#0" expanded="true" />
+            <element signature="e#10456#10457#0" expanded="true" />
+            <element signature="e#10513#10514#0" expanded="true" />
+            <element signature="e#10573#10574#0" expanded="true" />
+            <element signature="e#10606#10607#0" expanded="true" />
+            <element signature="e#10650#10651#0" expanded="true" />
+            <element signature="e#10696#10697#0" expanded="true" />
+            <element signature="e#10744#10745#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/auth/realm/base/src/main/java/org/wildfly/security/auth/realm/FileSystemSecurityRealmBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3234">
+          <caret line="180" selection-start-line="180" selection-end-line="180" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/auth/server/base/src/main/java/org/wildfly/security/auth/server/ModifiableRealmIdentity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="37" column="17" selection-start-line="37" selection-start-column="17" selection-end-line="37" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/encryption/src/main/java/org/wildfly/security/encryption/CipherUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1144">
+          <caret line="83" column="5" selection-start-line="83" selection-start-column="5" selection-end-line="83" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jrt:///usr/lib/jvm/jre-11!/java.base/java/lang/Object.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="29" column="18" selection-start-line="29" selection-start-column="18" selection-end-line="29" selection-end-column="18" />
+          <folding>
+            <element signature="e#657#658#0" expanded="true" />
+            <element signature="e#750#751#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/auth/server/base/src/main/java/org/wildfly/security/auth/server/RealmIdentity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="241" column="17" selection-start-line="241" selection-start-column="17" selection-end-line="241" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/base/target/test-classes/filesystem-realm/p/plainUser.xml" />
+    <entry file="file://$PROJECT_DIR$/tests/base/target/test-classes/filesystem-realm/main_index" />
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22660">
+          <caret line="1030" selection-start-line="1030" selection-end-line="1034" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/auth/server/base/src/main/java/org/wildfly/security/auth/server/SecurityIdentity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="303" selection-start-line="303" selection-end-line="303" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/auth/realm/base/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1914">
+          <caret line="87" column="20" selection-start-line="87" selection-start-column="20" selection-end-line="90" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jrt:///usr/lib/jvm/jre-11!/java.base/java/util/Iterator.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="12" column="6" selection-start-line="12" selection-start-column="6" selection-end-line="12" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/auth/server/base/src/main/java/org/wildfly/security/auth/server/ModifiableRealmIdentityIterator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="638">
+          <caret line="47" column="46" lean-forward="true" selection-start-line="47" selection-start-column="46" selection-end-line="47" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/auth/base/src/main/java/org/wildfly/security/auth/principal/NamePrincipal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="792">
+          <caret line="55" selection-start-line="55" selection-end-line="55" />
+          <folding>
+            <element signature="e#1590#1591#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/base/src/test/java/org/wildfly/security/auth/FileSystemSecurityRealmTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27522">
+          <caret line="1346" column="31" selection-start-line="1346" selection-start-column="31" selection-end-line="1346" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/auth/server/base/src/main/java/org/wildfly/security/auth/server/ServerAuthenticationContext.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="24112">
+          <caret line="1196" column="117" selection-start-line="1196" selection-start-column="117" selection-end-line="1196" selection-end-column="117" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/auth/realm/base/src/main/java/org/wildfly/security/auth/realm/ElytronMessages.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2640">
+          <caret line="155" column="86" selection-start-line="155" selection-start-column="34" selection-end-line="155" selection-end-column="86" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/auth/realm/base/src/main/java/org/wildfly/security/auth/realm/FileSystemRealmUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="572">
+          <caret line="49" selection-start-line="49" selection-end-line="60" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/jmockit/jmockit/1.34/jmockit-1.34-sources.jar!/mockit/integration/junit4/internal/JUnit4TestRunnerDecorator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3256">
+          <caret line="161" selection-start-line="161" selection-end-line="161" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tool/src/test/resources/bulk-encryption-conversion-desc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="550">
+          <caret line="25" column="11" selection-start-line="25" selection-start-column="11" selection-end-line="25" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tool/src/test/resources/bulk-encryption-conversion-desc-INVALID">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/auth/realm/base/src/main/java/org/wildfly/security/auth/realm/FileSystemSecurityRealm.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="587">
+          <caret line="680" column="77" lean-forward="true" selection-start-line="680" selection-start-column="77" selection-end-line="680" selection-end-column="77" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#78523#78531#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI" />
+      <state key="GlobalLibrariesConfigurable.UI" />
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>java-11-rolling</last-edited>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>wildfly-elytron-tool</last-edited>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI" />
+    </states>
+  </component>
+</project>

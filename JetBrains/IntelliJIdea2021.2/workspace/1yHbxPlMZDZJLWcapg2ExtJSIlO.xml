@@ -1,0 +1,226 @@
+<project version="4">
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="-1">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/org/wildfly/extension/elytron/oidc/OidcTestCase.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="163">
+              <caret line="99" column="66" selection-start-line="99" selection-start-column="66" selection-end-line="99" selection-end-column="66" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/org/wildfly/extension/elytron/oidc/OidcConfigService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="370">
+              <caret line="272" selection-start-line="272" selection-end-line="272" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/resources/org/wildfly/extension/elytron/oidc/oidc.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="418">
+              <caret line="143" column="31" selection-start-line="143" selection-start-column="31" selection-end-line="143" selection-end-column="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/org/wildfly/extension/elytron/oidc/Subsystem_1_0_ParsingTestCase.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="352">
+              <caret line="37" column="36" selection-start-line="37" selection-start-column="21" selection-end-line="37" selection-end-column="36" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/resources/org/wildfly/extension/elytron/oidc/subsystem_1_0.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1034">
+              <caret line="47" column="45" selection-start-line="47" selection-start-column="45" selection-end-line="47" selection-end-column="45" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>getSubsystemXml</find>
+      <find>myAppWithSecret</find>
+      <find>secret</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/src/main/java/org/wildfly/extension/elytron/oidc/OidcConfigService.java" />
+      <option value="$PROJECT_DIR$/src/test/java/org/wildfly/extension/elytron/oidc/OidcTestCase.java" />
+      <option value="$PROJECT_DIR$/src/test/resources/org/wildfly/extension/elytron/oidc/oidc.xml" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane" />
+    </panes>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="6060000" />
+  </component>
+  <component name="ToolWindowManager">
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.3252604" />
+      <window_info id="Structure" order="1" side_tool="true" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info id="Commit" order="3" />
+      <window_info id="Learn" order="4" />
+      <window_info id="Pull Requests" order="5" />
+      <window_info id="Space Code Reviews" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="2" />
+      <window_info anchor="bottom" id="Run" order="3" />
+      <window_info anchor="bottom" id="Debug" order="4" weight="0.35404038" />
+      <window_info anchor="bottom" id="TODO" order="5" />
+      <window_info anchor="bottom" id="Problems View" order="6" />
+      <window_info anchor="bottom" id="Profiler" order="7" />
+      <window_info anchor="bottom" id="Inspection" order="8" weight="0.4" />
+      <window_info anchor="bottom" id="File Transfer" order="9" />
+      <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Internal Method Tracing" order="11" />
+      <window_info anchor="bottom" id="Terminal" order="12" />
+      <window_info anchor="bottom" id="Endpoints" order="13" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Build" order="14" />
+      <window_info anchor="bottom" id="Dependencies" order="15" />
+      <window_info anchor="bottom" id="Services" order="16" show_stripe_button="false" />
+      <window_info anchor="right" id="Database" order="0" />
+      <window_info anchor="right" id="Space Automation" order="1" />
+      <window_info anchor="right" id="Maven" order="2" />
+      <window_info anchor="right" id="Layout Validation" order="3" />
+    </layout>
+    <recentWindows>
+      <value>Project</value>
+      <value>Debug</value>
+    </recentWindows>
+  </component>
+  <component name="Trusted.Project.Settings" hasCheckedIfOldProject="true" trusted="YES" />
+  <component name="WindowStateProjectService">
+    <state x="2787" y="202" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1631977046570">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2787" y="202" key="#com.intellij.execution.impl.EditConfigurationsDialog/1920.0.1920.1080/0.28.1920.1026@1920.0.1920.1080" timestamp="1631977046570" />
+    <state x="2630" y="299" key="FileChooserDialogImpl" timestamp="1632144350762">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2630" y="299" key="FileChooserDialogImpl/1920.0.1920.1080/0.28.1920.1026@1920.0.1920.1080" timestamp="1632144350762" />
+    <state width="1874" height="322" key="GridCell.Tab.0.bottom" timestamp="1631979639721">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="322" key="GridCell.Tab.0.bottom/1920.0.1920.1080/0.28.1920.1026@1920.0.1920.1080" timestamp="1631979639721" />
+    <state width="1874" height="322" key="GridCell.Tab.0.center" timestamp="1631979639721">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="322" key="GridCell.Tab.0.center/1920.0.1920.1080/0.28.1920.1026@1920.0.1920.1080" timestamp="1631979639721" />
+    <state width="1874" height="322" key="GridCell.Tab.0.left" timestamp="1631979639721">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="322" key="GridCell.Tab.0.left/1920.0.1920.1080/0.28.1920.1026@1920.0.1920.1080" timestamp="1631979639721" />
+    <state width="1874" height="322" key="GridCell.Tab.0.right" timestamp="1631979639721">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="322" key="GridCell.Tab.0.right/1920.0.1920.1080/0.28.1920.1026@1920.0.1920.1080" timestamp="1631979639721" />
+    <state width="1874" height="322" key="GridCell.Tab.1.bottom" timestamp="1631979639722">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="322" key="GridCell.Tab.1.bottom/1920.0.1920.1080/0.28.1920.1026@1920.0.1920.1080" timestamp="1631979639722" />
+    <state width="1874" height="322" key="GridCell.Tab.1.center" timestamp="1631979639722">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="322" key="GridCell.Tab.1.center/1920.0.1920.1080/0.28.1920.1026@1920.0.1920.1080" timestamp="1631979639722" />
+    <state width="1874" height="322" key="GridCell.Tab.1.left" timestamp="1631979639722">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="322" key="GridCell.Tab.1.left/1920.0.1920.1080/0.28.1920.1026@1920.0.1920.1080" timestamp="1631979639722" />
+    <state width="1874" height="322" key="GridCell.Tab.1.right" timestamp="1631979639722">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="322" key="GridCell.Tab.1.right/1920.0.1920.1080/0.28.1920.1026@1920.0.1920.1080" timestamp="1631979639722" />
+    <state x="2429" y="250" width="892" height="587" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1631977872066">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2429" y="250" width="892" height="587" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/1920.0.1920.1080/0.28.1920.1026@1920.0.1920.1080" timestamp="1631977872066" />
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="breakpointCondition">
+      <expression>
+        <expression-string>if(name.equals(&quot;credential&quot;));</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>if(name.equals(&quot;credentials&quot;))</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/resources/subsystem-templates/elytron-oidc-client.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/org/wildfly/extension/elytron/oidc/Subsystem_1_0_ParsingTestCase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="37" column="36" selection-start-line="37" selection-start-column="21" selection-end-line="37" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/resources/org/wildfly/extension/elytron/oidc/subsystem_1_0.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1034">
+          <caret line="47" column="45" selection-start-line="47" selection-start-column="45" selection-end-line="47" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/wildfly/extension/elytron/oidc/OidcConfigService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="370">
+          <caret line="272" selection-start-line="272" selection-end-line="272" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/resources/org/wildfly/extension/elytron/oidc/oidc.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="143" column="31" selection-start-line="143" selection-start-column="31" selection-end-line="143" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/org/wildfly/extension/elytron/oidc/OidcTestCase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="163">
+          <caret line="99" column="66" lean-forward="true" selection-start-line="99" selection-start-column="66" selection-end-line="99" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

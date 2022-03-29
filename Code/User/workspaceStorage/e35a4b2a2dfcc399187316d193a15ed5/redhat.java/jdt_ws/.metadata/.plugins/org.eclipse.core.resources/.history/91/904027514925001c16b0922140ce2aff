@@ -1,0 +1,69 @@
+package org.wildfly.security.jose.jwk;
+
+import java.util.Locale;
+import java.io.Serializable;
+import javax.annotation.Generated;
+import java.lang.RuntimeException;
+import org.jboss.logging.DelegatingBasicLogger;
+import org.jboss.logging.BasicLogger;
+import java.lang.String;
+import org.jboss.logging.Logger;
+import java.util.Arrays;
+import java.lang.IllegalArgumentException;
+import java.lang.Exception;
+
+/**
+ * Warning this class consists of generated code.
+ */
+@Generated(value = "org.jboss.logging.processor.generator.model.MessageLoggerImplementor", date = "2021-10-04T11:38:35-0400")
+public class ElytronMessages_$logger extends DelegatingBasicLogger implements ElytronMessages, BasicLogger, Serializable {
+    private static final long serialVersionUID = 1L;
+    private static final String FQCN = ElytronMessages_$logger.class.getName();
+    public ElytronMessages_$logger(final Logger log) {
+        super(log);
+    }
+    private static final Locale LOCALE = Locale.ROOT;
+    protected Locale getLoggingLocale() {
+        return LOCALE;
+    }
+    protected String unableToParseStringJWK$str() {
+        return "ELY24000: Unable to parse string JWK";
+    }
+    @Override
+    public final IllegalArgumentException unableToParseStringJWK(final Exception cause) {
+        final IllegalArgumentException result = new IllegalArgumentException(String.format(getLoggingLocale(), unableToParseStringJWK$str()), cause);
+        _copyStackTraceMinusOne(result);
+        return result;
+    }
+    private static void _copyStackTraceMinusOne(final Throwable e) {
+        final StackTraceElement[] st = e.getStackTrace();
+        e.setStackTrace(Arrays.copyOfRange(st, 1, st.length));
+    }
+    protected String unsupportedKeyTypeForJWK$str() {
+        return "ELY24001: Unsupported key type for JWK: \"%s\"";
+    }
+    @Override
+    public final IllegalArgumentException unsupportedKeyTypeForJWK(final String keyType) {
+        final IllegalArgumentException result = new IllegalArgumentException(String.format(getLoggingLocale(), unsupportedKeyTypeForJWK$str(), keyType));
+        _copyStackTraceMinusOne(result);
+        return result;
+    }
+    protected String unsupportedCurve$str() {
+        return "ELY24002: Unsupported curve";
+    }
+    @Override
+    public final IllegalArgumentException unsupportedCurve() {
+        final IllegalArgumentException result = new IllegalArgumentException(String.format(getLoggingLocale(), unsupportedCurve$str()));
+        _copyStackTraceMinusOne(result);
+        return result;
+    }
+    protected String unableToCreatePublicKeyFromJWK$str() {
+        return "ELY24003: Unable to create public key from JWK";
+    }
+    @Override
+    public final RuntimeException unableToCreatePublicKeyFromJWK(final Exception cause) {
+        final RuntimeException result = new RuntimeException(String.format(getLoggingLocale(), unableToCreatePublicKeyFromJWK$str()), cause);
+        _copyStackTraceMinusOne(result);
+        return result;
+    }
+}

@@ -1,0 +1,382 @@
+[
+	{
+		"name": "TEXT",
+		"value": "Preparing request to https://d3kdp9dqujs00k.cloudfront.net/Team1325_Sandbox/ashpan/create/session",
+		"timestamp": 1645628348724
+	},
+	{
+		"name": "TEXT",
+		"value": "Current time is 2022-02-23T14:59:08.724Z",
+		"timestamp": 1645628348724
+	},
+	{
+		"name": "TEXT",
+		"value": "Using libcurl/7.73.0 OpenSSL/1.1.1l zlib/1.2.11 brotli/1.0.9 zstd/1.5.2 libidn2/2.3.2 libssh2/1.9.0 nghttp2/1.42.0",
+		"timestamp": 1645628348724
+	},
+	{
+		"name": "TEXT",
+		"value": "Using default HTTP version",
+		"timestamp": 1645628348724
+	},
+	{
+		"name": "TEXT",
+		"value": "Disable timeout",
+		"timestamp": 1645628348724
+	},
+	{
+		"name": "TEXT",
+		"value": "Enable automatic URL encoding",
+		"timestamp": 1645628348724
+	},
+	{
+		"name": "TEXT",
+		"value": "Enable SSL validation",
+		"timestamp": 1645628348724
+	},
+	{
+		"name": "TEXT",
+		"value": "Enable cookie sending with jar of 0 cookies",
+		"timestamp": 1645628348725
+	},
+	{
+		"name": "TEXT",
+		"value": "  Trying 13.226.140.69:443...\n",
+		"timestamp": 1645628348769
+	},
+	{
+		"name": "TEXT",
+		"value": "Connected to d3kdp9dqujs00k.cloudfront.net (13.226.140.69) port 443 (#2)\n",
+		"timestamp": 1645628348782
+	},
+	{
+		"name": "TEXT",
+		"value": "ALPN, offering h2\n",
+		"timestamp": 1645628348782
+	},
+	{
+		"name": "TEXT",
+		"value": "ALPN, offering http/1.1\n",
+		"timestamp": 1645628348782
+	},
+	{
+		"name": "TEXT",
+		"value": "successfully set certificate verify locations:\n",
+		"timestamp": 1645628348790
+	},
+	{
+		"name": "TEXT",
+		"value": " CAfile: /tmp/insomnia_2021.7.2/ca-certs.pem\n",
+		"timestamp": 1645628348790
+	},
+	{
+		"name": "TEXT",
+		"value": " CApath: none\n",
+		"timestamp": 1645628348790
+	},
+	{
+		"name": "TEXT",
+		"value": "TLSv1.3 (OUT), TLS handshake, Client hello (1):\n",
+		"timestamp": 1645628348790
+	},
+	{
+		"name": "TEXT",
+		"value": "TLSv1.3 (IN), TLS handshake, Server hello (2):\n",
+		"timestamp": 1645628348804
+	},
+	{
+		"name": "TEXT",
+		"value": "TLSv1.3 (IN), TLS handshake, Encrypted Extensions (8):\n",
+		"timestamp": 1645628348805
+	},
+	{
+		"name": "TEXT",
+		"value": "TLSv1.3 (IN), TLS handshake, Certificate (11):\n",
+		"timestamp": 1645628348806
+	},
+	{
+		"name": "TEXT",
+		"value": "TLSv1.3 (IN), TLS handshake, CERT verify (15):\n",
+		"timestamp": 1645628348807
+	},
+	{
+		"name": "TEXT",
+		"value": "TLSv1.3 (IN), TLS handshake, Finished (20):\n",
+		"timestamp": 1645628348807
+	},
+	{
+		"name": "TEXT",
+		"value": "TLSv1.3 (OUT), TLS change cipher, Change cipher spec (1):\n",
+		"timestamp": 1645628348807
+	},
+	{
+		"name": "TEXT",
+		"value": "TLSv1.3 (OUT), TLS handshake, Finished (20):\n",
+		"timestamp": 1645628348807
+	},
+	{
+		"name": "TEXT",
+		"value": "SSL connection using TLSv1.3 / TLS_AES_128_GCM_SHA256\n",
+		"timestamp": 1645628348807
+	},
+	{
+		"name": "TEXT",
+		"value": "ALPN, server accepted to use h2\n",
+		"timestamp": 1645628348807
+	},
+	{
+		"name": "TEXT",
+		"value": "Server certificate:\n",
+		"timestamp": 1645628348807
+	},
+	{
+		"name": "TEXT",
+		"value": " subject: CN=*.cloudfront.net\n",
+		"timestamp": 1645628348807
+	},
+	{
+		"name": "TEXT",
+		"value": " start date: Mar 19 00:00:00 2021 GMT\n",
+		"timestamp": 1645628348807
+	},
+	{
+		"name": "TEXT",
+		"value": " expire date: Mar 17 23:59:59 2022 GMT\n",
+		"timestamp": 1645628348807
+	},
+	{
+		"name": "TEXT",
+		"value": " subjectAltName: host \"d3kdp9dqujs00k.cloudfront.net\" matched cert's \"*.cloudfront.net\"\n",
+		"timestamp": 1645628348807
+	},
+	{
+		"name": "TEXT",
+		"value": " issuer: C=US; O=Amazon; OU=Server CA 1B; CN=Amazon\n",
+		"timestamp": 1645628348807
+	},
+	{
+		"name": "TEXT",
+		"value": " SSL certificate verify ok.\n",
+		"timestamp": 1645628348807
+	},
+	{
+		"name": "TEXT",
+		"value": "Using HTTP2, server supports multi-use\n",
+		"timestamp": 1645628348807
+	},
+	{
+		"name": "TEXT",
+		"value": "Connection state changed (HTTP/2 confirmed)\n",
+		"timestamp": 1645628348807
+	},
+	{
+		"name": "TEXT",
+		"value": "Copying HTTP/2 data in stream buffer to connection buffer after upgrade: len=0\n",
+		"timestamp": 1645628348807
+	},
+	{
+		"name": "TEXT",
+		"value": "Using Stream ID: 1 (easy handle 0x62ed40b4000)\n",
+		"timestamp": 1645628348807
+	},
+	{
+		"name": "HEADER_OUT",
+		"value": "POST /Team1325_Sandbox/ashpan/create/session HTTP/2\r\nHost: d3kdp9dqujs00k.cloudfront.net\r\nuser-agent: insomnia/2021.7.2\r\ncontent-type: application/json\r\naccept: */*\r\ncontent-length: 51\r\n\r\n",
+		"timestamp": 1645628348807
+	},
+	{
+		"name": "DATA_OUT",
+		"value": "{\n\t\"password\": \"8c9e015517f25a0d709ce1a3142671e1\"\n}",
+		"timestamp": 1645628348807
+	},
+	{
+		"name": "TEXT",
+		"value": "We are completely uploaded and fine\n",
+		"timestamp": 1645628348808
+	},
+	{
+		"name": "TEXT",
+		"value": "Connection state changed (MAX_CONCURRENT_STREAMS == 128)!\n",
+		"timestamp": 1645628348829
+	},
+	{
+		"name": "HEADER_IN",
+		"value": "HTTP/2 308 \r\n",
+		"timestamp": 1645628348846
+	},
+	{
+		"name": "HEADER_IN",
+		"value": "content-type: text/html; charset=utf-8\r\n",
+		"timestamp": 1645628348846
+	},
+	{
+		"name": "HEADER_IN",
+		"value": "content-length: 358\r\n",
+		"timestamp": 1645628348846
+	},
+	{
+		"name": "HEADER_IN",
+		"value": "location: http://d3kdp9dqujs00k.cloudfront.net/Team1325_Sandbox/ashpan/create/session/\r\n",
+		"timestamp": 1645628348846
+	},
+	{
+		"name": "HEADER_IN",
+		"value": "date: Wed, 23 Feb 2022 14:59:08 GMT\r\n",
+		"timestamp": 1645628348846
+	},
+	{
+		"name": "HEADER_IN",
+		"value": "server: nginx/1.18.0\r\n",
+		"timestamp": 1645628348846
+	},
+	{
+		"name": "HEADER_IN",
+		"value": "access-control-allow-origin: *\r\n",
+		"timestamp": 1645628348846
+	},
+	{
+		"name": "HEADER_IN",
+		"value": "x-cache: Miss from cloudfront\r\n",
+		"timestamp": 1645628348846
+	},
+	{
+		"name": "HEADER_IN",
+		"value": "via: 1.1 7e0f00253118236873554f5fc0d07dac.cloudfront.net (CloudFront)\r\n",
+		"timestamp": 1645628348846
+	},
+	{
+		"name": "HEADER_IN",
+		"value": "x-amz-cf-pop: YTO50-C2\r\n",
+		"timestamp": 1645628348846
+	},
+	{
+		"name": "HEADER_IN",
+		"value": "x-amz-cf-id: SK9RbK6ijnhrx8wFMXwcmo66xki2th5ACIgfNXZ0qoS80zF4QhcFlw==\r\n",
+		"timestamp": 1645628348846
+	},
+	{
+		"name": "HEADER_IN",
+		"value": "\r\n",
+		"timestamp": 1645628348846
+	},
+	{
+		"name": "TEXT",
+		"value": "Ignoring the response-body\n",
+		"timestamp": 1645628348846
+	},
+	{
+		"name": "TEXT",
+		"value": "Received 358 B chunk",
+		"timestamp": 1645628348846
+	},
+	{
+		"name": "TEXT",
+		"value": "Connection #2 to host d3kdp9dqujs00k.cloudfront.net left intact\n",
+		"timestamp": 1645628348846
+	},
+	{
+		"name": "TEXT",
+		"value": "Issue another request to this URL: 'http://d3kdp9dqujs00k.cloudfront.net/Team1325_Sandbox/ashpan/create/session/'\n",
+		"timestamp": 1645628348846
+	},
+	{
+		"name": "TEXT",
+		"value": "  Trying 13.226.140.135:80...\n",
+		"timestamp": 1645628348847
+	},
+	{
+		"name": "TEXT",
+		"value": "Connected to d3kdp9dqujs00k.cloudfront.net (13.226.140.135) port 80 (#3)\n",
+		"timestamp": 1645628348861
+	},
+	{
+		"name": "HEADER_OUT",
+		"value": "POST /Team1325_Sandbox/ashpan/create/session/ HTTP/1.1\r\nHost: d3kdp9dqujs00k.cloudfront.net\r\nUser-Agent: insomnia/2021.7.2\r\nContent-Type: application/json\r\nAccept: */*\r\nContent-Length: 51\r\n\r\n",
+		"timestamp": 1645628348861
+	},
+	{
+		"name": "DATA_OUT",
+		"value": "{\n\t\"password\": \"8c9e015517f25a0d709ce1a3142671e1\"\n}",
+		"timestamp": 1645628348861
+	},
+	{
+		"name": "TEXT",
+		"value": "upload completely sent off: 51 out of 51 bytes\n",
+		"timestamp": 1645628348861
+	},
+	{
+		"name": "TEXT",
+		"value": "Mark bundle as not supporting multiuse\n",
+		"timestamp": 1645628348939
+	},
+	{
+		"name": "HEADER_IN",
+		"value": "HTTP/1.1 401 UNAUTHORIZED\r\n",
+		"timestamp": 1645628348939
+	},
+	{
+		"name": "HEADER_IN",
+		"value": "Content-Type: application/json\r\n",
+		"timestamp": 1645628348939
+	},
+	{
+		"name": "HEADER_IN",
+		"value": "Content-Length: 81\r\n",
+		"timestamp": 1645628348939
+	},
+	{
+		"name": "HEADER_IN",
+		"value": "Connection: keep-alive\r\n",
+		"timestamp": 1645628348939
+	},
+	{
+		"name": "HEADER_IN",
+		"value": "Date: Wed, 23 Feb 2022 14:59:08 GMT\r\n",
+		"timestamp": 1645628348939
+	},
+	{
+		"name": "HEADER_IN",
+		"value": "Server: nginx/1.18.0\r\n",
+		"timestamp": 1645628348939
+	},
+	{
+		"name": "HEADER_IN",
+		"value": "Access-Control-Allow-Origin: *\r\n",
+		"timestamp": 1645628348939
+	},
+	{
+		"name": "HEADER_IN",
+		"value": "X-Cache: Error from cloudfront\r\n",
+		"timestamp": 1645628348939
+	},
+	{
+		"name": "HEADER_IN",
+		"value": "Via: 1.1 54e8a928d4ffe02880135257527ad126.cloudfront.net (CloudFront)\r\n",
+		"timestamp": 1645628348939
+	},
+	{
+		"name": "HEADER_IN",
+		"value": "X-Amz-Cf-Pop: YTO50-C2\r\n",
+		"timestamp": 1645628348939
+	},
+	{
+		"name": "HEADER_IN",
+		"value": "X-Amz-Cf-Id: 5ekpwyXH2Y8SXdT45FPeWvLVPNRxBp-pD4j4ibMj0WTMmA4H-3S3ow==\r\n",
+		"timestamp": 1645628348939
+	},
+	{
+		"name": "HEADER_IN",
+		"value": "\r\n",
+		"timestamp": 1645628348940
+	},
+	{
+		"name": "TEXT",
+		"value": "Received 81 B chunk",
+		"timestamp": 1645628348940
+	},
+	{
+		"name": "TEXT",
+		"value": "Connection #3 to host d3kdp9dqujs00k.cloudfront.net left intact\n",
+		"timestamp": 1645628348940
+	}
+]

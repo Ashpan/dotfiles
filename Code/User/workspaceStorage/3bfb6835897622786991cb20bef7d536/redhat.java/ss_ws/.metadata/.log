@@ -1,0 +1,2076 @@
+!SESSION 2021-10-08 15:39:10.072 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=11.0.12
+java.vendor=Red Hat, Inc.
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_CA
+Command-line arguments:  -data /home/ashpan/.config/Code/User/workspaceStorage/3bfb6835897622786991cb20bef7d536/redhat.java/ss_ws
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-08 15:39:10.920
+!MESSAGE class org.eclipse.jdt.ls.core.internal.JavaLanguageServerPlugin is started
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-08 15:39:11.048
+!MESSAGE Main thread is waiting
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-08 15:39:11.082
+!MESSAGE >> initialize
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-08 15:39:11.083
+!MESSAGE Initializing Java Language Server 1.4.0.202109161717
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-08 15:39:11.218
+!MESSAGE Creating the Java project jdt.ls-java-project
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-08 15:39:11.243
+!MESSAGE >> initialized
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-08 15:39:11.266
+!MESSAGE Finished creating the Java project jdt.ls-java-project
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-08 15:39:11.801
+!MESSAGE Workspace initialized in 583ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-08 15:39:11.844
+!MESSAGE >> initialization job finished
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-08 15:39:11.849
+!MESSAGE >> registerFeature 'workspace/didChangeWatchedFiles'
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-08 15:39:11.851
+!MESSAGE >> registerFeature 'workspace/didChangeWatchedFiles'
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-08 15:39:11.853
+!MESSAGE >> workspace/didChangeConfiguration
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-08 15:39:26.523
+!MESSAGE >> document/didOpen
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-08 15:39:26.530
+!MESSAGE Creating the Java project core_65ee5fc0
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-08 15:39:26.569
+!MESSAGE Finished creating the Java project core_65ee5fc0
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-08 15:39:27.987
+!MESSAGE >> registerFeature 'workspace/didChangeWatchedFiles'
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-08 15:39:27.988
+!MESSAGE >> registerFeature 'workspace/didChangeWatchedFiles'
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-08 15:39:28.225
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-08 15:39:28.238
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-08 15:39:28.241
+!MESSAGE >> document/foldingRange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-08 15:39:28.341
+!MESSAGE User abort while collecting the document symbols.
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-08 15:39:28.554
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-08 15:39:29.114
+!MESSAGE Reconciled 1. Took 0 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-08 15:39:29.763
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-08 15:39:29.998
+!MESSAGE begin problem for /FileSystemRealmDefinition.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-08 15:39:29.998
+!MESSAGE 0 problems reported for /FileSystemRealmDefinition.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-08 15:39:30.000
+!MESSAGE Validated 1. Took 485 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-08 15:39:31.130
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-08 15:39:31.631
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-08 15:39:32.494
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-08 15:39:32.693
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-08 15:39:33.177
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-08 15:39:33.392
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-08 15:39:33.583
+!MESSAGE >> document/foldingRange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-08 15:39:33.855
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-08 15:39:34.413
+!MESSAGE begin problem for /FileSystemRealmDefinition.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-08 15:39:34.414
+!MESSAGE 0 problems reported for /FileSystemRealmDefinition.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-08 15:39:34.414
+!MESSAGE Validated 1. Took 109 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-08 15:39:35.550
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-08 15:39:35.556
+!MESSAGE >> document/completion
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-08 15:39:35.620
+!MESSAGE Search engine disabled, searching directly.
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-08 15:39:35.798
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-08 15:39:35.813
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-08 15:39:35.815
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-08 15:39:35.963
+!MESSAGE >> document/foldingRange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-08 15:39:36.070
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-08 15:39:36.268
+!MESSAGE >> document/foldingRange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-08 15:39:36.377
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-08 15:39:36.388
+!MESSAGE >> document/completion
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-08 15:39:36.423
+!MESSAGE Search engine disabled, searching directly.
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-08 15:39:36.485
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-08 15:39:36.547
+!MESSAGE >> document/resolveCompletionItem
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-08 15:39:36.587
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-08 15:39:36.590
+!MESSAGE >> document/resolveCompletionItem
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-08 15:39:36.701
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-08 15:39:36.846
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-08 15:39:37.017
+!MESSAGE >> document/foldingRange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-08 15:39:37.302
+!MESSAGE Reconciled 1. Took 5 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-08 15:39:37.493
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-08 15:39:37.654
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-08 15:39:37.839
+!MESSAGE >> document/foldingRange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-08 15:39:37.864
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-08 15:39:38.048
+!MESSAGE >> document/foldingRange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-08 15:39:38.319
+!MESSAGE Reconciled 1. Took 3 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-08 15:39:38.815
+!MESSAGE begin problem for /FileSystemRealmDefinition.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-08 15:39:38.815
+!MESSAGE 0 problems reported for /FileSystemRealmDefinition.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-08 15:39:38.815
+!MESSAGE Validated 1. Took 95 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-08 15:39:39.024
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-08 15:39:39.221
+!MESSAGE >> document/foldingRange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-08 15:39:39.235
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-08 15:39:39.376
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-08 15:39:39.468
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-08 15:39:39.634
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-08 15:39:39.649
+!MESSAGE >> document/completion
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-08 15:39:39.669
+!MESSAGE Search engine disabled, searching directly.
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-08 15:39:39.722
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-08 15:39:39.726
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-08 15:39:39.747
+!MESSAGE >> document/resolveCompletionItem
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-08 15:39:39.901
+!MESSAGE >> document/foldingRange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-08 15:39:39.998
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-08 15:39:40.182
+!MESSAGE >> document/foldingRange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-08 15:39:40.452
+!MESSAGE Reconciled 1. Took 3 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-08 15:39:40.457
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-08 15:39:40.628
+!MESSAGE >> document/foldingRange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-08 15:39:40.930
+!MESSAGE Reconciled 1. Took 20 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-08 15:39:41.133
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-08 15:39:41.331
+!MESSAGE >> document/foldingRange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-08 15:39:41.366
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-08 15:39:41.534
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-08 15:39:41.732
+!MESSAGE >> document/foldingRange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-08 15:39:41.939
+!MESSAGE Reconciled 1. Took 3 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-08 15:39:42.419
+!MESSAGE begin problem for /FileSystemRealmDefinition.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-08 15:39:42.419
+!MESSAGE 0 problems reported for /FileSystemRealmDefinition.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-08 15:39:42.419
+!MESSAGE Validated 1. Took 79 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-08 15:39:42.819
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-08 15:39:42.845
+!MESSAGE >> document/completion
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-08 15:39:42.865
+!MESSAGE Search engine disabled, searching directly.
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-08 15:39:42.909
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-08 15:39:42.933
+!MESSAGE >> document/resolveCompletionItem
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-08 15:39:42.958
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-08 15:39:42.959
+!MESSAGE >> document/resolveCompletionItem
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-08 15:39:43.062
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-08 15:39:43.169
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-08 15:39:43.347
+!MESSAGE >> document/foldingRange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-08 15:39:43.567
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-08 15:39:43.765
+!MESSAGE >> document/foldingRange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-08 15:39:44.027
+!MESSAGE Reconciled 1. Took 8 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-08 15:39:44.036
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-08 15:39:44.155
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-08 15:39:44.317
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-08 15:39:44.517
+!MESSAGE >> document/foldingRange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-08 15:39:44.775
+!MESSAGE Reconciled 1. Took 5 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-08 15:39:44.952
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-08 15:39:45.073
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-08 15:39:45.267
+!MESSAGE >> document/foldingRange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-08 15:39:45.535
+!MESSAGE Reconciled 1. Took 10 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-08 15:39:46.075
+!MESSAGE begin problem for /FileSystemRealmDefinition.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-08 15:39:46.075
+!MESSAGE 1 problems reported for /FileSystemRealmDefinition.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-08 15:39:46.075
+!MESSAGE Validated 1. Took 90 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-08 15:39:46.148
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-08 15:39:46.159
+!MESSAGE >> document/completion
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-08 15:39:46.174
+!MESSAGE Search engine disabled, searching directly.
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-08 15:39:46.209
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-08 15:39:46.232
+!MESSAGE >> document/resolveCompletionItem
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-08 15:39:46.602
+!MESSAGE Reconciled 1. Took 4 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-08 15:39:46.736
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-08 15:39:46.747
+!MESSAGE >> document/resolveCompletionItem
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-08 15:39:46.916
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-08 15:39:46.918
+!MESSAGE >> document/resolveCompletionItem
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-08 15:39:46.920
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-08 15:39:46.921
+!MESSAGE >> document/resolveCompletionItem
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-08 15:39:47.074
+!MESSAGE >> document/foldingRange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-08 15:39:47.075
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-08 15:39:47.077
+!MESSAGE >> document/foldingRange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-08 15:39:47.096
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-08 15:39:47.295
+!MESSAGE >> document/foldingRange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-08 15:39:47.552
+!MESSAGE Reconciled 1. Took 4 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-08 15:39:47.812
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-08 15:39:47.823
+!MESSAGE >> document/completion
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-08 15:39:47.848
+!MESSAGE Search engine disabled, searching directly.
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-08 15:39:47.863
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-08 15:39:48.010
+!MESSAGE >> document/foldingRange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-08 15:39:48.271
+!MESSAGE Reconciled 1. Took 8 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-08 15:39:48.350
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-08 15:39:48.351
+!MESSAGE >> document/completion
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-08 15:39:48.367
+!MESSAGE Search engine disabled, searching directly.
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-08 15:39:48.379
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-08 15:39:48.390
+!MESSAGE >> document/resolveCompletionItem
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-08 15:39:48.548
+!MESSAGE >> document/foldingRange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-08 15:39:48.582
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-08 15:39:48.584
+!MESSAGE >> document/resolveCompletionItem
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-08 15:39:48.761
+!MESSAGE >> document/foldingRange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-08 15:39:48.813
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-08 15:39:48.995
+!MESSAGE >> document/foldingRange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-08 15:39:49.053
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-08 15:39:49.251
+!MESSAGE >> document/foldingRange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-08 15:39:49.507
+!MESSAGE Reconciled 1. Took 3 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-08 15:39:50.046
+!MESSAGE begin problem for /FileSystemRealmDefinition.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-08 15:39:50.046
+!MESSAGE 1 problems reported for /FileSystemRealmDefinition.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-08 15:39:50.046
+!MESSAGE Validated 1. Took 88 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-08 15:39:51.025
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-08 15:39:51.220
+!MESSAGE >> document/foldingRange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-08 15:39:51.479
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-08 15:39:51.797
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-08 15:39:51.995
+!MESSAGE >> document/foldingRange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-08 15:39:52.204
+!MESSAGE Reconciled 1. Took 5 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-08 15:39:52.380
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-08 15:39:52.578
+!MESSAGE >> document/foldingRange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-08 15:39:52.639
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-08 15:39:52.641
+!MESSAGE >> document/completion
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-08 15:39:52.659
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-08 15:39:52.837
+!MESSAGE >> document/foldingRange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-08 15:39:53.095
+!MESSAGE Reconciled 1. Took 5 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-08 15:39:53.155
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-08 15:39:53.171
+!MESSAGE >> document/completion
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-08 15:39:53.188
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-08 15:39:53.273
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-08 15:39:53.290
+!MESSAGE >> document/completion
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-08 15:39:53.309
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-08 15:39:53.471
+!MESSAGE >> document/foldingRange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-08 15:39:53.730
+!MESSAGE Reconciled 1. Took 5 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-08 15:39:54.185
+!MESSAGE begin problem for /FileSystemRealmDefinition.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-08 15:39:54.185
+!MESSAGE 1 problems reported for /FileSystemRealmDefinition.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-08 15:39:54.185
+!MESSAGE Validated 1. Took 54 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-08 15:39:54.492
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-08 15:39:54.506
+!MESSAGE >> document/completion
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-08 15:39:54.522
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-08 15:39:54.570
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-08 15:39:54.761
+!MESSAGE >> document/foldingRange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-08 15:39:54.850
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-08 15:39:55.035
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-08 15:39:55.230
+!MESSAGE >> document/foldingRange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-08 15:39:55.337
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-08 15:39:55.535
+!MESSAGE >> document/foldingRange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-08 15:39:55.734
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-08 15:39:55.931
+!MESSAGE >> document/foldingRange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-08 15:39:56.187
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-08 15:39:56.702
+!MESSAGE begin problem for /FileSystemRealmDefinition.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-08 15:39:56.702
+!MESSAGE 0 problems reported for /FileSystemRealmDefinition.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-08 15:39:56.702
+!MESSAGE Validated 1. Took 64 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-08 15:39:58.170
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-08 15:39:58.370
+!MESSAGE >> document/foldingRange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-08 15:39:58.625
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-08 15:39:59.146
+!MESSAGE begin problem for /FileSystemRealmDefinition.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-08 15:39:59.146
+!MESSAGE 0 problems reported for /FileSystemRealmDefinition.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-08 15:39:59.146
+!MESSAGE Validated 1. Took 71 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-08 15:40:01.117
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-08 15:40:04.019
+!MESSAGE >> document/foldingRange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-08 15:40:08.929
+!MESSAGE >> workspace/didChangeWatchedFiles 
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-08 15:40:09.409
+!MESSAGE >> workspace/didChangeWatchedFiles 
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-08 15:40:10.826
+!MESSAGE >> workspace/didChangeWatchedFiles 
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-08 15:40:14.171
+!MESSAGE >> workspace/didChangeWatchedFiles 
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-08 15:40:14.842
+!MESSAGE >> workspace/didChangeWatchedFiles 
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-08 15:40:15.249
+!MESSAGE >> workspace/didChangeWatchedFiles 
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-08 15:40:16.272
+!MESSAGE >> workspace/didChangeWatchedFiles 
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-08 15:40:16.588
+!MESSAGE >> workspace/didChangeWatchedFiles 
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-08 15:40:17.232
+!MESSAGE >> workspace/didChangeWatchedFiles 
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-08 15:40:17.719
+!MESSAGE >> workspace/didChangeWatchedFiles 
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-08 15:40:18.959
+!MESSAGE >> workspace/didChangeWatchedFiles 
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-08 15:40:19.875
+!MESSAGE >> workspace/didChangeWatchedFiles 
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-08 15:40:21.025
+!MESSAGE >> workspace/didChangeWatchedFiles 
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-08 15:40:21.296
+!MESSAGE >> workspace/didChangeWatchedFiles 
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-08 15:40:22.409
+!MESSAGE >> workspace/didChangeWatchedFiles 
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-08 15:40:22.724
+!MESSAGE >> workspace/didChangeWatchedFiles 
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-08 15:40:23.025
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-08 15:40:23.473
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-08 15:40:23.992
+!MESSAGE >> workspace/didChangeWatchedFiles 
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-08 15:40:24.242
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-08 15:40:24.280
+!MESSAGE >> workspace/didChangeWatchedFiles 
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-08 15:40:24.507
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-08 15:40:24.708
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-08 15:40:24.927
+!MESSAGE >> workspace/didChangeWatchedFiles 
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-08 15:40:25.437
+!MESSAGE >> workspace/didChangeWatchedFiles 
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-08 15:40:28.881
+!MESSAGE >> workspace/didChangeWatchedFiles 
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-08 15:40:31.751
+!MESSAGE >> workspace/didChangeWatchedFiles 
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-08 15:40:44.261
+!MESSAGE >> document/didSave
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-08 15:40:44.647
+!MESSAGE >> workspace/didChangeWatchedFiles 
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-08 15:40:45.692
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-08 15:40:46.052
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-08 15:40:46.665
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-08 15:40:47.170
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-08 15:40:52.314
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-08 15:40:52.521
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-08 15:40:52.921
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-08 15:40:56.332
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-08 15:40:57.454
+!MESSAGE >> shutdown
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-08 15:40:57.455
+!MESSAGE >> exit
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-08 15:40:57.508
+!MESSAGE Shutdown received... waking up main thread
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-08 15:40:57.514
+!MESSAGE class org.eclipse.jdt.ls.core.internal.JavaLanguageServerPlugin is stopping:
+!SESSION 2021-10-18 11:16:44.036 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=11.0.12
+java.vendor=Red Hat, Inc.
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_CA
+Command-line arguments:  -data /home/ashpan/.config/Code/User/workspaceStorage/3bfb6835897622786991cb20bef7d536/redhat.java/ss_ws
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-18 11:16:45.597
+!MESSAGE class org.eclipse.jdt.ls.core.internal.JavaLanguageServerPlugin is started
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-18 11:16:45.720
+!MESSAGE Main thread is waiting
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-18 11:16:45.746
+!MESSAGE >> initialize
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-18 11:16:45.747
+!MESSAGE Initializing Java Language Server 1.4.0.202109161717
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-18 11:16:45.780
+!MESSAGE >> initialized
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-18 11:16:46.226
+!MESSAGE Workspace initialized in 465ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-18 11:16:46.229
+!MESSAGE >> initialization job finished
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-18 11:16:46.234
+!MESSAGE >> registerFeature 'workspace/didChangeWatchedFiles'
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-18 11:16:46.235
+!MESSAGE >> registerFeature 'workspace/didChangeWatchedFiles'
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-18 11:16:46.237
+!MESSAGE >> workspace/didChangeConfiguration
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-18 11:16:48.075
+!MESSAGE >> shutdown
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-18 11:16:48.078
+!MESSAGE >> exit
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-18 11:16:48.156
+!MESSAGE Shutdown received... waking up main thread
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-18 11:16:48.159
+!MESSAGE class org.eclipse.jdt.ls.core.internal.JavaLanguageServerPlugin is stopping:
+!SESSION 2021-10-18 13:00:10.267 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=11.0.12
+java.vendor=Red Hat, Inc.
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_CA
+Command-line arguments:  -data /home/ashpan/.config/Code/User/workspaceStorage/3bfb6835897622786991cb20bef7d536/redhat.java/ss_ws
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-18 13:00:11.529
+!MESSAGE class org.eclipse.jdt.ls.core.internal.JavaLanguageServerPlugin is started
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-18 13:00:11.598
+!MESSAGE Main thread is waiting
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-18 13:00:11.670
+!MESSAGE >> initialize
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-18 13:00:11.671
+!MESSAGE Initializing Java Language Server 1.4.0.202109161717
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-18 13:00:11.715
+!MESSAGE >> initialized
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-18 13:00:12.104
+!MESSAGE Workspace initialized in 414ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-18 13:00:12.106
+!MESSAGE >> initialization job finished
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-18 13:00:12.112
+!MESSAGE >> registerFeature 'workspace/didChangeWatchedFiles'
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-18 13:00:12.113
+!MESSAGE >> registerFeature 'workspace/didChangeWatchedFiles'
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-18 13:00:12.116
+!MESSAGE >> workspace/didChangeConfiguration
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-18 13:00:51.551
+!MESSAGE Parent process stopped running, forcing server exit
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-18 13:00:51.552
+!MESSAGE Shutdown received... waking up main thread
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-18 13:00:51.558
+!MESSAGE class org.eclipse.jdt.ls.core.internal.JavaLanguageServerPlugin is stopping:
+!SESSION 2021-10-19 15:53:01.349 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=11.0.12
+java.vendor=Red Hat, Inc.
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_CA
+Command-line arguments:  -data /home/ashpan/.config/Code/User/workspaceStorage/3bfb6835897622786991cb20bef7d536/redhat.java/ss_ws
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-19 15:53:02.797
+!MESSAGE class org.eclipse.jdt.ls.core.internal.JavaLanguageServerPlugin is started
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-19 15:53:02.949
+!MESSAGE Main thread is waiting
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-19 15:53:02.975
+!MESSAGE >> initialize
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-19 15:53:02.975
+!MESSAGE Initializing Java Language Server 1.5.0.202110190407
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-19 15:53:03.008
+!MESSAGE >> initialized
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-19 15:53:03.463
+!MESSAGE Workspace initialized in 474ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-19 15:53:03.466
+!MESSAGE >> initialization job finished
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-19 15:53:03.472
+!MESSAGE >> registerFeature 'workspace/didChangeWatchedFiles'
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-19 15:53:03.474
+!MESSAGE >> registerFeature 'workspace/didChangeWatchedFiles'
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-19 15:53:03.478
+!MESSAGE >> workspace/didChangeConfiguration
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-19 15:53:24.075
+!MESSAGE >> workspace/didChangeWatchedFiles 
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-19 15:53:24.088
+!MESSAGE Clearing problems for /DeploymentRepositoryLogger_$logger.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-19 15:53:29.683
+!MESSAGE >> workspace/didChangeWatchedFiles 
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-19 15:53:29.687
+!MESSAGE Clearing problems for /DomainManagementLogger_$logger.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-19 15:53:39.436
+!MESSAGE >> workspace/didChangeWatchedFiles 
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-19 15:53:39.439
+!MESSAGE Clearing problems for /LauncherMessages_$bundle.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-19 15:53:41.761
+!MESSAGE >> workspace/didChangeWatchedFiles 
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-19 15:53:41.764
+!MESSAGE Clearing problems for /ManagedDMRContentLogger_$logger.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-19 15:53:44.501
+!MESSAGE >> workspace/didChangeWatchedFiles 
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-19 15:53:44.504
+!MESSAGE Clearing problems for /NetworkMessages_$bundle.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-19 15:53:46.593
+!MESSAGE >> workspace/didChangeWatchedFiles 
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-19 15:53:46.596
+!MESSAGE Clearing problems for /PlatformMBeanLogger_$logger.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-19 15:53:48.679
+!MESSAGE >> workspace/didChangeWatchedFiles 
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-19 15:53:48.682
+!MESSAGE Clearing problems for /ProcessLogger_$logger.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-19 15:53:50.431
+!MESSAGE >> workspace/didChangeWatchedFiles 
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-19 15:53:50.433
+!MESSAGE Clearing problems for /ProtocolLogger_$logger.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-19 15:54:06.362
+!MESSAGE >> workspace/didChangeWatchedFiles 
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-19 15:54:06.831
+!MESSAGE >> workspace/didChangeWatchedFiles 
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-19 15:54:08.914
+!MESSAGE >> workspace/didChangeWatchedFiles 
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-19 15:54:11.630
+!MESSAGE >> workspace/didChangeWatchedFiles 
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-19 15:54:12.442
+!MESSAGE >> workspace/didChangeWatchedFiles 
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-19 15:54:12.961
+!MESSAGE >> workspace/didChangeWatchedFiles 
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-19 15:54:13.524
+!MESSAGE >> workspace/didChangeWatchedFiles 
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-19 15:54:14.138
+!MESSAGE >> workspace/didChangeWatchedFiles 
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-19 15:54:14.574
+!MESSAGE >> workspace/didChangeWatchedFiles 
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-19 15:54:14.937
+!MESSAGE >> workspace/didChangeWatchedFiles 
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-19 15:54:16.161
+!MESSAGE >> workspace/didChangeWatchedFiles 
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-19 15:54:16.864
+!MESSAGE >> workspace/didChangeWatchedFiles 
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-19 15:54:17.779
+!MESSAGE >> workspace/didChangeWatchedFiles 
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-19 15:54:18.275
+!MESSAGE >> workspace/didChangeWatchedFiles 
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-19 15:54:18.780
+!MESSAGE >> workspace/didChangeWatchedFiles 
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-19 15:54:19.476
+!MESSAGE >> workspace/didChangeWatchedFiles 
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-19 15:54:20.409
+!MESSAGE >> workspace/didChangeWatchedFiles 
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-19 15:54:20.967
+!MESSAGE >> workspace/didChangeWatchedFiles 
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-19 15:54:21.563
+!MESSAGE >> workspace/didChangeWatchedFiles 
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-19 15:54:23.191
+!MESSAGE >> workspace/didChangeWatchedFiles 
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-19 15:54:23.725
+!MESSAGE >> workspace/didChangeWatchedFiles 
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-19 15:54:25.379
+!MESSAGE >> workspace/didChangeWatchedFiles 
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-19 15:54:30.693
+!MESSAGE >> shutdown
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-19 15:54:30.697
+!MESSAGE >> exit
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-19 15:54:30.765
+!MESSAGE Shutdown received... waking up main thread
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-19 15:54:30.769
+!MESSAGE class org.eclipse.jdt.ls.core.internal.JavaLanguageServerPlugin is stopping:
+!SESSION 2021-11-17 16:14:15.638 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=11.0.13
+java.vendor=Red Hat, Inc.
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_CA
+Command-line arguments:  -data /home/ashpan/.config/Code/User/workspaceStorage/3bfb6835897622786991cb20bef7d536/redhat.java/ss_ws
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-17 16:14:17.525
+!MESSAGE class org.eclipse.jdt.ls.core.internal.JavaLanguageServerPlugin is started
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-17 16:14:17.680
+!MESSAGE Main thread is waiting
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-17 16:14:17.952
+!MESSAGE >> initialize
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-17 16:14:17.953
+!MESSAGE Initializing Java Language Server 1.5.0.202110190407
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-17 16:14:18.022
+!MESSAGE >> initialized
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-17 16:14:18.773
+!MESSAGE Workspace initialized in 788ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-17 16:14:18.784
+!MESSAGE >> initialization job finished
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-17 16:14:18.792
+!MESSAGE >> registerFeature 'workspace/didChangeWatchedFiles'
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-17 16:14:18.794
+!MESSAGE >> registerFeature 'workspace/didChangeWatchedFiles'
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-17 16:14:18.796
+!MESSAGE >> workspace/didChangeConfiguration
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-17 16:14:28.732
+!MESSAGE >> workspace/didChangeWatchedFiles 
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-17 16:14:28.748
+!MESSAGE Clearing problems for /BootScriptInvokerLogger_$logger.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-17 16:14:50.758
+!MESSAGE >> workspace/didChangeWatchedFiles 
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-17 16:14:50.764
+!MESSAGE Clearing problems for /CoreManagementLogger_$logger.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-17 16:15:03.826
+!MESSAGE >> workspace/didChangeWatchedFiles 
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-17 16:15:03.829
+!MESSAGE Clearing problems for /DeploymentRepositoryLogger_$logger.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-17 16:15:03.838
+!MESSAGE Clearing problems for /DeploymentScannerLogger_$logger.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-17 16:15:04.181
+!MESSAGE >> workspace/didChangeWatchedFiles 
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-17 16:15:04.183
+!MESSAGE Clearing problems for /Messages_$logger.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-17 16:15:04.690
+!MESSAGE >> workspace/didChangeWatchedFiles 
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-17 16:15:04.694
+!MESSAGE Clearing problems for /HttpServerLogger_$logger.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-17 16:15:04.722
+!MESSAGE Clearing problems for /DomainManagementLogger_$logger.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-17 16:15:04.748
+!MESSAGE Clearing problems for /ElytronSubsystemMessages_$logger.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-17 16:15:05.059
+!MESSAGE >> workspace/didChangeWatchedFiles 
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-17 16:15:05.065
+!MESSAGE Clearing problems for /EmbeddedLogger_$logger.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-17 16:15:05.076
+!MESSAGE Clearing problems for /HostControllerLogger_$logger.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-17 16:15:05.079
+!MESSAGE Clearing problems for /DomainControllerLogger_$logger.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-17 16:15:05.082
+!MESSAGE Clearing problems for /IOLogger_$logger.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-17 16:15:05.382
+!MESSAGE >> workspace/didChangeWatchedFiles 
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-17 16:15:05.384
+!MESSAGE Clearing problems for /BootableJarLogger_$logger.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-17 16:15:06.195
+!MESSAGE >> workspace/didChangeWatchedFiles 
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-17 16:15:06.198
+!MESSAGE Clearing problems for /JmxLogger_$logger.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-17 16:15:06.203
+!MESSAGE Clearing problems for /LauncherMessages_$bundle.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-17 16:15:06.207
+!MESSAGE Clearing problems for /ManagedDMRContentLogger_$logger.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-17 16:15:06.210
+!MESSAGE Clearing problems for /NetworkMessages_$bundle.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-17 16:15:06.214
+!MESSAGE Clearing problems for /PatchLogger_$logger.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-17 16:15:06.218
+!MESSAGE Clearing problems for /PlatformMBeanLogger_$logger.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-17 16:15:06.222
+!MESSAGE Clearing problems for /ProcessLogger_$logger.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-17 16:15:06.225
+!MESSAGE Clearing problems for /ProtocolLogger_$logger.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-17 16:15:06.228
+!MESSAGE Clearing problems for /RemotingLogger_$logger.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-17 16:15:06.502
+!MESSAGE >> workspace/didChangeWatchedFiles 
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-17 16:15:06.504
+!MESSAGE Clearing problems for /RequestControllerLogger_$logger.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-17 16:15:06.815
+!MESSAGE >> workspace/didChangeWatchedFiles 
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-17 16:15:06.818
+!MESSAGE Clearing problems for /SecurityManagerLogger_$logger.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-17 16:15:08.029
+!MESSAGE >> workspace/didChangeWatchedFiles 
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-17 16:15:08.031
+!MESSAGE Clearing problems for /ServerLogger_$logger.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-17 16:15:08.586
+!MESSAGE >> workspace/didChangeWatchedFiles 
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-17 16:15:08.589
+!MESSAGE Clearing problems for /ThreadsLogger_$logger.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-17 16:15:35.722
+!MESSAGE >> workspace/didChangeWatchedFiles 
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-17 16:15:36.250
+!MESSAGE >> workspace/didChangeWatchedFiles 
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-17 16:15:37.340
+!MESSAGE >> workspace/didChangeWatchedFiles 
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-17 16:15:41.385
+!MESSAGE >> workspace/didChangeWatchedFiles 
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-17 16:15:42.530
+!MESSAGE >> workspace/didChangeWatchedFiles 
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-17 16:15:43.180
+!MESSAGE >> workspace/didChangeWatchedFiles 
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-17 16:15:43.555
+!MESSAGE >> workspace/didChangeWatchedFiles 
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-17 16:15:43.875
+!MESSAGE >> workspace/didChangeWatchedFiles 
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-17 16:15:44.227
+!MESSAGE >> workspace/didChangeWatchedFiles 
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-17 16:15:44.638
+!MESSAGE >> workspace/didChangeWatchedFiles 
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-17 16:15:46.250
+!MESSAGE >> workspace/didChangeWatchedFiles 
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-17 16:15:46.505
+!MESSAGE >> workspace/didChangeWatchedFiles 
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-17 16:15:47.295
+!MESSAGE >> workspace/didChangeWatchedFiles 
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-17 16:15:48.637
+!MESSAGE >> workspace/didChangeWatchedFiles 
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-17 16:15:49.298
+!MESSAGE >> workspace/didChangeWatchedFiles 
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-17 16:15:49.895
+!MESSAGE >> workspace/didChangeWatchedFiles 
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-17 16:15:51.049
+!MESSAGE >> workspace/didChangeWatchedFiles 
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-17 16:15:51.465
+!MESSAGE >> workspace/didChangeWatchedFiles 
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-17 16:15:51.863
+!MESSAGE >> workspace/didChangeWatchedFiles 
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-17 16:15:52.198
+!MESSAGE >> workspace/didChangeWatchedFiles 
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-17 16:15:53.244
+!MESSAGE >> workspace/didChangeWatchedFiles 
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-17 16:15:55.035
+!MESSAGE >> workspace/didChangeWatchedFiles 
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-17 16:15:56.402
+!MESSAGE >> workspace/didChangeWatchedFiles 
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-17 16:15:56.865
+!MESSAGE >> workspace/didChangeWatchedFiles 
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-17 16:16:03.401
+!MESSAGE >> shutdown
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-17 16:16:03.405
+!MESSAGE >> exit
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-17 16:16:03.502
+!MESSAGE Shutdown received... waking up main thread
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-17 16:16:03.521
+!MESSAGE class org.eclipse.jdt.ls.core.internal.JavaLanguageServerPlugin is stopping:
+!SESSION 2021-11-18 10:27:18.172 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=11.0.13
+java.vendor=Red Hat, Inc.
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_CA
+Command-line arguments:  -data /home/ashpan/.config/Code/User/workspaceStorage/3bfb6835897622786991cb20bef7d536/redhat.java/ss_ws
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-18 10:27:20.085
+!MESSAGE class org.eclipse.jdt.ls.core.internal.JavaLanguageServerPlugin is started
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-18 10:27:20.365
+!MESSAGE Main thread is waiting
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-18 10:27:20.411
+!MESSAGE >> initialize
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-18 10:27:20.413
+!MESSAGE Initializing Java Language Server 1.5.0.202110190407
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-18 10:27:20.481
+!MESSAGE >> initialized
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-18 10:27:21.116
+!MESSAGE Workspace initialized in 681ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-18 10:27:21.118
+!MESSAGE >> initialization job finished
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-18 10:27:21.123
+!MESSAGE >> registerFeature 'workspace/didChangeWatchedFiles'
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-18 10:27:21.125
+!MESSAGE >> registerFeature 'workspace/didChangeWatchedFiles'
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-18 10:27:21.127
+!MESSAGE >> workspace/didChangeConfiguration
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-18 10:27:24.746
+!MESSAGE >> workspace/didChangeWatchedFiles 
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-18 10:27:24.759
+!MESSAGE Clearing problems for /BootScriptInvokerLogger_$logger.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-18 10:27:26.730
+!MESSAGE >> workspace/didChangeWatchedFiles 
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-18 10:27:26.733
+!MESSAGE Clearing problems for /CoreManagementLogger_$logger.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-18 10:27:32.275
+!MESSAGE >> workspace/didChangeWatchedFiles 
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-18 10:27:32.278
+!MESSAGE Clearing problems for /DeploymentRepositoryLogger_$logger.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-18 10:27:32.283
+!MESSAGE Clearing problems for /DeploymentScannerLogger_$logger.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-18 10:27:32.295
+!MESSAGE Clearing problems for /Messages_$logger.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-18 10:27:32.592
+!MESSAGE >> workspace/didChangeWatchedFiles 
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-18 10:27:32.595
+!MESSAGE Clearing problems for /HttpServerLogger_$logger.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-18 10:27:32.980
+!MESSAGE >> workspace/didChangeWatchedFiles 
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-18 10:27:32.984
+!MESSAGE Clearing problems for /ElytronSubsystemMessages_$logger.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-18 10:27:32.997
+!MESSAGE Clearing problems for /DomainManagementLogger_$logger.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-18 10:27:33.567
+!MESSAGE >> workspace/didChangeWatchedFiles 
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-18 10:27:33.569
+!MESSAGE Clearing problems for /EmbeddedLogger_$logger.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-18 10:27:33.574
+!MESSAGE Clearing problems for /HostControllerLogger_$logger.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-18 10:27:33.578
+!MESSAGE Clearing problems for /DomainControllerLogger_$logger.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-18 10:27:33.581
+!MESSAGE Clearing problems for /IOLogger_$logger.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-18 10:27:33.894
+!MESSAGE >> workspace/didChangeWatchedFiles 
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-18 10:27:33.897
+!MESSAGE Clearing problems for /JmxLogger_$logger.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-18 10:27:33.902
+!MESSAGE Clearing problems for /BootableJarLogger_$logger.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-18 10:27:34.835
+!MESSAGE >> workspace/didChangeWatchedFiles 
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-18 10:27:34.837
+!MESSAGE Clearing problems for /LauncherMessages_$bundle.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-18 10:27:34.843
+!MESSAGE Clearing problems for /ManagedDMRContentLogger_$logger.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-18 10:27:34.849
+!MESSAGE Clearing problems for /PatchLogger_$logger.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-18 10:27:34.855
+!MESSAGE Clearing problems for /NetworkMessages_$bundle.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-18 10:27:34.861
+!MESSAGE Clearing problems for /PlatformMBeanLogger_$logger.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-18 10:27:34.866
+!MESSAGE Clearing problems for /ProtocolLogger_$logger.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-18 10:27:34.871
+!MESSAGE Clearing problems for /ProcessLogger_$logger.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-18 10:27:34.876
+!MESSAGE Clearing problems for /RemotingLogger_$logger.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-18 10:27:35.165
+!MESSAGE >> workspace/didChangeWatchedFiles 
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-18 10:27:35.167
+!MESSAGE Clearing problems for /RequestControllerLogger_$logger.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-18 10:27:35.798
+!MESSAGE >> workspace/didChangeWatchedFiles 
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-18 10:27:35.800
+!MESSAGE Clearing problems for /SecurityManagerLogger_$logger.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-18 10:27:35.802
+!MESSAGE Clearing problems for /ServerLogger_$logger.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-18 10:27:36.661
+!MESSAGE >> workspace/didChangeWatchedFiles 
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-18 10:27:36.666
+!MESSAGE Clearing problems for /ThreadsLogger_$logger.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-18 10:27:38.767
+!MESSAGE >> workspace/didChangeWatchedFiles 
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-18 10:27:39.036
+!MESSAGE >> workspace/didChangeWatchedFiles 
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-18 10:27:39.494
+!MESSAGE >> workspace/didChangeWatchedFiles 
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-18 10:27:40.918
+!MESSAGE >> workspace/didChangeWatchedFiles 
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-18 10:27:45.059
+!MESSAGE >> workspace/didChangeWatchedFiles 
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-18 10:27:46.001
+!MESSAGE >> workspace/didChangeWatchedFiles 
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-18 10:27:46.672
+!MESSAGE >> workspace/didChangeWatchedFiles 
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-18 10:27:47.004
+!MESSAGE >> workspace/didChangeWatchedFiles 
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-18 10:27:47.304
+!MESSAGE >> workspace/didChangeWatchedFiles 
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-18 10:27:47.620
+!MESSAGE >> workspace/didChangeWatchedFiles 
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-18 10:27:48.065
+!MESSAGE >> workspace/didChangeWatchedFiles 
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-18 10:27:48.606
+!MESSAGE >> workspace/didChangeWatchedFiles 
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-18 10:27:49.802
+!MESSAGE >> workspace/didChangeWatchedFiles 
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-18 10:27:50.581
+!MESSAGE >> workspace/didChangeWatchedFiles 
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-18 10:27:52.363
+!MESSAGE >> workspace/didChangeWatchedFiles 
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-18 10:27:53.031
+!MESSAGE >> workspace/didChangeWatchedFiles 
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-18 10:27:53.547
+!MESSAGE >> workspace/didChangeWatchedFiles 
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-18 10:27:54.729
+!MESSAGE >> workspace/didChangeWatchedFiles 
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-18 10:27:55.488
+!MESSAGE >> workspace/didChangeWatchedFiles 
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-18 10:27:56.111
+!MESSAGE >> workspace/didChangeWatchedFiles 
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-18 10:27:57.252
+!MESSAGE >> workspace/didChangeWatchedFiles 
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-18 10:27:59.321
+!MESSAGE >> workspace/didChangeWatchedFiles 
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-18 10:28:00.537
+!MESSAGE >> workspace/didChangeWatchedFiles 
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-18 10:28:01.814
+!MESSAGE >> workspace/didChangeWatchedFiles 
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-18 10:28:10.600
+!MESSAGE >> shutdown
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-18 10:28:10.607
+!MESSAGE >> exit
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-18 10:28:10.677
+!MESSAGE Shutdown received... waking up main thread
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-18 10:28:10.682
+!MESSAGE class org.eclipse.jdt.ls.core.internal.JavaLanguageServerPlugin is stopping:
+!SESSION 2021-11-18 12:51:09.568 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=11.0.13
+java.vendor=Red Hat, Inc.
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_CA
+Command-line arguments:  -data /home/ashpan/.config/Code/User/workspaceStorage/3bfb6835897622786991cb20bef7d536/redhat.java/ss_ws
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-18 12:51:10.632
+!MESSAGE class org.eclipse.jdt.ls.core.internal.JavaLanguageServerPlugin is started
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-18 12:51:10.743
+!MESSAGE Main thread is waiting
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-18 12:51:10.911
+!MESSAGE >> initialize
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-18 12:51:10.912
+!MESSAGE Initializing Java Language Server 1.5.0.202110190407
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-18 12:51:10.964
+!MESSAGE >> initialized
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-18 12:51:11.649
+!MESSAGE Workspace initialized in 709ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-18 12:51:11.652
+!MESSAGE >> initialization job finished
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-18 12:51:11.661
+!MESSAGE >> registerFeature 'workspace/didChangeWatchedFiles'
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-18 12:51:11.664
+!MESSAGE >> registerFeature 'workspace/didChangeWatchedFiles'
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-18 12:51:11.666
+!MESSAGE >> workspace/didChangeConfiguration
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-18 12:51:15.406
+!MESSAGE >> workspace/didChangeWatchedFiles 
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-18 12:51:15.428
+!MESSAGE Clearing problems for /BootScriptInvokerLogger_$logger.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-18 12:51:17.043
+!MESSAGE >> workspace/didChangeWatchedFiles 
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-18 12:51:17.046
+!MESSAGE Clearing problems for /CoreManagementLogger_$logger.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-18 12:51:21.088
+!MESSAGE >> workspace/didChangeWatchedFiles 
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-18 12:51:21.091
+!MESSAGE Clearing problems for /DeploymentRepositoryLogger_$logger.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-18 12:51:21.100
+!MESSAGE Clearing problems for /DeploymentScannerLogger_$logger.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-18 12:51:21.742
+!MESSAGE >> workspace/didChangeWatchedFiles 
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-18 12:51:21.746
+!MESSAGE Clearing problems for /Messages_$logger.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-18 12:51:21.752
+!MESSAGE Clearing problems for /HttpServerLogger_$logger.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-18 12:51:21.758
+!MESSAGE Clearing problems for /DomainManagementLogger_$logger.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-18 12:51:21.764
+!MESSAGE Clearing problems for /ElytronSubsystemMessages_$logger.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-18 12:51:22.303
+!MESSAGE >> workspace/didChangeWatchedFiles 
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-18 12:51:22.305
+!MESSAGE Clearing problems for /EmbeddedLogger_$logger.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-18 12:51:22.310
+!MESSAGE Clearing problems for /HostControllerLogger_$logger.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-18 12:51:22.314
+!MESSAGE Clearing problems for /DomainControllerLogger_$logger.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-18 12:51:22.318
+!MESSAGE Clearing problems for /IOLogger_$logger.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-18 12:51:22.990
+!MESSAGE >> workspace/didChangeWatchedFiles 
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-18 12:51:22.992
+!MESSAGE Clearing problems for /JmxLogger_$logger.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-18 12:51:22.995
+!MESSAGE Clearing problems for /BootableJarLogger_$logger.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-18 12:51:22.998
+!MESSAGE Clearing problems for /LauncherMessages_$bundle.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-18 12:51:23.000
+!MESSAGE Clearing problems for /ManagedDMRContentLogger_$logger.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-18 12:51:23.537
+!MESSAGE >> workspace/didChangeWatchedFiles 
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-18 12:51:23.538
+!MESSAGE Clearing problems for /PatchLogger_$logger.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-18 12:51:23.542
+!MESSAGE Clearing problems for /NetworkMessages_$bundle.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-18 12:51:23.546
+!MESSAGE Clearing problems for /PlatformMBeanLogger_$logger.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-18 12:51:23.549
+!MESSAGE Clearing problems for /ProtocolLogger_$logger.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-18 12:51:23.553
+!MESSAGE Clearing problems for /ProcessLogger_$logger.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-18 12:51:23.556
+!MESSAGE Clearing problems for /RemotingLogger_$logger.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-18 12:51:23.929
+!MESSAGE >> workspace/didChangeWatchedFiles 
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-18 12:51:23.931
+!MESSAGE Clearing problems for /RequestControllerLogger_$logger.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-18 12:51:24.334
+!MESSAGE >> workspace/didChangeWatchedFiles 
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-18 12:51:24.336
+!MESSAGE Clearing problems for /ServerLogger_$logger.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-18 12:51:24.340
+!MESSAGE Clearing problems for /SecurityManagerLogger_$logger.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-18 12:51:24.892
+!MESSAGE >> workspace/didChangeWatchedFiles 
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-18 12:51:24.893
+!MESSAGE Clearing problems for /ThreadsLogger_$logger.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-18 12:51:27.066
+!MESSAGE >> workspace/didChangeWatchedFiles 
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-18 12:51:27.338
+!MESSAGE >> workspace/didChangeWatchedFiles 
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-18 12:51:28.004
+!MESSAGE >> workspace/didChangeWatchedFiles 
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-18 12:51:29.343
+!MESSAGE >> workspace/didChangeWatchedFiles 
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-18 12:51:33.273
+!MESSAGE >> workspace/didChangeWatchedFiles 
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-18 12:51:33.858
+!MESSAGE >> workspace/didChangeWatchedFiles 
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-18 12:51:34.410
+!MESSAGE >> workspace/didChangeWatchedFiles 
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-18 12:51:34.939
+!MESSAGE >> workspace/didChangeWatchedFiles 
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-18 12:51:35.217
+!MESSAGE >> workspace/didChangeWatchedFiles 
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-18 12:51:35.493
+!MESSAGE >> workspace/didChangeWatchedFiles 
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-18 12:51:35.810
+!MESSAGE >> workspace/didChangeWatchedFiles 
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-18 12:51:36.788
+!MESSAGE >> workspace/didChangeWatchedFiles 
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-18 12:51:37.345
+!MESSAGE >> workspace/didChangeWatchedFiles 
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-18 12:51:38.049
+!MESSAGE >> workspace/didChangeWatchedFiles 
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-18 12:51:39.358
+!MESSAGE >> workspace/didChangeWatchedFiles 
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-18 12:51:39.905
+!MESSAGE >> workspace/didChangeWatchedFiles 
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-18 12:51:40.328
+!MESSAGE >> workspace/didChangeWatchedFiles 
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-18 12:51:41.317
+!MESSAGE >> workspace/didChangeWatchedFiles 
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-18 12:51:41.953
+!MESSAGE >> workspace/didChangeWatchedFiles 
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-18 12:51:42.708
+!MESSAGE >> workspace/didChangeWatchedFiles 
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-18 12:51:43.900
+!MESSAGE >> workspace/didChangeWatchedFiles 
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-18 12:51:45.157
+!MESSAGE >> workspace/didChangeWatchedFiles 
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-18 12:51:46.476
+!MESSAGE >> workspace/didChangeWatchedFiles 
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-18 12:51:47.016
+!MESSAGE >> workspace/didChangeWatchedFiles 
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-18 12:51:51.665
+!MESSAGE >> shutdown
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-18 12:51:51.668
+!MESSAGE >> exit
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-18 12:51:51.742
+!MESSAGE Shutdown received... waking up main thread
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-18 12:51:51.747
+!MESSAGE class org.eclipse.jdt.ls.core.internal.JavaLanguageServerPlugin is stopping:
+!SESSION 2021-11-22 16:44:58.473 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=11.0.13
+java.vendor=Red Hat, Inc.
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_CA
+Command-line arguments:  -data /home/ashpan/.config/Code/User/workspaceStorage/3bfb6835897622786991cb20bef7d536/redhat.java/ss_ws
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-22 16:45:00.689
+!MESSAGE class org.eclipse.jdt.ls.core.internal.JavaLanguageServerPlugin is started
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-22 16:45:01.094
+!MESSAGE Main thread is waiting
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-22 16:45:01.135
+!MESSAGE >> initialize
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-22 16:45:01.136
+!MESSAGE Initializing Java Language Server 1.5.0.202110190407
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-22 16:45:01.244
+!MESSAGE >> initialized
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-22 16:45:02.329
+!MESSAGE Workspace initialized in 1145ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-22 16:45:02.334
+!MESSAGE >> initialization job finished
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-22 16:45:02.368
+!MESSAGE >> registerFeature 'workspace/didChangeWatchedFiles'
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-22 16:45:02.369
+!MESSAGE >> registerFeature 'workspace/didChangeWatchedFiles'
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-22 16:45:02.384
+!MESSAGE >> workspace/didChangeConfiguration
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-22 16:45:02.411
+!MESSAGE >> document/didOpen
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-22 16:45:02.793
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-22 16:45:02.800
+!MESSAGE >> textDocument/semanticTokens/full
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-22 16:45:02.802
+!MESSAGE >> document/foldingRange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-22 16:45:03.235
+!MESSAGE Reconciled 1. Took 0 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-22 16:45:04.937
+!MESSAGE begin problem for /RealmsTestCase.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-22 16:45:04.948
+!MESSAGE 0 problems reported for /RealmsTestCase.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-22 16:45:04.959
+!MESSAGE Validated 1. Took 1320 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-22 16:45:07.593
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-22 16:45:13.275
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-22 16:45:13.412
+!MESSAGE >> textDocument/semanticTokens/full
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-22 16:45:13.519
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-22 16:45:13.934
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-22 16:45:15.310
+!MESSAGE >> document/foldingRange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-22 16:45:16.048
+!MESSAGE >> workspace/didChangeWatchedFiles 
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-22 16:45:16.053
+!MESSAGE Clearing problems for /BootScriptInvokerLogger_$logger.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-22 16:45:43.887
+!MESSAGE >> workspace/didChangeWatchedFiles 
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-22 16:45:43.890
+!MESSAGE Clearing problems for /DeploymentRepositoryLogger_$logger.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-22 16:45:43.895
+!MESSAGE Clearing problems for /Messages_$logger.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-22 16:45:43.901
+!MESSAGE Clearing problems for /ElytronSubsystemMessages_$logger.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-22 16:45:43.905
+!MESSAGE Clearing problems for /HttpServerLogger_$logger.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-22 16:45:43.909
+!MESSAGE Clearing problems for /DomainManagementLogger_$logger.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-22 16:45:44.219
+!MESSAGE >> workspace/didChangeWatchedFiles 
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-22 16:45:44.223
+!MESSAGE Clearing problems for /EmbeddedLogger_$logger.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-22 16:45:44.228
+!MESSAGE Clearing problems for /HostControllerLogger_$logger.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-22 16:45:44.232
+!MESSAGE Clearing problems for /DomainControllerLogger_$logger.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-22 16:45:44.237
+!MESSAGE Clearing problems for /IOLogger_$logger.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-22 16:45:44.699
+!MESSAGE >> workspace/didChangeWatchedFiles 
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-22 16:45:44.701
+!MESSAGE Clearing problems for /JmxLogger_$logger.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-22 16:45:44.705
+!MESSAGE Clearing problems for /BootableJarLogger_$logger.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-22 16:45:44.711
+!MESSAGE Clearing problems for /LauncherMessages_$bundle.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-22 16:45:44.714
+!MESSAGE Clearing problems for /ManagedDMRContentLogger_$logger.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-22 16:45:45.128
+!MESSAGE >> workspace/didChangeWatchedFiles 
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-22 16:45:45.130
+!MESSAGE Clearing problems for /PatchLogger_$logger.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-22 16:45:45.132
+!MESSAGE Clearing problems for /NetworkMessages_$bundle.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-22 16:45:45.134
+!MESSAGE Clearing problems for /PlatformMBeanLogger_$logger.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-22 16:45:45.136
+!MESSAGE Clearing problems for /ProtocolLogger_$logger.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-22 16:45:45.138
+!MESSAGE Clearing problems for /ProcessLogger_$logger.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-22 16:45:45.140
+!MESSAGE Clearing problems for /RemotingLogger_$logger.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-22 16:45:45.395
+!MESSAGE >> workspace/didChangeWatchedFiles 
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-22 16:45:45.396
+!MESSAGE Clearing problems for /RequestControllerLogger_$logger.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-22 16:45:45.768
+!MESSAGE >> workspace/didChangeWatchedFiles 
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-22 16:45:45.770
+!MESSAGE Clearing problems for /ServerLogger_$logger.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-22 16:45:45.773
+!MESSAGE Clearing problems for /SecurityManagerLogger_$logger.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-22 16:45:46.124
+!MESSAGE >> workspace/didChangeWatchedFiles 
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-22 16:45:46.126
+!MESSAGE Clearing problems for /ThreadsLogger_$logger.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-22 16:45:46.349
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-22 16:45:47.933
+!MESSAGE >> document/didClose
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-22 16:45:47.934
+!MESSAGE Clearing problems for /RealmsTestCase.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-22 16:46:08.798
+!MESSAGE >> workspace/didChangeWatchedFiles 
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-22 16:46:09.191
+!MESSAGE >> workspace/didChangeWatchedFiles 
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-22 16:46:10.778
+!MESSAGE >> workspace/didChangeWatchedFiles 
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-22 16:46:18.393
+!MESSAGE >> workspace/didChangeWatchedFiles 
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-22 16:46:20.586
+!MESSAGE >> workspace/didChangeWatchedFiles 
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-22 16:46:21.990
+!MESSAGE >> workspace/didChangeWatchedFiles 
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-22 16:46:24.520
+!MESSAGE >> workspace/didChangeWatchedFiles 
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-22 16:46:26.334
+!MESSAGE >> workspace/didChangeWatchedFiles 
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-22 16:46:27.357
+!MESSAGE >> workspace/didChangeWatchedFiles 
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-22 16:46:29.767
+!MESSAGE >> workspace/didChangeWatchedFiles 
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-22 16:46:32.772
+!MESSAGE >> workspace/didChangeWatchedFiles 
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-22 16:59:51.673
+!MESSAGE >> shutdown
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-22 16:59:51.675
+!MESSAGE >> exit
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-22 16:59:51.753
+!MESSAGE Shutdown received... waking up main thread
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-22 16:59:51.764
+!MESSAGE class org.eclipse.jdt.ls.core.internal.JavaLanguageServerPlugin is stopping:
+!SESSION 2021-11-23 09:32:05.256 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=11.0.13
+java.vendor=Red Hat, Inc.
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_CA
+Command-line arguments:  -data /home/ashpan/.config/Code/User/workspaceStorage/3bfb6835897622786991cb20bef7d536/redhat.java/ss_ws
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-23 09:32:06.175
+!MESSAGE class org.eclipse.jdt.ls.core.internal.JavaLanguageServerPlugin is started
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-23 09:32:06.292
+!MESSAGE Main thread is waiting
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-23 09:32:06.439
+!MESSAGE >> initialize
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-23 09:32:06.444
+!MESSAGE Initializing Java Language Server 1.5.0.202110190407
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-23 09:32:06.488
+!MESSAGE >> initialized
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-23 09:32:07.045
+!MESSAGE Workspace initialized in 575ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-23 09:32:07.049
+!MESSAGE >> initialization job finished
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-23 09:32:07.057
+!MESSAGE >> registerFeature 'workspace/didChangeWatchedFiles'
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-23 09:32:07.058
+!MESSAGE >> registerFeature 'workspace/didChangeWatchedFiles'
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-23 09:32:07.060
+!MESSAGE >> workspace/didChangeConfiguration
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-23 09:32:37.372
+!MESSAGE >> workspace/didChangeWatchedFiles 
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-23 09:32:37.387
+!MESSAGE Clearing problems for /DeploymentRepositoryLogger_$logger.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-23 09:32:37.646
+!MESSAGE >> workspace/didChangeWatchedFiles 
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-23 09:32:37.650
+!MESSAGE Clearing problems for /HttpServerLogger_$logger.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-23 09:32:37.656
+!MESSAGE Clearing problems for /DomainManagementLogger_$logger.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-23 09:32:38.144
+!MESSAGE >> workspace/didChangeWatchedFiles 
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-23 09:32:38.149
+!MESSAGE Clearing problems for /IOLogger_$logger.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-23 09:32:38.802
+!MESSAGE >> workspace/didChangeWatchedFiles 
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-23 09:32:38.804
+!MESSAGE Clearing problems for /LauncherMessages_$bundle.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-23 09:32:38.808
+!MESSAGE Clearing problems for /ManagedDMRContentLogger_$logger.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-23 09:32:38.811
+!MESSAGE Clearing problems for /NetworkMessages_$bundle.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-23 09:32:38.814
+!MESSAGE Clearing problems for /PlatformMBeanLogger_$logger.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-23 09:32:38.818
+!MESSAGE Clearing problems for /ProtocolLogger_$logger.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-23 09:32:38.821
+!MESSAGE Clearing problems for /ProcessLogger_$logger.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-23 09:32:38.823
+!MESSAGE Clearing problems for /RemotingLogger_$logger.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-23 09:32:39.439
+!MESSAGE >> workspace/didChangeWatchedFiles 
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-23 09:32:39.441
+!MESSAGE Clearing problems for /ServerLogger_$logger.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-23 09:32:57.295
+!MESSAGE >> shutdown
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-23 09:32:57.298
+!MESSAGE >> exit
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-23 09:32:57.397
+!MESSAGE Shutdown received... waking up main thread
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-23 09:32:57.404
+!MESSAGE class org.eclipse.jdt.ls.core.internal.JavaLanguageServerPlugin is stopping:
+!SESSION 2021-11-23 09:33:03.367 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=11.0.13
+java.vendor=Red Hat, Inc.
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_CA
+Command-line arguments:  -data /home/ashpan/.config/Code/User/workspaceStorage/3bfb6835897622786991cb20bef7d536/redhat.java/ss_ws
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-23 09:33:04.709
+!MESSAGE class org.eclipse.jdt.ls.core.internal.JavaLanguageServerPlugin is started
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-23 09:33:04.832
+!MESSAGE Main thread is waiting
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-23 09:33:05.061
+!MESSAGE >> initialize
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-23 09:33:05.062
+!MESSAGE Initializing Java Language Server 1.5.0.202110190407
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-23 09:33:05.191
+!MESSAGE >> initialized
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-23 09:33:06.145
+!MESSAGE Workspace initialized in 1033ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-23 09:33:06.161
+!MESSAGE >> initialization job finished
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-23 09:33:06.171
+!MESSAGE >> registerFeature 'workspace/didChangeWatchedFiles'
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-23 09:33:06.174
+!MESSAGE >> registerFeature 'workspace/didChangeWatchedFiles'
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-23 09:33:06.176
+!MESSAGE >> workspace/didChangeConfiguration
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-23 09:33:40.123
+!MESSAGE >> shutdown
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-23 09:33:40.126
+!MESSAGE >> exit
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-23 09:33:40.324
+!MESSAGE Shutdown received... waking up main thread
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-23 09:33:40.362
+!MESSAGE class org.eclipse.jdt.ls.core.internal.JavaLanguageServerPlugin is stopping:

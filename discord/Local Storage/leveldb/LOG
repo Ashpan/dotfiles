@@ -1,0 +1,14 @@
+2021/09/06-22:44:25.853 18f7 Reusing MANIFEST /home/ashpan/.config/discord/Local Storage/leveldb/MANIFEST-000001
+2021/09/06-22:44:25.854 18f7 Recovering log #1615
+2021/09/06-22:44:25.854 18f7 Level-0 table #1618: started
+2021/09/06-22:44:25.856 18f7 Level-0 table #1618: 29943 bytes OK
+2021/09/06-22:44:25.857 18f7 Delete type=0 #1615
+2021/09/06-22:44:25.857 1918 Compacting 4@0 + 1@1 files
+2021/09/06-22:44:25.861 1918 Generated table #1620@0: 132 keys, 72332 bytes
+2021/09/06-22:44:25.861 1918 Compacted 4@0 + 1@1 files => 72332 bytes
+2021/09/06-22:44:25.862 1918 compacted to: files[ 0 1 0 0 0 0 0 ]
+2021/09/06-22:44:25.862 1918 Delete type=2 #1608
+2021/09/06-22:44:25.862 1918 Delete type=2 #1618
+2021/09/06-22:44:25.862 1918 Delete type=2 #1610
+2021/09/06-22:44:25.862 1918 Delete type=2 #1613
+2021/09/06-22:44:25.862 1918 Delete type=2 #1616

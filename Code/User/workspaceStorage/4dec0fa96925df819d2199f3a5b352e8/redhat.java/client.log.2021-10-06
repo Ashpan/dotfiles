@@ -1,0 +1,30 @@
+{
+  message: 'Starting Java server with: /usr/lib/jvm/zulu11.50.19-ca-jdk11.0.12-linux_x64/bin/java --add-modules=ALL-SYSTEM --add-opens java.base/java.util=ALL-UNNAMED --add-opens java.base/java.lang=ALL-UNNAMED -Declipse.application=org.eclipse.jdt.ls.core.id1 -Dosgi.bundles.defaultStartLevel=4 -Declipse.product=org.eclipse.jdt.ls.core.product -Dfile.encoding=utf8 -XX:+UseParallelGC -XX:GCTimeRatio=4 -XX:AdaptiveSizePolicyWeight=90 -Dsun.zip.disableMemoryMapping=true -Xmx1G -Xms100m -noverify -jar /home/ashpan/.vscode/extensions/redhat.java-0.82.0/server/plugins/org.eclipse.equinox.launcher_1.6.300.v20210813-1054.jar -configuration /home/ashpan/.config/Code/User/globalStorage/redhat.java/0.82.0/config_ss_linux -data /home/ashpan/.config/Code/User/workspaceStorage/4dec0fa96925df819d2199f3a5b352e8/redhat.java/ss_ws',
+  level: 'info',
+  timestamp: '2021-10-06 09:36:39.929'
+}
+{
+  message: 'Starting Java server with: /usr/lib/jvm/zulu11.50.19-ca-jdk11.0.12-linux_x64/bin/java --add-modules=ALL-SYSTEM --add-opens java.base/java.util=ALL-UNNAMED --add-opens java.base/java.lang=ALL-UNNAMED -Declipse.application=org.eclipse.jdt.ls.core.id1 -Dosgi.bundles.defaultStartLevel=4 -Declipse.product=org.eclipse.jdt.ls.core.product -Dfile.encoding=utf8 -XX:+UseParallelGC -XX:GCTimeRatio=4 -XX:AdaptiveSizePolicyWeight=90 -Dsun.zip.disableMemoryMapping=true -Xmx1G -Xms100m -noverify -jar /home/ashpan/.vscode/extensions/redhat.java-0.82.0/server/plugins/org.eclipse.equinox.launcher_1.6.300.v20210813-1054.jar -configuration /home/ashpan/.config/Code/User/globalStorage/redhat.java/0.82.0/config_linux -data /home/ashpan/.config/Code/User/workspaceStorage/4dec0fa96925df819d2199f3a5b352e8/redhat.java/jdt_ws',
+  level: 'info',
+  timestamp: '2021-10-06 09:36:39.960'
+}
+{
+  message: '[Error - 9:36:46 a.m.] Connection to server got closed. Server will not be restarted.',
+  level: 'info',
+  timestamp: '2021-10-06 09:36:46.455'
+}
+{
+  message: 'Starting Java server with: /usr/lib/jvm/zulu11.50.19-ca-jdk11.0.12-linux_x64/bin/java --add-modules=ALL-SYSTEM --add-opens java.base/java.util=ALL-UNNAMED --add-opens java.base/java.lang=ALL-UNNAMED -Declipse.application=org.eclipse.jdt.ls.core.id1 -Dosgi.bundles.defaultStartLevel=4 -Declipse.product=org.eclipse.jdt.ls.core.product -Dfile.encoding=utf8 -XX:+UseParallelGC -XX:GCTimeRatio=4 -XX:AdaptiveSizePolicyWeight=90 -Dsun.zip.disableMemoryMapping=true -Xmx1G -Xms100m -noverify -jar /home/ashpan/.vscode/extensions/redhat.java-0.82.0/server/plugins/org.eclipse.equinox.launcher_1.6.300.v20210813-1054.jar -configuration /home/ashpan/.config/Code/User/globalStorage/redhat.java/0.82.0/config_ss_linux -data /home/ashpan/.config/Code/User/workspaceStorage/4dec0fa96925df819d2199f3a5b352e8/redhat.java/ss_ws',
+  level: 'info',
+  timestamp: '2021-10-06 13:09:11.841'
+}
+{
+  message: 'Starting Java server with: /usr/lib/jvm/zulu11.50.19-ca-jdk11.0.12-linux_x64/bin/java --add-modules=ALL-SYSTEM --add-opens java.base/java.util=ALL-UNNAMED --add-opens java.base/java.lang=ALL-UNNAMED -Declipse.application=org.eclipse.jdt.ls.core.id1 -Dosgi.bundles.defaultStartLevel=4 -Declipse.product=org.eclipse.jdt.ls.core.product -Dfile.encoding=utf8 -XX:+UseParallelGC -XX:GCTimeRatio=4 -XX:AdaptiveSizePolicyWeight=90 -Dsun.zip.disableMemoryMapping=true -Xmx1G -Xms100m -noverify -jar /home/ashpan/.vscode/extensions/redhat.java-0.82.0/server/plugins/org.eclipse.equinox.launcher_1.6.300.v20210813-1054.jar -configuration /home/ashpan/.config/Code/User/globalStorage/redhat.java/0.82.0/config_linux -data /home/ashpan/.config/Code/User/workspaceStorage/4dec0fa96925df819d2199f3a5b352e8/redhat.java/jdt_ws',
+  level: 'info',
+  timestamp: '2021-10-06 13:09:11.880'
+}
+{
+  message: '[Error - 1:09:17 p.m.] Connection to server got closed. Server will not be restarted.',
+  level: 'info',
+  timestamp: '2021-10-06 13:09:17.283'
+}

@@ -1,0 +1,14 @@
+LOG | 1/24 4:25 |	 Could not update server icon.
+LOG | 1/24 4:25 |	 Error: https://wildfly.zulipchat.com does not appear to be a valid Zulip server. Make sure that
+ • You can connect to that URL in a web browser.
+ • If you need a proxy to connect to the Internet, that you've configured your proxy in the Network settings.
+ • It's a Zulip server. (The oldest supported version is 1.6).
+ • The server has a valid certificate.
+ • The SSL is correctly configured for the certificate. Check out the SSL troubleshooting guide -
+ https://zulip.readthedocs.io/en/stable/production/ssl-certificates.html
+    at checkDomain (/tmp/.mount_Zulip-m7y4wr/resources/app.asar/app/renderer/js/utils/domain-util.js:134:15)
+    at async Object.updateSavedServer (/tmp/.mount_Zulip-m7y4wr/resources/app.asar/app/renderer/js/utils/domain-util.js:149:31)
+    at async ServerManagerView.initTabs (/tmp/.mount_Zulip-m7y4wr/resources/app.asar/app/renderer/js/main.js:287:13)
+    at async ServerManagerView.init (/tmp/.mount_Zulip-m7y4wr/resources/app.asar/app/renderer/js/main.js:115:9)
+    at async /tmp/.mount_Zulip-m7y4wr/resources/app.asar/app/renderer/js/main.js:958:5
+LOG | 1/24 6:41 |	 You're back online.

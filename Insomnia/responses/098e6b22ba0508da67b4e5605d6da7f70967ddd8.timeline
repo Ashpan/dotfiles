@@ -1,0 +1,127 @@
+[
+	{
+		"name": "TEXT",
+		"value": "Preparing request to http://10.22.33.88:5003/Team1325_Sandbox/4015/onbar/1/raw_data/",
+		"timestamp": 1645633780355
+	},
+	{
+		"name": "TEXT",
+		"value": "Current time is 2022-02-23T16:29:40.355Z",
+		"timestamp": 1645633780355
+	},
+	{
+		"name": "TEXT",
+		"value": "Using libcurl/7.73.0 OpenSSL/1.1.1l zlib/1.2.11 brotli/1.0.9 zstd/1.5.2 libidn2/2.3.2 libssh2/1.9.0 nghttp2/1.42.0",
+		"timestamp": 1645633780355
+	},
+	{
+		"name": "TEXT",
+		"value": "Using default HTTP version",
+		"timestamp": 1645633780355
+	},
+	{
+		"name": "TEXT",
+		"value": "Disable timeout",
+		"timestamp": 1645633780355
+	},
+	{
+		"name": "TEXT",
+		"value": "Enable automatic URL encoding",
+		"timestamp": 1645633780355
+	},
+	{
+		"name": "TEXT",
+		"value": "Enable SSL validation",
+		"timestamp": 1645633780355
+	},
+	{
+		"name": "TEXT",
+		"value": "Enable cookie sending with jar of 0 cookies",
+		"timestamp": 1645633780356
+	},
+	{
+		"name": "TEXT",
+		"value": "Hostname in DNS cache was stale, zapped\n",
+		"timestamp": 1645633780357
+	},
+	{
+		"name": "TEXT",
+		"value": "  Trying 10.22.33.88:5003...\n",
+		"timestamp": 1645633780357
+	},
+	{
+		"name": "TEXT",
+		"value": "Connected to 10.22.33.88 (10.22.33.88) port 5003 (#73)\n",
+		"timestamp": 1645633780357
+	},
+	{
+		"name": "HEADER_OUT",
+		"value": "POST /Team1325_Sandbox/4015/onbar/1/raw_data/ HTTP/1.1\r\nHost: 10.22.33.88:5003\r\nUser-Agent: insomnia/2021.7.2\r\nContent-Type: application/json\r\nAuthorization: Bearer ac9a31e3-e65e-4717-8e54-7d33d4b8113a\r\nAccept: */*\r\nContent-Length: 901\r\n\r\n",
+		"timestamp": 1645633780357
+	},
+	{
+		"name": "DATA_OUT",
+		"value": "{\n\t\"Moved in Auto?\": true,\n\t\"Number of Auto Balls Shot High\": 0,\n\t\"Number of Auto Balls Scored High\": 0,\n\t\"Number of Auto Balls Shot Low\": 0,\n\t\"Number of Auto Balls Scored Low\": 0,\n\t\"Number of Balls Shot High\": 48,\n\t\"Number of Balls Scored High\": 5,\n\t\"Number of Balls Shot Low\": 7,\n\t\"Number of Balls Scored Low\": 1,\n\t\"Locations Shot From\": [\n\t\t\"Up Against Hub\"\n\t],\n\t\"Any Additional Comments about their scoring\": \"Terrible accuracy\",\n\t\"Seconds Left When Starting Climb\": 30,\n\t\"Climb Success?\": true,\n\t\"Climb Height\": \"Medium\",\n\t\"Any additional comments about their climbing\": \"N/A\",\n\t\"Was the robot playing defense?\": true,\n\t\"If applicable, how would you rate the robot’s defensive abilities (1-10)\": 0,\n\t\"If applicable, how did the robot deal with the wrong colored balls? (Eg. Avoided it, Grabbed it and shot it away)\": \"N/A\",\n\t\"Any additional comments about the robot or it’s strategy\": \"N/A\"\n}",
+		"timestamp": 1645633780357
+	},
+	{
+		"name": "TEXT",
+		"value": "upload completely sent off: 901 out of 901 bytes\n",
+		"timestamp": 1645633780357
+	},
+	{
+		"name": "TEXT",
+		"value": "Mark bundle as not supporting multiuse\n",
+		"timestamp": 1645633780385
+	},
+	{
+		"name": "TEXT",
+		"value": "HTTP 1.0, assume close after body\n",
+		"timestamp": 1645633780385
+	},
+	{
+		"name": "HEADER_IN",
+		"value": "HTTP/1.0 400 BAD REQUEST\r\n",
+		"timestamp": 1645633780385
+	},
+	{
+		"name": "HEADER_IN",
+		"value": "Content-Type: application/json\r\n",
+		"timestamp": 1645633780385
+	},
+	{
+		"name": "HEADER_IN",
+		"value": "Content-Length: 72\r\n",
+		"timestamp": 1645633780385
+	},
+	{
+		"name": "HEADER_IN",
+		"value": "Access-Control-Allow-Origin: *\r\n",
+		"timestamp": 1645633780385
+	},
+	{
+		"name": "HEADER_IN",
+		"value": "Server: Werkzeug/2.0.2 Python/3.9.10\r\n",
+		"timestamp": 1645633780385
+	},
+	{
+		"name": "HEADER_IN",
+		"value": "Date: Wed, 23 Feb 2022 16:29:40 GMT\r\n",
+		"timestamp": 1645633780385
+	},
+	{
+		"name": "HEADER_IN",
+		"value": "\r\n",
+		"timestamp": 1645633780385
+	},
+	{
+		"name": "TEXT",
+		"value": "Received 72 B chunk",
+		"timestamp": 1645633780385
+	},
+	{
+		"name": "TEXT",
+		"value": "Closing connection 73\n",
+		"timestamp": 1645633780385
+	}
+]

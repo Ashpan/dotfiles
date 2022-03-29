@@ -1,0 +1,882 @@
+<project version="4">
+  <component name="DatabaseView">
+    <expand />
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="-1">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/auth/server/base/src/main/java/org/wildfly/security/auth/server/ServerAuthenticationContext.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="306">
+              <caret line="1080" column="21" selection-start-line="1080" selection-start-column="21" selection-end-line="1080" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/jmockit/jmockit/1.34/jmockit-1.34-sources.jar!/mockit/integration/junit4/internal/JUnit4TestRunnerDecorator.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="172">
+              <caret line="163" selection-start-line="163" selection-end-line="163" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tests/base/src/test/java/org/wildfly/security/auth/server/IdentitySwitchingTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="188">
+              <caret line="56" column="13" selection-start-line="56" selection-start-column="13" selection-end-line="56" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/tests/base/src/test/java/org/wildfly/security/auth/server/AvailableRealmsCallbackTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="352">
+              <caret line="35" column="74" selection-start-line="35" selection-start-column="74" selection-end-line="35" selection-end-column="74" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>checkNotNullParam(&quot;ev</find>
+      <find>VALIDNAMESP</find>
+      <find>validNamespace</find>
+      <find>&lt;xsd:complexType name=&quot;credential-type&quot;&gt;</find>
+      <find>Error</find>
+      <find>validateDigitalSignature</find>
+      <find>FileSystemSecurityRealm securityRealm = FileSystemSecurityRealm.builder()</find>
+      <find>! validateDigitalSignature(this.path.toString()) &amp;&amp; this.publicKey != null</find>
+      <find>CreateIdentityWithDigestHex</find>
+      <find>Signature</find>
+      <find>&quot;error</find>
+      <find>invalidIdentitySignature</find>
+      <find>unableToGenerateSignature</find>
+      <find>key</find>
+      <find>assertCreateIdentityWithPassword</find>
+      <find>createRealmWithTwoIdentities</find>
+      <find>getRootPath(false)</find>
+      <find>getRootPath(</find>
+      <find>integrity</find>
+      <find>NamePrincipal(&quot;user&quot;)</find>
+      <find>The process cannot access the file because it is being used by another process.</find>
+      <find>ELYTRON_TOOL</find>
+      <find>ELYTRON_TOOL_ADDONS</find>
+      <find>getInstance</find>
+      <find>strea</find>
+      <find>MarshalException</find>
+      <find>XMLValidateContext</find>
+      <find>Collection&lt;String&gt; names = stateRef.get().getMechanismConfiguration().getMechanismRealmNames();</find>
+      <find>elytronwebTest</find>
+      <find>ElytronAuthenticator elytronAuthenticator = ElytronAuthenticator.builder()</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+      <replace>if ( ! validateDigitalSignature(this.path.toString()) &amp;&amp; this.publicKey != null ) {</replace>
+      <replace>&lt;xsd:any</replace>
+      <replace>this.publicKey != null &amp;&amp; ! validateDigitalSignature(this.path.toString())</replace>
+      <replace>secretKey</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$</dir>
+      <dir>$MAVEN_REPOSITORY$/junit/junit/4.13.1/junit-4.13.1-sources.jar!/org/junit</dir>
+      <dir>$PROJECT_DIR$/credential/base/src/main/java/org/wildfly/security/password/interfaces</dir>
+      <dir>$PROJECT_DIR$/auth/realm/jdbc/src/test/java/org/wildfly/security/auth/realm/jdbc</dir>
+      <dir>$PROJECT_DIR$/credential/store/src/main/java/org/wildfly/security/credential/store</dir>
+      <dir>$PROJECT_DIR$/credential/store/src/main/java/org/wildfly/security/credential/store/impl</dir>
+      <dir>$PROJECT_DIR$/tool/src/main/java/org/wildfly/security/tool</dir>
+      <dir>$PROJECT_DIR$/x500/cert/base/src/main/java/org/wildfly/security/pem</dir>
+      <dir>$PROJECT_DIR$/credential/base/src/main/java/org/wildfly/security/credential</dir>
+      <dir>$PROJECT_DIR$/tool</dir>
+      <dir>$PROJECT_DIR$/auth/client/src/main/resources/schema</dir>
+      <dir>$PROJECT_DIR$/auth/realm/base/src/main/java/org/wildfly/security/auth/realm</dir>
+      <dir>$PROJECT_DIR$/tests/base/src/test/java/org/wildfly/security/auth</dir>
+      <dir>$PROJECT_DIR$/tool/src/test/java/org/wildfly/security/tool</dir>
+      <dir>$PROJECT_DIR$/auth/server/base/src/main/java/org/wildfly/security/auth/server</dir>
+    </dirStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/encryption/src/test/java/org/wildfly/security/encryption/SecretKeyUtilTest.java" />
+      <option value="$PROJECT_DIR$/encryption/src/test/java/org/wildfly/security/encryption/CipherUtilTest.java" />
+      <option value="$PROJECT_DIR$/tool/src/test/java/org/wildfly/security/tool/CredentialStoreCommandTest.java" />
+      <option value="$PROJECT_DIR$/password/impl/src/test/java/org/wildfly/security/password/impl/SaltedSimpleDigestPasswordTest.java" />
+      <option value="$PROJECT_DIR$/tool/src/main/java/org/wildfly/security/tool/FileSystemParseHelper.java" />
+      <option value="$PROJECT_DIR$/tool/src/test/java/org/wildfly/security/tool/SecretKeyCommandTest.java" />
+      <option value="$PROJECT_DIR$/tool/target/test-classes/filesystem-realm/descriptor-file-1" />
+      <option value="$USER_HOME$/tmp/desc-file-encrypt" />
+      <option value="$PROJECT_DIR$/tool/src/test/resources/filesystem-encrypt/fs-unencrypted-realm/u/user42.xml" />
+      <option value="$PROJECT_DIR$/auth/realm/base/src/main/java/org/wildfly/security/auth/realm/KeyStoreBackedSecurityRealm.java" />
+      <option value="$PROJECT_DIR$/tests/base/src/test/java/org/wildfly/security/sasl/entity/EntityTest.java" />
+      <option value="$PROJECT_DIR$/tool/src/test/java/org/wildfly/security/tool/FileSystemRealmCommandTest.java" />
+      <option value="$PROJECT_DIR$/tool/src/test/resources/filesystem-encrypt/fs-unencrypted-realms/single-role/h/e/hello.xml" />
+      <option value="$PROJECT_DIR$/tool/src/test/resources/filesystem-encrypt/fs-unencrypted-realms/single-user-with-role/p/e/r/person123.xml" />
+      <option value="$PROJECT_DIR$/tool/src/test/resources/filesystem-encrypt/fs-unencrypted-realms/single-user-with-key/s/e/c/secretperson.xml" />
+      <option value="$PROJECT_DIR$/auth/realm/base/src/main/java/org/wildfly/security/auth/realm/FileSystemParseHelper.java" />
+      <option value="$PROJECT_DIR$/tool/src/test/java/org/wildfly/security/tool/FileSystemEncryptCommandTest.java" />
+      <option value="$PROJECT_DIR$/tool/src/main/java/org/wildfly/security/tool/FileSystemEncryptCommand.java" />
+      <option value="$PROJECT_DIR$/encryption/src/main/java/org/wildfly/security/encryption/CipherUtil.java" />
+      <option value="$PROJECT_DIR$/tool/src/main/java/org/wildfly/security/tool/ElytronToolMessages.java" />
+      <option value="$PROJECT_DIR$/tool/src/test/resources/bulk-encryption-conversion-desc" />
+      <option value="$PROJECT_DIR$/tool/src/test/java/org/wildfly/security/tool/FileSystemEncryptRealmCommandTest.java" />
+      <option value="$PROJECT_DIR$/tool/src/main/java/org/wildfly/security/tool/FileSystemEncryptRealmCommand.java" />
+      <option value="$PROJECT_DIR$/auth/realm/ldap/src/main/java/org/wildfly/security/auth/realm/ldap/LdapSecurityRealmBuilder.java" />
+      <option value="$PROJECT_DIR$/tests/base/src/test/java/org/wildfly/security/ldap/LdapTestSuite.java" />
+      <option value="$PROJECT_DIR$/auth/realm/base/src/main/java/org/wildfly/security/auth/realm/FileSystemRealmUtil.java" />
+      <option value="$PROJECT_DIR$/tests/base/target/test-classes/filesystem-realm/p/l/plainuser-OBWGC2LOKVZWK4Q.xml" />
+      <option value="$PROJECT_DIR$/auth/realm/base/src/main/java/org/wildfly/security/auth/realm/FileSystemSecurityRealmBuilder.java" />
+      <option value="$PROJECT_DIR$/base/src/main/java/org/wildfly/security/WildFlyElytronBaseProvider.java" />
+      <option value="$PROJECT_DIR$/ssl/src/main/java/org/wildfly/security/ssl/ConfiguredSSLEngine.java" />
+      <option value="$PROJECT_DIR$/pom.xml" />
+      <option value="$PROJECT_DIR$/auth/realm/base/pom.xml" />
+      <option value="$PROJECT_DIR$/tests/base/target/test-classes/filesystem-realm/O/OBWGC2LOKVZWK4Q.xml" />
+      <option value="$PROJECT_DIR$/tool/src/main/java/org/wildfly/security/tool/ElytronTool.java" />
+      <option value="$PROJECT_DIR$/tests/base/target/test-classes/filesystem-realm/O/ORSXG5DJNZTVK43FOI.xml" />
+      <option value="$PROJECT_DIR$/auth/client/src/main/resources/schema/elytron-1_0.xsd" />
+      <option value="$PROJECT_DIR$/auth/client/src/main/resources/schema/elytron-1_0_1.xsd" />
+      <option value="$PROJECT_DIR$/auth/realm/base/src/main/java/org/wildfly/security/auth/realm/ElytronMessages.java" />
+      <option value="$PROJECT_DIR$/tests/base/target/test-classes/filesystem-realm/u/s/e/user-OVZWK4Q.xml" />
+      <option value="$PROJECT_DIR$/tests/base/src/test/resources/filesystem-realm/u/s/e/user-OVZWK4Q.xml" />
+      <option value="$PROJECT_DIR$/tool/src/main/java/org/wildfly/security/tool/CredentialStoreCommand.java" />
+      <option value="$PROJECT_DIR$/tests/base/src/test/java/org/wildfly/security/auth/FileSystemSecurityRealmTest.java" />
+      <option value="$PROJECT_DIR$/auth/realm/base/src/main/java/org/wildfly/security/auth/realm/FileSystemSecurityRealm.java" />
+      <option value="$PROJECT_DIR$/auth/server/base/src/main/java/org/wildfly/security/auth/server/ServerAuthenticationContext.java" />
+      <option value="$PROJECT_DIR$/tests/base/src/test/java/org/wildfly/security/auth/server/AvailableRealmsCallbackTest.java" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="elytron" type="b2602c69:ProjectViewProjectNode" />
+              <item name="elytron" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="elytron" type="b2602c69:ProjectViewProjectNode" />
+              <item name="elytron" type="462c0819:PsiDirectoryNode" />
+              <item name="tests" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="elytron" type="b2602c69:ProjectViewProjectNode" />
+              <item name="elytron" type="462c0819:PsiDirectoryNode" />
+              <item name="tests" type="462c0819:PsiDirectoryNode" />
+              <item name="base" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="elytron" type="b2602c69:ProjectViewProjectNode" />
+              <item name="elytron" type="462c0819:PsiDirectoryNode" />
+              <item name="tests" type="462c0819:PsiDirectoryNode" />
+              <item name="base" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="elytron" type="b2602c69:ProjectViewProjectNode" />
+              <item name="elytron" type="462c0819:PsiDirectoryNode" />
+              <item name="tests" type="462c0819:PsiDirectoryNode" />
+              <item name="base" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="elytron" type="b2602c69:ProjectViewProjectNode" />
+              <item name="elytron" type="462c0819:PsiDirectoryNode" />
+              <item name="tests" type="462c0819:PsiDirectoryNode" />
+              <item name="base" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="elytron" type="b2602c69:ProjectViewProjectNode" />
+              <item name="elytron" type="462c0819:PsiDirectoryNode" />
+              <item name="tests" type="462c0819:PsiDirectoryNode" />
+              <item name="base" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="security" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="elytron" type="b2602c69:ProjectViewProjectNode" />
+              <item name="elytron" type="462c0819:PsiDirectoryNode" />
+              <item name="tests" type="462c0819:PsiDirectoryNode" />
+              <item name="base" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="security" type="462c0819:PsiDirectoryNode" />
+              <item name="auth" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="elytron" type="b2602c69:ProjectViewProjectNode" />
+              <item name="elytron" type="462c0819:PsiDirectoryNode" />
+              <item name="tests" type="462c0819:PsiDirectoryNode" />
+              <item name="base" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="security" type="462c0819:PsiDirectoryNode" />
+              <item name="auth" type="462c0819:PsiDirectoryNode" />
+              <item name="server" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="TerminalArrangementManager">
+    <option name="myTabStates">
+      <TerminalTabState tabName="Local" currentWorkingDirectory="$PROJECT_DIR$" commandHistoryFileName="elytron-history" />
+    </option>
+  </component>
+  <component name="TestHistory">
+    <history-entry file="FileSystemSecurityRealmTest_testInvalidSignature - 2021.11.15 at 12h 43m 57s.xml">
+      <configuration name="FileSystemSecurityRealmTest.testInvalidSignature" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="FileSystemSecurityRealmTest_testInvalidSignature - 2021.11.15 at 12h 46m 03s.xml">
+      <configuration name="FileSystemSecurityRealmTest.testInvalidSignature" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="FileSystemSecurityRealmTest_testInvalidSignature - 2021.11.15 at 12h 49m 28s.xml">
+      <configuration name="FileSystemSecurityRealmTest.testInvalidSignature" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="FileSystemSecurityRealmTest_testInvalidSignature - 2021.11.15 at 12h 52m 44s.xml">
+      <configuration name="FileSystemSecurityRealmTest.testInvalidSignature" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="FileSystemSecurityRealmTest_testInvalidSignature - 2021.11.15 at 12h 53m 42s.xml">
+      <configuration name="FileSystemSecurityRealmTest.testInvalidSignature" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AvailableRealmsCallbackTest_noMechanismConfiguration - 2021.11.26 at 11h 25m 58s.xml">
+      <configuration name="AvailableRealmsCallbackTest.noMechanismConfiguration" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AvailableRealmsCallbackTest_noMechanismConfiguration - 2021.11.26 at 11h 28m 45s.xml">
+      <configuration name="AvailableRealmsCallbackTest.noMechanismConfiguration" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AvailableRealmsCallbackTest_noMechanismConfiguration - 2021.11.26 at 11h 29m 45s.xml">
+      <configuration name="AvailableRealmsCallbackTest.noMechanismConfiguration" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AvailableRealmsCallbackTest_noMechanismConfiguration - 2021.11.26 at 11h 38m 55s.xml">
+      <configuration name="AvailableRealmsCallbackTest.noMechanismConfiguration" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AvailableRealmsCallbackTest_noMechanismConfiguration - 2021.11.26 at 11h 39m 50s.xml">
+      <configuration name="AvailableRealmsCallbackTest.noMechanismConfiguration" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="351134000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2747396" />
+      <window_info id="Structure" order="1" side_tool="true" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info id="Commit" order="3" />
+      <window_info id="Learn" order="4" />
+      <window_info id="Pull Requests" order="5" />
+      <window_info id="Space Code Reviews" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="0" weight="0.32979798" />
+      <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" weight="0.32979798" />
+      <window_info anchor="bottom" id="Find" order="2" weight="0.32979798" />
+      <window_info anchor="bottom" x="1920" y="579" width="1874" height="292" id="Run" order="3" weight="0.40353537" />
+      <window_info anchor="bottom" id="Debug" order="4" weight="0.3469697" />
+      <window_info anchor="bottom" id="TODO" order="5" weight="0.32979798" />
+      <window_info anchor="bottom" id="Problems View" order="6" weight="0.3295678" />
+      <window_info anchor="bottom" id="Analyze Dataflow to" order="7" weight="0.32979798" />
+      <window_info anchor="bottom" id="Dependencies" order="7" weight="0.32979798" />
+      <window_info anchor="bottom" id="Inspection" order="8" weight="0.4" />
+      <window_info anchor="bottom" id="File Transfer" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.32979798" />
+      <window_info anchor="bottom" id="Profiler" order="11" weight="0.3295678" />
+      <window_info anchor="bottom" id="Database Changes" order="12" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Internal Method Tracing" order="13" />
+      <window_info anchor="bottom" id="Endpoints" order="14" weight="0.3295678" />
+      <window_info anchor="bottom" id="Build" order="15" weight="0.27929294" />
+      <window_info anchor="bottom" id="Java Enterprise" order="16" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Services" order="17" show_stripe_button="false" />
+      <window_info anchor="right" id="Database" order="0" weight="0.3296875" />
+      <window_info anchor="right" id="Space Automation" order="1" />
+      <window_info anchor="right" id="Maven" order="2" />
+      <window_info anchor="right" id="CDI" order="3" show_stripe_button="false" />
+      <window_info anchor="right" id="Layout Validation" order="4" />
+      <window_info anchor="right" id="Bean Validation" order="5" show_stripe_button="false" />
+      <window_info anchor="right" id="Hierarchy" order="6" weight="0.46692708" />
+    </layout>
+    <recentWindows>
+      <value>Run</value>
+      <value>Debug</value>
+      <value>Project</value>
+      <value>Analyze Dataflow to</value>
+      <value>Version Control</value>
+      <value>Build</value>
+      <value>Hierarchy</value>
+      <value>Database</value>
+      <value>Terminal</value>
+      <value>Endpoints</value>
+      <value>Profiler</value>
+      <value>Problems View</value>
+      <value>Dependencies</value>
+      <value>TODO</value>
+      <value>Find</value>
+      <value>Event Log</value>
+    </recentWindows>
+  </component>
+  <component name="Trusted.Project.Settings" hasCheckedIfOldProject="true" trusted="YES" />
+  <component name="WindowStateProjectService">
+    <state x="2470" y="206" width="800" height="683" key="#Getter_Template" timestamp="1630505682495">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2470" y="206" width="800" height="683" key="#Getter_Template/1920.0.1920.1080/0.28.1920.1026@1920.0.1920.1080" timestamp="1630505682495" />
+    <state x="2470" y="206" width="800" height="683" key="#Setter_Template" timestamp="1630505676343">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2470" y="206" width="800" height="683" key="#Setter_Template/1920.0.1920.1080/0.28.1920.1026@1920.0.1920.1080" timestamp="1630505676343" />
+    <state x="2713" y="399" width="324" height="290" key="#com.intellij.debugger.actions.ViewTextAction" timestamp="1631286988734">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2713" y="399" width="324" height="290" key="#com.intellij.debugger.actions.ViewTextAction/1920.0.1920.1080/0.28.1920.1026@1920.0.1920.1080" timestamp="1631286988734" />
+    <state x="2783" y="291" width="895" height="621" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1637938410549">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2783" y="291" width="895" height="621" key="#com.intellij.execution.impl.EditConfigurationsDialog/1920.0.1920.1080/0.28.1920.1026@1920.0.1920.1080" timestamp="1637938410549" />
+    <state x="3260" y="220" width="374" height="632" key="#com.intellij.ide.util.MemberChooser" timestamp="1633706874454">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="3260" y="220" width="374" height="632" key="#com.intellij.ide.util.MemberChooser/1920.0.1920.1080/0.28.1920.1026@1920.0.1920.1080" timestamp="1633706874454" />
+    <state x="2641" y="403" width="769" height="282" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1631041647205">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2641" y="403" width="769" height="282" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/1920.0.1920.1080/0.28.1920.1026@1920.0.1920.1080" timestamp="1631041647205" />
+    <state x="2702" y="445" width="955" height="486" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1633638093810">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2702" y="445" width="955" height="486" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/1920.0.1920.1080/0.28.1920.1026@1920.0.1920.1080" timestamp="1633638093810" />
+    <state x="2613" y="289" width="788" height="509" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog" timestamp="1631129614850">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2613" y="289" width="788" height="509" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/1920.0.1920.1080/0.28.1920.1026@1920.0.1920.1080" timestamp="1631129614850" />
+    <state x="317" y="125" width="1534" height="756" key="#xdebugger.evaluate" timestamp="1637940160055">
+      <screen x="0" y="28" width="1920" height="1026" />
+    </state>
+    <state x="317" y="125" width="1534" height="756" key="#xdebugger.evaluate/1920.0.1920.1080/0.28.1920.1026@1920.0.1920.1080" timestamp="1637940160055" />
+    <state x="2492" y="340" width="766" height="407" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1630591014451">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2492" y="340" width="766" height="407" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/1920.0.1920.1080/0.28.1920.1026@1920.0.1920.1080" timestamp="1630591014451" />
+    <state width="958" height="263" key="DebuggerActiveHint" timestamp="1636998219110">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="417" height="102" key="DebuggerActiveHint/1920.0.1920.1080/0.28.1920.1026@0.28.1920.1026" timestamp="1631539205304" />
+    <state width="958" height="263" key="DebuggerActiveHint/1920.0.1920.1080/0.28.1920.1026@1920.0.1920.1080" timestamp="1636998219109" />
+    <state x="3138" y="299" width="447" height="490" key="FileChooserDialogImpl" timestamp="1637960845902">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="3277" y="348" width="490" height="490" key="FileChooserDialogImpl/1920.0.1920.1080/0.28.1920.1026@0.28.1920.1026" timestamp="1637268788797" />
+    <state x="3138" y="299" width="447" height="490" key="FileChooserDialogImpl/1920.0.1920.1080/0.28.1920.1026@1920.0.1920.1080" timestamp="1637960845902" />
+    <state width="1874" height="344" key="GridCell.Tab.-1.bottom" timestamp="1633700802017">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="344" key="GridCell.Tab.-1.bottom/1920.0.1920.1080/0.28.1920.1026@1920.0.1920.1080" timestamp="1633700802017" />
+    <state width="1874" height="344" key="GridCell.Tab.-1.center" timestamp="1633700802016">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="344" key="GridCell.Tab.-1.center/1920.0.1920.1080/0.28.1920.1026@1920.0.1920.1080" timestamp="1633700802016" />
+    <state width="1874" height="344" key="GridCell.Tab.-1.left" timestamp="1633700802036">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="344" key="GridCell.Tab.-1.left/1920.0.1920.1080/0.28.1920.1026@1920.0.1920.1080" timestamp="1633700802036" />
+    <state width="1874" height="344" key="GridCell.Tab.-1.right" timestamp="1633700802016">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="344" key="GridCell.Tab.-1.right/1920.0.1920.1080/0.28.1920.1026@1920.0.1920.1080" timestamp="1633700802016" />
+    <state width="1874" height="371" key="GridCell.Tab.0.bottom" timestamp="1637960846897">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1114" height="344" key="GridCell.Tab.0.bottom/1920.0.1920.1080/0.28.1920.1026@0.28.1920.1026" timestamp="1636586161669" />
+    <state width="1874" height="371" key="GridCell.Tab.0.bottom/1920.0.1920.1080/0.28.1920.1026@1920.0.1920.1080" timestamp="1637960846897" />
+    <state width="1874" height="371" key="GridCell.Tab.0.center" timestamp="1637960846896">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1114" height="344" key="GridCell.Tab.0.center/1920.0.1920.1080/0.28.1920.1026@0.28.1920.1026" timestamp="1636586161669" />
+    <state width="1874" height="371" key="GridCell.Tab.0.center/1920.0.1920.1080/0.28.1920.1026@1920.0.1920.1080" timestamp="1637960846896" />
+    <state width="1874" height="371" key="GridCell.Tab.0.left" timestamp="1637960846896">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1114" height="344" key="GridCell.Tab.0.left/1920.0.1920.1080/0.28.1920.1026@0.28.1920.1026" timestamp="1636586161669" />
+    <state width="1874" height="371" key="GridCell.Tab.0.left/1920.0.1920.1080/0.28.1920.1026@1920.0.1920.1080" timestamp="1637960846896" />
+    <state width="1874" height="371" key="GridCell.Tab.0.right" timestamp="1637960846897">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1114" height="344" key="GridCell.Tab.0.right/1920.0.1920.1080/0.28.1920.1026@0.28.1920.1026" timestamp="1636586161669" />
+    <state width="1874" height="371" key="GridCell.Tab.0.right/1920.0.1920.1080/0.28.1920.1026@1920.0.1920.1080" timestamp="1637960846897" />
+    <state width="1874" height="315" key="GridCell.Tab.1.bottom" timestamp="1637960846888">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="239" key="GridCell.Tab.1.bottom/1920.0.1920.1080/0.28.1920.1026@0.28.1920.1026" timestamp="1636586161648" />
+    <state width="1874" height="315" key="GridCell.Tab.1.bottom/1920.0.1920.1080/0.28.1920.1026@1920.0.1920.1080" timestamp="1637960846888" />
+    <state width="1874" height="315" key="GridCell.Tab.1.center" timestamp="1637960846888">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="239" key="GridCell.Tab.1.center/1920.0.1920.1080/0.28.1920.1026@0.28.1920.1026" timestamp="1636586161647" />
+    <state width="1874" height="315" key="GridCell.Tab.1.center/1920.0.1920.1080/0.28.1920.1026@1920.0.1920.1080" timestamp="1637960846888" />
+    <state width="1874" height="315" key="GridCell.Tab.1.left" timestamp="1637960846888">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="239" key="GridCell.Tab.1.left/1920.0.1920.1080/0.28.1920.1026@0.28.1920.1026" timestamp="1636586161646" />
+    <state width="1874" height="315" key="GridCell.Tab.1.left/1920.0.1920.1080/0.28.1920.1026@1920.0.1920.1080" timestamp="1637960846888" />
+    <state width="1874" height="315" key="GridCell.Tab.1.right" timestamp="1637960846888">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="239" key="GridCell.Tab.1.right/1920.0.1920.1080/0.28.1920.1026@0.28.1920.1026" timestamp="1636586161648" />
+    <state width="1874" height="315" key="GridCell.Tab.1.right/1920.0.1920.1080/0.28.1920.1026@1920.0.1920.1080" timestamp="1637960846888" />
+    <state x="2413" y="199" width="924" height="690" key="Maven.ArtifactSearchDialog" timestamp="1635961061930">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2413" y="199" width="924" height="690" key="Maven.ArtifactSearchDialog/1920.0.1920.1080/0.28.1920.1026@1920.0.1920.1080" timestamp="1635961061930" />
+    <state x="2050" y="172" width="1682" height="736" key="SettingsEditor" timestamp="1635431114394">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="478" y="191" width="1022" height="789" key="SettingsEditor/1920.0.1920.1080/0.28.1920.1026@0.28.1920.1026" timestamp="1635345616976" />
+    <state x="2050" y="172" width="1682" height="736" key="SettingsEditor/1920.0.1920.1080/0.28.1920.1026@1920.0.1920.1080" timestamp="1635431114394" />
+    <state width="960" height="513" key="XDebugger.FullValuePopup" timestamp="1636385212174">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="960" height="513" key="XDebugger.FullValuePopup/1920.0.1920.1080/0.28.1920.1026@1920.0.1920.1080" timestamp="1636385212174" />
+    <state x="2672" y="461" width="405" height="172" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1636384666244">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2672" y="461" width="405" height="172" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/1920.0.1920.1080/0.28.1920.1026@1920.0.1920.1080" timestamp="1636384666244" />
+    <state x="2349" y="243" width="1052" height="601" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1637944584310">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2349" y="243" width="1052" height="601" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/1920.0.1920.1080/0.28.1920.1026@1920.0.1920.1080" timestamp="1637944584310" />
+    <state x="3245" y="195" width="524" height="519" key="extract.method.dialog" timestamp="1636139591779">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="3245" y="195" width="524" height="519" key="extract.method.dialog/1920.0.1920.1080/0.28.1920.1026@1920.0.1920.1080" timestamp="1636139591779" />
+    <state x="2406" y="112" width="1154" height="823" key="find.popup" timestamp="1637943811044">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="486" y="134" width="1154" height="782" key="find.popup/1920.0.1920.1080/0.28.1920.1026@0.28.1920.1026" timestamp="1635345920913" />
+    <state x="2406" y="112" width="1154" height="823" key="find.popup/1920.0.1920.1080/0.28.1920.1026@1920.0.1920.1080" timestamp="1637943811044" />
+    <state x="542" y="51" width="818" height="900" key="new project wizard" timestamp="1635258562467">
+      <screen x="0" y="28" width="1920" height="1026" />
+    </state>
+    <state x="542" y="51" width="818" height="900" key="new project wizard/1920.0.1920.1080/0.28.1920.1026@0.28.1920.1026" timestamp="1635258562467" />
+    <state x="2647" y="292" width="456" height="504" key="refactoring.ChangeSignatureDialog" timestamp="1633706878247">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2647" y="292" width="456" height="504" key="refactoring.ChangeSignatureDialog/1920.0.1920.1080/0.28.1920.1026@1920.0.1920.1080" timestamp="1633706878247" />
+    <state x="2544" y="246" width="672" height="686" key="run.anything.popup" timestamp="1636992772189">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2544" y="246" width="672" height="686" key="run.anything.popup/1920.0.1920.1080/0.28.1920.1026@1920.0.1920.1080" timestamp="1636992772189" />
+    <state x="2543" y="253" width="672" height="687" key="search.everywhere.popup" timestamp="1637943909496">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="623" y="268" width="672" height="653" key="search.everywhere.popup/1920.0.1920.1080/0.28.1920.1026@0.28.1920.1026" timestamp="1637867493350" />
+    <state x="2543" y="253" width="672" height="687" key="search.everywhere.popup/1920.0.1920.1080/0.28.1920.1026@1920.0.1920.1080" timestamp="1637943909496" />
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>baseDomains.get(0)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>System.getProperties()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>System.getenv()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>System</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>streamReader.getNamespaceURI()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>streamReader</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>validateDigitalSignature(this.path.toString())</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>SignatureMethod.class.getClassLoader()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>SignatureMethod.class.getClass()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>SignatureMethod.class.getName()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/manager/base/src/main/java/org/wildfly/security/manager/JDKSpecific.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="67">
+          <caret line="22" column="95" selection-start-line="22" selection-start-column="95" selection-end-line="22" selection-end-column="95" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/base/src/main/java/org/wildfly/security/WildFlyElytronBaseProvider.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="268">
+          <caret line="49" column="81" selection-start-line="49" selection-start-column="81" selection-end-line="49" selection-end-column="81" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jrt:///usr/lib/jvm/java-11-openjdk-11.0.13.0.8-1.fc34.x86_64!/java.xml.crypto/javax/xml/crypto/AlgorithmMethod.class" />
+    <entry file="jrt:///usr/lib/jvm/java-11!/java.xml.crypto/javax/xml/crypto/dsig/SignatureMethod.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="16" column="76" selection-start-line="16" selection-start-column="76" selection-end-line="16" selection-end-column="76" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ssl/src/main/java/org/wildfly/security/ssl/ConfiguredSSLEngine.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="33" selection-start-line="33" selection-end-line="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jrt:///usr/lib/jvm/java-11!/java.base/java/security/KeyPairGenerator.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1870">
+          <caret line="100" column="11" selection-start-line="100" selection-start-column="11" selection-end-line="100" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jrt:///usr/lib/jvm/java-11-openjdk-11.0.13.0.8-1.fc34.x86_64!/java.xml.crypto/javax/xml/crypto/dsig/XMLSignatureFactory.class" />
+    <entry file="jrt:///usr/lib/jvm/java-11-openjdk-11.0.13.0.8-1.fc34.x86_64!/java.xml.crypto/javax/xml/crypto/dsig/SignatureMethod.class" />
+    <entry file="jrt:///usr/lib/jvm/java-11-openjdk-11.0.13.0.8-1.fc34.x86_64!/java.xml.crypto/org/jcp/xml/dsig/internal/dom/DOMSignatureMethod.class" />
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22506">
+          <caret line="1023" selection-start-line="1018" selection-end-line="1023" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/auth/realm/base/src/main/java/org/wildfly/security/auth/realm/FileSystemSecurityRealmBuilder.java" />
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/santuario/xmlsec/2.3.0/xmlsec-2.3.0.jar!/org/apache/xml/security/signature/XMLSignature.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="34" column="19" selection-start-line="34" selection-start-column="19" selection-end-line="34" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jrt:///usr/lib/jvm/java-11-openjdk-11.0.13.0.8-1.fc34.x86_64!/java.xml.crypto/org/jcp/xml/dsig/internal/dom/AbstractDOMSignatureMethod.class" />
+    <entry file="file://$PROJECT_DIR$/tests/base/target/test-classes/filesystem-realm/p/l/plainuser-OBWGC2LOKVZWK4Q.xml" />
+    <entry file="file://$PROJECT_DIR$/auth/base/src/main/java/org/wildfly/security/auth/principal/NamePrincipal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="44" column="11" selection-start-line="44" selection-start-column="11" selection-end-line="44" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jrt:///usr/lib/jvm/java-11-openjdk-11.0.13.0.8-1.fc34.x86_64!/java.base/java/nio/file/Path.class" />
+    <entry file="jar://$MAVEN_REPOSITORY$/org/jmockit/jmockit/1.34/jmockit-1.34.jar!/mockit/integration/junit4/internal/JUnit4TestRunnerDecorator.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="429">
+          <caret line="145" selection-start-line="145" selection-end-line="145" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/base/target/test-classes/filesystem-realm/O/OBWGC2LOKVZWK4Q.xml" />
+    <entry file="file://$PROJECT_DIR$/auth/server/base/src/main/java/org/wildfly/security/auth/server/ModifiableRealmIdentity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1078">
+          <caret line="75" column="22" selection-start-line="75" selection-start-column="9" selection-end-line="75" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tool/src/main/java/org/wildfly/security/tool/MaskCommand.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="35" column="6" selection-start-line="35" selection-start-column="6" selection-end-line="35" selection-end-column="6" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tool/src/main/java/org/wildfly/security/tool/VaultCommand.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="62" column="13" selection-start-line="62" selection-start-column="13" selection-end-line="62" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tool/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="726">
+          <caret line="288" column="20" selection-start-line="288" selection-start-column="20" selection-end-line="288" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tool/src/main/java/org/wildfly/security/tool/FileSystemRealmCommand.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="87" column="24" selection-start-line="87" selection-start-column="24" selection-end-line="87" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tool/src/main/java/org/wildfly/security/tool/Command.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="43" column="22" selection-start-line="43" selection-start-column="22" selection-end-line="43" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tool/src/test/java/org/wildfly/security/tool/BaseToolTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-111">
+          <caret line="29" column="13" selection-start-line="29" selection-start-column="13" selection-end-line="29" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tool/src/test/java/org/wildfly/security/tool/CredentialStoreCommandInputTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="30" column="13" selection-start-line="30" selection-start-column="13" selection-end-line="30" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/base/target/test-classes/filesystem-realm/O/ORSXG5DJNZTVK43FOI.xml" />
+    <entry file="file://$PROJECT_DIR$/auth/client/src/main/resources/schema/elytron-client-1_7.xsd">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-5434">
+          <caret line="23" column="21" lean-forward="true" selection-start-line="23" selection-start-column="21" selection-end-line="23" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/auth/client/src/main/resources/schema/elytron-client-1_1.xsd">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="585" column="44" selection-start-line="585" selection-start-column="44" selection-end-line="585" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/auth/realm/base/target/generated-sources/annotations/org/wildfly/security/auth/realm/ElytronMessages_$logger.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="358">
+          <caret line="288" column="17" selection-start-line="288" selection-start-column="17" selection-end-line="288" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/auth/server/base/src/main/java/org/wildfly/security/auth/server/RealmIdentity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="218">
+          <caret line="241" column="17" selection-start-line="241" selection-start-column="17" selection-end-line="241" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/base/target/test-classes/filesystem-realm/p/-/O/p-OA.xml" />
+    <entry file="file://$PROJECT_DIR$/tests/base/target/test-classes/filesystem-realm/u/s/e/user-OVZWK4Q.xml" />
+    <entry file="file://$PROJECT_DIR$/auth/realm/base/src/main/java/org/wildfly/security/auth/realm/ElytronMessages.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2420">
+          <caret line="141" column="1" selection-start-line="141" selection-start-column="1" selection-end-line="141" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jrt:///usr/lib/jvm/java-11-openjdk-11.0.13.0.8-1.fc34.x86_64!/java.xml.crypto/javax/xml/crypto/dsig/XMLSignature.class" />
+    <entry file="jrt:///usr/lib/jvm/java-11-openjdk-11.0.13.0.8-1.fc34.x86_64!/java.base/java/io/File.class" />
+    <entry file="file://$PROJECT_DIR$/tests/base/src/test/resources/filesystem-realm/u/s/e/user-OVZWK4Q.xml" />
+    <entry file="file://$PROJECT_DIR$/tool/src/main/java/org/wildfly/security/tool/CredentialStoreCommand.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6798">
+          <caret line="374" column="38" selection-start-line="374" selection-start-column="38" selection-end-line="374" selection-end-column="38" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/base/src/test/java/org/wildfly/security/auth/FileSystemSecurityRealmTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1364">
+          <caret line="135" column="4" selection-start-line="135" selection-start-column="4" selection-end-line="135" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/auth/realm/base/src/main/java/org/wildfly/security/auth/realm/FileSystemSecurityRealm.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1100">
+          <caret line="66" column="6" selection-start-line="66" selection-start-column="6" selection-end-line="66" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/auth/realm/base/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1804">
+          <caret line="82" column="21" selection-start-line="82" selection-start-column="21" selection-end-line="82" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tool/src/test/java/org/wildfly/security/tool/CredentialStoreCommandTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1166">
+          <caret line="98" column="15" selection-start-line="98" selection-start-column="15" selection-end-line="98" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/auth/client/src/main/resources/schema/elytron-1_0.xsd">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="9504">
+          <caret line="432" selection-start-line="432" selection-end-line="432" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/auth/client/src/main/resources/schema/elytron-1_0_1.xsd">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="9262">
+          <caret line="421" selection-start-line="421" selection-end-line="421" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tool/src/main/java/org/wildfly/security/tool/ElytronTool.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="141" column="38" selection-start-line="141" selection-start-column="38" selection-end-line="141" selection-end-column="38" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/manager/base/src/main/java/org/wildfly/security/manager/WildFlySecurityManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="55" column="15" selection-start-line="55" selection-start-column="15" selection-end-line="55" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/manager/base/src/test/java/org/wildfly/security/manager/AlternateSecurityManagerTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="141">
+          <caret line="335" selection-start-line="335" selection-end-line="335" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/base/src/test/java/org/wildfly/security/auth/server/IdentitySwitchingTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="188">
+          <caret line="56" column="13" selection-start-line="56" selection-start-column="13" selection-end-line="56" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/jmockit/jmockit/1.34/jmockit-1.34-sources.jar!/mockit/integration/junit4/internal/JUnit4TestRunnerDecorator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="172">
+          <caret line="163" selection-start-line="163" selection-end-line="163" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/auth/server/base/src/main/java/org/wildfly/security/auth/server/ServerAuthenticationContext.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="1080" column="21" lean-forward="true" selection-start-line="1080" selection-start-column="21" selection-end-line="1080" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/base/src/test/java/org/wildfly/security/auth/server/AvailableRealmsCallbackTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="35" column="74" selection-start-line="35" selection-start-column="74" selection-end-line="35" selection-end-column="74" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI" />
+      <state key="GlobalLibrariesConfigurable.UI" />
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>java-11-rolling</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2283737" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>wildfly-elytron</last-edited>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI" />
+    </states>
+  </component>
+</project>

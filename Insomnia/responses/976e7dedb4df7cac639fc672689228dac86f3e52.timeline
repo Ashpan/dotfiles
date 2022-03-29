@@ -1,0 +1,277 @@
+[
+	{
+		"name": "TEXT",
+		"value": "Preparing request to https://d22n8yer1yb325.cloudfront.net/Team1325_Sandbox/derived/metrics",
+		"timestamp": 1646858189830
+	},
+	{
+		"name": "TEXT",
+		"value": "Current time is 2022-03-09T20:36:29.830Z",
+		"timestamp": 1646858189830
+	},
+	{
+		"name": "TEXT",
+		"value": "Using libcurl/7.73.0 OpenSSL/1.1.1l zlib/1.2.11 brotli/1.0.9 zstd/1.5.2 libidn2/2.3.2 libssh2/1.9.0 nghttp2/1.42.0",
+		"timestamp": 1646858189830
+	},
+	{
+		"name": "TEXT",
+		"value": "Using default HTTP version",
+		"timestamp": 1646858189830
+	},
+	{
+		"name": "TEXT",
+		"value": "Disable timeout",
+		"timestamp": 1646858189830
+	},
+	{
+		"name": "TEXT",
+		"value": "Enable automatic URL encoding",
+		"timestamp": 1646858189830
+	},
+	{
+		"name": "TEXT",
+		"value": "Enable SSL validation",
+		"timestamp": 1646858189830
+	},
+	{
+		"name": "TEXT",
+		"value": "Enable cookie sending with jar of 0 cookies",
+		"timestamp": 1646858189831
+	},
+	{
+		"name": "TEXT",
+		"value": "Found bundle for host d22n8yer1yb325.cloudfront.net: 0xfc1b3ab6c00 [can multiplex]\n",
+		"timestamp": 1646858189832
+	},
+	{
+		"name": "TEXT",
+		"value": "Re-using existing connection! (#13) with host d22n8yer1yb325.cloudfront.net\n",
+		"timestamp": 1646858189832
+	},
+	{
+		"name": "TEXT",
+		"value": "Connected to d22n8yer1yb325.cloudfront.net (13.226.140.47) port 443 (#13)\n",
+		"timestamp": 1646858189832
+	},
+	{
+		"name": "TEXT",
+		"value": "Using Stream ID: 7 (easy handle 0xfc1b5cafa00)\n",
+		"timestamp": 1646858189832
+	},
+	{
+		"name": "HEADER_OUT",
+		"value": "POST /Team1325_Sandbox/derived/metrics HTTP/2\r\nHost: d22n8yer1yb325.cloudfront.net\r\nuser-agent: insomnia/2021.7.2\r\ncontent-type: application/json\r\nauthorization: Bearer a1e38e5e-4346-47bc-8de2-c9cf1482532b\r\naccept: */*\r\ncontent-length: 143\r\n\r\n",
+		"timestamp": 1646858189832
+	},
+	{
+		"name": "DATA_OUT",
+		"value": "{\n\t\"metrics\": [\n\t\t{\n\t\t\t\"expression\": \"$AVG{Teleop High Goal Accuracy}\",\n\t\t\t\"label\": \"Scoring\",\n\t\t\t\"name\": \"Average High Goal Accuracy\"\n\t\t}\n\t]\n}",
+		"timestamp": 1646858189832
+	},
+	{
+		"name": "TEXT",
+		"value": "We are completely uploaded and fine\n",
+		"timestamp": 1646858189832
+	},
+	{
+		"name": "HEADER_IN",
+		"value": "HTTP/2 308 \r\n",
+		"timestamp": 1646858189881
+	},
+	{
+		"name": "HEADER_IN",
+		"value": "content-type: text/html; charset=utf-8\r\n",
+		"timestamp": 1646858189881
+	},
+	{
+		"name": "HEADER_IN",
+		"value": "content-length: 346\r\n",
+		"timestamp": 1646858189881
+	},
+	{
+		"name": "HEADER_IN",
+		"value": "location: http://d22n8yer1yb325.cloudfront.net/Team1325_Sandbox/derived/metrics/\r\n",
+		"timestamp": 1646858189881
+	},
+	{
+		"name": "HEADER_IN",
+		"value": "date: Wed, 09 Mar 2022 20:36:29 GMT\r\n",
+		"timestamp": 1646858189881
+	},
+	{
+		"name": "HEADER_IN",
+		"value": "server: nginx/1.18.0\r\n",
+		"timestamp": 1646858189881
+	},
+	{
+		"name": "HEADER_IN",
+		"value": "access-control-allow-origin: *\r\n",
+		"timestamp": 1646858189881
+	},
+	{
+		"name": "HEADER_IN",
+		"value": "x-cache: Miss from cloudfront\r\n",
+		"timestamp": 1646858189881
+	},
+	{
+		"name": "HEADER_IN",
+		"value": "via: 1.1 1880efaf6c8d1c7e061969f80e80d2dc.cloudfront.net (CloudFront)\r\n",
+		"timestamp": 1646858189881
+	},
+	{
+		"name": "HEADER_IN",
+		"value": "x-amz-cf-pop: YTO50-C2\r\n",
+		"timestamp": 1646858189881
+	},
+	{
+		"name": "HEADER_IN",
+		"value": "x-amz-cf-id: _uuoGmmd8V2BiDr_SAWSdSTZOpHrm7IAV2KtN-XLopJ3b33r7UkBvA==\r\n",
+		"timestamp": 1646858189881
+	},
+	{
+		"name": "HEADER_IN",
+		"value": "\r\n",
+		"timestamp": 1646858189881
+	},
+	{
+		"name": "TEXT",
+		"value": "Ignoring the response-body\n",
+		"timestamp": 1646858189881
+	},
+	{
+		"name": "TEXT",
+		"value": "Received 346 B chunk",
+		"timestamp": 1646858189881
+	},
+	{
+		"name": "TEXT",
+		"value": "Connection #13 to host d22n8yer1yb325.cloudfront.net left intact\n",
+		"timestamp": 1646858189881
+	},
+	{
+		"name": "TEXT",
+		"value": "Issue another request to this URL: 'http://d22n8yer1yb325.cloudfront.net/Team1325_Sandbox/derived/metrics/'\n",
+		"timestamp": 1646858189881
+	},
+	{
+		"name": "TEXT",
+		"value": "Found bundle for host d22n8yer1yb325.cloudfront.net: 0xfc1b40d4330 [serially]\n",
+		"timestamp": 1646858189882
+	},
+	{
+		"name": "TEXT",
+		"value": "Can not multiplex, even if we wanted to!\n",
+		"timestamp": 1646858189882
+	},
+	{
+		"name": "TEXT",
+		"value": "Re-using existing connection! (#14) with host d22n8yer1yb325.cloudfront.net\n",
+		"timestamp": 1646858189882
+	},
+	{
+		"name": "TEXT",
+		"value": "Connected to d22n8yer1yb325.cloudfront.net (13.226.140.54) port 80 (#14)\n",
+		"timestamp": 1646858189882
+	},
+	{
+		"name": "HEADER_OUT",
+		"value": "POST /Team1325_Sandbox/derived/metrics/ HTTP/1.1\r\nHost: d22n8yer1yb325.cloudfront.net\r\nUser-Agent: insomnia/2021.7.2\r\nContent-Type: application/json\r\nAuthorization: Bearer a1e38e5e-4346-47bc-8de2-c9cf1482532b\r\nAccept: */*\r\nContent-Length: 143\r\n\r\n",
+		"timestamp": 1646858189882
+	},
+	{
+		"name": "DATA_OUT",
+		"value": "{\n\t\"metrics\": [\n\t\t{\n\t\t\t\"expression\": \"$AVG{Teleop High Goal Accuracy}\",\n\t\t\t\"label\": \"Scoring\",\n\t\t\t\"name\": \"Average High Goal Accuracy\"\n\t\t}\n\t]\n}",
+		"timestamp": 1646858189882
+	},
+	{
+		"name": "TEXT",
+		"value": "upload completely sent off: 143 out of 143 bytes\n",
+		"timestamp": 1646858189882
+	},
+	{
+		"name": "TEXT",
+		"value": "Mark bundle as not supporting multiuse\n",
+		"timestamp": 1646858190014
+	},
+	{
+		"name": "HEADER_IN",
+		"value": "HTTP/1.1 200 OK\r\n",
+		"timestamp": 1646858190014
+	},
+	{
+		"name": "HEADER_IN",
+		"value": "Content-Type: application/json\r\n",
+		"timestamp": 1646858190014
+	},
+	{
+		"name": "HEADER_IN",
+		"value": "Content-Length: 1461\r\n",
+		"timestamp": 1646858190014
+	},
+	{
+		"name": "HEADER_IN",
+		"value": "Connection: keep-alive\r\n",
+		"timestamp": 1646858190014
+	},
+	{
+		"name": "HEADER_IN",
+		"value": "Vary: Accept-Encoding\r\n",
+		"timestamp": 1646858190014
+	},
+	{
+		"name": "HEADER_IN",
+		"value": "Date: Wed, 09 Mar 2022 20:36:30 GMT\r\n",
+		"timestamp": 1646858190014
+	},
+	{
+		"name": "HEADER_IN",
+		"value": "Server: nginx/1.18.0\r\n",
+		"timestamp": 1646858190014
+	},
+	{
+		"name": "HEADER_IN",
+		"value": "Access-Control-Allow-Origin: *\r\n",
+		"timestamp": 1646858190014
+	},
+	{
+		"name": "HEADER_IN",
+		"value": "X-Cache: Miss from cloudfront\r\n",
+		"timestamp": 1646858190014
+	},
+	{
+		"name": "HEADER_IN",
+		"value": "Via: 1.1 7c892814cd49a1aa7218fdfabfbac856.cloudfront.net (CloudFront)\r\n",
+		"timestamp": 1646858190014
+	},
+	{
+		"name": "HEADER_IN",
+		"value": "X-Amz-Cf-Pop: YTO50-C2\r\n",
+		"timestamp": 1646858190014
+	},
+	{
+		"name": "HEADER_IN",
+		"value": "X-Amz-Cf-Id: 7JKwFkq2DSsIsrGdPhmJkiyqNO2uTctt_GPsj2ltbr4cSy-fYvl_MQ==\r\n",
+		"timestamp": 1646858190014
+	},
+	{
+		"name": "HEADER_IN",
+		"value": "\r\n",
+		"timestamp": 1646858190014
+	},
+	{
+		"name": "TEXT",
+		"value": "Received 1020 B chunk",
+		"timestamp": 1646858190014
+	},
+	{
+		"name": "TEXT",
+		"value": "Received 441 B chunk",
+		"timestamp": 1646858190030
+	},
+	{
+		"name": "TEXT",
+		"value": "Connection #14 to host d22n8yer1yb325.cloudfront.net left intact\n",
+		"timestamp": 1646858190030
+	}
+]

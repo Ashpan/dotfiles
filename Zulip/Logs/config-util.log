@@ -1,0 +1,42 @@
+ERROR | 0/10 9:57 |	 Error while reloading settings.json: 
+ERROR | 0/10 9:57 |	 DatabaseError: Can't Load Database
+    at JsonDB.load (/tmp/.mount_Zulip-cGw9nV/resources/app.asar/node_modules/node-json-db/dist/JsonDB.js:304:27)
+    at JsonDB.reload (/tmp/.mount_Zulip-cGw9nV/resources/app.asar/node_modules/node-json-db/dist/JsonDB.js:287:14)
+    at Object.getConfigItem (/tmp/.mount_Zulip-cGw9nV/resources/app.asar/app/common/config-util.js:43:12)
+    at Object.appUpdater (/tmp/.mount_Zulip-cGw9nV/resources/app.asar/app/main/autoupdater.js:51:37)
+    at Object.<anonymous> (/tmp/.mount_Zulip-cGw9nV/resources/app.asar/app/main/index.js:208:33)
+    at Object.onceWrapper (events.js:422:26)
+    at Object.emit (events.js:315:20)
+    at Object.EventEmitter.emit (domain.js:467:12) {
+  inner: SyntaxError: Unexpected end of JSON input
+      at JSON.parse (<anonymous>)
+      at JsonDB.load (/tmp/.mount_Zulip-cGw9nV/resources/app.asar/node_modules/node-json-db/dist/JsonDB.js:300:30)
+      at JsonDB.reload (/tmp/.mount_Zulip-cGw9nV/resources/app.asar/node_modules/node-json-db/dist/JsonDB.js:287:14)
+      at Object.getConfigItem (/tmp/.mount_Zulip-cGw9nV/resources/app.asar/app/common/config-util.js:43:12)
+      at Object.appUpdater (/tmp/.mount_Zulip-cGw9nV/resources/app.asar/app/main/autoupdater.js:51:37)
+      at Object.<anonymous> (/tmp/.mount_Zulip-cGw9nV/resources/app.asar/app/main/index.js:208:33)
+      at Object.onceWrapper (events.js:422:26)
+      at Object.emit (events.js:315:20)
+      at Object.EventEmitter.emit (domain.js:467:12),
+  id: 1
+}
+ERROR | 2/4 0:19 |	 Error while reloading settings.json: 
+ERROR | 2/4 0:19 |	 DatabaseError: Can't Load Database
+    at JsonDB.load (/tmp/.mount_Zulip-rx958c/resources/app.asar/node_modules/node-json-db/dist/JsonDB.js:304:27)
+    at JsonDB.reload (/tmp/.mount_Zulip-rx958c/resources/app.asar/node_modules/node-json-db/dist/JsonDB.js:287:14)
+    at Object.getConfigItem (/tmp/.mount_Zulip-rx958c/resources/app.asar/app/common/config-util.js:43:12)
+    at Object.<anonymous> (/tmp/.mount_Zulip-rx958c/resources/app.asar/app/main/index.js:207:24)
+    at Object.onceWrapper (events.js:422:26)
+    at Object.emit (events.js:315:20)
+    at Object.EventEmitter.emit (domain.js:467:12) {
+  inner: SyntaxError: Unexpected end of JSON input
+      at JSON.parse (<anonymous>)
+      at JsonDB.load (/tmp/.mount_Zulip-rx958c/resources/app.asar/node_modules/node-json-db/dist/JsonDB.js:300:30)
+      at JsonDB.reload (/tmp/.mount_Zulip-rx958c/resources/app.asar/node_modules/node-json-db/dist/JsonDB.js:287:14)
+      at Object.getConfigItem (/tmp/.mount_Zulip-rx958c/resources/app.asar/app/common/config-util.js:43:12)
+      at Object.<anonymous> (/tmp/.mount_Zulip-rx958c/resources/app.asar/app/main/index.js:207:24)
+      at Object.onceWrapper (events.js:422:26)
+      at Object.emit (events.js:315:20)
+      at Object.EventEmitter.emit (domain.js:467:12),
+  id: 1
+}

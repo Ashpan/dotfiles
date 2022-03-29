@@ -1,0 +1,203 @@
+package org.wildfly.security.asn1;
+
+import java.util.Locale;
+import java.lang.IllegalStateException;
+import java.io.Serializable;
+import javax.annotation.Generated;
+import org.jboss.logging.DelegatingBasicLogger;
+import org.wildfly.security.asn1.ASN1Exception;
+import org.jboss.logging.BasicLogger;
+import java.lang.Throwable;
+import org.jboss.logging.Logger;
+import java.util.Arrays;
+
+/**
+ * Warning this class consists of generated code.
+ */
+@Generated(value = "org.jboss.logging.processor.generator.model.MessageLoggerImplementor", date = "2021-10-07T14:06:09-0400")
+public class ElytronMessages_$logger extends DelegatingBasicLogger implements ElytronMessages, BasicLogger, Serializable {
+    private static final long serialVersionUID = 1L;
+    private static final String FQCN = ElytronMessages_$logger.class.getName();
+    public ElytronMessages_$logger(final Logger log) {
+        super(log);
+    }
+    private static final Locale LOCALE = Locale.ROOT;
+    protected Locale getLoggingLocale() {
+        return LOCALE;
+    }
+    protected String unableToLoadOidsFromPropertiesFile$str() {
+        return "ELY00012: Unable to load OIDs database from properties file";
+    }
+    @Override
+    public final IllegalStateException unableToLoadOidsFromPropertiesFile(final Throwable cause) {
+        final IllegalStateException result = new IllegalStateException(String.format(getLoggingLocale(), unableToLoadOidsFromPropertiesFile$str()), cause);
+        _copyStackTraceMinusOne(result);
+        return result;
+    }
+    private static void _copyStackTraceMinusOne(final Throwable e) {
+        final StackTraceElement[] st = e.getStackTrace();
+        e.setStackTrace(Arrays.copyOfRange(st, 1, st.length));
+    }
+    protected String asnUnexpectedTag$str() {
+        return "ELY07004: Unexpected ASN.1 tag encountered";
+    }
+    @Override
+    public final org.wildfly.security.asn1.ASN1Exception asnUnexpectedTag() {
+        final org.wildfly.security.asn1.ASN1Exception result = new org.wildfly.security.asn1.ASN1Exception(String.format(getLoggingLocale(), asnUnexpectedTag$str()));
+        _copyStackTraceMinusOne(result);
+        return result;
+    }
+    protected String asnUnableToReadCertificateData$str() {
+        return "ELY07005: Unable to read X.509 certificate data";
+    }
+    @Override
+    public final org.wildfly.security.asn1.ASN1Exception asnUnableToReadCertificateData(final Throwable cause) {
+        final org.wildfly.security.asn1.ASN1Exception result = new org.wildfly.security.asn1.ASN1Exception(String.format(getLoggingLocale(), asnUnableToReadCertificateData$str()), cause);
+        _copyStackTraceMinusOne(result);
+        return result;
+    }
+    protected String noSequenceToEnd$str() {
+        return "ELY07009: No sequence to end";
+    }
+    @Override
+    public final IllegalStateException noSequenceToEnd() {
+        final IllegalStateException result = new IllegalStateException(String.format(getLoggingLocale(), noSequenceToEnd$str()));
+        _copyStackTraceMinusOne(result);
+        return result;
+    }
+    protected String noSetToEnd$str() {
+        return "ELY07010: No set to end";
+    }
+    @Override
+    public final IllegalStateException noSetToEnd() {
+        final IllegalStateException result = new IllegalStateException(String.format(getLoggingLocale(), noSetToEnd$str()));
+        _copyStackTraceMinusOne(result);
+        return result;
+    }
+    protected String noExplicitlyTaggedElementToEnd$str() {
+        return "ELY07011: No explicitly tagged element to end";
+    }
+    @Override
+    public final IllegalStateException noExplicitlyTaggedElementToEnd() {
+        final IllegalStateException result = new IllegalStateException(String.format(getLoggingLocale(), noExplicitlyTaggedElementToEnd$str()));
+        _copyStackTraceMinusOne(result);
+        return result;
+    }
+    protected String asnUnexpectedEndOfInput$str() {
+        return "ELY07012: Unexpected end of input";
+    }
+    @Override
+    public final org.wildfly.security.asn1.ASN1Exception asnUnexpectedEndOfInput() {
+        final org.wildfly.security.asn1.ASN1Exception result = new org.wildfly.security.asn1.ASN1Exception(String.format(getLoggingLocale(), asnUnexpectedEndOfInput$str()));
+        _copyStackTraceMinusOne(result);
+        return result;
+    }
+    protected String asnInvalidNumberOfUnusedBits$str() {
+        return "ELY07013: Invalid number of unused bits";
+    }
+    @Override
+    public final org.wildfly.security.asn1.ASN1Exception asnInvalidNumberOfUnusedBits() {
+        final org.wildfly.security.asn1.ASN1Exception result = new org.wildfly.security.asn1.ASN1Exception(String.format(getLoggingLocale(), asnInvalidNumberOfUnusedBits$str()));
+        _copyStackTraceMinusOne(result);
+        return result;
+    }
+    protected String asnNonZeroLengthForNullTypeTag$str() {
+        return "ELY07014: Non-zero length encountered for null type tag";
+    }
+    @Override
+    public final org.wildfly.security.asn1.ASN1Exception asnNonZeroLengthForNullTypeTag() {
+        final org.wildfly.security.asn1.ASN1Exception result = new org.wildfly.security.asn1.ASN1Exception(String.format(getLoggingLocale(), asnNonZeroLengthForNullTypeTag$str()));
+        _copyStackTraceMinusOne(result);
+        return result;
+    }
+    protected String asnInvalidHighTagNumberForm$str() {
+        return "ELY07015: Invalid high-tag-number form";
+    }
+    @Override
+    public final org.wildfly.security.asn1.ASN1Exception asnInvalidHighTagNumberForm() {
+        final org.wildfly.security.asn1.ASN1Exception result = new org.wildfly.security.asn1.ASN1Exception(String.format(getLoggingLocale(), asnInvalidHighTagNumberForm$str()));
+        _copyStackTraceMinusOne(result);
+        return result;
+    }
+    protected String asnLengthEncodingExceeds4bytes$str() {
+        return "ELY07016: Length encoding exceeds 4 bytes";
+    }
+    @Override
+    public final org.wildfly.security.asn1.ASN1Exception asnLengthEncodingExceeds4bytes() {
+        final org.wildfly.security.asn1.ASN1Exception result = new org.wildfly.security.asn1.ASN1Exception(String.format(getLoggingLocale(), asnLengthEncodingExceeds4bytes$str()));
+        _copyStackTraceMinusOne(result);
+        return result;
+    }
+    protected String asnInvalidOidCharacter$str() {
+        return "ELY07017: Invalid OID character";
+    }
+    @Override
+    public final org.wildfly.security.asn1.ASN1Exception asnInvalidOidCharacter() {
+        final org.wildfly.security.asn1.ASN1Exception result = new org.wildfly.security.asn1.ASN1Exception(String.format(getLoggingLocale(), asnInvalidOidCharacter$str()));
+        _copyStackTraceMinusOne(result);
+        return result;
+    }
+    protected String asnOidMustHaveAtLeast2Components$str() {
+        return "ELY07018: OID must have at least 2 components";
+    }
+    @Override
+    public final org.wildfly.security.asn1.ASN1Exception asnOidMustHaveAtLeast2Components() {
+        final org.wildfly.security.asn1.ASN1Exception result = new org.wildfly.security.asn1.ASN1Exception(String.format(getLoggingLocale(), asnOidMustHaveAtLeast2Components$str()));
+        _copyStackTraceMinusOne(result);
+        return result;
+    }
+    protected String asnInvalidValueForFirstOidComponent$str() {
+        return "ELY07019: Invalid value for first OID component; expected 0, 1, or 2";
+    }
+    @Override
+    public final org.wildfly.security.asn1.ASN1Exception asnInvalidValueForFirstOidComponent() {
+        final org.wildfly.security.asn1.ASN1Exception result = new org.wildfly.security.asn1.ASN1Exception(String.format(getLoggingLocale(), asnInvalidValueForFirstOidComponent$str()));
+        _copyStackTraceMinusOne(result);
+        return result;
+    }
+    protected String asnInvalidValueForSecondOidComponent$str() {
+        return "ELY07020: Invalid value for second OID component; expected a value between 0 and 39 (inclusive)";
+    }
+    @Override
+    public final org.wildfly.security.asn1.ASN1Exception asnInvalidValueForSecondOidComponent() {
+        final org.wildfly.security.asn1.ASN1Exception result = new org.wildfly.security.asn1.ASN1Exception(String.format(getLoggingLocale(), asnInvalidValueForSecondOidComponent$str()));
+        _copyStackTraceMinusOne(result);
+        return result;
+    }
+    protected String asnInvalidLength$str() {
+        return "ELY07021: Invalid length";
+    }
+    @Override
+    public final org.wildfly.security.asn1.ASN1Exception asnInvalidLength() {
+        final org.wildfly.security.asn1.ASN1Exception result = new org.wildfly.security.asn1.ASN1Exception(String.format(getLoggingLocale(), asnInvalidLength$str()));
+        _copyStackTraceMinusOne(result);
+        return result;
+    }
+    protected String asnUnknownTagType$str() {
+        return "ELY07022: Unknown tag type: %d";
+    }
+    @Override
+    public final org.wildfly.security.asn1.ASN1Exception asnUnknownTagType(final int type) {
+        final org.wildfly.security.asn1.ASN1Exception result = new org.wildfly.security.asn1.ASN1Exception(String.format(getLoggingLocale(), asnUnknownTagType$str(), type));
+        _copyStackTraceMinusOne(result);
+        return result;
+    }
+    protected String asnUnexpectedCharacterByteForPrintableString$str() {
+        return "ELY07023: Unexpected character byte for printable string";
+    }
+    @Override
+    public final org.wildfly.security.asn1.ASN1Exception asnUnexpectedCharacterByteForPrintableString() {
+        final org.wildfly.security.asn1.ASN1Exception result = new org.wildfly.security.asn1.ASN1Exception(String.format(getLoggingLocale(), asnUnexpectedCharacterByteForPrintableString$str()));
+        _copyStackTraceMinusOne(result);
+        return result;
+    }
+    protected String asnInvalidLengthForBooleanTypeTag$str() {
+        return "ELY07024: Invalid length encountered for boolean type tag";
+    }
+    @Override
+    public final org.wildfly.security.asn1.ASN1Exception asnInvalidLengthForBooleanTypeTag() {
+        final org.wildfly.security.asn1.ASN1Exception result = new org.wildfly.security.asn1.ASN1Exception(String.format(getLoggingLocale(), asnInvalidLengthForBooleanTypeTag$str()));
+        _copyStackTraceMinusOne(result);
+        return result;
+    }
+}

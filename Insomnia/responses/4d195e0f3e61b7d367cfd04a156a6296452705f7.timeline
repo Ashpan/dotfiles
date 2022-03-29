@@ -1,0 +1,202 @@
+[
+	{
+		"name": "TEXT",
+		"value": "Preparing request to http://192.168.68.115:5003/Team1325/1241/Humber/1/raw_data",
+		"timestamp": 1648401476586
+	},
+	{
+		"name": "TEXT",
+		"value": "Current time is 2022-03-27T17:17:56.586Z",
+		"timestamp": 1648401476586
+	},
+	{
+		"name": "TEXT",
+		"value": "Using libcurl/7.73.0 OpenSSL/1.1.1l zlib/1.2.11 brotli/1.0.9 zstd/1.5.2 libidn2/2.3.2 libssh2/1.9.0 nghttp2/1.42.0",
+		"timestamp": 1648401476586
+	},
+	{
+		"name": "TEXT",
+		"value": "Using default HTTP version",
+		"timestamp": 1648401476586
+	},
+	{
+		"name": "TEXT",
+		"value": "Disable timeout",
+		"timestamp": 1648401476586
+	},
+	{
+		"name": "TEXT",
+		"value": "Enable automatic URL encoding",
+		"timestamp": 1648401476586
+	},
+	{
+		"name": "TEXT",
+		"value": "Enable SSL validation",
+		"timestamp": 1648401476586
+	},
+	{
+		"name": "TEXT",
+		"value": "Enable cookie sending with jar of 0 cookies",
+		"timestamp": 1648401476588
+	},
+	{
+		"name": "TEXT",
+		"value": "9 bytes stray data read before trying h2 connection\n",
+		"timestamp": 1648401476590
+	},
+	{
+		"name": "TEXT",
+		"value": "Hostname 192.168.68.115 was found in DNS cache\n",
+		"timestamp": 1648401476590
+	},
+	{
+		"name": "TEXT",
+		"value": "  Trying 192.168.68.115:5003...\n",
+		"timestamp": 1648401476590
+	},
+	{
+		"name": "TEXT",
+		"value": "Connected to 192.168.68.115 (192.168.68.115) port 5003 (#18)\n",
+		"timestamp": 1648401476590
+	},
+	{
+		"name": "HEADER_OUT",
+		"value": "DELETE /Team1325/1241/Humber/1/raw_data HTTP/1.1\r\nHost: 192.168.68.115:5003\r\nUser-Agent: insomnia/2021.7.2\r\nAuthorization: Bearer a3330827-07ba-4589-b5f8-e0083c99a5f0\r\nAccept: */*\r\n\r\n",
+		"timestamp": 1648401476590
+	},
+	{
+		"name": "TEXT",
+		"value": "Mark bundle as not supporting multiuse\n",
+		"timestamp": 1648401476592
+	},
+	{
+		"name": "TEXT",
+		"value": "HTTP 1.0, assume close after body\n",
+		"timestamp": 1648401476592
+	},
+	{
+		"name": "HEADER_IN",
+		"value": "HTTP/1.0 308 PERMANENT REDIRECT\r\n",
+		"timestamp": 1648401476592
+	},
+	{
+		"name": "HEADER_IN",
+		"value": "Content-Type: text/html; charset=utf-8\r\n",
+		"timestamp": 1648401476592
+	},
+	{
+		"name": "HEADER_IN",
+		"value": "Content-Length: 324\r\n",
+		"timestamp": 1648401476592
+	},
+	{
+		"name": "HEADER_IN",
+		"value": "Location: http://192.168.68.115:5003/Team1325/1241/Humber/1/raw_data/\r\n",
+		"timestamp": 1648401476592
+	},
+	{
+		"name": "HEADER_IN",
+		"value": "Access-Control-Allow-Origin: *\r\n",
+		"timestamp": 1648401476592
+	},
+	{
+		"name": "HEADER_IN",
+		"value": "Server: Werkzeug/2.0.2 Python/3.9.10\r\n",
+		"timestamp": 1648401476592
+	},
+	{
+		"name": "HEADER_IN",
+		"value": "Date: Sun, 27 Mar 2022 17:17:56 GMT\r\n",
+		"timestamp": 1648401476592
+	},
+	{
+		"name": "HEADER_IN",
+		"value": "\r\n",
+		"timestamp": 1648401476592
+	},
+	{
+		"name": "TEXT",
+		"value": "Closing connection 18\n",
+		"timestamp": 1648401476592
+	},
+	{
+		"name": "TEXT",
+		"value": "Issue another request to this URL: 'http://192.168.68.115:5003/Team1325/1241/Humber/1/raw_data/'\n",
+		"timestamp": 1648401476592
+	},
+	{
+		"name": "TEXT",
+		"value": "Hostname 192.168.68.115 was found in DNS cache\n",
+		"timestamp": 1648401476592
+	},
+	{
+		"name": "TEXT",
+		"value": "  Trying 192.168.68.115:5003...\n",
+		"timestamp": 1648401476592
+	},
+	{
+		"name": "TEXT",
+		"value": "Connected to 192.168.68.115 (192.168.68.115) port 5003 (#19)\n",
+		"timestamp": 1648401476592
+	},
+	{
+		"name": "HEADER_OUT",
+		"value": "DELETE /Team1325/1241/Humber/1/raw_data/ HTTP/1.0\r\nHost: 192.168.68.115:5003\r\nUser-Agent: insomnia/2021.7.2\r\nAuthorization: Bearer a3330827-07ba-4589-b5f8-e0083c99a5f0\r\nAccept: */*\r\n\r\n",
+		"timestamp": 1648401476592
+	},
+	{
+		"name": "TEXT",
+		"value": "Mark bundle as not supporting multiuse\n",
+		"timestamp": 1648401476629
+	},
+	{
+		"name": "TEXT",
+		"value": "HTTP 1.0, assume close after body\n",
+		"timestamp": 1648401476630
+	},
+	{
+		"name": "HEADER_IN",
+		"value": "HTTP/1.0 401 UNAUTHORIZED\r\n",
+		"timestamp": 1648401476630
+	},
+	{
+		"name": "HEADER_IN",
+		"value": "Content-Type: application/json\r\n",
+		"timestamp": 1648401476630
+	},
+	{
+		"name": "HEADER_IN",
+		"value": "Content-Length: 52\r\n",
+		"timestamp": 1648401476630
+	},
+	{
+		"name": "HEADER_IN",
+		"value": "Access-Control-Allow-Origin: *\r\n",
+		"timestamp": 1648401476630
+	},
+	{
+		"name": "HEADER_IN",
+		"value": "Server: Werkzeug/2.0.2 Python/3.9.10\r\n",
+		"timestamp": 1648401476630
+	},
+	{
+		"name": "HEADER_IN",
+		"value": "Date: Sun, 27 Mar 2022 17:17:56 GMT\r\n",
+		"timestamp": 1648401476630
+	},
+	{
+		"name": "HEADER_IN",
+		"value": "\r\n",
+		"timestamp": 1648401476630
+	},
+	{
+		"name": "TEXT",
+		"value": "Received 52 B chunk",
+		"timestamp": 1648401476630
+	},
+	{
+		"name": "TEXT",
+		"value": "Closing connection 19\n",
+		"timestamp": 1648401476630
+	}
+]

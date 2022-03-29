@@ -1,0 +1,420 @@
+<project version="4">
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/org/wildfly/extension/elytron/oidc/OidcTestCase.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="247">
+              <caret line="59" column="9" selection-start-line="59" selection-start-column="9" selection-end-line="59" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="181">
+              <caret line="60" column="23" selection-start-line="60" selection-start-column="23" selection-end-line="60" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/org/wildfly/extension/elytron/oidc/CredentialDefinition.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="550">
+              <caret line="81" column="21" selection-start-line="80" selection-start-column="21" selection-end-line="81" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/resources/org/wildfly/extension/elytron/oidc/oidc.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2552">
+              <caret line="116" selection-start-line="116" selection-end-line="116" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/org/wildfly/extension/elytron/oidc/Subsystem_1_0_ParsingTestCase.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="183">
+              <caret line="30" column="13" selection-start-line="30" selection-start-column="13" selection-end-line="30" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/resources/org/wildfly/extension/elytron/oidc/subsystem_1_0.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="66">
+              <caret line="27" column="22" selection-start-line="27" selection-start-column="22" selection-end-line="27" selection-end-column="22" />
+              <folding>
+                <element signature="n#realm#0;n#subsystem#0;n#!!top" />
+                <element signature="n#secure-deployment#0;n#subsystem#0;n#!!top" />
+                <element signature="n#secure-deployment#1;n#subsystem#0;n#!!top" />
+                <element signature="n#secure-deployment#2;n#subsystem#0;n#!!top" />
+                <element signature="n#secure-deployment#3;n#subsystem#0;n#!!top" />
+                <element signature="n#secure-deployment#4;n#subsystem#0;n#!!top" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/resources/org/wildfly/extension/elytron/oidc/oidc-expressions.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-2045">
+              <caret line="32" column="35" selection-start-line="32" selection-start-column="31" selection-end-line="32" selection-end-column="35" />
+              <folding>
+                <element signature="n#realm#0;n#subsystem#0;n#!!top" />
+                <element signature="n#credential#0;n#secure-deployment#3;n#subsystem#0;n#!!top" />
+                <element signature="n#secure-deployment#5;n#subsystem#0;n#!!top" />
+                <element signature="n#secure-deployment#6;n#subsystem#0;n#!!top" />
+                <element signature="n#secure-deployment#7;n#subsystem#0;n#!!top" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/schema/wildfly-elytron-oidc-client_1_0.xsd">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="142" column="52" selection-start-line="142" selection-start-column="30" selection-end-line="142" selection-end-column="52" />
+              <folding>
+                <element signature="n#xs:complexType#2;n#xs:schema#0;n#!!top" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/org/wildfly/extension/elytron/oidc/ElytronOidcSubsystemDefinition.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="115">
+              <caret line="35" column="6" selection-start-line="35" selection-start-column="6" selection-end-line="35" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/org/wildfly/extension/elytron/oidc/ElytronOidcSubsystemAdd.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="179">
+              <caret line="34" column="6" selection-start-line="34" selection-start-column="6" selection-end-line="34" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>ssl-re</find>
+      <find>bearer</find>
+      <find>socket</find>
+      <find>token-minimum-time-to-live</find>
+      <find>min-time-between-jwks-requests</find>
+      <find>public-key-cache-ttl</find>
+      <find>realm-public-key</find>
+      <find>adapter-state-cookie-path</find>
+      <find>principal-attribute</find>
+      <find>prov</find>
+      <find>credential</find>
+      <find>cors-exposed-headers</find>
+      <find>CORS</find>
+      <find>cors-exposed-headers</find>
+      <find>autodetect-bearer-only</find>
+      <find>token-signature-algorithm</find>
+      <find>client-keystore</find>
+      <find>truststore</find>
+      <find>enable-cors</find>
+      <find>allow-any-hostname</find>
+      <find>max-age</find>
+      <find>realm-pu</find>
+      <find>register</find>
+      <find>cors-allowed-methods</find>
+      <find>p</find>
+      <find>client-keystore-password</find>
+      <find>enable-basic-auth</find>
+      <find>public-client</find>
+      <find>connection-pool-size</find>
+      <find>oidc.</find>
+    </findStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$/src/test/java/org/wildfly/extension/elytron/oidc</dir>
+    </dirStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/src/test/java/org/wildfly/extension/elytron/oidc/OidcTestCase.java" />
+      <option value="$PROJECT_DIR$/src/test/resources/org/wildfly/extension/elytron/oidc/oidc.xml" />
+      <option value="$PROJECT_DIR$/src/test/resources/org/wildfly/extension/elytron/oidc/oidc-expressions.xml" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="subsystem" type="b2602c69:ProjectViewProjectNode" />
+              <item name="subsystem" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="subsystem" type="b2602c69:ProjectViewProjectNode" />
+              <item name="subsystem" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="subsystem" type="b2602c69:ProjectViewProjectNode" />
+              <item name="subsystem" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="subsystem" type="b2602c69:ProjectViewProjectNode" />
+              <item name="subsystem" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="subsystem" type="b2602c69:ProjectViewProjectNode" />
+              <item name="subsystem" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="oidc" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="subsystem" type="b2602c69:ProjectViewProjectNode" />
+              <item name="subsystem" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="subsystem" type="b2602c69:ProjectViewProjectNode" />
+              <item name="subsystem" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="subsystem" type="b2602c69:ProjectViewProjectNode" />
+              <item name="subsystem" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="oidc" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="subsystem" type="b2602c69:ProjectViewProjectNode" />
+              <item name="subsystem" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="subsystem" type="b2602c69:ProjectViewProjectNode" />
+              <item name="subsystem" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="oidc" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="TerminalArrangementManager">
+    <option name="myTabStates">
+      <TerminalTabState tabName="Local" currentWorkingDirectory="$PROJECT_DIR$" commandHistoryFileName="subsystem-history1" />
+    </option>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="12329000" />
+  </component>
+  <component name="ToolWindowManager">
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2502604" />
+      <window_info id="Structure" order="1" side_tool="true" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info id="Commit" order="3" />
+      <window_info id="Learn" order="4" />
+      <window_info id="Pull Requests" order="5" />
+      <window_info id="Space Code Reviews" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="3" />
+      <window_info anchor="bottom" id="Problems View" order="3" />
+      <window_info anchor="bottom" id="Profiler" order="4" />
+      <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
+      <window_info anchor="bottom" id="File Transfer" order="4" />
+      <window_info anchor="bottom" x="1920" y="757" width="1874" height="322" id="Terminal" order="4" visible="true" weight="0.2712121" />
+      <window_info anchor="bottom" id="Database Changes" order="5" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Internal Method Tracing" order="6" />
+      <window_info anchor="bottom" id="Endpoints" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Build" order="7" />
+      <window_info anchor="bottom" id="Dependencies" order="7" />
+      <window_info anchor="bottom" id="Services" order="7" show_stripe_button="false" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="right" id="Space Automation" order="6" />
+      <window_info anchor="right" id="Maven" order="7" />
+    </layout>
+    <recentWindows>
+      <value>Project</value>
+      <value>Terminal</value>
+    </recentWindows>
+  </component>
+  <component name="Trusted.Project.Settings" hasCheckedIfOldProject="true" trusted="YES" />
+  <component name="WindowStateProjectService">
+    <state x="2630" y="299" width="424" height="490" key="FileChooserDialogImpl" timestamp="1632855343108">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2630" y="299" width="424" height="490" key="FileChooserDialogImpl/1920.0.1920.1080/0.28.1920.1026@1920.0.1920.1080" timestamp="1632855343108" />
+    <state x="2839" y="401" width="591" height="534" key="find.popup" timestamp="1632843297263">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2839" y="401" width="591" height="534" key="find.popup/1920.0.1920.1080/0.28.1920.1026@1920.0.1920.1080" timestamp="1632843297263" />
+    <state x="2543" y="253" key="search.everywhere.popup" timestamp="1632848985820">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2543" y="253" key="search.everywhere.popup/1920.0.1920.1080/0.28.1920.1026@1920.0.1920.1080" timestamp="1632848985820" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/wildfly/extension/elytron/oidc/OidcConfigService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-731">
+          <caret line="258" lean-forward="true" selection-start-line="258" selection-end-line="258" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/wildfly/extension/elytron/oidc/RealmDefinition.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-809">
+          <caret line="42" column="6" selection-start-line="42" selection-start-column="6" selection-end-line="42" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/wildfly/extension/elytron/oidc/SecureDeploymentDefinition.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2002">
+          <caret line="130" column="29" lean-forward="true" selection-start-line="130" selection-start-column="29" selection-end-line="130" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/wildfly/extension/elytron/oidc/CredentialDefinition.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="550">
+          <caret line="81" column="21" selection-start-line="80" selection-start-column="21" selection-end-line="81" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/wildfly/extension/elytron/oidc/ElytronOidcSubsystemAdd.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="179">
+          <caret line="34" column="6" selection-start-line="34" selection-start-column="6" selection-end-line="34" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/wildfly/extension/elytron/oidc/ElytronOidcSubsystemDefinition.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="35" column="6" selection-start-line="35" selection-start-column="6" selection-end-line="35" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/schema/wildfly-elytron-oidc-client_1_0.xsd">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="142" column="52" selection-start-line="142" selection-start-column="30" selection-end-line="142" selection-end-column="52" />
+          <folding>
+            <element signature="n#xs:complexType#2;n#xs:schema#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/resources/org/wildfly/extension/elytron/oidc/oidc.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2552">
+          <caret line="116" selection-start-line="116" selection-end-line="116" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/org/wildfly/extension/elytron/oidc/Subsystem_1_0_ParsingTestCase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="183">
+          <caret line="30" column="13" selection-start-line="30" selection-start-column="13" selection-end-line="30" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/resources/org/wildfly/extension/elytron/oidc/subsystem_1_0.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="27" column="22" selection-start-line="27" selection-start-column="22" selection-end-line="27" selection-end-column="22" />
+          <folding>
+            <element signature="n#realm#0;n#subsystem#0;n#!!top" />
+            <element signature="n#secure-deployment#0;n#subsystem#0;n#!!top" />
+            <element signature="n#secure-deployment#1;n#subsystem#0;n#!!top" />
+            <element signature="n#secure-deployment#2;n#subsystem#0;n#!!top" />
+            <element signature="n#secure-deployment#3;n#subsystem#0;n#!!top" />
+            <element signature="n#secure-deployment#4;n#subsystem#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/resources/org/wildfly/extension/elytron/oidc/oidc-expressions.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2045">
+          <caret line="32" column="35" selection-start-line="32" selection-start-column="31" selection-end-line="32" selection-end-column="35" />
+          <folding>
+            <element signature="n#realm#0;n#subsystem#0;n#!!top" />
+            <element signature="n#credential#0;n#secure-deployment#3;n#subsystem#0;n#!!top" />
+            <element signature="n#secure-deployment#5;n#subsystem#0;n#!!top" />
+            <element signature="n#secure-deployment#6;n#subsystem#0;n#!!top" />
+            <element signature="n#secure-deployment#7;n#subsystem#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/org/wildfly/extension/elytron/oidc/OidcTestCase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="59" column="9" selection-start-line="59" selection-start-column="9" selection-end-line="59" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="181">
+          <caret line="60" column="23" selection-start-line="60" selection-start-column="23" selection-end-line="60" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

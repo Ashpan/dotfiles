@@ -1,7 +1,7 @@
 function work
 	if count $argv > /dev/null
-		cd /home/ashpan/Documents/Drive/Current/Programming/workspace/"$argv"
+		cd /home/ashpan/workspace/"$argv"
 	else
-		cd /home/ashpan/Documents/Drive/Current/Programming/workspace/
+		cd /home/ashpan/workspace/
 	end
 end

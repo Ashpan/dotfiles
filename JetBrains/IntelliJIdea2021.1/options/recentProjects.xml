@@ -1,0 +1,68 @@
+<application>
+  <component name="RecentProjectsManager">
+    <option name="additionalInfo">
+      <map>
+        <entry key="$USER_HOME$/HDD/Documents/Drive/Current/Programming/workspace/wildfly-elytron">
+          <value>
+            <RecentProjectMetaInfo frameTitle="wildfly-elytron – FileSystemSecurityRealm.java [wildfly-elytron-realm]" projectWorkspaceId="1v5INjUdCPrQfXfpIphrLUQ0s2C">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IU-211.7628.21" />
+              <option name="buildTimestamp" value="1624953102296" />
+              <frame x="1920" y="28" width="1920" height="1052" extendedState="6" />
+              <option name="productionCode" value="IU" />
+              <option name="projectOpenTimestamp" value="1625845486229" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/wildfly-elytron">
+          <value>
+            <RecentProjectMetaInfo frameTitle="wildfly-elytron – FileSystemSecurityRealm.java [wildfly-elytron-realm]" projectWorkspaceId="1v5INjUdCPrQfXfpIphrLUQ0s2C">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IU-211.7628.21" />
+              <option name="buildTimestamp" value="1625054467807" />
+              <frame x="1781" y="0" width="1900" height="775" extendedState="6" />
+              <option name="productionCode" value="IU" />
+              <option name="projectOpenTimestamp" value="1626795205856" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/Drive/Current/Programming/workspace/wildfly-elytron">
+          <value>
+            <RecentProjectMetaInfo frameTitle="wildfly-elytron – FileSystemSecurityRealmBuilder.java [wildfly-elytron-realm]" projectWorkspaceId="1vtyN26DGSGkctM52IkksrfYvzE">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IU-211.7628.21" />
+              <option name="buildTimestamp" value="1625054502019" />
+              <frame x="1920" y="28" width="1920" height="1026" extendedState="6" />
+              <option name="productionCode" value="IU" />
+              <option name="projectOpenTimestamp" value="1627395637999" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/wildfly/testsuite/integration">
+          <value>
+            <RecentProjectMetaInfo projectWorkspaceId="1xDykitxdK42IMa2DLF3n4keRmi">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IU-211.7628.21" />
+              <option name="buildTimestamp" value="1625054467579" />
+              <option name="productionCode" value="IU" />
+              <option name="projectOpenTimestamp" value="1629904100483" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/farah">
+          <value>
+            <RecentProjectMetaInfo frameTitle="farah – OidcTest.java [wildfly-elytron-http-oidc]" opened="true" projectWorkspaceId="1xrZg2G7NXTQDt3R6oQqoLfl2zf">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IU-211.7628.21" />
+              <option name="buildTimestamp" value="1625054489209" />
+              <frame x="189" y="0" width="1910" height="769" extendedState="6" />
+              <option name="productionCode" value="IU" />
+              <option name="projectOpenTimestamp" value="1631115278502" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="lastProjectLocation" value="$USER_HOME$/workspace" />
+  </component>
+</application>

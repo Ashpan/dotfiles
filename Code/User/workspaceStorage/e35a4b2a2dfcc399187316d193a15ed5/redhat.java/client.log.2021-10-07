@@ -1,0 +1,410 @@
+{
+  message: 'Starting Java server with: /usr/lib/jvm/zulu11.50.19-ca-jdk11.0.12-linux_x64/bin/java --add-modules=ALL-SYSTEM --add-opens java.base/java.util=ALL-UNNAMED --add-opens java.base/java.lang=ALL-UNNAMED -Declipse.application=org.eclipse.jdt.ls.core.id1 -Dosgi.bundles.defaultStartLevel=4 -Declipse.product=org.eclipse.jdt.ls.core.product -Dfile.encoding=utf8 -XX:+UseParallelGC -XX:GCTimeRatio=4 -XX:AdaptiveSizePolicyWeight=90 -Dsun.zip.disableMemoryMapping=true -Xmx1G -Xms100m -noverify -jar /home/ashpan/.vscode/extensions/redhat.java-0.82.0/server/plugins/org.eclipse.equinox.launcher_1.6.300.v20210813-1054.jar -configuration /home/ashpan/.config/Code/User/globalStorage/redhat.java/0.82.0/config_ss_linux -data /home/ashpan/.config/Code/User/workspaceStorage/e35a4b2a2dfcc399187316d193a15ed5/redhat.java/ss_ws',
+  level: 'info',
+  timestamp: '2021-10-07 09:44:21.672'
+}
+{
+  message: 'Starting Java server with: /usr/lib/jvm/zulu11.50.19-ca-jdk11.0.12-linux_x64/bin/java --add-modules=ALL-SYSTEM --add-opens java.base/java.util=ALL-UNNAMED --add-opens java.base/java.lang=ALL-UNNAMED -Declipse.application=org.eclipse.jdt.ls.core.id1 -Dosgi.bundles.defaultStartLevel=4 -Declipse.product=org.eclipse.jdt.ls.core.product -Dfile.encoding=utf8 -XX:+UseParallelGC -XX:GCTimeRatio=4 -XX:AdaptiveSizePolicyWeight=90 -Dsun.zip.disableMemoryMapping=true -Xmx1G -Xms100m -noverify -jar /home/ashpan/.vscode/extensions/redhat.java-0.82.0/server/plugins/org.eclipse.equinox.launcher_1.6.300.v20210813-1054.jar -configuration /home/ashpan/.config/Code/User/globalStorage/redhat.java/0.82.0/config_linux -data /home/ashpan/.config/Code/User/workspaceStorage/e35a4b2a2dfcc399187316d193a15ed5/redhat.java/jdt_ws',
+  level: 'info',
+  timestamp: '2021-10-07 09:44:21.771'
+}
+{
+  message: '[Error - 9:45:00 a.m.] Connection to server got closed. Server will not be restarted.',
+  level: 'info',
+  timestamp: '2021-10-07 09:45:00.881'
+}
+{
+  message: '[Error - 10:37:10 a.m.] Oct. 7, 2021, 10:37:10 a.m. JavaBuilder handling CoreException\n' +
+    'File not found: /home/ashpan/workspace/elytron/auth/client/target/classes/org/wildfly/security/auth/client/_private/ElytronMessages_$logger.class.\n' +
+    'org.eclipse.core.internal.resources.ResourceException(/wildfly-elytron-client/target/classes/org/wildfly/security/auth/client/_private/ElytronMessages_$logger.class)[368]: java.lang.Exception: File not found: /home/ashpan/workspace/elytron/auth/client/target/classes/org/wildfly/security/auth/client/_private/ElytronMessages_$logger.class.\n' +
+    '\tat org.eclipse.core.internal.resources.ResourceException.provideStackTrace(ResourceException.java:42)\n' +
+    '\tat org.eclipse.core.internal.resources.ResourceException.<init>(ResourceException.java:38)\n' +
+    '\tat org.eclipse.core.internal.localstore.FileSystemResourceManager.read(FileSystemResourceManager.java:835)\n' +
+    '\tat org.eclipse.core.internal.resources.File.getContents(File.java:275)\n' +
+    '\tat org.eclipse.jdt.internal.core.util.Util.getResourceContentsAsByteArray(Util.java:1172)\n' +
+    '\tat org.eclipse.jdt.internal.core.builder.IncrementalImageBuilder.writeClassFileCheck(IncrementalImageBuilder.java:942)\n' +
+    '\tat org.eclipse.jdt.internal.core.builder.IncrementalImageBuilder.writeClassFileContents(IncrementalImageBuilder.java:884)\n' +
+    '\tat org.eclipse.jdt.internal.core.builder.AbstractImageBuilder.writeClassFile(AbstractImageBuilder.java:864)\n' +
+    '\tat org.eclipse.jdt.internal.core.builder.AbstractImageBuilder.acceptResult(AbstractImageBuilder.java:194)\n' +
+    '\tat org.eclipse.jdt.internal.compiler.Compiler.processCompiledUnits(Compiler.java:615)\n' +
+    '\tat org.eclipse.jdt.internal.compiler.Compiler.compile(Compiler.java:475)\n' +
+    '\tat org.eclipse.jdt.internal.compiler.Compiler.compile(Compiler.java:426)\n' +
+    '\tat org.eclipse.jdt.internal.core.builder.AbstractImageBuilder.compile(AbstractImageBuilder.java:377)\n' +
+    '\tat org.eclipse.jdt.internal.core.builder.IncrementalImageBuilder.compile(IncrementalImageBuilder.java:371)\n' +
+    '\tat org.eclipse.jdt.internal.core.builder.AbstractImageBuilder.compile(AbstractImageBuilder.java:309)\n' +
+    '\tat org.eclipse.jdt.internal.core.builder.IncrementalImageBuilder.incrementalBuildLoop(IncrementalImageBuilder.java:190)\n' +
+    '\tat org.eclipse.jdt.internal.core.builder.IncrementalImageBuilder.build(IncrementalImageBuilder.java:147)\n' +
+    '\tat org.eclipse.jdt.internal.core.builder.JavaBuilder.buildDeltas(JavaBuilder.java:289)\n' +
+    '\tat org.eclipse.jdt.internal.core.builder.JavaBuilder.build(JavaBuilder.java:212)\n' +
+    '\tat org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:853)\n' +
+    '\tat org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)\n' +
+    '\tat org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:232)\n' +
+    '\tat org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:281)\n' +
+    '\tat org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:334)\n' +
+    '\tat org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)\n' +
+    '\tat org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:337)\n' +
+    '\tat org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:389)\n' +
+    '\tat org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:410)\n' +
+    '\tat org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:160)\n' +
+    '\tat org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:251)\n' +
+    '\tat org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)\n',
+  level: 'info',
+  timestamp: '2021-10-07 10:37:10.421'
+}
+{
+  message: '[Error - 10:37:10 a.m.] Oct. 7, 2021, 10:37:10 a.m. JavaBuilder handling CoreException\n' +
+    'File not found: /home/ashpan/workspace/elytron/auth/client/target/classes/org/wildfly/security/auth/util/ElytronMessages2_$logger.class.\n' +
+    'org.eclipse.core.internal.resources.ResourceException(/wildfly-elytron-client/target/classes/org/wildfly/security/auth/util/ElytronMessages2_$logger.class)[368]: java.lang.Exception: File not found: /home/ashpan/workspace/elytron/auth/client/target/classes/org/wildfly/security/auth/util/ElytronMessages2_$logger.class.\n' +
+    '\tat org.eclipse.core.internal.resources.ResourceException.provideStackTrace(ResourceException.java:42)\n' +
+    '\tat org.eclipse.core.internal.resources.ResourceException.<init>(ResourceException.java:38)\n' +
+    '\tat org.eclipse.core.internal.localstore.FileSystemResourceManager.read(FileSystemResourceManager.java:835)\n' +
+    '\tat org.eclipse.core.internal.resources.File.getContents(File.java:275)\n' +
+    '\tat org.eclipse.jdt.internal.core.util.Util.getResourceContentsAsByteArray(Util.java:1172)\n' +
+    '\tat org.eclipse.jdt.internal.core.builder.IncrementalImageBuilder.writeClassFileCheck(IncrementalImageBuilder.java:942)\n' +
+    '\tat org.eclipse.jdt.internal.core.builder.IncrementalImageBuilder.writeClassFileContents(IncrementalImageBuilder.java:884)\n' +
+    '\tat org.eclipse.jdt.internal.core.builder.AbstractImageBuilder.writeClassFile(AbstractImageBuilder.java:864)\n' +
+    '\tat org.eclipse.jdt.internal.core.builder.AbstractImageBuilder.acceptResult(AbstractImageBuilder.java:194)\n' +
+    '\tat org.eclipse.jdt.internal.compiler.Compiler.processCompiledUnits(Compiler.java:615)\n' +
+    '\tat org.eclipse.jdt.internal.compiler.Compiler.compile(Compiler.java:475)\n' +
+    '\tat org.eclipse.jdt.internal.compiler.Compiler.compile(Compiler.java:426)\n' +
+    '\tat org.eclipse.jdt.internal.core.builder.AbstractImageBuilder.compile(AbstractImageBuilder.java:377)\n' +
+    '\tat org.eclipse.jdt.internal.core.builder.IncrementalImageBuilder.compile(IncrementalImageBuilder.java:371)\n' +
+    '\tat org.eclipse.jdt.internal.core.builder.AbstractImageBuilder.compile(AbstractImageBuilder.java:309)\n' +
+    '\tat org.eclipse.jdt.internal.core.builder.IncrementalImageBuilder.incrementalBuildLoop(IncrementalImageBuilder.java:190)\n' +
+    '\tat org.eclipse.jdt.internal.core.builder.IncrementalImageBuilder.build(IncrementalImageBuilder.java:147)\n' +
+    '\tat org.eclipse.jdt.internal.core.builder.JavaBuilder.buildDeltas(JavaBuilder.java:289)\n' +
+    '\tat org.eclipse.jdt.internal.core.builder.JavaBuilder.build(JavaBuilder.java:212)\n' +
+    '\tat org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:853)\n' +
+    '\tat org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)\n' +
+    '\tat org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:232)\n' +
+    '\tat org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:281)\n' +
+    '\tat org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:334)\n' +
+    '\tat org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)\n' +
+    '\tat org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:337)\n' +
+    '\tat org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:389)\n' +
+    '\tat org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:410)\n' +
+    '\tat org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:160)\n' +
+    '\tat org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:251)\n' +
+    '\tat org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)\n',
+  level: 'info',
+  timestamp: '2021-10-07 10:37:10.423'
+}
+{
+  message: '[Error - 10:37:10 a.m.] Oct. 7, 2021, 10:37:10 a.m. JavaBuilder handling CoreException\n' +
+    'File not found: /home/ashpan/workspace/elytron/auth/client/target/classes/org/wildfly/security/credential/source/ElytronMessages2_$logger.class.\n' +
+    'org.eclipse.core.internal.resources.ResourceException(/wildfly-elytron-client/target/classes/org/wildfly/security/credential/source/ElytronMessages2_$logger.class)[368]: java.lang.Exception: File not found: /home/ashpan/workspace/elytron/auth/client/target/classes/org/wildfly/security/credential/source/ElytronMessages2_$logger.class.\n' +
+    '\tat org.eclipse.core.internal.resources.ResourceException.provideStackTrace(ResourceException.java:42)\n' +
+    '\tat org.eclipse.core.internal.resources.ResourceException.<init>(ResourceException.java:38)\n' +
+    '\tat org.eclipse.core.internal.localstore.FileSystemResourceManager.read(FileSystemResourceManager.java:835)\n' +
+    '\tat org.eclipse.core.internal.resources.File.getContents(File.java:275)\n' +
+    '\tat org.eclipse.jdt.internal.core.util.Util.getResourceContentsAsByteArray(Util.java:1172)\n' +
+    '\tat org.eclipse.jdt.internal.core.builder.IncrementalImageBuilder.writeClassFileCheck(IncrementalImageBuilder.java:942)\n' +
+    '\tat org.eclipse.jdt.internal.core.builder.IncrementalImageBuilder.writeClassFileContents(IncrementalImageBuilder.java:884)\n' +
+    '\tat org.eclipse.jdt.internal.core.builder.AbstractImageBuilder.writeClassFile(AbstractImageBuilder.java:864)\n' +
+    '\tat org.eclipse.jdt.internal.core.builder.AbstractImageBuilder.acceptResult(AbstractImageBuilder.java:194)\n' +
+    '\tat org.eclipse.jdt.internal.compiler.Compiler.processCompiledUnits(Compiler.java:615)\n' +
+    '\tat org.eclipse.jdt.internal.compiler.Compiler.compile(Compiler.java:475)\n' +
+    '\tat org.eclipse.jdt.internal.compiler.Compiler.compile(Compiler.java:426)\n' +
+    '\tat org.eclipse.jdt.internal.core.builder.AbstractImageBuilder.compile(AbstractImageBuilder.java:377)\n' +
+    '\tat org.eclipse.jdt.internal.core.builder.IncrementalImageBuilder.compile(IncrementalImageBuilder.java:371)\n' +
+    '\tat org.eclipse.jdt.internal.core.builder.AbstractImageBuilder.compile(AbstractImageBuilder.java:309)\n' +
+    '\tat org.eclipse.jdt.internal.core.builder.IncrementalImageBuilder.incrementalBuildLoop(IncrementalImageBuilder.java:190)\n' +
+    '\tat org.eclipse.jdt.internal.core.builder.IncrementalImageBuilder.build(IncrementalImageBuilder.java:147)\n' +
+    '\tat org.eclipse.jdt.internal.core.builder.JavaBuilder.buildDeltas(JavaBuilder.java:289)\n' +
+    '\tat org.eclipse.jdt.internal.core.builder.JavaBuilder.build(JavaBuilder.java:212)\n' +
+    '\tat org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:853)\n' +
+    '\tat org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)\n' +
+    '\tat org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:232)\n' +
+    '\tat org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:281)\n' +
+    '\tat org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:334)\n' +
+    '\tat org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)\n' +
+    '\tat org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:337)\n' +
+    '\tat org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:389)\n' +
+    '\tat org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:410)\n' +
+    '\tat org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:160)\n' +
+    '\tat org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:251)\n' +
+    '\tat org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)\n',
+  level: 'info',
+  timestamp: '2021-10-07 10:37:10.423'
+}
+{
+  message: 'Starting Java server with: /usr/lib/jvm/zulu11.50.19-ca-jdk11.0.12-linux_x64/bin/java --add-modules=ALL-SYSTEM --add-opens java.base/java.util=ALL-UNNAMED --add-opens java.base/java.lang=ALL-UNNAMED -Declipse.application=org.eclipse.jdt.ls.core.id1 -Dosgi.bundles.defaultStartLevel=4 -Declipse.product=org.eclipse.jdt.ls.core.product -Dfile.encoding=utf8 -XX:+UseParallelGC -XX:GCTimeRatio=4 -XX:AdaptiveSizePolicyWeight=90 -Dsun.zip.disableMemoryMapping=true -Xmx1G -Xms100m -noverify -jar /home/ashpan/.vscode/extensions/redhat.java-0.82.0/server/plugins/org.eclipse.equinox.launcher_1.6.300.v20210813-1054.jar -configuration /home/ashpan/.config/Code/User/globalStorage/redhat.java/0.82.0/config_ss_linux -data /home/ashpan/.config/Code/User/workspaceStorage/e35a4b2a2dfcc399187316d193a15ed5/redhat.java/ss_ws',
+  level: 'info',
+  timestamp: '2021-10-07 11:45:25.620'
+}
+{
+  message: 'Starting Java server with: /usr/lib/jvm/zulu11.50.19-ca-jdk11.0.12-linux_x64/bin/java --add-modules=ALL-SYSTEM --add-opens java.base/java.util=ALL-UNNAMED --add-opens java.base/java.lang=ALL-UNNAMED -Declipse.application=org.eclipse.jdt.ls.core.id1 -Dosgi.bundles.defaultStartLevel=4 -Declipse.product=org.eclipse.jdt.ls.core.product -Dfile.encoding=utf8 -XX:+UseParallelGC -XX:GCTimeRatio=4 -XX:AdaptiveSizePolicyWeight=90 -Dsun.zip.disableMemoryMapping=true -Xmx1G -Xms100m -noverify -jar /home/ashpan/.vscode/extensions/redhat.java-0.82.0/server/plugins/org.eclipse.equinox.launcher_1.6.300.v20210813-1054.jar -configuration /home/ashpan/.config/Code/User/globalStorage/redhat.java/0.82.0/config_linux -data /home/ashpan/.config/Code/User/workspaceStorage/e35a4b2a2dfcc399187316d193a15ed5/redhat.java/jdt_ws',
+  level: 'info',
+  timestamp: '2021-10-07 11:45:25.682'
+}
+{
+  message: '[Error - 11:45:39 a.m.] Connection to server got closed. Server will not be restarted.',
+  level: 'info',
+  timestamp: '2021-10-07 11:45:39.183'
+}
+{
+  message: '[Error - 11:52:44 a.m.] Oct. 7, 2021, 11:52:44 a.m. JavaBuilder handling CoreException\n' +
+    'File not found: /home/ashpan/workspace/elytron/asn1/target/classes/org/wildfly/security/asn1/ElytronMessages_$logger.class.\n' +
+    'org.eclipse.core.internal.resources.ResourceException(/wildfly-elytron-asn1/target/classes/org/wildfly/security/asn1/ElytronMessages_$logger.class)[368]: java.lang.Exception: File not found: /home/ashpan/workspace/elytron/asn1/target/classes/org/wildfly/security/asn1/ElytronMessages_$logger.class.\n' +
+    '\tat org.eclipse.core.internal.resources.ResourceException.provideStackTrace(ResourceException.java:42)\n' +
+    '\tat org.eclipse.core.internal.resources.ResourceException.<init>(ResourceException.java:38)\n' +
+    '\tat org.eclipse.core.internal.localstore.FileSystemResourceManager.read(FileSystemResourceManager.java:835)\n' +
+    '\tat org.eclipse.core.internal.resources.File.getContents(File.java:275)\n' +
+    '\tat org.eclipse.jdt.internal.core.util.Util.getResourceContentsAsByteArray(Util.java:1172)\n' +
+    '\tat org.eclipse.jdt.internal.core.builder.IncrementalImageBuilder.writeClassFileCheck(IncrementalImageBuilder.java:942)\n' +
+    '\tat org.eclipse.jdt.internal.core.builder.IncrementalImageBuilder.writeClassFileContents(IncrementalImageBuilder.java:884)\n' +
+    '\tat org.eclipse.jdt.internal.core.builder.AbstractImageBuilder.writeClassFile(AbstractImageBuilder.java:864)\n' +
+    '\tat org.eclipse.jdt.internal.core.builder.AbstractImageBuilder.acceptResult(AbstractImageBuilder.java:194)\n' +
+    '\tat org.eclipse.jdt.internal.compiler.Compiler.processCompiledUnits(Compiler.java:615)\n' +
+    '\tat org.eclipse.jdt.internal.compiler.Compiler.compile(Compiler.java:475)\n' +
+    '\tat org.eclipse.jdt.internal.compiler.Compiler.compile(Compiler.java:426)\n' +
+    '\tat org.eclipse.jdt.internal.core.builder.AbstractImageBuilder.compile(AbstractImageBuilder.java:377)\n' +
+    '\tat org.eclipse.jdt.internal.core.builder.IncrementalImageBuilder.compile(IncrementalImageBuilder.java:371)\n' +
+    '\tat org.eclipse.jdt.internal.core.builder.AbstractImageBuilder.compile(AbstractImageBuilder.java:309)\n' +
+    '\tat org.eclipse.jdt.internal.core.builder.IncrementalImageBuilder.incrementalBuildLoop(IncrementalImageBuilder.java:190)\n' +
+    '\tat org.eclipse.jdt.internal.core.builder.IncrementalImageBuilder.build(IncrementalImageBuilder.java:147)\n' +
+    '\tat org.eclipse.jdt.internal.core.builder.JavaBuilder.buildDeltas(JavaBuilder.java:289)\n' +
+    '\tat org.eclipse.jdt.internal.core.builder.JavaBuilder.build(JavaBuilder.java:212)\n' +
+    '\tat org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:853)\n' +
+    '\tat org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)\n' +
+    '\tat org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:232)\n' +
+    '\tat org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:281)\n' +
+    '\tat org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:334)\n' +
+    '\tat org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)\n' +
+    '\tat org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:337)\n' +
+    '\tat org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:389)\n' +
+    '\tat org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:410)\n' +
+    '\tat org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:160)\n' +
+    '\tat org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:251)\n' +
+    '\tat org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)\n',
+  level: 'info',
+  timestamp: '2021-10-07 11:52:44.355'
+}
+{
+  message: '[Error - 2:06:12 p.m.] Oct. 7, 2021, 2:06:12 p.m. JavaBuilder handling CoreException\n' +
+    'File not found: /home/ashpan/workspace/elytron/util/target/classes/org/wildfly/security/util/AbstractAlgorithmParametersSpiImpl.class.\n' +
+    'org.eclipse.core.internal.resources.ResourceException(/wildfly-elytron-util/target/classes/org/wildfly/security/util/AbstractAlgorithmParametersSpiImpl.class)[368]: java.lang.Exception: File not found: /home/ashpan/workspace/elytron/util/target/classes/org/wildfly/security/util/AbstractAlgorithmParametersSpiImpl.class.\n' +
+    '\tat org.eclipse.core.internal.resources.ResourceException.provideStackTrace(ResourceException.java:42)\n' +
+    '\tat org.eclipse.core.internal.resources.ResourceException.<init>(ResourceException.java:38)\n' +
+    '\tat org.eclipse.core.internal.localstore.FileSystemResourceManager.read(FileSystemResourceManager.java:835)\n' +
+    '\tat org.eclipse.core.internal.resources.File.getContents(File.java:275)\n' +
+    '\tat org.eclipse.jdt.internal.core.util.Util.getResourceContentsAsByteArray(Util.java:1172)\n' +
+    '\tat org.eclipse.jdt.internal.core.builder.IncrementalImageBuilder.writeClassFileCheck(IncrementalImageBuilder.java:942)\n' +
+    '\tat org.eclipse.jdt.internal.core.builder.IncrementalImageBuilder.writeClassFileContents(IncrementalImageBuilder.java:884)\n' +
+    '\tat org.eclipse.jdt.internal.core.builder.AbstractImageBuilder.writeClassFile(AbstractImageBuilder.java:864)\n' +
+    '\tat org.eclipse.jdt.internal.core.builder.AbstractImageBuilder.acceptResult(AbstractImageBuilder.java:194)\n' +
+    '\tat org.eclipse.jdt.internal.compiler.Compiler.processCompiledUnits(Compiler.java:615)\n' +
+    '\tat org.eclipse.jdt.internal.compiler.Compiler.compile(Compiler.java:475)\n' +
+    '\tat org.eclipse.jdt.internal.compiler.Compiler.compile(Compiler.java:426)\n' +
+    '\tat org.eclipse.jdt.internal.core.builder.AbstractImageBuilder.compile(AbstractImageBuilder.java:377)\n' +
+    '\tat org.eclipse.jdt.internal.core.builder.IncrementalImageBuilder.compile(IncrementalImageBuilder.java:371)\n' +
+    '\tat org.eclipse.jdt.internal.core.builder.AbstractImageBuilder.compile(AbstractImageBuilder.java:309)\n' +
+    '\tat org.eclipse.jdt.internal.core.builder.IncrementalImageBuilder.incrementalBuildLoop(IncrementalImageBuilder.java:190)\n' +
+    '\tat org.eclipse.jdt.internal.core.builder.IncrementalImageBuilder.build(IncrementalImageBuilder.java:147)\n' +
+    '\tat org.eclipse.jdt.internal.core.builder.JavaBuilder.buildDeltas(JavaBuilder.java:289)\n' +
+    '\tat org.eclipse.jdt.internal.core.builder.JavaBuilder.build(JavaBuilder.java:212)\n' +
+    '\tat org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:853)\n' +
+    '\tat org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)\n' +
+    '\tat org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:232)\n' +
+    '\tat org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:281)\n' +
+    '\tat org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:334)\n' +
+    '\tat org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)\n' +
+    '\tat org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:337)\n' +
+    '\tat org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:389)\n' +
+    '\tat org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:410)\n' +
+    '\tat org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:160)\n' +
+    '\tat org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:251)\n' +
+    '\tat org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)\n',
+  level: 'info',
+  timestamp: '2021-10-07 14:06:12.745'
+}
+{
+  message: '[Error - 2:06:15 p.m.] Oct. 7, 2021, 2:06:15 p.m. JavaBuilder handling CoreException\n' +
+    'File not found: /home/ashpan/workspace/elytron/x500/cert/base/target/classes/org/wildfly/security/x500/cert/_private/ElytronMessages_$logger.class.\n' +
+    'org.eclipse.core.internal.resources.ResourceException(/wildfly-elytron-x500-cert/target/classes/org/wildfly/security/x500/cert/_private/ElytronMessages_$logger.class)[368]: java.lang.Exception: File not found: /home/ashpan/workspace/elytron/x500/cert/base/target/classes/org/wildfly/security/x500/cert/_private/ElytronMessages_$logger.class.\n' +
+    '\tat org.eclipse.core.internal.resources.ResourceException.provideStackTrace(ResourceException.java:42)\n' +
+    '\tat org.eclipse.core.internal.resources.ResourceException.<init>(ResourceException.java:38)\n' +
+    '\tat org.eclipse.core.internal.localstore.FileSystemResourceManager.read(FileSystemResourceManager.java:835)\n' +
+    '\tat org.eclipse.core.internal.resources.File.getContents(File.java:275)\n' +
+    '\tat org.eclipse.jdt.internal.core.util.Util.getResourceContentsAsByteArray(Util.java:1172)\n' +
+    '\tat org.eclipse.jdt.internal.core.builder.IncrementalImageBuilder.writeClassFileCheck(IncrementalImageBuilder.java:942)\n' +
+    '\tat org.eclipse.jdt.internal.core.builder.IncrementalImageBuilder.writeClassFileContents(IncrementalImageBuilder.java:884)\n' +
+    '\tat org.eclipse.jdt.internal.core.builder.AbstractImageBuilder.writeClassFile(AbstractImageBuilder.java:864)\n' +
+    '\tat org.eclipse.jdt.internal.core.builder.AbstractImageBuilder.acceptResult(AbstractImageBuilder.java:194)\n' +
+    '\tat org.eclipse.jdt.internal.compiler.Compiler.processCompiledUnits(Compiler.java:615)\n' +
+    '\tat org.eclipse.jdt.internal.compiler.Compiler.compile(Compiler.java:475)\n' +
+    '\tat org.eclipse.jdt.internal.compiler.Compiler.compile(Compiler.java:426)\n' +
+    '\tat org.eclipse.jdt.internal.core.builder.AbstractImageBuilder.compile(AbstractImageBuilder.java:377)\n' +
+    '\tat org.eclipse.jdt.internal.core.builder.IncrementalImageBuilder.compile(IncrementalImageBuilder.java:371)\n' +
+    '\tat org.eclipse.jdt.internal.core.builder.AbstractImageBuilder.compile(AbstractImageBuilder.java:309)\n' +
+    '\tat org.eclipse.jdt.internal.core.builder.IncrementalImageBuilder.incrementalBuildLoop(IncrementalImageBuilder.java:190)\n' +
+    '\tat org.eclipse.jdt.internal.core.builder.IncrementalImageBuilder.build(IncrementalImageBuilder.java:147)\n' +
+    '\tat org.eclipse.jdt.internal.core.builder.JavaBuilder.buildDeltas(JavaBuilder.java:289)\n' +
+    '\tat org.eclipse.jdt.internal.core.builder.JavaBuilder.build(JavaBuilder.java:212)\n' +
+    '\tat org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:853)\n' +
+    '\tat org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)\n' +
+    '\tat org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:232)\n' +
+    '\tat org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:281)\n' +
+    '\tat org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:334)\n' +
+    '\tat org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)\n' +
+    '\tat org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:337)\n' +
+    '\tat org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:389)\n' +
+    '\tat org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:410)\n' +
+    '\tat org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:160)\n' +
+    '\tat org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:251)\n' +
+    '\tat org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)\n',
+  level: 'info',
+  timestamp: '2021-10-07 14:06:15.555'
+}
+{
+  message: '[Error - 2:06:21 p.m.] Oct. 7, 2021, 2:06:21 p.m. JavaBuilder handling CoreException\n' +
+    'File not found: /home/ashpan/workspace/elytron/password/impl/target/classes/org/wildfly/security/password/impl/DigestPasswordAlgorithmParametersSpiImpl.class.\n' +
+    'org.eclipse.core.internal.resources.ResourceException(/wildfly-elytron-password-impl/target/classes/org/wildfly/security/password/impl/DigestPasswordAlgorithmParametersSpiImpl.class)[368]: java.lang.Exception: File not found: /home/ashpan/workspace/elytron/password/impl/target/classes/org/wildfly/security/password/impl/DigestPasswordAlgorithmParametersSpiImpl.class.\n' +
+    '\tat org.eclipse.core.internal.resources.ResourceException.provideStackTrace(ResourceException.java:42)\n' +
+    '\tat org.eclipse.core.internal.resources.ResourceException.<init>(ResourceException.java:38)\n' +
+    '\tat org.eclipse.core.internal.localstore.FileSystemResourceManager.read(FileSystemResourceManager.java:835)\n' +
+    '\tat org.eclipse.core.internal.resources.File.getContents(File.java:275)\n' +
+    '\tat org.eclipse.jdt.internal.core.util.Util.getResourceContentsAsByteArray(Util.java:1172)\n' +
+    '\tat org.eclipse.jdt.internal.core.builder.IncrementalImageBuilder.writeClassFileCheck(IncrementalImageBuilder.java:942)\n' +
+    '\tat org.eclipse.jdt.internal.core.builder.IncrementalImageBuilder.writeClassFileContents(IncrementalImageBuilder.java:884)\n' +
+    '\tat org.eclipse.jdt.internal.core.builder.AbstractImageBuilder.writeClassFile(AbstractImageBuilder.java:864)\n' +
+    '\tat org.eclipse.jdt.internal.core.builder.AbstractImageBuilder.acceptResult(AbstractImageBuilder.java:194)\n' +
+    '\tat org.eclipse.jdt.internal.compiler.Compiler.processCompiledUnits(Compiler.java:615)\n' +
+    '\tat org.eclipse.jdt.internal.compiler.Compiler.compile(Compiler.java:475)\n' +
+    '\tat org.eclipse.jdt.internal.compiler.Compiler.compile(Compiler.java:426)\n' +
+    '\tat org.eclipse.jdt.internal.core.builder.AbstractImageBuilder.compile(AbstractImageBuilder.java:377)\n' +
+    '\tat org.eclipse.jdt.internal.core.builder.IncrementalImageBuilder.compile(IncrementalImageBuilder.java:371)\n' +
+    '\tat org.eclipse.jdt.internal.core.builder.AbstractImageBuilder.compile(AbstractImageBuilder.java:309)\n' +
+    '\tat org.eclipse.jdt.internal.core.builder.IncrementalImageBuilder.incrementalBuildLoop(IncrementalImageBuilder.java:190)\n' +
+    '\tat org.eclipse.jdt.internal.core.builder.IncrementalImageBuilder.build(IncrementalImageBuilder.java:147)\n' +
+    '\tat org.eclipse.jdt.internal.core.builder.JavaBuilder.buildDeltas(JavaBuilder.java:289)\n' +
+    '\tat org.eclipse.jdt.internal.core.builder.JavaBuilder.build(JavaBuilder.java:212)\n' +
+    '\tat org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:853)\n' +
+    '\tat org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)\n' +
+    '\tat org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:232)\n' +
+    '\tat org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:281)\n' +
+    '\tat org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:334)\n' +
+    '\tat org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)\n' +
+    '\tat org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:337)\n' +
+    '\tat org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:389)\n' +
+    '\tat org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:410)\n' +
+    '\tat org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:160)\n' +
+    '\tat org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:251)\n' +
+    '\tat org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)\n',
+  level: 'info',
+  timestamp: '2021-10-07 14:06:21.524'
+}
+{
+  message: '[Error - 2:06:21 p.m.] Oct. 7, 2021, 2:06:21 p.m. JavaBuilder handling CoreException\n' +
+    'File not found: /home/ashpan/workspace/elytron/password/impl/target/classes/org/wildfly/security/password/impl/MaskedPasswordAlgorithmParametersSpiImpl.class.\n' +
+    'org.eclipse.core.internal.resources.ResourceException(/wildfly-elytron-password-impl/target/classes/org/wildfly/security/password/impl/MaskedPasswordAlgorithmParametersSpiImpl.class)[368]: java.lang.Exception: File not found: /home/ashpan/workspace/elytron/password/impl/target/classes/org/wildfly/security/password/impl/MaskedPasswordAlgorithmParametersSpiImpl.class.\n' +
+    '\tat org.eclipse.core.internal.resources.ResourceException.provideStackTrace(ResourceException.java:42)\n' +
+    '\tat org.eclipse.core.internal.resources.ResourceException.<init>(ResourceException.java:38)\n' +
+    '\tat org.eclipse.core.internal.localstore.FileSystemResourceManager.read(FileSystemResourceManager.java:835)\n' +
+    '\tat org.eclipse.core.internal.resources.File.getContents(File.java:275)\n' +
+    '\tat org.eclipse.jdt.internal.core.util.Util.getResourceContentsAsByteArray(Util.java:1172)\n' +
+    '\tat org.eclipse.jdt.internal.core.builder.IncrementalImageBuilder.writeClassFileCheck(IncrementalImageBuilder.java:942)\n' +
+    '\tat org.eclipse.jdt.internal.core.builder.IncrementalImageBuilder.writeClassFileContents(IncrementalImageBuilder.java:884)\n' +
+    '\tat org.eclipse.jdt.internal.core.builder.AbstractImageBuilder.writeClassFile(AbstractImageBuilder.java:864)\n' +
+    '\tat org.eclipse.jdt.internal.core.builder.AbstractImageBuilder.acceptResult(AbstractImageBuilder.java:194)\n' +
+    '\tat org.eclipse.jdt.internal.compiler.Compiler.processCompiledUnits(Compiler.java:615)\n' +
+    '\tat org.eclipse.jdt.internal.compiler.Compiler.compile(Compiler.java:475)\n' +
+    '\tat org.eclipse.jdt.internal.compiler.Compiler.compile(Compiler.java:426)\n' +
+    '\tat org.eclipse.jdt.internal.core.builder.AbstractImageBuilder.compile(AbstractImageBuilder.java:377)\n' +
+    '\tat org.eclipse.jdt.internal.core.builder.IncrementalImageBuilder.compile(IncrementalImageBuilder.java:371)\n' +
+    '\tat org.eclipse.jdt.internal.core.builder.AbstractImageBuilder.compile(AbstractImageBuilder.java:309)\n' +
+    '\tat org.eclipse.jdt.internal.core.builder.IncrementalImageBuilder.incrementalBuildLoop(IncrementalImageBuilder.java:190)\n' +
+    '\tat org.eclipse.jdt.internal.core.builder.IncrementalImageBuilder.build(IncrementalImageBuilder.java:147)\n' +
+    '\tat org.eclipse.jdt.internal.core.builder.JavaBuilder.buildDeltas(JavaBuilder.java:289)\n' +
+    '\tat org.eclipse.jdt.internal.core.builder.JavaBuilder.build(JavaBuilder.java:212)\n' +
+    '\tat org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:853)\n' +
+    '\tat org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)\n' +
+    '\tat org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:232)\n' +
+    '\tat org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:281)\n' +
+    '\tat org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:334)\n' +
+    '\tat org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)\n' +
+    '\tat org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:337)\n' +
+    '\tat org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:389)\n' +
+    '\tat org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:410)\n' +
+    '\tat org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:160)\n' +
+    '\tat org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:251)\n' +
+    '\tat org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)\n',
+  level: 'info',
+  timestamp: '2021-10-07 14:06:21.525'
+}
+{
+  message: '[Error - 2:06:21 p.m.] Oct. 7, 2021, 2:06:21 p.m. JavaBuilder handling CoreException\n' +
+    'File not found: /home/ashpan/workspace/elytron/password/impl/target/classes/org/wildfly/security/password/impl/OneTimePasswordAlgorithmParametersSpiImpl.class.\n' +
+    'org.eclipse.core.internal.resources.ResourceException(/wildfly-elytron-password-impl/target/classes/org/wildfly/security/password/impl/OneTimePasswordAlgorithmParametersSpiImpl.class)[368]: java.lang.Exception: File not found: /home/ashpan/workspace/elytron/password/impl/target/classes/org/wildfly/security/password/impl/OneTimePasswordAlgorithmParametersSpiImpl.class.\n' +
+    '\tat org.eclipse.core.internal.resources.ResourceException.provideStackTrace(ResourceException.java:42)\n' +
+    '\tat org.eclipse.core.internal.resources.ResourceException.<init>(ResourceException.java:38)\n' +
+    '\tat org.eclipse.core.internal.localstore.FileSystemResourceManager.read(FileSystemResourceManager.java:835)\n' +
+    '\tat org.eclipse.core.internal.resources.File.getContents(File.java:275)\n' +
+    '\tat org.eclipse.jdt.internal.core.util.Util.getResourceContentsAsByteArray(Util.java:1172)\n' +
+    '\tat org.eclipse.jdt.internal.core.builder.IncrementalImageBuilder.writeClassFileCheck(IncrementalImageBuilder.java:942)\n' +
+    '\tat org.eclipse.jdt.internal.core.builder.IncrementalImageBuilder.writeClassFileContents(IncrementalImageBuilder.java:884)\n' +
+    '\tat org.eclipse.jdt.internal.core.builder.AbstractImageBuilder.writeClassFile(AbstractImageBuilder.java:864)\n' +
+    '\tat org.eclipse.jdt.internal.core.builder.AbstractImageBuilder.acceptResult(AbstractImageBuilder.java:194)\n' +
+    '\tat org.eclipse.jdt.internal.compiler.Compiler.processCompiledUnits(Compiler.java:615)\n' +
+    '\tat org.eclipse.jdt.internal.compiler.Compiler.compile(Compiler.java:475)\n' +
+    '\tat org.eclipse.jdt.internal.compiler.Compiler.compile(Compiler.java:426)\n' +
+    '\tat org.eclipse.jdt.internal.core.builder.AbstractImageBuilder.compile(AbstractImageBuilder.java:377)\n' +
+    '\tat org.eclipse.jdt.internal.core.builder.IncrementalImageBuilder.compile(IncrementalImageBuilder.java:371)\n' +
+    '\tat org.eclipse.jdt.internal.core.builder.AbstractImageBuilder.compile(AbstractImageBuilder.java:309)\n' +
+    '\tat org.eclipse.jdt.internal.core.builder.IncrementalImageBuilder.incrementalBuildLoop(IncrementalImageBuilder.java:190)\n' +
+    '\tat org.eclipse.jdt.internal.core.builder.IncrementalImageBuilder.build(IncrementalImageBuilder.java:147)\n' +
+    '\tat org.eclipse.jdt.internal.core.builder.JavaBuilder.buildDeltas(JavaBuilder.java:289)\n' +
+    '\tat org.eclipse.jdt.internal.core.builder.JavaBuilder.build(JavaBuilder.java:212)\n' +
+    '\tat org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:853)\n' +
+    '\tat org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)\n' +
+    '\tat org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:232)\n' +
+    '\tat org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:281)\n' +
+    '\tat org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:334)\n' +
+    '\tat org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)\n' +
+    '\tat org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:337)\n' +
+    '\tat org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:389)\n' +
+    '\tat org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:410)\n' +
+    '\tat org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:160)\n' +
+    '\tat org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:251)\n' +
+    '\tat org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)\n',
+  level: 'info',
+  timestamp: '2021-10-07 14:06:21.527'
+}
+{
+  message: '[Error - 2:07:26 p.m.] Oct. 7, 2021, 2:07:26 p.m. JavaBuilder handling CoreException\n' +
+    'File not found: /home/ashpan/workspace/elytron/asn1/target/classes/org/wildfly/security/asn1/ElytronMessages_$logger.class.\n' +
+    'org.eclipse.core.internal.resources.ResourceException(/wildfly-elytron-asn1/target/classes/org/wildfly/security/asn1/ElytronMessages_$logger.class)[368]: java.lang.Exception: File not found: /home/ashpan/workspace/elytron/asn1/target/classes/org/wildfly/security/asn1/ElytronMessages_$logger.class.\n' +
+    '\tat org.eclipse.core.internal.resources.ResourceException.provideStackTrace(ResourceException.java:42)\n' +
+    '\tat org.eclipse.core.internal.resources.ResourceException.<init>(ResourceException.java:38)\n' +
+    '\tat org.eclipse.core.internal.localstore.FileSystemResourceManager.read(FileSystemResourceManager.java:835)\n' +
+    '\tat org.eclipse.core.internal.resources.File.getContents(File.java:275)\n' +
+    '\tat org.eclipse.jdt.internal.core.util.Util.getResourceContentsAsByteArray(Util.java:1172)\n' +
+    '\tat org.eclipse.jdt.internal.core.builder.IncrementalImageBuilder.writeClassFileCheck(IncrementalImageBuilder.java:942)\n' +
+    '\tat org.eclipse.jdt.internal.core.builder.IncrementalImageBuilder.writeClassFileContents(IncrementalImageBuilder.java:884)\n' +
+    '\tat org.eclipse.jdt.internal.core.builder.AbstractImageBuilder.writeClassFile(AbstractImageBuilder.java:864)\n' +
+    '\tat org.eclipse.jdt.internal.core.builder.AbstractImageBuilder.acceptResult(AbstractImageBuilder.java:194)\n' +
+    '\tat org.eclipse.jdt.internal.compiler.Compiler.processCompiledUnits(Compiler.java:615)\n' +
+    '\tat org.eclipse.jdt.internal.compiler.Compiler.compile(Compiler.java:475)\n' +
+    '\tat org.eclipse.jdt.internal.compiler.Compiler.compile(Compiler.java:426)\n' +
+    '\tat org.eclipse.jdt.internal.core.builder.AbstractImageBuilder.compile(AbstractImageBuilder.java:377)\n' +
+    '\tat org.eclipse.jdt.internal.core.builder.IncrementalImageBuilder.compile(IncrementalImageBuilder.java:371)\n' +
+    '\tat org.eclipse.jdt.internal.core.builder.AbstractImageBuilder.compile(AbstractImageBuilder.java:309)\n' +
+    '\tat org.eclipse.jdt.internal.core.builder.IncrementalImageBuilder.incrementalBuildLoop(IncrementalImageBuilder.java:190)\n' +
+    '\tat org.eclipse.jdt.internal.core.builder.IncrementalImageBuilder.build(IncrementalImageBuilder.java:147)\n' +
+    '\tat org.eclipse.jdt.internal.core.builder.JavaBuilder.buildDeltas(JavaBuilder.java:289)\n' +
+    '\tat org.eclipse.jdt.internal.core.builder.JavaBuilder.build(JavaBuilder.java:212)\n' +
+    '\tat org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:853)\n' +
+    '\tat org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)\n' +
+    '\tat org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:232)\n' +
+    '\tat org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:281)\n' +
+    '\tat org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:334)\n' +
+    '\tat org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)\n' +
+    '\tat org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:337)\n' +
+    '\tat org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:389)\n' +
+    '\tat org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:410)\n' +
+    '\tat org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:160)\n' +
+    '\tat org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:251)\n' +
+    '\tat org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)\n',
+  level: 'info',
+  timestamp: '2021-10-07 14:07:26.981'
+}

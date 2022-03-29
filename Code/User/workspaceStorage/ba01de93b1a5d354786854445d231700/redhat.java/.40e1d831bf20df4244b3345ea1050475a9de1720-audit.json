@@ -1,0 +1,19 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 2
+    },
+    "auditLog": "/home/ashpan/.config/Code/User/workspaceStorage/ba01de93b1a5d354786854445d231700/redhat.java/.40e1d831bf20df4244b3345ea1050475a9de1720-audit.json",
+    "files": [
+        {
+            "date": 1634138593380,
+            "name": "/home/ashpan/.config/Code/User/workspaceStorage/ba01de93b1a5d354786854445d231700/redhat.java/client.log.2021-10-13",
+            "hash": "091f73b0cdfeb6b9d174c87110f25dc3"
+        },
+        {
+            "date": 1634224159677,
+            "name": "/home/ashpan/.config/Code/User/workspaceStorage/ba01de93b1a5d354786854445d231700/redhat.java/client.log.2021-10-14",
+            "hash": "58b184658db0e8ee1f90de1d054fd30a"
+        }
+    ]
+}

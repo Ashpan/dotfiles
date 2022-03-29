@@ -1,0 +1,967 @@
+package org.wildfly.security.tool;
+
+import java.util.Locale;
+import java.io.Serializable;
+import javax.annotation.processing.Generated;
+import org.jboss.logging.DelegatingBasicLogger;
+import org.apache.commons.cli.MissingArgumentException;
+import java.io.FileNotFoundException;
+import java.lang.String;
+import java.io.IOException;
+import org.jboss.logging.Logger;
+import java.lang.Exception;
+import java.lang.Integer;
+import java.lang.RuntimeException;
+import org.jboss.logging.BasicLogger;
+import java.lang.Throwable;
+import java.util.Arrays;
+import java.lang.IllegalArgumentException;
+import org.apache.commons.cli.MissingOptionException;
+
+/**
+ * Warning this class consists of generated code.
+ */
+@Generated(value = "org.jboss.logging.processor.generator.model.MessageLoggerImplementor", date = "2021-08-30T10:36:43-0400")
+public class ElytronToolMessages_$logger extends DelegatingBasicLogger implements ElytronToolMessages, BasicLogger, Serializable {
+    private static final long serialVersionUID = 1L;
+    private static final String FQCN = ElytronToolMessages_$logger.class.getName();
+    public ElytronToolMessages_$logger(final Logger log) {
+        super(log);
+    }
+    private static final Locale LOCALE = Locale.ROOT;
+    protected Locale getLoggingLocale() {
+        return LOCALE;
+    }
+    private static final String commandOrAliasNotFound = "Command or alias \"%s\" not found.";
+    protected String commandOrAliasNotFound$str() {
+        return commandOrAliasNotFound;
+    }
+    @Override
+    public final String commandOrAliasNotFound(final String command) {
+        return String.format(getLoggingLocale(), commandOrAliasNotFound$str(), command);
+    }
+    private static final String inputDataNotConfirmed = "Input data not confirmed. Exiting.";
+    protected String inputDataNotConfirmed$str() {
+        return inputDataNotConfirmed;
+    }
+    @Override
+    public final String inputDataNotConfirmed() {
+        return String.format(getLoggingLocale(), inputDataNotConfirmed$str());
+    }
+    private static final String cmdHelp = "%s %s";
+    protected String cmdHelp$str() {
+        return cmdHelp;
+    }
+    @Override
+    public final String cmdHelp(final String toolCommand, final String commandName) {
+        return String.format(getLoggingLocale(), cmdHelp$str(), toolCommand, commandName);
+    }
+    private static final String commandExecuteException = "Exception encountered executing the command:";
+    protected String commandExecuteException$str() {
+        return commandExecuteException;
+    }
+    @Override
+    public final String commandExecuteException() {
+        return String.format(getLoggingLocale(), commandExecuteException$str());
+    }
+    private static final String generalHelpTitle = "Printing general help message:";
+    protected String generalHelpTitle$str() {
+        return generalHelpTitle;
+    }
+    @Override
+    public final String generalHelpTitle() {
+        return String.format(getLoggingLocale(), generalHelpTitle$str());
+    }
+    private static final String cmdLineStoreLocationDesc = "Location of credential store storage file";
+    protected String cmdLineStoreLocationDesc$str() {
+        return cmdLineStoreLocationDesc;
+    }
+    @Override
+    public final String cmdLineStoreLocationDesc() {
+        return String.format(getLoggingLocale(), cmdLineStoreLocationDesc$str());
+    }
+    private static final String cmdLineCredentialStoreHelpHeader = "\"credential-store\" command is used to perform various operations on credential store.";
+    protected String cmdLineCredentialStoreHelpHeader$str() {
+        return cmdLineCredentialStoreHelpHeader;
+    }
+    @Override
+    public final String cmdLineCredentialStoreHelpHeader() {
+        return String.format(getLoggingLocale(), cmdLineCredentialStoreHelpHeader$str());
+    }
+    private static final String cmdLineImplementationPropertiesDesc = "Implementation properties for credential store type in form of \"prop1=value1; ... ;propN=valueN\" .%nSupported properties are dependent on credential store type%nKeyStoreCredentialStore (default implementation) supports following additional properties (all are optional):%nkeyStoreType - specifies the key store type to use (defaults to \"JCEKS\")%nkeyAlias - specifies the secret key alias within the key store to use for encrypt/decrypt of data in external storage (defaults to \"cs_key\")%nexternal - specifies whether to store data to external storage and encrypted by keyAlias key (defaults to \"false\")%ncryptoAlg - cryptographic algorithm name to be used to encrypt/decrypt entries at external storage \"external\" has to be set to \"true\"";
+    protected String cmdLineImplementationPropertiesDesc$str() {
+        return cmdLineImplementationPropertiesDesc;
+    }
+    @Override
+    public final String cmdLineImplementationPropertiesDesc() {
+        return String.format(getLoggingLocale(), cmdLineImplementationPropertiesDesc$str());
+    }
+    private static final String cmdLineCredentialStorePassword = "Password for credential store";
+    protected String cmdLineCredentialStorePassword$str() {
+        return cmdLineCredentialStorePassword;
+    }
+    @Override
+    public final String cmdLineCredentialStorePassword() {
+        return String.format(getLoggingLocale(), cmdLineCredentialStorePassword$str());
+    }
+    private static final String cmdLineSaltDesc = "Salt to apply for final masked password of the credential store";
+    protected String cmdLineSaltDesc$str() {
+        return cmdLineSaltDesc;
+    }
+    @Override
+    public final String cmdLineSaltDesc() {
+        return String.format(getLoggingLocale(), cmdLineSaltDesc$str());
+    }
+    private static final String cmdLineIterationCountDesc = "Iteration count for final masked password of the credential store";
+    protected String cmdLineIterationCountDesc$str() {
+        return cmdLineIterationCountDesc;
+    }
+    @Override
+    public final String cmdLineIterationCountDesc() {
+        return String.format(getLoggingLocale(), cmdLineIterationCountDesc$str());
+    }
+    private static final String cmdLinePasswordCredentialValueDesc = "Password credential value";
+    protected String cmdLinePasswordCredentialValueDesc$str() {
+        return cmdLinePasswordCredentialValueDesc;
+    }
+    @Override
+    public final String cmdLinePasswordCredentialValueDesc() {
+        return String.format(getLoggingLocale(), cmdLinePasswordCredentialValueDesc$str());
+    }
+    private static final String cmdLineEntryTypeDesc = "Type of entry in credential store";
+    protected String cmdLineEntryTypeDesc$str() {
+        return cmdLineEntryTypeDesc;
+    }
+    @Override
+    public final String cmdLineEntryTypeDesc() {
+        return String.format(getLoggingLocale(), cmdLineEntryTypeDesc$str());
+    }
+    private static final String cmdLineOtherProvidersDesc = "Comma separated list of JCA provider names. Providers will be supplied to the credential store instance.%nEach provider must be installed through java.security file or through service loader from properly packaged jar file on classpath.";
+    protected String cmdLineOtherProvidersDesc$str() {
+        return cmdLineOtherProvidersDesc;
+    }
+    @Override
+    public final String cmdLineOtherProvidersDesc() {
+        return String.format(getLoggingLocale(), cmdLineOtherProvidersDesc$str());
+    }
+    private static final String cmdLineCustomCredentialStoreProviderDesc = "Provider name containing CredentialStoreSpi implementation.%nProvider must be installed through java.security file or through service loader from properly packaged jar file on classpath.";
+    protected String cmdLineCustomCredentialStoreProviderDesc$str() {
+        return cmdLineCustomCredentialStoreProviderDesc;
+    }
+    @Override
+    public final String cmdLineCustomCredentialStoreProviderDesc() {
+        return String.format(getLoggingLocale(), cmdLineCustomCredentialStoreProviderDesc$str());
+    }
+    private static final String cmdLineCreateCredentialStoreDesc = "Create credential store";
+    protected String cmdLineCreateCredentialStoreDesc$str() {
+        return cmdLineCreateCredentialStoreDesc;
+    }
+    @Override
+    public final String cmdLineCreateCredentialStoreDesc() {
+        return String.format(getLoggingLocale(), cmdLineCreateCredentialStoreDesc$str());
+    }
+    private static final String cmdLineCredentialStoreTypeDesc = "Credential store type";
+    protected String cmdLineCredentialStoreTypeDesc$str() {
+        return cmdLineCredentialStoreTypeDesc;
+    }
+    @Override
+    public final String cmdLineCredentialStoreTypeDesc() {
+        return String.format(getLoggingLocale(), cmdLineCredentialStoreTypeDesc$str());
+    }
+    private static final String cmdLineAddAliasDesc = "Add new alias to the credential store";
+    protected String cmdLineAddAliasDesc$str() {
+        return cmdLineAddAliasDesc;
+    }
+    @Override
+    public final String cmdLineAddAliasDesc() {
+        return String.format(getLoggingLocale(), cmdLineAddAliasDesc$str());
+    }
+    private static final String cmdLineRemoveAliasDesc = "Remove alias from the credential store";
+    protected String cmdLineRemoveAliasDesc$str() {
+        return cmdLineRemoveAliasDesc;
+    }
+    @Override
+    public final String cmdLineRemoveAliasDesc() {
+        return String.format(getLoggingLocale(), cmdLineRemoveAliasDesc$str());
+    }
+    private static final String cmdLineCheckAliasDesc = "Check if alias exists within the credential store";
+    protected String cmdLineCheckAliasDesc$str() {
+        return cmdLineCheckAliasDesc;
+    }
+    @Override
+    public final String cmdLineCheckAliasDesc() {
+        return String.format(getLoggingLocale(), cmdLineCheckAliasDesc$str());
+    }
+    private static final String cmdLineAliasesDesc = "Display all aliases";
+    protected String cmdLineAliasesDesc$str() {
+        return cmdLineAliasesDesc;
+    }
+    @Override
+    public final String cmdLineAliasesDesc() {
+        return String.format(getLoggingLocale(), cmdLineAliasesDesc$str());
+    }
+    private static final String cmdLinePrintSummary = "Print summary, especially command how to create this credential store";
+    protected String cmdLinePrintSummary$str() {
+        return cmdLinePrintSummary;
+    }
+    @Override
+    public final String cmdLinePrintSummary() {
+        return String.format(getLoggingLocale(), cmdLinePrintSummary$str());
+    }
+    private static final String cmdLineHelp = "Get help with usage of this command";
+    protected String cmdLineHelp$str() {
+        return cmdLineHelp;
+    }
+    @Override
+    public final String cmdLineHelp() {
+        return String.format(getLoggingLocale(), cmdLineHelp$str());
+    }
+    private static final String aliasExists = "Alias \"%s\" exists";
+    protected String aliasExists$str() {
+        return aliasExists;
+    }
+    @Override
+    public final String aliasExists(final String alias) {
+        return String.format(getLoggingLocale(), aliasExists$str(), alias);
+    }
+    private static final String aliasDoesNotExist1 = "Alias \"%s\" does not exist";
+    protected String aliasDoesNotExist1$str() {
+        return aliasDoesNotExist1;
+    }
+    @Override
+    public final String aliasDoesNotExist(final String alias) {
+        return String.format(getLoggingLocale(), aliasDoesNotExist1$str(), alias);
+    }
+    private static final String aliasDoesNotExist2 = "Alias \"%s\" of type \"%s\"does not exist";
+    protected String aliasDoesNotExist2$str() {
+        return aliasDoesNotExist2;
+    }
+    @Override
+    public final String aliasDoesNotExist(final String alias, final String type) {
+        return String.format(getLoggingLocale(), aliasDoesNotExist2$str(), alias, type);
+    }
+    private static final String aliasStored1 = "Alias \"%s\" has been successfully stored";
+    protected String aliasStored1$str() {
+        return aliasStored1;
+    }
+    @Override
+    public final String aliasStored(final String alias) {
+        return String.format(getLoggingLocale(), aliasStored1$str(), alias);
+    }
+    private static final String aliasStored2 = "Alias \"%s\" of type \"%s\" has been successfully stored";
+    protected String aliasStored2$str() {
+        return aliasStored2;
+    }
+    @Override
+    public final String aliasStored(final String alias, final String type) {
+        return String.format(getLoggingLocale(), aliasStored2$str(), alias, type);
+    }
+    private static final String aliasRemoved1 = "Alias \"%s\" has been successfully removed";
+    protected String aliasRemoved1$str() {
+        return aliasRemoved1;
+    }
+    @Override
+    public final String aliasRemoved(final String alias) {
+        return String.format(getLoggingLocale(), aliasRemoved1$str(), alias);
+    }
+    private static final String aliasRemoved2 = "Alias \"%s\" of type \"%s\" has been successfully removed";
+    protected String aliasRemoved2$str() {
+        return aliasRemoved2;
+    }
+    @Override
+    public final String aliasRemoved(final String alias, final String type) {
+        return String.format(getLoggingLocale(), aliasRemoved2$str(), alias, type);
+    }
+    private static final String commandSummary = "Credential store command summary:%n--------------------------------------%n%s";
+    protected String commandSummary$str() {
+        return commandSummary;
+    }
+    @Override
+    public final String commandSummary(final String command) {
+        return String.format(getLoggingLocale(), commandSummary$str(), command);
+    }
+    private static final String aliases = "Credential store contains following aliases: %s";
+    protected String aliases$str() {
+        return aliases;
+    }
+    @Override
+    public final String aliases(final String aliases) {
+        return String.format(getLoggingLocale(), aliases$str(), aliases);
+    }
+    private static final String noAliases = "Credential store contains no aliases";
+    protected String noAliases$str() {
+        return noAliases;
+    }
+    @Override
+    public final String noAliases() {
+        return String.format(getLoggingLocale(), noAliases$str());
+    }
+    private static final String actionToPerformNotDefined = "Action to perform on the credential store is not defined";
+    protected String actionToPerformNotDefined$str() {
+        return actionToPerformNotDefined;
+    }
+    @Override
+    public final Exception actionToPerformNotDefined() {
+        final Exception result = new Exception(String.format(getLoggingLocale(), actionToPerformNotDefined$str()));
+        final StackTraceElement[] st = result.getStackTrace();
+        result.setStackTrace(Arrays.copyOfRange(st, 1, st.length));
+        return result;
+    }
+    private static final String credentialStorePasswordPrompt = "Credential store password: ";
+    protected String credentialStorePasswordPrompt$str() {
+        return credentialStorePasswordPrompt;
+    }
+    @Override
+    public final String credentialStorePasswordPrompt() {
+        return String.format(getLoggingLocale(), credentialStorePasswordPrompt$str());
+    }
+    private static final String credentialStorePasswordPromptConfirm = "Confirm credential store password: ";
+    protected String credentialStorePasswordPromptConfirm$str() {
+        return credentialStorePasswordPromptConfirm;
+    }
+    @Override
+    public final String credentialStorePasswordPromptConfirm() {
+        return String.format(getLoggingLocale(), credentialStorePasswordPromptConfirm$str());
+    }
+    private static final String secretToStorePrompt = "Secret to store: ";
+    protected String secretToStorePrompt$str() {
+        return secretToStorePrompt;
+    }
+    @Override
+    public final String secretToStorePrompt() {
+        return String.format(getLoggingLocale(), secretToStorePrompt$str());
+    }
+    private static final String secretToStorePromptConfirm = "Confirm secret to store: ";
+    protected String secretToStorePromptConfirm$str() {
+        return secretToStorePromptConfirm;
+    }
+    @Override
+    public final String secretToStorePromptConfirm() {
+        return String.format(getLoggingLocale(), secretToStorePromptConfirm$str());
+    }
+    private static final String cmdMaskHelpHeader = "\"mask\" command is used to get MASK- string encrypted using PBEWithMD5AndDES in PicketBox compatible way.";
+    protected String cmdMaskHelpHeader$str() {
+        return cmdMaskHelpHeader;
+    }
+    @Override
+    public final String cmdMaskHelpHeader() {
+        return String.format(getLoggingLocale(), cmdMaskHelpHeader$str());
+    }
+    private static final String cmdMaskSaltDesc = "Salt to apply to masked string";
+    protected String cmdMaskSaltDesc$str() {
+        return cmdMaskSaltDesc;
+    }
+    @Override
+    public final String cmdMaskSaltDesc() {
+        return String.format(getLoggingLocale(), cmdMaskSaltDesc$str());
+    }
+    private static final String cmdMaskIterationCountDesc = "Iteration count for masked string";
+    protected String cmdMaskIterationCountDesc$str() {
+        return cmdMaskIterationCountDesc;
+    }
+    @Override
+    public final String cmdMaskIterationCountDesc() {
+        return String.format(getLoggingLocale(), cmdMaskIterationCountDesc$str());
+    }
+    private static final String cmdMaskSecretDesc = "Secret to be encrypted";
+    protected String cmdMaskSecretDesc$str() {
+        return cmdMaskSecretDesc;
+    }
+    @Override
+    public final String cmdMaskSecretDesc() {
+        return String.format(getLoggingLocale(), cmdMaskSecretDesc$str());
+    }
+    private static final String saltNotSpecified = "ELYTOOL00006: Salt not specified.";
+    protected String saltNotSpecified$str() {
+        return saltNotSpecified;
+    }
+    @Override
+    public final MissingArgumentException saltNotSpecified() {
+        final MissingArgumentException result = new MissingArgumentException(String.format(getLoggingLocale(), saltNotSpecified$str()));
+        final StackTraceElement[] st = result.getStackTrace();
+        result.setStackTrace(Arrays.copyOfRange(st, 1, st.length));
+        return result;
+    }
+    private static final String invalidParameterMustBeIntBetween = "ELYTOOL00007: Invalid \"%s\" value. Must be an integer between %d and %d, inclusive";
+    protected String invalidParameterMustBeIntBetween$str() {
+        return invalidParameterMustBeIntBetween;
+    }
+    @Override
+    public final IllegalArgumentException invalidParameterMustBeIntBetween(final String parameter, final int min, final int max) {
+        final IllegalArgumentException result = new IllegalArgumentException(String.format(getLoggingLocale(), invalidParameterMustBeIntBetween$str(), parameter, min, max));
+        final StackTraceElement[] st = result.getStackTrace();
+        result.setStackTrace(Arrays.copyOfRange(st, 1, st.length));
+        return result;
+    }
+    private static final String cmdVaultHelpHeader = "\"vault\" command is used convert PicketBox Security Vault to credential store using default implementation (KeyStoreCredentialStore) or custom implementation set with the \"type\" option.";
+    protected String cmdVaultHelpHeader$str() {
+        return cmdVaultHelpHeader;
+    }
+    @Override
+    public final String cmdVaultHelpHeader() {
+        return String.format(getLoggingLocale(), cmdVaultHelpHeader$str());
+    }
+    private static final String cmdLineVaultKeyStoreURL = "Vault keystore URL (defaults to \"vault.keystore\")";
+    protected String cmdLineVaultKeyStoreURL$str() {
+        return cmdLineVaultKeyStoreURL;
+    }
+    @Override
+    public final String cmdLineVaultKeyStoreURL() {
+        return String.format(getLoggingLocale(), cmdLineVaultKeyStoreURL$str());
+    }
+    private static final String cmdLineVaultKeyStorePassword = "Vault keystore password:%n- used to open original vault key store%n- used as password for new converted credential store";
+    protected String cmdLineVaultKeyStorePassword$str() {
+        return cmdLineVaultKeyStorePassword;
+    }
+    @Override
+    public final String cmdLineVaultKeyStorePassword() {
+        return String.format(getLoggingLocale(), cmdLineVaultKeyStorePassword$str());
+    }
+    private static final String cmdLineVaultEncryptionDirectory = "Vault directory containing encrypted files (defaults to \"vault\")";
+    protected String cmdLineVaultEncryptionDirectory$str() {
+        return cmdLineVaultEncryptionDirectory;
+    }
+    @Override
+    public final String cmdLineVaultEncryptionDirectory() {
+        return String.format(getLoggingLocale(), cmdLineVaultEncryptionDirectory$str());
+    }
+    private static final String cmdVaultLineSalt = "8 character salt (defaults to \"12345678\")";
+    protected String cmdVaultLineSalt$str() {
+        return cmdVaultLineSalt;
+    }
+    @Override
+    public final String cmdVaultLineSalt() {
+        return String.format(getLoggingLocale(), cmdVaultLineSalt$str());
+    }
+    private static final String cmdLineVaultIterationCount = "Iteration count (defaults to \"23\")";
+    protected String cmdLineVaultIterationCount$str() {
+        return cmdLineVaultIterationCount;
+    }
+    @Override
+    public final String cmdLineVaultIterationCount() {
+        return String.format(getLoggingLocale(), cmdLineVaultIterationCount$str());
+    }
+    private static final String cmdLineVaultKeyStoreAlias = "Vault master key alias within key store (defaults to \"vault\")";
+    protected String cmdLineVaultKeyStoreAlias$str() {
+        return cmdLineVaultKeyStoreAlias;
+    }
+    @Override
+    public final String cmdLineVaultKeyStoreAlias() {
+        return String.format(getLoggingLocale(), cmdLineVaultKeyStoreAlias$str());
+    }
+    private static final String cmdLineVaultCSParametersDesc = "Configuration parameters for credential store in form of: \"parameter1=value1; ... ;parameterN=valueN\"%nSupported parameters are dependent on credential store type%nGenerally supported parameters for default credential store implementation (all are optional):%ncreate - automatically creates credential store file (true/false)%nmodifiable - is the credential modifiable (true/false)%nlocation - file location of credential store%nkeyStoreType - specify the key store type to use";
+    protected String cmdLineVaultCSParametersDesc$str() {
+        return cmdLineVaultCSParametersDesc;
+    }
+    @Override
+    public final String cmdLineVaultCSParametersDesc() {
+        return String.format(getLoggingLocale(), cmdLineVaultCSParametersDesc$str());
+    }
+    private static final String vaultConversionSummary = "Vault Conversion summary:%n--------------------------------------%n%s%n--------------------------------------%n";
+    protected String vaultConversionSummary$str() {
+        return vaultConversionSummary;
+    }
+    @Override
+    public final String vaultConversionSummary(final String command) {
+        return String.format(getLoggingLocale(), vaultConversionSummary$str(), command);
+    }
+    private static final String conversionSuccessful = "Vault Conversion Successful%n";
+    protected String conversionSuccessful$str() {
+        return conversionSuccessful;
+    }
+    @Override
+    public final String conversionSuccessful() {
+        return String.format(getLoggingLocale(), conversionSuccessful$str());
+    }
+    private static final String cliCommandToNewCredentialStore = "CLI command to add new credential store:%n";
+    protected String cliCommandToNewCredentialStore$str() {
+        return cliCommandToNewCredentialStore;
+    }
+    @Override
+    public final String cliCommandToNewCredentialStore() {
+        return String.format(getLoggingLocale(), cliCommandToNewCredentialStore$str());
+    }
+    private static final String cliCommandBulkVaultCredentialStoreConversion = "Bulk conversion with options listed in description file. All options have no default value and should be set in the file.%nAll options are required with the exceptions:%n - \"properties\" option%n - \"type\" option (defaults to \"KeyStoreCredentialStore\")%n - \"credential-store-provider\" option%n - \"other-providers\" option%n - \"salt\" and \"iteration\" options can be omitted when plain-text password is used%nEach set of options must start with the \"keystore\" option in the following format:%n keystore:<value>%nkeystore-password:<value>%nenc-dir:<value>%nsalt:<value>%niteration:<value>%nlocation:<value>%nalias:<value>%nproperties:<parameter1>=<value1>; ... ;<parameterN>=<valueN>%ntype:<value>%ncredential-store-provider:<value>%nother-providers:<value>";
+    protected String cliCommandBulkVaultCredentialStoreConversion$str() {
+        return cliCommandBulkVaultCredentialStoreConversion;
+    }
+    @Override
+    public final String cliCommandBulkVaultCredentialStoreConversion() {
+        return String.format(getLoggingLocale(), cliCommandBulkVaultCredentialStoreConversion$str());
+    }
+    private static final String cmdLineVaultPrintSummary = "Print summary of conversion";
+    protected String cmdLineVaultPrintSummary$str() {
+        return cmdLineVaultPrintSummary;
+    }
+    @Override
+    public final String cmdLineVaultPrintSummary() {
+        return String.format(getLoggingLocale(), cmdLineVaultPrintSummary$str());
+    }
+    private static final String cmdLineVaultCSTypeDesc = "Converted credential store type (defaults to \"KeyStoreCredentialStore\")";
+    protected String cmdLineVaultCSTypeDesc$str() {
+        return cmdLineVaultCSTypeDesc;
+    }
+    @Override
+    public final String cmdLineVaultCSTypeDesc() {
+        return String.format(getLoggingLocale(), cmdLineVaultCSTypeDesc$str());
+    }
+    private static final String cmdLineVaultCSLocationDesc = "Location of credential store storage file (defaults to \"converted-vault.cr-store\" in vault encryption directory)";
+    protected String cmdLineVaultCSLocationDesc$str() {
+        return cmdLineVaultCSLocationDesc;
+    }
+    @Override
+    public final String cmdLineVaultCSLocationDesc() {
+        return String.format(getLoggingLocale(), cmdLineVaultCSLocationDesc$str());
+    }
+    private static final String cannotLocateAdminKey = "ELYTOOL00008: Cannot locate admin key with alias \"%s\" or it is of improper type";
+    protected String cannotLocateAdminKey$str() {
+        return cannotLocateAdminKey;
+    }
+    @Override
+    public final RuntimeException cannotLocateAdminKey(final String alias) {
+        final RuntimeException result = new RuntimeException(String.format(getLoggingLocale(), cannotLocateAdminKey$str(), alias));
+        final StackTraceElement[] st = result.getStackTrace();
+        result.setStackTrace(Arrays.copyOfRange(st, 1, st.length));
+        return result;
+    }
+    private static final String cannotParseProps = "ELYTOOL00009: Cannot parse credential store implementation properties from supplied parameter";
+    protected String cannotParseProps$str() {
+        return cannotParseProps;
+    }
+    @Override
+    public final RuntimeException cannotParseProps() {
+        final RuntimeException result = new RuntimeException(String.format(getLoggingLocale(), cannotParseProps$str()));
+        final StackTraceElement[] st = result.getStackTrace();
+        result.setStackTrace(Arrays.copyOfRange(st, 1, st.length));
+        return result;
+    }
+    private static final String vaultConvertedToCS = "Vault (enc-dir=\"%s\";keystore=\"%s\") converted to credential store \"%s\"";
+    protected String vaultConvertedToCS$str() {
+        return vaultConvertedToCS;
+    }
+    @Override
+    public final String vaultConvertedToCS(final String vaultDir, final String keyStore, final String credentialStoreStorage) {
+        return String.format(getLoggingLocale(), vaultConvertedToCS$str(), vaultDir, keyStore, credentialStoreStorage);
+    }
+    private static final String descriptorParseMissingColon = "ELYTOOL00010: Cannot parse conversion descriptor file \"%s\" missing colon at line %s";
+    protected String descriptorParseMissingColon$str() {
+        return descriptorParseMissingColon;
+    }
+    @Override
+    public final IOException descriptorParseMissingColon(final String file, final String line) {
+        final IOException result = new IOException(String.format(getLoggingLocale(), descriptorParseMissingColon$str(), file, line));
+        final StackTraceElement[] st = result.getStackTrace();
+        result.setStackTrace(Arrays.copyOfRange(st, 1, st.length));
+        return result;
+    }
+    private static final String unrecognizedDescriptorAttribute = "ELYTOOL00011: Unrecognized descriptor attribute at line %s";
+    protected String unrecognizedDescriptorAttribute$str() {
+        return unrecognizedDescriptorAttribute;
+    }
+    @Override
+    public final IOException unrecognizedDescriptorAttribute(final String line) {
+        final IOException result = new IOException(String.format(getLoggingLocale(), unrecognizedDescriptorAttribute$str(), line));
+        final StackTraceElement[] st = result.getStackTrace();
+        result.setStackTrace(Arrays.copyOfRange(st, 1, st.length));
+        return result;
+    }
+    private static final String bulkConversionProblem = "ELYTOOL00012: Problem converting vault (enc-dir=\"%s\";keystore=\"%s\")";
+    protected String bulkConversionProblem$str() {
+        return bulkConversionProblem;
+    }
+    @Override
+    public final Exception bulkConversionProblem(final String vaultDir, final String keyStore, final Throwable cause) {
+        final Exception result = new Exception(String.format(getLoggingLocale(), bulkConversionProblem$str(), vaultDir, keyStore), cause);
+        final StackTraceElement[] st = result.getStackTrace();
+        result.setStackTrace(Arrays.copyOfRange(st, 1, st.length));
+        return result;
+    }
+    private static final String bulkConversionInvalidOption = "ELYTOOL00013: Invalid option \"%s\" when performing bulk conversion. Use bulk conversion descriptor file.";
+    protected String bulkConversionInvalidOption$str() {
+        return bulkConversionInvalidOption;
+    }
+    @Override
+    public final Exception bulkConversionInvalidOption(final String option) {
+        final Exception result = new Exception(String.format(getLoggingLocale(), bulkConversionInvalidOption$str(), option));
+        final StackTraceElement[] st = result.getStackTrace();
+        result.setStackTrace(Arrays.copyOfRange(st, 1, st.length));
+        return result;
+    }
+    private static final String unknownEntryType = "ELYTOOL00014: Unknown entry-type \"%s\"";
+    protected String unknownEntryType$str() {
+        return unknownEntryType;
+    }
+    @Override
+    public final IllegalArgumentException unknownEntryType(final String entryType) {
+        final IllegalArgumentException result = new IllegalArgumentException(String.format(getLoggingLocale(), unknownEntryType$str(), entryType));
+        final StackTraceElement[] st = result.getStackTrace();
+        result.setStackTrace(Arrays.copyOfRange(st, 1, st.length));
+        return result;
+    }
+    private static final String unknownProvider = "ELYTOOL00015: Unknown provider \"%s\"";
+    protected String unknownProvider$str() {
+        return unknownProvider;
+    }
+    @Override
+    public final IllegalArgumentException unknownProvider(final String provider) {
+        final IllegalArgumentException result = new IllegalArgumentException(String.format(getLoggingLocale(), unknownProvider$str(), provider));
+        final StackTraceElement[] st = result.getStackTrace();
+        result.setStackTrace(Arrays.copyOfRange(st, 1, st.length));
+        return result;
+    }
+    private static final String credentialStoreCreated = "Credential Store has been successfully created";
+    protected String credentialStoreCreated$str() {
+        return credentialStoreCreated;
+    }
+    @Override
+    public final String credentialStoreCreated() {
+        return String.format(getLoggingLocale(), credentialStoreCreated$str());
+    }
+    private static final String optionNotSpecified = "ELYTOOL00016: Option \"%s\" is not specified.";
+    protected String optionNotSpecified$str() {
+        return optionNotSpecified;
+    }
+    @Override
+    public final MissingArgumentException optionNotSpecified(final String option) {
+        final MissingArgumentException result = new MissingArgumentException(String.format(getLoggingLocale(), optionNotSpecified$str(), option));
+        final StackTraceElement[] st = result.getStackTrace();
+        result.setStackTrace(Arrays.copyOfRange(st, 1, st.length));
+        return result;
+    }
+    private static final String duplicateOptionSpecified = "ELYTOOL00017: Option \"%s\" specified more than once. Only the first occurrence will be used.";
+    protected String duplicateOptionSpecified$str() {
+        return duplicateOptionSpecified;
+    }
+    @Override
+    public final String duplicateOptionSpecified(final String option) {
+        return String.format(getLoggingLocale(), duplicateOptionSpecified$str(), option);
+    }
+    private static final String noArgumentOption = "ELYTOOL00018: Option \"%s\" does not expect any arguments.";
+    protected String noArgumentOption$str() {
+        return noArgumentOption;
+    }
+    @Override
+    public final MissingArgumentException noArgumentOption(final String option) {
+        final MissingArgumentException result = new MissingArgumentException(String.format(getLoggingLocale(), noArgumentOption$str(), option));
+        final StackTraceElement[] st = result.getStackTrace();
+        result.setStackTrace(Arrays.copyOfRange(st, 1, st.length));
+        return result;
+    }
+    private static final String vaultPasswordPrompt = "Vault password: ";
+    protected String vaultPasswordPrompt$str() {
+        return vaultPasswordPrompt;
+    }
+    @Override
+    public final String vaultPasswordPrompt() {
+        return String.format(getLoggingLocale(), vaultPasswordPrompt$str());
+    }
+    private static final String vaultPasswordPromptConfirm = "Confirm vault password: ";
+    protected String vaultPasswordPromptConfirm$str() {
+        return vaultPasswordPromptConfirm;
+    }
+    @Override
+    public final String vaultPasswordPromptConfirm() {
+        return String.format(getLoggingLocale(), vaultPasswordPromptConfirm$str());
+    }
+    private static final String vaultFileNotFound = "ELYTOOL00019: Encryption directory \"%s\" does not contain \"VAULT.dat\" file.";
+    protected String vaultFileNotFound$str() {
+        return vaultFileNotFound;
+    }
+    @Override
+    public final IllegalArgumentException vaultFileNotFound(final String path) {
+        final IllegalArgumentException result = new IllegalArgumentException(String.format(getLoggingLocale(), vaultFileNotFound$str(), path));
+        final StackTraceElement[] st = result.getStackTrace();
+        result.setStackTrace(Arrays.copyOfRange(st, 1, st.length));
+        return result;
+    }
+    private static final String maskSecretPrompt = "Mask secret: ";
+    protected String maskSecretPrompt$str() {
+        return maskSecretPrompt;
+    }
+    @Override
+    public final String maskSecretPrompt() {
+        return String.format(getLoggingLocale(), maskSecretPrompt$str());
+    }
+    private static final String maskSecretPromptConfirm = "Confirm mask secret: ";
+    protected String maskSecretPromptConfirm$str() {
+        return maskSecretPromptConfirm;
+    }
+    @Override
+    public final String maskSecretPromptConfirm() {
+        return String.format(getLoggingLocale(), maskSecretPromptConfirm$str());
+    }
+    private static final String cmdLineDebug = "Print stack trace when error occurs.";
+    protected String cmdLineDebug$str() {
+        return cmdLineDebug;
+    }
+    @Override
+    public final String cmdLineDebug() {
+        return String.format(getLoggingLocale(), cmdLineDebug$str());
+    }
+    private static final String commandExecuteExceptionNoDebug = "Exception encountered executing the command. Use option \"--debug\" for complete exception stack trace.";
+    protected String commandExecuteExceptionNoDebug$str() {
+        return commandExecuteExceptionNoDebug;
+    }
+    @Override
+    public final String commandExecuteExceptionNoDebug() {
+        return String.format(getLoggingLocale(), commandExecuteExceptionNoDebug$str());
+    }
+    private static final String undefinedAlias = "ELYTOOL00020: Alias was not defined.";
+    protected String undefinedAlias$str() {
+        return undefinedAlias;
+    }
+    @Override
+    public final MissingArgumentException undefinedAlias() {
+        final MissingArgumentException result = new MissingArgumentException(String.format(getLoggingLocale(), undefinedAlias$str()));
+        final StackTraceElement[] st = result.getStackTrace();
+        result.setStackTrace(Arrays.copyOfRange(st, 1, st.length));
+        return result;
+    }
+    private static final String undefinedOutputLocation = "ELYTOOL00021: Location of the output file was not defined.";
+    protected String undefinedOutputLocation$str() {
+        return undefinedOutputLocation;
+    }
+    @Override
+    public final MissingArgumentException undefinedOutputLocation() {
+        final MissingArgumentException result = new MissingArgumentException(String.format(getLoggingLocale(), undefinedOutputLocation$str()));
+        final StackTraceElement[] st = result.getStackTrace();
+        result.setStackTrace(Arrays.copyOfRange(st, 1, st.length));
+        return result;
+    }
+    private static final String undefinedEncryptionDirectory = "ELYTOOL00022: Encryption directory was not defined.";
+    protected String undefinedEncryptionDirectory$str() {
+        return undefinedEncryptionDirectory;
+    }
+    @Override
+    public final MissingArgumentException undefinedEncryptionDirectory() {
+        final MissingArgumentException result = new MissingArgumentException(String.format(getLoggingLocale(), undefinedEncryptionDirectory$str()));
+        final StackTraceElement[] st = result.getStackTrace();
+        result.setStackTrace(Arrays.copyOfRange(st, 1, st.length));
+        return result;
+    }
+    private static final String undefinedVaultPassword = "ELYTOOL00023: Vault password was not defined";
+    protected String undefinedVaultPassword$str() {
+        return undefinedVaultPassword;
+    }
+    @Override
+    public final MissingArgumentException undefinedVaultPassword() {
+        final MissingArgumentException result = new MissingArgumentException(String.format(getLoggingLocale(), undefinedVaultPassword$str()));
+        final StackTraceElement[] st = result.getStackTrace();
+        result.setStackTrace(Arrays.copyOfRange(st, 1, st.length));
+        return result;
+    }
+    private static final String undefinedKeystore = "ELYTOOL00024: Cannot parse conversion descriptor file \"%s\". No keystore specified.";
+    protected String undefinedKeystore$str() {
+        return undefinedKeystore;
+    }
+    @Override
+    public final IOException undefinedKeystore(final String file) {
+        final IOException result = new IOException(String.format(getLoggingLocale(), undefinedKeystore$str(), file));
+        final StackTraceElement[] st = result.getStackTrace();
+        result.setStackTrace(Arrays.copyOfRange(st, 1, st.length));
+        return result;
+    }
+    private static final String storageFileDoesNotExist = "ELYTOOL00025: Credential store storage file \"%s\" does not exist.";
+    protected String storageFileDoesNotExist$str() {
+        return storageFileDoesNotExist;
+    }
+    @Override
+    public final IllegalArgumentException storageFileDoesNotExist(final String location) {
+        final IllegalArgumentException result = new IllegalArgumentException(String.format(getLoggingLocale(), storageFileDoesNotExist$str(), location));
+        final StackTraceElement[] st = result.getStackTrace();
+        result.setStackTrace(Arrays.copyOfRange(st, 1, st.length));
+        return result;
+    }
+    private static final String storageFileExists = "ELYTOOL00026: Credential store storage file \"%s\" already exists.";
+    protected String storageFileExists$str() {
+        return storageFileExists;
+    }
+    @Override
+    public final IllegalArgumentException storageFileExists(final String location) {
+        final IllegalArgumentException result = new IllegalArgumentException(String.format(getLoggingLocale(), storageFileExists$str(), location));
+        final StackTraceElement[] st = result.getStackTrace();
+        result.setStackTrace(Arrays.copyOfRange(st, 1, st.length));
+        return result;
+    }
+    private static final String wrongMaskedPasswordFormat = "ELYTOOL00027: Wrong masked password format. Expected format is \"MASK-<encoded payload>;<salt>;<iteration>\"";
+    protected String wrongMaskedPasswordFormat$str() {
+        return wrongMaskedPasswordFormat;
+    }
+    @Override
+    public final IllegalArgumentException wrongMaskedPasswordFormat() {
+        final IllegalArgumentException result = new IllegalArgumentException(String.format(getLoggingLocale(), wrongMaskedPasswordFormat$str()));
+        final StackTraceElement[] st = result.getStackTrace();
+        result.setStackTrace(Arrays.copyOfRange(st, 1, st.length));
+        return result;
+    }
+    private static final String filebasedKeystoreLocationMissing = "ELYTOOL00028: Location parameter is not specified for filebased keystore type '%s'";
+    protected String filebasedKeystoreLocationMissing$str() {
+        return filebasedKeystoreLocationMissing;
+    }
+    @Override
+    public final MissingArgumentException filebasedKeystoreLocationMissing(final String type) {
+        final MissingArgumentException result = new MissingArgumentException(String.format(getLoggingLocale(), filebasedKeystoreLocationMissing$str(), type));
+        final StackTraceElement[] st = result.getStackTrace();
+        result.setStackTrace(Arrays.copyOfRange(st, 1, st.length));
+        return result;
+    }
+    private static final String longOptionDescription = "In the message below, option '%s' refers to long option '%s'.";
+    protected String longOptionDescription$str() {
+        return longOptionDescription;
+    }
+    @Override
+    public final String longOptionDescription(final String option, final String longOption) {
+        return String.format(getLoggingLocale(), longOptionDescription$str(), option, longOption);
+    }
+    private static final String cmdFileSystemRealmHelpHeader = "'FileSystemRealm' command is used to convert legacy properties files and scripts to an Elytron FileSystemRealm.";
+    protected String cmdFileSystemRealmHelpHeader$str() {
+        return cmdFileSystemRealmHelpHeader;
+    }
+    @Override
+    public final String cmdFileSystemRealmHelpHeader() {
+        return String.format(getLoggingLocale(), cmdFileSystemRealmHelpHeader$str());
+    }
+    private static final String cmdFileSystemRealmUsersFileDesc = "The relative or absolute path to the users file.";
+    protected String cmdFileSystemRealmUsersFileDesc$str() {
+        return cmdFileSystemRealmUsersFileDesc;
+    }
+    @Override
+    public final String cmdFileSystemRealmUsersFileDesc() {
+        return String.format(getLoggingLocale(), cmdFileSystemRealmUsersFileDesc$str());
+    }
+    private static final String cmdFileSystemRealmRolesFileDesc = "The relative or absolute path to the roles file.";
+    protected String cmdFileSystemRealmRolesFileDesc$str() {
+        return cmdFileSystemRealmRolesFileDesc;
+    }
+    @Override
+    public final String cmdFileSystemRealmRolesFileDesc() {
+        return String.format(getLoggingLocale(), cmdFileSystemRealmRolesFileDesc$str());
+    }
+    private static final String cmdFileSystemRealmOutputLocationDesc = "The relative or absolute path to the output directory.";
+    protected String cmdFileSystemRealmOutputLocationDesc$str() {
+        return cmdFileSystemRealmOutputLocationDesc;
+    }
+    @Override
+    public final String cmdFileSystemRealmOutputLocationDesc() {
+        return String.format(getLoggingLocale(), cmdFileSystemRealmOutputLocationDesc$str());
+    }
+    private static final String cmdFileSystemRealmFileSystemRealmNameDesc = "Name of the filesystem-realm to be configured.";
+    protected String cmdFileSystemRealmFileSystemRealmNameDesc$str() {
+        return cmdFileSystemRealmFileSystemRealmNameDesc;
+    }
+    @Override
+    public final String cmdFileSystemRealmFileSystemRealmNameDesc() {
+        return String.format(getLoggingLocale(), cmdFileSystemRealmFileSystemRealmNameDesc$str());
+    }
+    private static final String cmdFileSystemRealmSecurityDomainNameDesc = "Name of the security-domain to be configured.";
+    protected String cmdFileSystemRealmSecurityDomainNameDesc$str() {
+        return cmdFileSystemRealmSecurityDomainNameDesc;
+    }
+    @Override
+    public final String cmdFileSystemRealmSecurityDomainNameDesc() {
+        return String.format(getLoggingLocale(), cmdFileSystemRealmSecurityDomainNameDesc$str());
+    }
+    private static final String cmdFileSystemRealmBulkConvertDesc = "Bulk conversion with options listed in description file. Optional options have default values, required options do not. %nThe options fileSystemRealmName and securityDomainName are optional. %nThese optional options have default values of: converted-properties-filesystem-realm and converted-properties-security-domain. %nValues are required for the following options: users-file, roles-file, and output-location. %nIf one or more these required values are not set, the corresponding block is skipped. %nEach option must be specified in the following format: <option>:<value>. The order of options does not matter. %nBlocks of options must be separated by a blank line.";
+    protected String cmdFileSystemRealmBulkConvertDesc$str() {
+        return cmdFileSystemRealmBulkConvertDesc;
+    }
+    @Override
+    public final String cmdFileSystemRealmBulkConvertDesc() {
+        return String.format(getLoggingLocale(), cmdFileSystemRealmBulkConvertDesc$str());
+    }
+    private static final String cmdFileSystemRealmSilentDesc = "Suppresses all output except errors and prompts.";
+    protected String cmdFileSystemRealmSilentDesc$str() {
+        return cmdFileSystemRealmSilentDesc;
+    }
+    @Override
+    public final String cmdFileSystemRealmSilentDesc() {
+        return String.format(getLoggingLocale(), cmdFileSystemRealmSilentDesc$str());
+    }
+    private static final String cmdFileSystemRealmSummaryDesc = "Provides a detailed summary of all operations performed, once the command finishes.";
+    protected String cmdFileSystemRealmSummaryDesc$str() {
+        return cmdFileSystemRealmSummaryDesc;
+    }
+    @Override
+    public final String cmdFileSystemRealmSummaryDesc() {
+        return String.format(getLoggingLocale(), cmdFileSystemRealmSummaryDesc$str());
+    }
+    private static final String missingUsersFile = "No users file specified. Please use either --bulk-convert <file> or specify a users file using --users-file <file>";
+    protected String missingUsersFile$str() {
+        return missingUsersFile;
+    }
+    @Override
+    public final MissingOptionException missingUsersFile() {
+        final MissingOptionException result = new MissingOptionException(String.format(getLoggingLocale(), missingUsersFile$str()));
+        final StackTraceElement[] st = result.getStackTrace();
+        result.setStackTrace(Arrays.copyOfRange(st, 1, st.length));
+        return result;
+    }
+    private static final String missingRolesFile = "No roles file specified. Please use either --bulk-convert <file> or specify a roles file using --roles-file <file>";
+    protected String missingRolesFile$str() {
+        return missingRolesFile;
+    }
+    @Override
+    public final MissingOptionException missingRolesFile() {
+        final MissingOptionException result = new MissingOptionException(String.format(getLoggingLocale(), missingRolesFile$str()));
+        final StackTraceElement[] st = result.getStackTrace();
+        result.setStackTrace(Arrays.copyOfRange(st, 1, st.length));
+        return result;
+    }
+    private static final String missingOutputLocation = "No output location specified. Please use either --bulk-convert <file> or specify an output location using --output-location <directory>";
+    protected String missingOutputLocation$str() {
+        return missingOutputLocation;
+    }
+    @Override
+    public final MissingOptionException missingOutputLocation() {
+        final MissingOptionException result = new MissingOptionException(String.format(getLoggingLocale(), missingOutputLocation$str()));
+        final StackTraceElement[] st = result.getStackTrace();
+        result.setStackTrace(Arrays.copyOfRange(st, 1, st.length));
+        return result;
+    }
+    private static final String mutuallyExclusiveOptionsSpecified = "Both --bulk-convert and one or more of --users-file, --roles-file, and/or --output-location were specified. Please only use --bulk-convert or all of --users-file, --roles-file, and --output-location.";
+    protected String mutuallyExclusiveOptionsSpecified$str() {
+        return mutuallyExclusiveOptionsSpecified;
+    }
+    @Override
+    public final MissingOptionException mutuallyExclusiveOptionsSpecified() {
+        final MissingOptionException result = new MissingOptionException(String.format(getLoggingLocale(), mutuallyExclusiveOptionsSpecified$str()));
+        final StackTraceElement[] st = result.getStackTrace();
+        result.setStackTrace(Arrays.copyOfRange(st, 1, st.length));
+        return result;
+    }
+    private static final String noValueFound = "No value found for %s.";
+    protected String noValueFound$str() {
+        return noValueFound;
+    }
+    @Override
+    public final String noValueFound(final String param) {
+        return String.format(getLoggingLocale(), noValueFound$str(), param);
+    }
+    private static final String fileNotFound = "Could not find the specified file %s.";
+    protected String fileNotFound$str() {
+        return fileNotFound;
+    }
+    @Override
+    public final FileNotFoundException fileNotFound(final String file) {
+        final FileNotFoundException result = new FileNotFoundException(String.format(getLoggingLocale(), fileNotFound$str(), file));
+        final StackTraceElement[] st = result.getStackTrace();
+        result.setStackTrace(Arrays.copyOfRange(st, 1, st.length));
+        return result;
+    }
+    private static final String skippingDescriptorBlock = "Skipping descriptor file block number %d due to %s.";
+    protected String skippingDescriptorBlock$str() {
+        return skippingDescriptorBlock;
+    }
+    @Override
+    public final String skippingDescriptorBlock(final Integer blockNumber, final String reason) {
+        return String.format(getLoggingLocale(), skippingDescriptorBlock$str(), blockNumber, reason);
+    }
+    private static final String shouldFileBeOverwritten = "Should file %s be overwritten? (y/n) ";
+    protected String shouldFileBeOverwritten$str() {
+        return shouldFileBeOverwritten;
+    }
+    @Override
+    public final String shouldFileBeOverwritten(final String file) {
+        return String.format(getLoggingLocale(), shouldFileBeOverwritten$str(), file);
+    }
+}

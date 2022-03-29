@@ -1,0 +1,82 @@
+[
+	{
+		"name": "TEXT",
+		"value": "Preparing request to http://10.22.33.88:5001/Team1325_Sandbox/ashpan/accounts",
+		"timestamp": 1646596654799
+	},
+	{
+		"name": "TEXT",
+		"value": "Current time is 2022-03-06T19:57:34.799Z",
+		"timestamp": 1646596654799
+	},
+	{
+		"name": "TEXT",
+		"value": "Using libcurl/7.73.0 OpenSSL/1.1.1l zlib/1.2.11 brotli/1.0.9 zstd/1.5.2 libidn2/2.3.2 libssh2/1.9.0 nghttp2/1.42.0",
+		"timestamp": 1646596654799
+	},
+	{
+		"name": "TEXT",
+		"value": "Using default HTTP version",
+		"timestamp": 1646596654799
+	},
+	{
+		"name": "TEXT",
+		"value": "Disable timeout",
+		"timestamp": 1646596654799
+	},
+	{
+		"name": "TEXT",
+		"value": "Enable automatic URL encoding",
+		"timestamp": 1646596654799
+	},
+	{
+		"name": "TEXT",
+		"value": "Enable SSL validation",
+		"timestamp": 1646596654799
+	},
+	{
+		"name": "TEXT",
+		"value": "Enable cookie sending with jar of 0 cookies",
+		"timestamp": 1646596654803
+	},
+	{
+		"name": "TEXT",
+		"value": "Too old connection (9648 seconds), disconnect it\n",
+		"timestamp": 1646596654806
+	},
+	{
+		"name": "TEXT",
+		"value": "Connection 5 seems to be dead!\n",
+		"timestamp": 1646596654806
+	},
+	{
+		"name": "TEXT",
+		"value": "Closing connection 5\n",
+		"timestamp": 1646596654806
+	},
+	{
+		"name": "TEXT",
+		"value": "Too old connection (9649 seconds), disconnect it\n",
+		"timestamp": 1646596654806
+	},
+	{
+		"name": "TEXT",
+		"value": "Connection 4 seems to be dead!\n",
+		"timestamp": 1646596654806
+	},
+	{
+		"name": "TEXT",
+		"value": "Closing connection 4\n",
+		"timestamp": 1646596654806
+	},
+	{
+		"name": "TEXT",
+		"value": "TLSv1.3 (OUT), TLS alert, close notify (256):\n",
+		"timestamp": 1646596654806
+	},
+	{
+		"name": "TEXT",
+		"value": "  Trying 10.22.33.88:5001...\n",
+		"timestamp": 1646596654807
+	}
+]

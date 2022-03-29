@@ -1,0 +1,1 @@
+INDEX VERSION 1.131+/home/ashpan/.config/Code/User/workspaceStorage/02fa349b48db13f463bcb9a2451be02b/redhat.java/ss_ws/.metadata/.plugins/org.eclipse.jdt.core

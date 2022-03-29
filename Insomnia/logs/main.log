@@ -1,0 +1,31 @@
+[2022-03-27 13:11:27.299] [info]  Running version 2021.7.2
+[2022-03-27 13:11:27.314] [error] [electron client protocol] FAILED to set default protocol 'insomnia://'
+[2022-03-27 13:11:27.328] [info]  [electron client protocol] the current executable is not the default protocol for 'insomnia://'
+[2022-03-27 13:11:27.380] [info]  [electron client protocol] the default application set for 'insomnia://' is 'appimagekit_dde849c73884ba34bed3e10c0ea4e084-Insomnia.desktop
+'
+[2022-03-27 13:11:27.764] [info]  [fix] Running database repairs
+[2022-03-27 13:11:27.882] [info]  [db] Initialized DB at /home/ashpan/.config/Insomnia/insomnia.$TYPE.db
+[2022-03-27 13:11:27.882] [info]  [db] Init responses DB
+[2022-03-27 13:11:27.913] [info]  [localstorage] Initialized at /home/ashpan/.config/Insomnia/localStorage
+[2022-03-27 13:11:28.030] [info]  [main] Loading file:///tmp/.mount_InsomnCFYQvA/resources/app.asar/renderer.html
+[2022-03-27 13:11:28.060] [info]  [ga] Non-interactive General, Launched, 2021.7.2
+[2022-03-27 13:11:28.114] [info]  [ga] Queued event [
+  { name: 't', value: 'event' },
+  { name: 'ec', value: 'General' },
+  { name: 'ea', value: 'Launched' },
+  { name: 'ni', value: '1' },
+  { name: 'el', value: '2021.7.2' }
+]
+[2022-03-27 13:11:28.562] [info]  [updater] Updater not running platform=linux dev=false
+[2022-03-27 13:33:01.678] [info]  [response] Delete body /home/ashpan/.config/Insomnia/responses/c1354e1c-8947-47ea-a24e-5c1756144aee.response
+[2022-03-27 13:33:01.682] [info]  [response] Delete timeline /home/ashpan/.config/Insomnia/responses/1b9ed96412acf0429404bd3438c9bcea9bade959.timeline
+[2022-03-27 13:35:50.082] [info]  [response] Delete body 
+[2022-03-27 13:35:50.083] [info]  [response] Delete timeline /home/ashpan/.config/Insomnia/responses/42fc2996240b74df0a02fee4797eb369ba165c1f.timeline
+[2022-03-27 13:36:13.024] [info]  [response] Delete body /home/ashpan/.config/Insomnia/responses/16c9ecf4-b85b-4680-9d81-e579171dc47a.response
+[2022-03-27 13:36:13.025] [info]  [response] Delete timeline /home/ashpan/.config/Insomnia/responses/8d8f542056d26086c77d2409db51ea7c7e68350f.timeline
+[2022-03-27 13:36:54.521] [info]  [response] Delete body /home/ashpan/.config/Insomnia/responses/83fae34d-cba5-4686-800e-ac358c059ed5.response
+[2022-03-27 13:36:54.522] [info]  [response] Delete timeline /home/ashpan/.config/Insomnia/responses/c3aaf44b11e7a5248efd5f2e51a10c1a32cca42a.timeline
+[2022-03-27 13:37:06.404] [info]  [response] Delete body /home/ashpan/.config/Insomnia/responses/bca1b30d-389b-46ea-996e-09a072f7cb4b.response
+[2022-03-27 13:37:06.404] [info]  [response] Delete timeline /home/ashpan/.config/Insomnia/responses/a67b23f41ff1e88fa1abf65d20e75162e4bad1d2.timeline
+[2022-03-27 16:11:28.665] [info]  [updater] Updater not running platform=linux dev=false
+[2022-03-27 19:11:28.763] [info]  [updater] Updater not running platform=linux dev=false

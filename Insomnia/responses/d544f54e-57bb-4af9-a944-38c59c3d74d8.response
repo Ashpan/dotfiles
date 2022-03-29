@@ -1,0 +1,1 @@
+{"derived_fields":[{"expression":"{Balls Scored High} / {Balls Shot High}","label":"Scoring","name":"Teleop High Goal Accuracy"}],"message":"Successfully retrieved derived fields","status_code":200}

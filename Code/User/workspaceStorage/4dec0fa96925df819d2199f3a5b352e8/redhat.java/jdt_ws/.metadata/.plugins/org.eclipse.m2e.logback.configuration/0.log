@@ -1,0 +1,355 @@
+2021-10-06 09:36:41,329 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2021-10-06 09:36:42,510 [Worker-2: Initialize Workspace] WARN  o.e.m.c.i.markers.MarkerUtils - Could not find OSGI service for org.eclipse.m2e.core.internal.markers.IEditorMarkerService
+2021-10-06 09:36:42,511 [Worker-2: Initialize Workspace] WARN  o.e.m.c.i.markers.MarkerUtils - Could not find OSGI service for org.eclipse.m2e.core.internal.markers.IEditorMarkerService
+2021-10-06 09:36:42,511 [Worker-2: Initialize Workspace] WARN  o.e.m.c.i.markers.MarkerUtils - Could not find OSGI service for org.eclipse.m2e.core.internal.markers.IEditorMarkerService
+2021-10-06 09:36:42,561 [Worker-2: Initialize Workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: org.wildfly.openssl:wildfly-openssl-parent:2.1.5.CR1-SNAPSHOT @ /home/ashpan/workspace/ssl/pom.xml.
+2021-10-06 09:36:42,944 [Worker-2: Initialize Workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.wildfly.openssl:wildfly-openssl-java:2.1.5.CR1-SNAPSHOT @ /home/ashpan/workspace/ssl/java/pom.xml.
+2021-10-06 09:36:42,953 [Worker-2: Initialize Workspace] WARN  o.e.m.c.i.markers.MarkerUtils - Could not find OSGI service for org.eclipse.m2e.core.internal.markers.IMarkerLocationService
+2021-10-06 09:36:42,954 [Worker-2: Initialize Workspace] WARN  o.e.m.c.i.markers.MarkerUtils - Could not find OSGI service for org.eclipse.m2e.core.internal.markers.IMarkerLocationService
+2021-10-06 09:36:42,955 [Worker-2: Initialize Workspace] WARN  o.e.m.c.i.markers.MarkerUtils - Could not find OSGI service for org.eclipse.m2e.core.internal.markers.IMarkerLocationService
+2021-10-06 09:36:42,955 [Worker-2: Initialize Workspace] WARN  o.e.m.c.i.markers.MarkerUtils - Could not find OSGI service for org.eclipse.m2e.core.internal.markers.IMarkerLocationService
+2021-10-06 09:36:43,499 [Worker-2: Initialize Workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/junit/junit/4.8.2/junit-4.8.2.pom
+2021-10-06 09:36:43,520 [Worker-2: Initialize Workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/junit/junit/4.8.2/junit-4.8.2.pom
+2021-10-06 09:36:43,544 [Worker-2: Initialize Workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/junit/junit/4.8.2/junit-4.8.2.jar
+2021-10-06 09:36:43,620 [Worker-2: Initialize Workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/junit/junit/4.8.2/junit-4.8.2.jar
+2021-10-06 09:36:43,664 [Worker-2: Initialize Workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.wildfly.openssl:wildfly-openssl:2.1.5.CR1-SNAPSHOT @ /home/ashpan/workspace/ssl/combined/pom.xml.
+2021-10-06 09:36:43,671 [Worker-2: Initialize Workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/wildfly-openssl-java: org.wildfly.openssl:wildfly-openssl-java:2.1.5.CR1-SNAPSHOT with classifier  to /wildfly-openssl-java/target/classes
+2021-10-06 09:36:43,815 [Worker-2: Initialize Workspace] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /wildfly-openssl-java/src/main/java
+2021-10-06 09:36:43,815 [Worker-2: Initialize Workspace] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /wildfly-openssl-java/src/main/resources
+2021-10-06 09:36:43,819 [Worker-2: Initialize Workspace] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /wildfly-openssl-java/src/test/java
+2021-10-06 09:36:43,819 [Worker-2: Initialize Workspace] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /wildfly-openssl-java/src/test/resources
+2021-10-06 09:36:44,032 [Worker-2: Initialize Workspace] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /wildfly-openssl/src/main/java
+2021-10-06 09:36:44,032 [Worker-2: Initialize Workspace] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /wildfly-openssl/src/test/java
+2021-10-06 09:36:44,076 [Worker-2: Initialize Workspace] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 3 project(s) in 1 sec
+2021-10-06 09:36:45,890 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-06 09:36:45,892 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2021-10-06 09:36:45,898 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-06 09:36:45,898 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 10 resources
+2021-10-06 09:36:46,054 [Worker-5: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/wildfly-openssl-java: org.wildfly.openssl:wildfly-openssl-java:2.1.5.CR1-SNAPSHOT with classifier  to /wildfly-openssl-java/target/classes
+2021-10-06 09:36:46,057 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-06 09:36:46,057 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/ashpan/workspace/ssl/combined/src/main/resources
+2021-10-06 09:36:46,057 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-06 09:36:46,058 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/ashpan/workspace/ssl/combined/src/test/resources
+2021-10-06 10:41:24,516 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-06 10:41:24,519 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2021-10-06 10:41:24,521 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-06 10:41:24,521 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-06 10:41:36,377 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-06 10:41:36,378 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2021-10-06 10:41:36,379 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-06 10:41:36,379 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-06 10:41:59,963 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-06 10:41:59,963 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2021-10-06 10:41:59,964 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-06 10:41:59,964 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-06 10:44:01,031 [Worker-1: Building] WARN  o.e.m.c.i.markers.MarkerUtils - Could not find OSGI service for org.eclipse.m2e.core.internal.markers.IEditorMarkerService
+2021-10-06 10:44:01,031 [Worker-1: Building] WARN  o.e.m.c.i.markers.MarkerUtils - Could not find OSGI service for org.eclipse.m2e.core.internal.markers.IEditorMarkerService
+2021-10-06 10:44:01,031 [Worker-1: Building] WARN  o.e.m.c.i.markers.MarkerUtils - Could not find OSGI service for org.eclipse.m2e.core.internal.markers.IEditorMarkerService
+2021-10-06 10:44:01,033 [Worker-1: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: org.wildfly.openssl:wildfly-openssl-parent:2.1.5.CR1-SNAPSHOT @ /home/ashpan/workspace/ssl/pom.xml.
+2021-10-06 10:44:01,152 [Worker-1: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.wildfly.openssl:wildfly-openssl-java:2.1.5.CR1-SNAPSHOT @ /home/ashpan/workspace/ssl/java/pom.xml.
+2021-10-06 10:44:01,152 [Worker-1: Building] WARN  o.e.m.c.i.markers.MarkerUtils - Could not find OSGI service for org.eclipse.m2e.core.internal.markers.IMarkerLocationService
+2021-10-06 10:44:01,152 [Worker-1: Building] WARN  o.e.m.c.i.markers.MarkerUtils - Could not find OSGI service for org.eclipse.m2e.core.internal.markers.IMarkerLocationService
+2021-10-06 10:44:01,152 [Worker-1: Building] WARN  o.e.m.c.i.markers.MarkerUtils - Could not find OSGI service for org.eclipse.m2e.core.internal.markers.IMarkerLocationService
+2021-10-06 10:44:01,153 [Worker-1: Building] WARN  o.e.m.c.i.markers.MarkerUtils - Could not find OSGI service for org.eclipse.m2e.core.internal.markers.IMarkerLocationService
+2021-10-06 10:44:01,176 [Worker-1: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.wildfly.openssl:wildfly-openssl:2.1.5.CR1-SNAPSHOT @ /home/ashpan/workspace/ssl/combined/pom.xml.
+2021-10-06 10:44:01,180 [Worker-1: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/wildfly-openssl-java: org.wildfly.openssl:wildfly-openssl-java:2.1.5.CR1-SNAPSHOT with classifier  to /wildfly-openssl-java/target/classes
+2021-10-06 10:44:02,443 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-06 10:44:02,444 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-06 10:44:02,446 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-06 10:44:02,446 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 10 resources
+2021-10-06 10:44:02,463 [Worker-1: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/wildfly-openssl-java: org.wildfly.openssl:wildfly-openssl-java:2.1.5.CR1-SNAPSHOT with classifier  to /wildfly-openssl-java/target/classes
+2021-10-06 10:44:02,465 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-06 10:44:02,465 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/ashpan/workspace/ssl/combined/src/main/resources
+2021-10-06 10:44:02,466 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-06 10:44:02,466 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/ashpan/workspace/ssl/combined/src/test/resources
+2021-10-06 10:44:22,714 [Worker-1: Building] WARN  o.e.m.c.i.markers.MarkerUtils - Could not find OSGI service for org.eclipse.m2e.core.internal.markers.IEditorMarkerService
+2021-10-06 10:44:22,714 [Worker-1: Building] WARN  o.e.m.c.i.markers.MarkerUtils - Could not find OSGI service for org.eclipse.m2e.core.internal.markers.IEditorMarkerService
+2021-10-06 10:44:22,714 [Worker-1: Building] WARN  o.e.m.c.i.markers.MarkerUtils - Could not find OSGI service for org.eclipse.m2e.core.internal.markers.IEditorMarkerService
+2021-10-06 10:44:22,716 [Worker-1: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: org.wildfly.openssl:wildfly-openssl-parent:2.1.5.CR1-SNAPSHOT @ /home/ashpan/workspace/ssl/pom.xml.
+2021-10-06 10:44:22,821 [Worker-1: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.wildfly.openssl:wildfly-openssl-java:2.1.5.CR1-SNAPSHOT @ /home/ashpan/workspace/ssl/java/pom.xml.
+2021-10-06 10:44:22,822 [Worker-1: Building] WARN  o.e.m.c.i.markers.MarkerUtils - Could not find OSGI service for org.eclipse.m2e.core.internal.markers.IMarkerLocationService
+2021-10-06 10:44:22,822 [Worker-1: Building] WARN  o.e.m.c.i.markers.MarkerUtils - Could not find OSGI service for org.eclipse.m2e.core.internal.markers.IMarkerLocationService
+2021-10-06 10:44:22,822 [Worker-1: Building] WARN  o.e.m.c.i.markers.MarkerUtils - Could not find OSGI service for org.eclipse.m2e.core.internal.markers.IMarkerLocationService
+2021-10-06 10:44:22,822 [Worker-1: Building] WARN  o.e.m.c.i.markers.MarkerUtils - Could not find OSGI service for org.eclipse.m2e.core.internal.markers.IMarkerLocationService
+2021-10-06 10:44:22,840 [Worker-1: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.wildfly.openssl:wildfly-openssl:2.1.5.CR1-SNAPSHOT @ /home/ashpan/workspace/ssl/combined/pom.xml.
+2021-10-06 10:44:22,843 [Worker-1: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/wildfly-openssl-java: org.wildfly.openssl:wildfly-openssl-java:2.1.5.CR1-SNAPSHOT with classifier  to /wildfly-openssl-java/target/classes
+2021-10-06 10:44:24,147 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-06 10:44:24,149 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-06 10:44:24,151 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-06 10:44:24,151 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-06 10:44:24,161 [Worker-1: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/wildfly-openssl-java: org.wildfly.openssl:wildfly-openssl-java:2.1.5.CR1-SNAPSHOT with classifier  to /wildfly-openssl-java/target/classes
+2021-10-06 10:44:24,163 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-06 10:44:24,163 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/ashpan/workspace/ssl/combined/src/main/resources
+2021-10-06 10:44:24,163 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-06 10:44:24,163 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/ashpan/workspace/ssl/combined/src/test/resources
+2021-10-06 10:44:31,055 [Worker-1: Building] WARN  o.e.m.c.i.markers.MarkerUtils - Could not find OSGI service for org.eclipse.m2e.core.internal.markers.IEditorMarkerService
+2021-10-06 10:44:31,056 [Worker-1: Building] WARN  o.e.m.c.i.markers.MarkerUtils - Could not find OSGI service for org.eclipse.m2e.core.internal.markers.IEditorMarkerService
+2021-10-06 10:44:31,056 [Worker-1: Building] WARN  o.e.m.c.i.markers.MarkerUtils - Could not find OSGI service for org.eclipse.m2e.core.internal.markers.IEditorMarkerService
+2021-10-06 10:44:31,057 [Worker-1: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: org.wildfly.openssl:wildfly-openssl-parent:2.1.5.CR1-SNAPSHOT @ /home/ashpan/workspace/ssl/pom.xml.
+2021-10-06 10:44:31,156 [Worker-1: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.wildfly.openssl:wildfly-openssl-java:2.1.5.CR1-SNAPSHOT @ /home/ashpan/workspace/ssl/java/pom.xml.
+2021-10-06 10:44:31,156 [Worker-1: Building] WARN  o.e.m.c.i.markers.MarkerUtils - Could not find OSGI service for org.eclipse.m2e.core.internal.markers.IMarkerLocationService
+2021-10-06 10:44:31,157 [Worker-1: Building] WARN  o.e.m.c.i.markers.MarkerUtils - Could not find OSGI service for org.eclipse.m2e.core.internal.markers.IMarkerLocationService
+2021-10-06 10:44:31,157 [Worker-1: Building] WARN  o.e.m.c.i.markers.MarkerUtils - Could not find OSGI service for org.eclipse.m2e.core.internal.markers.IMarkerLocationService
+2021-10-06 10:44:31,157 [Worker-1: Building] WARN  o.e.m.c.i.markers.MarkerUtils - Could not find OSGI service for org.eclipse.m2e.core.internal.markers.IMarkerLocationService
+2021-10-06 10:44:31,176 [Worker-1: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.wildfly.openssl:wildfly-openssl:2.1.5.CR1-SNAPSHOT @ /home/ashpan/workspace/ssl/combined/pom.xml.
+2021-10-06 10:44:31,178 [Worker-1: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/wildfly-openssl-java: org.wildfly.openssl:wildfly-openssl-java:2.1.5.CR1-SNAPSHOT with classifier  to /wildfly-openssl-java/target/classes
+2021-10-06 10:44:32,467 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-06 10:44:32,468 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-06 10:44:32,470 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-06 10:44:32,470 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-06 10:44:32,480 [Worker-0: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/wildfly-openssl-java: org.wildfly.openssl:wildfly-openssl-java:2.1.5.CR1-SNAPSHOT with classifier  to /wildfly-openssl-java/target/classes
+2021-10-06 10:44:32,483 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-06 10:44:32,483 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/ashpan/workspace/ssl/combined/src/main/resources
+2021-10-06 10:44:32,483 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-06 10:44:32,483 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/ashpan/workspace/ssl/combined/src/test/resources
+2021-10-06 10:46:32,555 [Worker-0: Building] WARN  o.e.m.c.i.markers.MarkerUtils - Could not find OSGI service for org.eclipse.m2e.core.internal.markers.IEditorMarkerService
+2021-10-06 10:46:32,570 [Worker-0: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.wildfly.openssl:wildfly-openssl-java:2.1.5.CR1-SNAPSHOT @ /home/ashpan/workspace/ssl/java/pom.xml.
+2021-10-06 10:46:32,570 [Worker-0: Building] WARN  o.e.m.c.i.markers.MarkerUtils - Could not find OSGI service for org.eclipse.m2e.core.internal.markers.IMarkerLocationService
+2021-10-06 10:46:32,570 [Worker-0: Building] WARN  o.e.m.c.i.markers.MarkerUtils - Could not find OSGI service for org.eclipse.m2e.core.internal.markers.IMarkerLocationService
+2021-10-06 10:46:32,570 [Worker-0: Building] WARN  o.e.m.c.i.markers.MarkerUtils - Could not find OSGI service for org.eclipse.m2e.core.internal.markers.IMarkerLocationService
+2021-10-06 10:46:32,570 [Worker-0: Building] WARN  o.e.m.c.i.markers.MarkerUtils - Could not find OSGI service for org.eclipse.m2e.core.internal.markers.IMarkerLocationService
+2021-10-06 10:46:32,579 [Worker-0: Building] WARN  o.e.m.c.i.markers.MarkerUtils - Could not find OSGI service for org.eclipse.m2e.core.internal.markers.IEditorMarkerService
+2021-10-06 10:46:32,599 [Worker-0: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.wildfly.openssl:wildfly-openssl:2.1.5.CR1-SNAPSHOT @ /home/ashpan/workspace/ssl/combined/pom.xml.
+2021-10-06 10:46:32,601 [Worker-0: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/wildfly-openssl-java: org.wildfly.openssl:wildfly-openssl-java:2.1.5.CR1-SNAPSHOT with classifier  to /wildfly-openssl-java/target/classes
+2021-10-06 10:46:32,614 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-06 10:46:32,614 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-06 10:46:32,615 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-06 10:46:32,615 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 10 resources
+2021-10-06 10:46:32,632 [Worker-0: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/wildfly-openssl-java: org.wildfly.openssl:wildfly-openssl-java:2.1.5.CR1-SNAPSHOT with classifier  to /wildfly-openssl-java/target/classes
+2021-10-06 10:46:32,634 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-06 10:46:32,634 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/ashpan/workspace/ssl/combined/src/main/resources
+2021-10-06 10:46:32,635 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-06 10:46:32,635 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/ashpan/workspace/ssl/combined/src/test/resources
+2021-10-06 10:46:34,203 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-06 10:46:34,204 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2021-10-06 10:46:34,206 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-06 10:46:34,206 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 10 resources
+2021-10-06 10:47:00,360 [Worker-6: Building] WARN  o.e.m.c.i.markers.MarkerUtils - Could not find OSGI service for org.eclipse.m2e.core.internal.markers.IEditorMarkerService
+2021-10-06 10:47:00,360 [Worker-6: Building] WARN  o.e.m.c.i.markers.MarkerUtils - Could not find OSGI service for org.eclipse.m2e.core.internal.markers.IEditorMarkerService
+2021-10-06 10:47:00,360 [Worker-6: Building] WARN  o.e.m.c.i.markers.MarkerUtils - Could not find OSGI service for org.eclipse.m2e.core.internal.markers.IEditorMarkerService
+2021-10-06 10:47:00,362 [Worker-6: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: org.wildfly.openssl:wildfly-openssl-parent:2.1.5.CR1-SNAPSHOT @ /home/ashpan/workspace/ssl/pom.xml.
+2021-10-06 10:47:00,453 [Worker-6: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.wildfly.openssl:wildfly-openssl-java:2.1.5.CR1-SNAPSHOT @ /home/ashpan/workspace/ssl/java/pom.xml.
+2021-10-06 10:47:00,454 [Worker-6: Building] WARN  o.e.m.c.i.markers.MarkerUtils - Could not find OSGI service for org.eclipse.m2e.core.internal.markers.IMarkerLocationService
+2021-10-06 10:47:00,454 [Worker-6: Building] WARN  o.e.m.c.i.markers.MarkerUtils - Could not find OSGI service for org.eclipse.m2e.core.internal.markers.IMarkerLocationService
+2021-10-06 10:47:00,454 [Worker-6: Building] WARN  o.e.m.c.i.markers.MarkerUtils - Could not find OSGI service for org.eclipse.m2e.core.internal.markers.IMarkerLocationService
+2021-10-06 10:47:00,454 [Worker-6: Building] WARN  o.e.m.c.i.markers.MarkerUtils - Could not find OSGI service for org.eclipse.m2e.core.internal.markers.IMarkerLocationService
+2021-10-06 10:47:00,475 [Worker-6: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.wildfly.openssl:wildfly-openssl:2.1.5.CR1-SNAPSHOT @ /home/ashpan/workspace/ssl/combined/pom.xml.
+2021-10-06 10:47:00,477 [Worker-6: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/wildfly-openssl-java: org.wildfly.openssl:wildfly-openssl-java:2.1.5.CR1-SNAPSHOT with classifier  to /wildfly-openssl-java/target/classes
+2021-10-06 10:47:01,756 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-06 10:47:01,757 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-06 10:47:01,758 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-06 10:47:01,758 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-06 10:47:01,768 [Worker-0: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/wildfly-openssl-java: org.wildfly.openssl:wildfly-openssl-java:2.1.5.CR1-SNAPSHOT with classifier  to /wildfly-openssl-java/target/classes
+2021-10-06 10:47:01,770 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-06 10:47:01,770 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/ashpan/workspace/ssl/combined/src/main/resources
+2021-10-06 10:47:01,770 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-06 10:47:01,770 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/ashpan/workspace/ssl/combined/src/test/resources
+2021-10-06 10:48:09,872 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-06 10:48:09,872 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2021-10-06 10:48:09,875 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-06 10:48:09,876 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 10 resources
+2021-10-06 10:48:10,952 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-06 10:48:10,953 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2021-10-06 10:48:10,953 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-06 10:48:10,953 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-06 10:48:18,208 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-06 10:48:18,209 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-06 10:48:18,209 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-06 10:48:18,209 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-06 10:48:27,322 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-06 10:48:27,322 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-06 10:48:27,323 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-06 10:48:27,324 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 10 resources
+2021-10-06 10:48:30,068 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-06 10:48:30,089 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-06 10:48:30,094 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-06 10:48:30,095 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-06 10:49:30,111 [Worker-7: Building] WARN  o.e.m.c.i.markers.MarkerUtils - Could not find OSGI service for org.eclipse.m2e.core.internal.markers.IEditorMarkerService
+2021-10-06 10:49:30,112 [Worker-7: Building] WARN  o.e.m.c.i.markers.MarkerUtils - Could not find OSGI service for org.eclipse.m2e.core.internal.markers.IMarkerLocationService
+2021-10-06 10:49:30,137 [Worker-7: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.wildfly.openssl:wildfly-openssl-java:2.1.5.CR1-SNAPSHOT @ /home/ashpan/workspace/ssl/java/pom.xml.
+2021-10-06 10:49:30,138 [Worker-7: Building] WARN  o.e.m.c.i.markers.MarkerUtils - Could not find OSGI service for org.eclipse.m2e.core.internal.markers.IMarkerLocationService
+2021-10-06 10:49:30,138 [Worker-7: Building] WARN  o.e.m.c.i.markers.MarkerUtils - Could not find OSGI service for org.eclipse.m2e.core.internal.markers.IMarkerLocationService
+2021-10-06 10:49:30,138 [Worker-7: Building] WARN  o.e.m.c.i.markers.MarkerUtils - Could not find OSGI service for org.eclipse.m2e.core.internal.markers.IMarkerLocationService
+2021-10-06 10:49:30,138 [Worker-7: Building] WARN  o.e.m.c.i.markers.MarkerUtils - Could not find OSGI service for org.eclipse.m2e.core.internal.markers.IMarkerLocationService
+2021-10-06 10:49:30,148 [Worker-7: Building] WARN  o.e.m.c.i.markers.MarkerUtils - Could not find OSGI service for org.eclipse.m2e.core.internal.markers.IEditorMarkerService
+2021-10-06 10:49:30,164 [Worker-7: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.wildfly.openssl:wildfly-openssl:2.1.5.CR1-SNAPSHOT @ /home/ashpan/workspace/ssl/combined/pom.xml.
+2021-10-06 10:49:30,166 [Worker-7: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.wildfly.openssl:wildfly-openssl-java:jar:2.1.5.CR1-SNAPSHOT is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2021-10-06 10:49:30,167 [Worker-7: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/wildfly-openssl-java: org.wildfly.openssl:wildfly-openssl-java:2.1.5.CR1-SNAPSHOT with classifier  to /wildfly-openssl-java/target/classes
+2021-10-06 10:49:30,183 [Worker-7: Building] WARN  o.e.m.c.i.markers.MarkerUtils - Could not find OSGI service for org.eclipse.m2e.core.internal.markers.IMarkerLocationService
+2021-10-06 10:49:30,183 [Worker-7: Building] WARN  o.e.m.c.i.markers.MarkerUtils - Could not find OSGI service for org.eclipse.m2e.core.internal.markers.IMarkerLocationService
+2021-10-06 10:49:30,195 [Worker-7: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.wildfly.openssl:wildfly-openssl-java:jar:2.1.5.CR1-SNAPSHOT is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2021-10-06 10:49:30,196 [Worker-7: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/wildfly-openssl-java: org.wildfly.openssl:wildfly-openssl-java:2.1.5.CR1-SNAPSHOT with classifier  to /wildfly-openssl-java/target/classes
+2021-10-06 10:49:30,199 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-06 10:49:30,199 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/ashpan/workspace/ssl/combined/src/main/resources
+2021-10-06 10:49:30,201 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-06 10:49:30,201 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/ashpan/workspace/ssl/combined/src/test/resources
+2021-10-06 10:49:34,250 [Worker-6: Building] WARN  o.e.m.c.i.markers.MarkerUtils - Could not find OSGI service for org.eclipse.m2e.core.internal.markers.IEditorMarkerService
+2021-10-06 10:49:34,250 [Worker-6: Building] WARN  o.e.m.c.i.markers.MarkerUtils - Could not find OSGI service for org.eclipse.m2e.core.internal.markers.IEditorMarkerService
+2021-10-06 10:49:34,250 [Worker-6: Building] WARN  o.e.m.c.i.markers.MarkerUtils - Could not find OSGI service for org.eclipse.m2e.core.internal.markers.IEditorMarkerService
+2021-10-06 10:49:34,251 [Worker-6: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: org.wildfly.openssl:wildfly-openssl-parent:2.1.5.CR1-SNAPSHOT @ /home/ashpan/workspace/ssl/pom.xml.
+2021-10-06 10:49:34,337 [Worker-6: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.wildfly.openssl:wildfly-openssl-java:2.1.5.CR1-SNAPSHOT @ /home/ashpan/workspace/ssl/java/pom.xml.
+2021-10-06 10:49:34,337 [Worker-6: Building] WARN  o.e.m.c.i.markers.MarkerUtils - Could not find OSGI service for org.eclipse.m2e.core.internal.markers.IMarkerLocationService
+2021-10-06 10:49:34,337 [Worker-6: Building] WARN  o.e.m.c.i.markers.MarkerUtils - Could not find OSGI service for org.eclipse.m2e.core.internal.markers.IMarkerLocationService
+2021-10-06 10:49:34,337 [Worker-6: Building] WARN  o.e.m.c.i.markers.MarkerUtils - Could not find OSGI service for org.eclipse.m2e.core.internal.markers.IMarkerLocationService
+2021-10-06 10:49:34,337 [Worker-6: Building] WARN  o.e.m.c.i.markers.MarkerUtils - Could not find OSGI service for org.eclipse.m2e.core.internal.markers.IMarkerLocationService
+2021-10-06 10:49:34,353 [Worker-6: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.wildfly.openssl:wildfly-openssl:2.1.5.CR1-SNAPSHOT @ /home/ashpan/workspace/ssl/combined/pom.xml.
+2021-10-06 10:49:34,354 [Worker-6: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/wildfly-openssl-java: org.wildfly.openssl:wildfly-openssl-java:2.1.5.CR1-SNAPSHOT with classifier  to /wildfly-openssl-java/target/classes
+2021-10-06 10:49:35,830 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-06 10:49:35,832 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2021-10-06 10:49:35,836 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-06 10:49:35,836 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 10 resources
+2021-10-06 10:49:35,858 [Worker-6: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/wildfly-openssl-java: org.wildfly.openssl:wildfly-openssl-java:2.1.5.CR1-SNAPSHOT with classifier  to /wildfly-openssl-java/target/classes
+2021-10-06 10:49:35,861 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-06 10:49:35,861 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/ashpan/workspace/ssl/combined/src/main/resources
+2021-10-06 10:49:35,861 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-06 10:49:35,861 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/ashpan/workspace/ssl/combined/src/test/resources
+2021-10-06 10:49:40,562 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-06 10:49:40,562 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-06 10:49:40,563 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-06 10:49:40,563 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 10 resources
+2021-10-06 10:49:43,224 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-06 10:49:43,224 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-06 10:49:43,225 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-06 10:49:43,225 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-06 10:50:59,397 [Worker-7: Building] WARN  o.e.m.c.i.markers.MarkerUtils - Could not find OSGI service for org.eclipse.m2e.core.internal.markers.IEditorMarkerService
+2021-10-06 10:50:59,397 [Worker-7: Building] WARN  o.e.m.c.i.markers.MarkerUtils - Could not find OSGI service for org.eclipse.m2e.core.internal.markers.IEditorMarkerService
+2021-10-06 10:50:59,398 [Worker-7: Building] WARN  o.e.m.c.i.markers.MarkerUtils - Could not find OSGI service for org.eclipse.m2e.core.internal.markers.IEditorMarkerService
+2021-10-06 10:50:59,400 [Worker-7: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: org.wildfly.openssl:wildfly-openssl-parent:2.1.5.CR1-SNAPSHOT @ /home/ashpan/workspace/ssl/pom.xml.
+2021-10-06 10:50:59,477 [Worker-7: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.wildfly.openssl:wildfly-openssl-java:2.1.5.CR1-SNAPSHOT @ /home/ashpan/workspace/ssl/java/pom.xml.
+2021-10-06 10:50:59,478 [Worker-7: Building] WARN  o.e.m.c.i.markers.MarkerUtils - Could not find OSGI service for org.eclipse.m2e.core.internal.markers.IMarkerLocationService
+2021-10-06 10:50:59,478 [Worker-7: Building] WARN  o.e.m.c.i.markers.MarkerUtils - Could not find OSGI service for org.eclipse.m2e.core.internal.markers.IMarkerLocationService
+2021-10-06 10:50:59,478 [Worker-7: Building] WARN  o.e.m.c.i.markers.MarkerUtils - Could not find OSGI service for org.eclipse.m2e.core.internal.markers.IMarkerLocationService
+2021-10-06 10:50:59,478 [Worker-7: Building] WARN  o.e.m.c.i.markers.MarkerUtils - Could not find OSGI service for org.eclipse.m2e.core.internal.markers.IMarkerLocationService
+2021-10-06 10:50:59,497 [Worker-7: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.wildfly.openssl:wildfly-openssl:2.1.5.CR1-SNAPSHOT @ /home/ashpan/workspace/ssl/combined/pom.xml.
+2021-10-06 10:50:59,500 [Worker-7: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/wildfly-openssl-java: org.wildfly.openssl:wildfly-openssl-java:2.1.5.CR1-SNAPSHOT with classifier  to /wildfly-openssl-java/target/classes
+2021-10-06 10:51:00,806 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-06 10:51:00,807 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-06 10:51:00,809 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-06 10:51:00,809 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-06 10:51:00,821 [Worker-6: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/wildfly-openssl-java: org.wildfly.openssl:wildfly-openssl-java:2.1.5.CR1-SNAPSHOT with classifier  to /wildfly-openssl-java/target/classes
+2021-10-06 10:51:00,823 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-06 10:51:00,823 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/ashpan/workspace/ssl/combined/src/main/resources
+2021-10-06 10:51:00,823 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-06 10:51:00,824 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/ashpan/workspace/ssl/combined/src/test/resources
+2021-10-06 10:51:06,484 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-06 10:51:06,484 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-06 10:51:06,485 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-06 10:51:06,485 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 10 resources
+2021-10-06 10:51:09,236 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-06 10:51:09,236 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-06 10:51:09,237 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-06 10:51:09,237 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-06 10:55:08,394 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-06 10:55:08,395 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2021-10-06 10:55:08,396 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-06 10:55:08,396 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-06 10:55:09,457 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-06 10:55:09,457 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2021-10-06 10:55:09,458 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-06 10:55:09,458 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-06 11:00:50,506 [Worker-9: Building] WARN  o.e.m.c.i.markers.MarkerUtils - Could not find OSGI service for org.eclipse.m2e.core.internal.markers.IEditorMarkerService
+2021-10-06 11:00:50,528 [Worker-9: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.wildfly.openssl:wildfly-openssl-java:2.1.5.CR1-SNAPSHOT @ /home/ashpan/workspace/ssl/java/pom.xml.
+2021-10-06 11:00:50,529 [Worker-9: Building] WARN  o.e.m.c.i.markers.MarkerUtils - Could not find OSGI service for org.eclipse.m2e.core.internal.markers.IMarkerLocationService
+2021-10-06 11:00:50,529 [Worker-9: Building] WARN  o.e.m.c.i.markers.MarkerUtils - Could not find OSGI service for org.eclipse.m2e.core.internal.markers.IMarkerLocationService
+2021-10-06 11:00:50,529 [Worker-9: Building] WARN  o.e.m.c.i.markers.MarkerUtils - Could not find OSGI service for org.eclipse.m2e.core.internal.markers.IMarkerLocationService
+2021-10-06 11:00:50,529 [Worker-9: Building] WARN  o.e.m.c.i.markers.MarkerUtils - Could not find OSGI service for org.eclipse.m2e.core.internal.markers.IMarkerLocationService
+2021-10-06 11:00:50,544 [Worker-9: Building] WARN  o.e.m.c.i.markers.MarkerUtils - Could not find OSGI service for org.eclipse.m2e.core.internal.markers.IEditorMarkerService
+2021-10-06 11:00:50,557 [Worker-9: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.wildfly.openssl:wildfly-openssl:2.1.5.CR1-SNAPSHOT @ /home/ashpan/workspace/ssl/combined/pom.xml.
+2021-10-06 11:00:50,559 [Worker-9: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/wildfly-openssl-java: org.wildfly.openssl:wildfly-openssl-java:2.1.5.CR1-SNAPSHOT with classifier  to /wildfly-openssl-java/target/classes
+2021-10-06 11:00:50,573 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-06 11:00:50,573 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-06 11:00:50,574 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-06 11:00:50,574 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-06 11:00:50,584 [Worker-9: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/wildfly-openssl-java: org.wildfly.openssl:wildfly-openssl-java:2.1.5.CR1-SNAPSHOT with classifier  to /wildfly-openssl-java/target/classes
+2021-10-06 11:00:50,585 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-06 11:00:50,585 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/ashpan/workspace/ssl/combined/src/main/resources
+2021-10-06 11:00:50,586 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-06 11:00:50,586 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/ashpan/workspace/ssl/combined/src/test/resources
+2021-10-06 11:00:50,601 [Worker-9: Building] WARN  o.e.m.c.i.markers.MarkerUtils - Could not find OSGI service for org.eclipse.m2e.core.internal.markers.IEditorMarkerService
+2021-10-06 11:00:50,602 [Worker-9: Building] WARN  o.e.m.c.i.markers.MarkerUtils - Could not find OSGI service for org.eclipse.m2e.core.internal.markers.IEditorMarkerService
+2021-10-06 11:00:50,602 [Worker-9: Building] WARN  o.e.m.c.i.markers.MarkerUtils - Could not find OSGI service for org.eclipse.m2e.core.internal.markers.IEditorMarkerService
+2021-10-06 11:00:50,603 [Worker-9: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: org.wildfly.openssl:wildfly-openssl-parent:2.1.5.CR1-SNAPSHOT @ /home/ashpan/workspace/ssl/pom.xml.
+2021-10-06 11:00:50,681 [Worker-9: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.wildfly.openssl:wildfly-openssl-java:2.1.5.CR1-SNAPSHOT @ /home/ashpan/workspace/ssl/java/pom.xml.
+2021-10-06 11:00:50,682 [Worker-9: Building] WARN  o.e.m.c.i.markers.MarkerUtils - Could not find OSGI service for org.eclipse.m2e.core.internal.markers.IMarkerLocationService
+2021-10-06 11:00:50,682 [Worker-9: Building] WARN  o.e.m.c.i.markers.MarkerUtils - Could not find OSGI service for org.eclipse.m2e.core.internal.markers.IMarkerLocationService
+2021-10-06 11:00:50,682 [Worker-9: Building] WARN  o.e.m.c.i.markers.MarkerUtils - Could not find OSGI service for org.eclipse.m2e.core.internal.markers.IMarkerLocationService
+2021-10-06 11:00:50,683 [Worker-9: Building] WARN  o.e.m.c.i.markers.MarkerUtils - Could not find OSGI service for org.eclipse.m2e.core.internal.markers.IMarkerLocationService
+2021-10-06 11:00:50,699 [Worker-9: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.wildfly.openssl:wildfly-openssl:2.1.5.CR1-SNAPSHOT @ /home/ashpan/workspace/ssl/combined/pom.xml.
+2021-10-06 11:00:50,701 [Worker-9: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/wildfly-openssl-java: org.wildfly.openssl:wildfly-openssl-java:2.1.5.CR1-SNAPSHOT with classifier  to /wildfly-openssl-java/target/classes
+2021-10-06 11:00:52,140 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-06 11:00:52,141 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2021-10-06 11:00:52,145 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-06 11:00:52,145 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 10 resources
+2021-10-06 11:00:52,156 [Worker-6: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/wildfly-openssl-java: org.wildfly.openssl:wildfly-openssl-java:2.1.5.CR1-SNAPSHOT with classifier  to /wildfly-openssl-java/target/classes
+2021-10-06 11:00:52,158 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-06 11:00:52,158 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/ashpan/workspace/ssl/combined/src/main/resources
+2021-10-06 11:00:52,158 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-06 11:00:52,158 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/ashpan/workspace/ssl/combined/src/test/resources
+2021-10-06 11:01:24,138 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-06 11:01:24,139 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2021-10-06 11:01:24,140 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-06 11:01:24,141 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-06 11:13:54,777 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-06 11:13:54,777 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2021-10-06 11:13:54,777 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-06 11:13:54,777 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-06 11:14:27,037 [Worker-6: Building] WARN  o.e.m.c.i.markers.MarkerUtils - Could not find OSGI service for org.eclipse.m2e.core.internal.markers.IEditorMarkerService
+2021-10-06 11:14:27,103 [Worker-6: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.wildfly.openssl:wildfly-openssl-java:2.1.5.CR1-SNAPSHOT @ /home/ashpan/workspace/ssl/java/pom.xml.
+2021-10-06 11:14:27,104 [Worker-6: Building] WARN  o.e.m.c.i.markers.MarkerUtils - Could not find OSGI service for org.eclipse.m2e.core.internal.markers.IMarkerLocationService
+2021-10-06 11:14:27,104 [Worker-6: Building] WARN  o.e.m.c.i.markers.MarkerUtils - Could not find OSGI service for org.eclipse.m2e.core.internal.markers.IMarkerLocationService
+2021-10-06 11:14:27,104 [Worker-6: Building] WARN  o.e.m.c.i.markers.MarkerUtils - Could not find OSGI service for org.eclipse.m2e.core.internal.markers.IMarkerLocationService
+2021-10-06 11:14:27,104 [Worker-6: Building] WARN  o.e.m.c.i.markers.MarkerUtils - Could not find OSGI service for org.eclipse.m2e.core.internal.markers.IMarkerLocationService
+2021-10-06 11:14:27,113 [Worker-6: Building] WARN  o.e.m.c.i.markers.MarkerUtils - Could not find OSGI service for org.eclipse.m2e.core.internal.markers.IEditorMarkerService
+2021-10-06 11:14:27,122 [Worker-6: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.wildfly.openssl:wildfly-openssl:2.1.5.CR1-SNAPSHOT @ /home/ashpan/workspace/ssl/combined/pom.xml.
+2021-10-06 11:14:27,124 [Worker-6: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/wildfly-openssl-java: org.wildfly.openssl:wildfly-openssl-java:2.1.5.CR1-SNAPSHOT with classifier  to /wildfly-openssl-java/target/classes
+2021-10-06 11:14:27,162 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-06 11:14:27,163 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2021-10-06 11:14:27,165 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-06 11:14:27,165 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-06 11:14:27,177 [Worker-6: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/wildfly-openssl-java: org.wildfly.openssl:wildfly-openssl-java:2.1.5.CR1-SNAPSHOT with classifier  to /wildfly-openssl-java/target/classes
+2021-10-06 11:14:27,178 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-06 11:14:27,178 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/ashpan/workspace/ssl/combined/src/main/resources
+2021-10-06 11:14:27,179 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-06 11:14:27,179 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/ashpan/workspace/ssl/combined/src/test/resources
+2021-10-06 11:14:27,186 [Worker-6: Building] WARN  o.e.m.c.i.markers.MarkerUtils - Could not find OSGI service for org.eclipse.m2e.core.internal.markers.IEditorMarkerService
+2021-10-06 11:14:27,186 [Worker-6: Building] WARN  o.e.m.c.i.markers.MarkerUtils - Could not find OSGI service for org.eclipse.m2e.core.internal.markers.IEditorMarkerService
+2021-10-06 11:14:27,186 [Worker-6: Building] WARN  o.e.m.c.i.markers.MarkerUtils - Could not find OSGI service for org.eclipse.m2e.core.internal.markers.IEditorMarkerService
+2021-10-06 11:14:27,187 [Worker-6: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: org.wildfly.openssl:wildfly-openssl-parent:2.1.5.CR1-SNAPSHOT @ /home/ashpan/workspace/ssl/pom.xml.
+2021-10-06 11:14:27,260 [Worker-6: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.wildfly.openssl:wildfly-openssl-java:2.1.5.CR1-SNAPSHOT @ /home/ashpan/workspace/ssl/java/pom.xml.
+2021-10-06 11:14:27,260 [Worker-6: Building] WARN  o.e.m.c.i.markers.MarkerUtils - Could not find OSGI service for org.eclipse.m2e.core.internal.markers.IMarkerLocationService
+2021-10-06 11:14:27,260 [Worker-6: Building] WARN  o.e.m.c.i.markers.MarkerUtils - Could not find OSGI service for org.eclipse.m2e.core.internal.markers.IMarkerLocationService
+2021-10-06 11:14:27,260 [Worker-6: Building] WARN  o.e.m.c.i.markers.MarkerUtils - Could not find OSGI service for org.eclipse.m2e.core.internal.markers.IMarkerLocationService
+2021-10-06 11:14:27,260 [Worker-6: Building] WARN  o.e.m.c.i.markers.MarkerUtils - Could not find OSGI service for org.eclipse.m2e.core.internal.markers.IMarkerLocationService
+2021-10-06 11:14:27,279 [Worker-6: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.wildfly.openssl:wildfly-openssl:2.1.5.CR1-SNAPSHOT @ /home/ashpan/workspace/ssl/combined/pom.xml.
+2021-10-06 11:14:27,281 [Worker-6: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/wildfly-openssl-java: org.wildfly.openssl:wildfly-openssl-java:2.1.5.CR1-SNAPSHOT with classifier  to /wildfly-openssl-java/target/classes
+2021-10-06 11:14:28,691 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-06 11:14:28,692 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2021-10-06 11:14:28,695 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-06 11:14:28,695 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 10 resources
+2021-10-06 11:14:28,709 [Worker-10: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/wildfly-openssl-java: org.wildfly.openssl:wildfly-openssl-java:2.1.5.CR1-SNAPSHOT with classifier  to /wildfly-openssl-java/target/classes
+2021-10-06 11:14:28,711 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-06 11:14:28,711 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/ashpan/workspace/ssl/combined/src/main/resources
+2021-10-06 11:14:28,711 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-06 11:14:28,711 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/ashpan/workspace/ssl/combined/src/test/resources
+2021-10-06 11:14:35,624 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-06 11:14:35,624 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-06 11:14:35,625 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-06 11:14:35,625 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 10 resources
+2021-10-06 11:14:38,191 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-06 11:14:38,191 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-06 11:14:38,191 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-06 11:14:38,191 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-06 13:09:13,339 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2021-10-06 13:09:16,450 [Worker-2: Building] WARN  o.e.m.c.i.markers.MarkerUtils - Could not find OSGI service for org.eclipse.m2e.core.internal.markers.IMarkerLocationService
+2021-10-06 13:09:16,451 [Worker-2: Building] WARN  o.e.m.c.i.markers.MarkerUtils - Could not find OSGI service for org.eclipse.m2e.core.internal.markers.IMarkerLocationService
+2021-10-06 13:09:16,451 [Worker-2: Building] WARN  o.e.m.c.i.markers.MarkerUtils - Could not find OSGI service for org.eclipse.m2e.core.internal.markers.IMarkerLocationService
+2021-10-06 13:09:16,452 [Worker-2: Building] WARN  o.e.m.c.i.markers.MarkerUtils - Could not find OSGI service for org.eclipse.m2e.core.internal.markers.IMarkerLocationService
+2021-10-06 13:09:16,621 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-06 13:09:16,624 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2021-10-06 13:09:16,631 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-06 13:09:16,631 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 10 resources
+2021-10-06 13:09:16,678 [Worker-2: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/wildfly-openssl-java: org.wildfly.openssl:wildfly-openssl-java:2.1.5.CR1-SNAPSHOT with classifier  to /wildfly-openssl-java/target/classes
+2021-10-06 13:09:16,684 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-06 13:09:16,684 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/ashpan/workspace/ssl/combined/src/main/resources
+2021-10-06 13:09:16,685 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-06 13:09:16,685 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/ashpan/workspace/ssl/combined/src/test/resources
